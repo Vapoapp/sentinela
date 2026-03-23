@@ -812,6 +812,13 @@ function renderVesselTags(vessels, foundNames=[]) {
 
 // ── START / STOP ──────────────────────────────────────────────────────────────
 function startMonitor() {
+  const termoPesquisado = (document.getElementById('vesselName')?.value || 'Todos os Navios').trim() || 'Todos os Navios';
+
+  gtag('event', 'iniciar_monitor_sentinela', {
+    'nome_da_embarcacao': termoPesquisado,
+    'status_monitor': 'iniciado'
+  });
+
   const raw = document.getElementById('vesselName').value.trim();
   if(!raw){ alert('Digite o nome da embarcação!'); return; }
 
