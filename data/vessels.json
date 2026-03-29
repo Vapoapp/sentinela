@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-29T18:58:23.083Z",
+  "updatedAt": "2026-03-29T19:40:57.197Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/03/2026 23:00",
+      "imo": "9933585",
+      "navio": "SEAWAYS ENTERPRISE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
