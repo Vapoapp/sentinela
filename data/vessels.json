@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T16:10:21.058Z",
+  "updatedAt": "2026-03-30T16:15:13.112Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 07:00",
-      "imo": "9425710",
-      "navio": "MAERSK LEADER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 07:00",
       "imo": "9659074",
       "navio": "NORMAND SIRIUS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 07:00",
+      "imo": "9425710",
+      "navio": "MAERSK LEADER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +372,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 13:00",
+      "imo": "4010717131",
+      "navio": "POSIDONIA ORION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 13:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
@@ -388,16 +398,6 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 13:00",
-      "imo": "4010717131",
-      "navio": "POSIDONIA ORION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,6 +438,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 15:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +528,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 06:00",
+      "imo": "9692686",
+      "navio": "AUGUST",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
