@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T18:00:15.591Z",
+  "updatedAt": "2026-03-30T18:05:11.969Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 19
     },
     "angra": {
       "ok": true,
@@ -677,6 +677,116 @@
       "tipo": "MUDANÇA",
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/03/2026 22:00",
+      "imo": "9948114",
+      "navio": "XH TAIZHOU",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/03/2026 23:00",
+      "imo": "9460643",
+      "navio": "MINH PROVIDENCE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 01:30",
+      "imo": "9948114",
+      "navio": "XH TAIZHOU",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 02:30",
+      "imo": "9603219",
+      "navio": "PEDRO ÁLVARES CABRAL",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 04:30",
+      "imo": "9454151",
+      "navio": "CASANOVA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 06:00",
+      "imo": "9952414",
+      "navio": "MOUDROS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9444845",
+      "navio": "SANTA INES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9451264",
+      "navio": "NICHOLAS G.S",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 13:00",
+      "imo": "9337121",
+      "navio": "STAR UNITED",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 16:00",
+      "imo": "9444845",
+      "navio": "SANTA INES",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 19:00",
+      "imo": "9851282",
+      "navio": "BERGE DACHSTEIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GEM SHIPPING LTDA"
     }
   ]
