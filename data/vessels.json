@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T14:05:13.846Z",
+  "updatedAt": "2026-03-30T14:10:17.305Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 11:00",
+      "imo": "9257606",
+      "navio": "VIKING SURF (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -548,16 +558,6 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "30/03/2026 15:30",
-      "imo": "9454151",
-      "navio": "CASANOVA",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
