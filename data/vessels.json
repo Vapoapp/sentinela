@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T17:15:14.299Z",
+  "updatedAt": "2026-03-30T17:20:15.906Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 12:00",
-      "imo": "9596820",
-      "navio": "OSCAR NIEMEYER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 12:00",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 12:00",
+      "imo": "9596820",
+      "navio": "OSCAR NIEMEYER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -401,6 +401,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 13:30",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 14:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
@@ -421,6 +431,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 14:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 14:30",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
@@ -428,6 +448,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 15:00",
+      "imo": "9865635",
+      "navio": "EAGLE PILAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
