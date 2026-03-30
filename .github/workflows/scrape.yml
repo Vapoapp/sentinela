@@ -1,5 +1,5 @@
 name: Scrape Porto Data
-
+on:
   workflow_dispatch:          # permite rodar manualmente
 
 jobs:
