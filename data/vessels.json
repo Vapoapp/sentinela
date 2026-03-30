@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T12:00:17.813Z",
+  "updatedAt": "2026-03-30T12:05:13.165Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 09:00",
+      "imo": "9494618",
+      "navio": "A.H. VALLETTA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 09:00",
       "imo": "9626455",
       "navio": "KUDU (REB)",
       "tipo": "MUDANÇA",
@@ -222,12 +232,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 09:00",
-      "imo": "9494618",
-      "navio": "A.H. VALLETTA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9442067",
+      "navio": "TORDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
     },
     {
       "porto": "Rio de Janeiro",
