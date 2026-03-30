@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T19:00:18.689Z",
+  "updatedAt": "2026-03-30T19:05:13.192Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 15:00",
+      "imo": "9386914",
+      "navio": "MAZOWSZE",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 15:00",
       "imo": "9604586",
       "navio": "SKANDI PARATY",
       "tipo": "ENTRADA",
@@ -458,16 +468,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 15:00",
-      "imo": "9386914",
-      "navio": "MAZOWSZE",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -511,6 +511,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 19:30",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 21:00",
       "imo": "9448372",
       "navio": "PRINSENGRACHT",
@@ -528,6 +538,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 23:00",
+      "imo": "9865635",
+      "navio": "EAGLE PILAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
