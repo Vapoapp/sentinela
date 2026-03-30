@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T14:00:17.038Z",
+  "updatedAt": "2026-03-30T14:05:13.846Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -202,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 09:00",
-      "imo": "9759264",
-      "navio": "BUENA CONFIANZA",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPIR - ILHA REDONDA",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 09:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
+      "imo": "9759264",
+      "navio": "BUENA CONFIANZA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +268,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 10:00",
+      "imo": "9659074",
+      "navio": "NORMAND SIRIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +338,16 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 13:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
