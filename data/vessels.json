@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T07:00:18.889Z",
+  "updatedAt": "2026-03-30T07:05:16.653Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "2N17 - Armazém 17",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 05:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
