@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T17:45:17.033Z",
+  "updatedAt": "2026-03-30T17:50:12.577Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/03/2026 18:00",
+      "imo": "9952414",
+      "navio": "MOUDROS",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
