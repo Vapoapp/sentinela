@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T12:05:13.165Z",
+  "updatedAt": "2026-03-30T12:10:17.182Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -468,26 +468,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "30/03/2026 16:30",
-      "imo": "9948114",
-      "navio": "XH TAIZHOU",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "30/03/2026 19:00",
-      "imo": "9460643",
-      "navio": "MINH PROVIDENCE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
