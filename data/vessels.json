@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-30T12:20:20.214Z",
+  "updatedAt": "2026-03-30T12:25:12.000Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -252,16 +252,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 10:00",
-      "imo": "9418377",
-      "navio": "CMA CGM VERACRUZ (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 10:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "SAÍDA",
@@ -302,6 +292,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 13:00",
+      "imo": "9706449",
+      "navio": "SKANDI AÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 13:30",
       "imo": "9403968",
       "navio": "CASTILLO DE MACEDA (REB)",
       "tipo": "SAÍDA",
@@ -311,13 +311,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 13:00",
-      "imo": "9706449",
-      "navio": "SKANDI AÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F03 - Feiticeira",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "30/03/2026 14:00",
+      "imo": "9418377",
+      "navio": "CMA CGM VERACRUZ (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
