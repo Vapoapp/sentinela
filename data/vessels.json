@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T22:40:11.974Z",
+  "updatedAt": "2026-03-31T22:42:12.799Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 18:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
