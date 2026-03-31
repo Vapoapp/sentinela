@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T01:35:11.277Z",
+  "updatedAt": "2026-03-31T01:40:15.089Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/03/2026 14:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBK - BRASKEM",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/03/2026 14:00",
       "imo": "9418377",
       "navio": "CMA CGM VERACRUZ (REB S/L)",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/03/2026 14:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBK - BRASKEM",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -661,6 +661,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 01:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 03:00",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
@@ -708,6 +718,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
