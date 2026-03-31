@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T04:05:12.355Z",
+  "updatedAt": "2026-03-31T04:10:15.558Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -61,6 +61,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 02:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 02:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 03:00",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
@@ -112,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 07:00",
-      "imo": "9591480",
-      "navio": "GUO YUAN 32",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "CP SHIPPING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9591480",
+      "navio": "GUO YUAN 32",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "CP SHIPPING"
     },
     {
       "porto": "Rio de Janeiro",
