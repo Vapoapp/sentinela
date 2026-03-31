@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T14:50:17.900Z",
+  "updatedAt": "2026-03-31T14:55:18.679Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -488,6 +488,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 22:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Niterói",
