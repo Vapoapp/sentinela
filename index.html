@@ -378,7 +378,7 @@ const PROXIES = [
 
 // ── CACHE GITHUB ACTIONS ──────────────────────────────────────────────────────
 const CACHE_URL = 'https://raw.githubusercontent.com/vapoapp/sentinela/main/data/vessels.json';
-const CACHE_MAX_AGE_MS = 3 * 60 * 1000; // 3 minutos
+const CACHE_MAX_AGE_MS = 5 * 60 * 1000; // acima de 5 min vai para proxy
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let monInterval=null, countInterval=null, uptInterval=null;
@@ -519,6 +519,8 @@ async function runCheckCycle() {
   if (!running || isChecking) return;
   isChecking = true;
 
+  const startedAt = Date.now();
+
   try {
     const result = await check();
 
@@ -526,7 +528,10 @@ async function runCheckCycle() {
       log('↻ Erro detectado — nova tentativa rápida em ' + Math.round(retryFastMs / 1000) + 's', 'warn');
       scheduleNextCheck(retryFastMs);
     } else {
-      scheduleNextCheck(normalIntervalMs);
+      const elapsed = Date.now() - startedAt;
+      const delay = Math.max(0, normalIntervalMs - elapsed);
+      log('⏱ Próxima verificação em ' + Math.round(delay / 1000) + 's', 'info');
+      scheduleNextCheck(delay);
     }
   } catch (e) {
     log('✗ Falha geral no ciclo: ' + e.message, 'err');
@@ -714,13 +719,23 @@ function dismissAlert() {
 // ── CACHE FETCH ───────────────────────────────────────────────────────────────
 async function fetchFromCache() {
   try {
-    const res = await fetch(CACHE_URL, { cache:'no-store', signal:AbortSignal.timeout(8000) });
-    if(!res.ok) return null;
+    const url = new URL(CACHE_URL);
+    url.searchParams.set('t', Date.now().toString()); // cache-buster robusto
+    const res = await fetch(url.toString(), { cache:'no-store', signal:AbortSignal.timeout(8000) });
+    if(!res.ok) throw new Error('HTTP ' + res.status);
+
     const data = await res.json();
-    if(!data || !data.updatedAt || !Array.isArray(data.vessels)) return null;
-    if(Date.now() - new Date(data.updatedAt).getTime() > CACHE_MAX_AGE_MS) return null;
+    if(!data) throw new Error('JSON vazio');
+    if(!data.updatedAt) throw new Error('updatedAt ausente');
+    if(!Array.isArray(data.vessels)) throw new Error('vessels não é array');
+
+    const ageMs = Date.now() - new Date(data.updatedAt).getTime();
+    if(!Number.isFinite(ageMs)) throw new Error('updatedAt inválido');
+    if(ageMs > CACHE_MAX_AGE_MS) throw new Error('cache expirado: ' + Math.round(ageMs / 1000) + 's');
+
     return data;
   } catch(e) {
+    log('✗ Falha no cache GitHub: ' + e.message, 'err');
     return null;
   }
 }
