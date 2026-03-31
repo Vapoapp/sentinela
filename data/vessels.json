@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T08:30:17.528Z",
+  "updatedAt": "2026-03-31T08:35:13.742Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:30",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
