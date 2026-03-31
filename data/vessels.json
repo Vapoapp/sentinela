@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T22:10:11.319Z",
+  "updatedAt": "2026-03-31T22:12:11.480Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -811,23 +811,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/04/2026 03:00",
+      "inicio": "01/04/2026 05:00",
       "imo": "9337121",
       "navio": "STAR UNITED",
       "tipo": "SAÍDA",
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "01/04/2026 06:00",
-      "imo": "9851282",
-      "navio": "BERGE DACHSTEIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
@@ -838,6 +828,16 @@
       "de": "-",
       "para": "Fundeio - 5FB2 - Área de Fundeio B2",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9851282",
+      "navio": "BERGE DACHSTEIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
