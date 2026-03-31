@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T16:40:12.902Z",
+  "updatedAt": "2026-03-31T16:42:10.859Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 06:00",
-      "imo": "9692686",
-      "navio": "AUGUST",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 06:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 06:00",
+      "imo": "9692686",
+      "navio": "AUGUST",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 07:30",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:30",
       "imo": "9747314",
       "navio": "CL TAIZHOU",
       "tipo": "ENTRADA",
@@ -251,33 +241,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:30",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 08:00",
-      "imo": "9751767",
-      "navio": "CMM VELOCITY (REB)",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9671864",
-      "navio": "LOCAR LH XVIII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9938248",
-      "navio": "CMA CGM BAHIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +272,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 08:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
+      "imo": "9671864",
+      "navio": "LOCAR LH XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9751767",
+      "navio": "CMM VELOCITY (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9938248",
+      "navio": "CMA CGM BAHIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,22 +422,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 14:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 14:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 14:00",
-      "imo": "9292072",
-      "navio": "ILHA DO CABO FRIO",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 14:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -558,6 +558,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 06:00",
+      "imo": "9946300",
+      "navio": "NS PIONEER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
