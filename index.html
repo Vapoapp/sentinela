@@ -868,7 +868,7 @@ function startMonitor() {
   checkMobileAudio();
   setStatus('active','MONITORANDO');
   log('▶ Monitor iniciado — buscando: '+vessels.map(v=>'"'+v.toUpperCase()+'"').join(', '),'ok');
-  log('📡 Monitorando: Rio · Niterói · Itaguaí · Angra · Intervalo: 3 min','info');
+  log('📡 Monitorando: Rio · Niterói · Itaguaí · Angra · Intervalo: 2 min','info');
 
   uptInterval=setInterval(updateUptime,1000);
   normalIntervalMs = iv * 1000;
