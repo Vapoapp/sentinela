@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T09:50:20.891Z",
+  "updatedAt": "2026-03-31T09:55:10.929Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9409651",
+      "navio": "OCEANICASUB XV (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
