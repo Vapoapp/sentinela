@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T17:26:18.318Z",
+  "updatedAt": "2026-03-31T17:28:10.502Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -541,6 +541,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 23:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 02:00",
       "imo": "9653111",
       "navio": "DELTA CARDINAL (REB)",
@@ -588,16 +598,6 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 10:30",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
