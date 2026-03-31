@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T19:02:11.183Z",
+  "updatedAt": "2026-03-31T19:04:14.392Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -498,6 +498,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 19:00",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "MUDANÇA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
