@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T02:10:14.896Z",
+  "updatedAt": "2026-03-31T02:15:16.138Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -1021,7 +1021,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "31/03/2026 03:00",
+      "inicio": "31/03/2026 04:30",
       "imo": "9603219",
       "navio": "PEDRO ÁLVARES CABRAL",
       "tipo": "SAÍDA",
@@ -1062,16 +1062,6 @@
     {
       "porto": "Itaguaí",
       "inicio": "31/03/2026 13:00",
-      "imo": "9337121",
-      "navio": "STAR UNITED",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "31/03/2026 13:00",
       "imo": "9454151",
       "navio": "CASANOVA",
       "tipo": "SAÍDA",
@@ -1088,6 +1078,16 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/03/2026 19:00",
+      "imo": "9337121",
+      "navio": "STAR UNITED",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
