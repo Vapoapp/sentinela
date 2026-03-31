@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T18:38:12.158Z",
+  "updatedAt": "2026-03-31T18:40:12.417Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -402,16 +402,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 14:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 14:00",
       "imo": "9292072",
       "navio": "ILHA DO CABO FRIO",
       "tipo": "SAÍDA",
@@ -441,13 +431,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 15:00",
-      "imo": "9528249",
-      "navio": "SKANDI IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "31/03/2026 14:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -458,6 +448,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 15:00",
+      "imo": "9528249",
+      "navio": "SKANDI IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -531,16 +531,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 03:00",
-      "imo": "9407392",
-      "navio": "HORIZON THEANO",
-      "tipo": "MUDANÇA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 05:30",
       "imo": "9288409",
       "navio": "MSC YAMUNA VI",
@@ -568,6 +558,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 09:00",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -671,7 +671,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "31/03/2026 19:00",
+      "inicio": "31/03/2026 19:30",
       "imo": "9444845",
       "navio": "SANTA INES",
       "tipo": "SAÍDA",
@@ -681,7 +681,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "31/03/2026 22:00",
+      "inicio": "31/03/2026 22:30",
       "imo": "9976472",
       "navio": "GREEN VITORIA",
       "tipo": "ENTRADA",
