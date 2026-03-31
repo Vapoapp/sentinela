@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T23:06:14.596Z",
+  "updatedAt": "2026-03-31T23:07:08.496Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 16:00",
-      "imo": "9288409",
-      "navio": "MSC YAMUNA VI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 16:00",
       "imo": "9492139",
       "navio": "SAO LUIZ",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 16:00",
+      "imo": "9288409",
+      "navio": "MSC YAMUNA VI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,16 +502,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 18:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 18:00",
       "imo": "9292072",
       "navio": "ILHA DO CABO FRIO",
       "tipo": "SAÍDA",
@@ -531,13 +521,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 19:00",
-      "imo": "9418030",
-      "navio": "SKANDI MERCURY",
+      "inicio": "31/03/2026 18:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "MUDANÇA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -551,13 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 20:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "inicio": "31/03/2026 19:00",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "MUDANÇA",
+      "de": "2N10 - Terminal de Trigo",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,6 +558,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 20:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 23:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 23:00",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 23:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,6 +692,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 09:00",
+      "imo": "9596820",
+      "navio": "OSCAR NIEMEYER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 09:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
       "tipo": "ENTRADA",
@@ -712,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
-      "imo": "9938248",
-      "navio": "CMA CGM BAHIA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 13:30",
       "imo": "9850862",
       "navio": "EVER FAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:30",
+      "imo": "9938248",
+      "navio": "CMA CGM BAHIA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
