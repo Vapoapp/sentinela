@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T16:18:11.290Z",
+  "updatedAt": "2026-03-31T16:20:18.673Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 08:00",
+      "imo": "9671864",
+      "navio": "LOCAR LH XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
       "imo": "9644146",
       "navio": "ALCATRAZ",
       "tipo": "SAÍDA",
@@ -288,16 +298,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9671864",
-      "navio": "LOCAR LH XVIII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,16 @@
       "de": "TPIR - ILHA REDONDA",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 14:00",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
