@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T17:30:18.537Z",
+  "updatedAt": "2026-03-31T17:32:12.105Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 06:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 06:00",
       "imo": "9692686",
       "navio": "AUGUST",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 06:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 07:30",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:30",
       "imo": "9747314",
       "navio": "CL TAIZHOU",
       "tipo": "ENTRADA",
@@ -241,13 +251,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:30",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9751767",
+      "navio": "CMM VELOCITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9671864",
+      "navio": "LOCAR LH XVIII",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,26 +288,6 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9671864",
-      "navio": "LOCAR LH XVIII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9751767",
-      "navio": "CMM VELOCITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,6 +422,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 14:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 14:00",
       "imo": "9292072",
       "navio": "ILHA DO CABO FRIO",
       "tipo": "SAÍDA",
@@ -448,16 +458,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 14:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 16:00",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
