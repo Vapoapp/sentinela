@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T23:12:09.818Z",
+  "updatedAt": "2026-03-31T23:13:13.505Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 06:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
