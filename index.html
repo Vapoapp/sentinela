@@ -378,7 +378,7 @@ const PROXIES = [
 
 // ── CACHE GITHUB ACTIONS ──────────────────────────────────────────────────────
 const CACHE_URL = 'https://raw.githubusercontent.com/vapoapp/sentinela/main/data/vessels.json';
-const CACHE_MAX_AGE_MS = 6 * 60 * 1000; // 6 minutos
+const CACHE_MAX_AGE_MS = 3 * 60 * 1000; // 3 minutos
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let monInterval=null, countInterval=null, uptInterval=null;
@@ -854,7 +854,7 @@ function startMonitor() {
   const vessels = raw.split(',').map(v=>v.trim()).filter(v=>v.length>0);
   if(vessels.length===0){ alert('Digite ao menos uma embarcação!'); return; }
 
-  const iv=180;
+  const iv=120;
   if('Notification' in window && Notification.permission==='default') Notification.requestPermission();
 
   running=true; startTs=Date.now();
