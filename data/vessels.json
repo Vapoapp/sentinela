@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T21:12:12.420Z",
+  "updatedAt": "2026-03-31T21:16:17.045Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -541,16 +541,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 20:30",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 21:00",
       "imo": "9786152",
       "navio": "MAERSK CALLAO",
@@ -791,16 +781,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "31/03/2026 17:30",
-      "imo": "9454151",
-      "navio": "CASANOVA",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "31/03/2026 19:30",
       "imo": "9444845",
       "navio": "SANTA INES",
@@ -818,6 +798,16 @@
       "de": "-",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/04/2026 02:00",
+      "imo": "9454151",
+      "navio": "CASANOVA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
