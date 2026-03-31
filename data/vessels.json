@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-31T18:40:12.417Z",
+  "updatedAt": "2026-03-31T18:42:10.876Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 03:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 03:00",
       "imo": "9644146",
       "navio": "ALCATRAZ",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 03:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 06:00",
-      "imo": "9692686",
-      "navio": "AUGUST",
+      "imo": "9448372",
+      "navio": "PRINSENGRACHT",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "de": "2N06 - Armazém 7",
       "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,42 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 06:00",
-      "imo": "9448372",
-      "navio": "PRINSENGRACHT",
+      "imo": "9692686",
+      "navio": "AUGUST",
       "tipo": "SAÍDA",
-      "de": "2N06 - Armazém 7",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:00",
-      "imo": "9418030",
-      "navio": "SKANDI MERCURY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 07:00",
-      "imo": "9591480",
-      "navio": "GUO YUAN 32",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "CP SHIPPING"
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,6 +198,36 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9591480",
+      "navio": "GUO YUAN 32",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 07:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,26 +252,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 08:00",
-      "imo": "9751767",
-      "navio": "CMM VELOCITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
-      "imo": "9671864",
-      "navio": "LOCAR LH XVIII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
@@ -288,6 +268,26 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9671864",
+      "navio": "LOCAR LH XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 08:00",
+      "imo": "9751767",
+      "navio": "CMM VELOCITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,12 +312,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 10:00",
-      "imo": "9668740",
-      "navio": "STARNAV URSUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 10:00",
-      "imo": "9945849",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "imo": "9668740",
+      "navio": "STARNAV URSUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 13:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 13:00",
       "imo": "9759264",
       "navio": "BUENA CONFIANZA",
       "tipo": "SAÍDA",
       "de": "TPIR - ILHA REDONDA",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 13:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 15:00",
+      "imo": "9528249",
+      "navio": "SKANDI IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 15:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "ENTRADA",
@@ -451,13 +461,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 15:00",
-      "imo": "9528249",
-      "navio": "SKANDI IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "inicio": "31/03/2026 16:00",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -481,13 +491,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 16:00",
-      "imo": "9636034",
-      "navio": "ORYX (REB)",
+      "inicio": "31/03/2026 17:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -558,6 +568,26 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9365544",
+      "navio": "NAVEGANTES PRIDE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
