@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T19:56:11.302Z",
+  "updatedAt": "2026-03-31T19:58:11.367Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -282,16 +282,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 08:00",
-      "imo": "9751767",
-      "navio": "CMM VELOCITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 08:00",
       "imo": "9938248",
       "navio": "CMA CGM BAHIA",
       "tipo": "ENTRADA",
@@ -488,6 +478,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 16:30",
+      "imo": "9668740",
+      "navio": "STARNAV URSUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
