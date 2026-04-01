@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T16:11:12.142Z",
+  "updatedAt": "2026-04-01T16:12:10.386Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -266,16 +266,6 @@
       "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 11:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
