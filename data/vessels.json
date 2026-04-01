@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T14:13:10.974Z",
+  "updatedAt": "2026-04-01T14:14:12.895Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -312,6 +312,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS",
       "tipo": "ENTRADA",
@@ -331,19 +341,19 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 13:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "inicio": "01/04/2026 13:30",
+      "imo": "9938248",
+      "navio": "CMA CGM BAHIA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
-      "imo": "9938248",
-      "navio": "CMA CGM BAHIA",
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
