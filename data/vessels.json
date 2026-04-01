@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T19:57:13.666Z",
+  "updatedAt": "2026-04-01T19:58:12.410Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -422,16 +422,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 16:00",
-      "imo": "9407392",
-      "navio": "HORIZON THEANO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 16:00",
       "imo": "9644160",
       "navio": "BRAM BELEM",
       "tipo": "MUDANÇA",
@@ -451,13 +441,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 17:00",
-      "imo": "9286762",
-      "navio": "SEVEN SABIÁ",
-      "tipo": "MUDANÇA",
-      "de": "TPSS - SUBSEA",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "01/04/2026 16:00",
+      "imo": "9407392",
+      "navio": "HORIZON THEANO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 16:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 17:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "MUDANÇA",
+      "de": "TPSS - SUBSEA",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
