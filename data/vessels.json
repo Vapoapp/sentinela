@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T16:53:11.081Z",
+  "updatedAt": "2026-04-01T16:54:17.125Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -122,22 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 06:00",
-      "imo": "9429936",
-      "navio": "SANCO SPIRIT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 06:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 06:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 08:00",
-      "imo": "9747314",
-      "navio": "CL TAIZHOU",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 08:00",
       "imo": "9365544",
       "navio": "NAVEGANTES PRIDE",
       "tipo": "MUDANÇA",
@@ -208,6 +198,26 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9747314",
+      "navio": "CL TAIZHOU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 09:00",
+      "imo": "9596820",
+      "navio": "OSCAR NIEMEYER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,16 +238,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 09:00",
-      "imo": "9596820",
-      "navio": "OSCAR NIEMEYER",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,16 +302,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:00",
-      "imo": "9806512",
-      "navio": "STARNAV DELPHINUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 13:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS",
       "tipo": "ENTRADA",
@@ -341,6 +331,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:00",
+      "imo": "9806512",
+      "navio": "STARNAV DELPHINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
       "imo": "9945849",
       "navio": "COSCO SHIPPING ARGENTINA",
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
-      "imo": "9385271",
-      "navio": "HOS TAURUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 13:30",
       "imo": "9678147",
       "navio": "BRAVANTE II",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:30",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,6 +431,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 06:30",
+      "imo": "9850862",
+      "navio": "EVER FAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/04/2026 16:00",
       "imo": "1016654",
       "navio": "MSC LEILA",
@@ -438,6 +448,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 22:00",
+      "imo": "9437385",
+      "navio": "LONCOMILLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
