@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T09:16:10.362Z",
+  "updatedAt": "2026-04-01T09:17:12.865Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -111,23 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 06:00",
-      "imo": "9429936",
-      "navio": "SANCO SPIRIT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
+      "inicio": "01/04/2026 05:55",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 06:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 06:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 06:00",
       "imo": "9946300",
       "navio": "NS PIONEER",
       "tipo": "ENTRADA",
@@ -151,13 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 07:00",
-      "imo": "9642588",
-      "navio": "LARUS",
+      "inicio": "01/04/2026 06:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -181,6 +181,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 07:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 07:30",
       "imo": "9591480",
       "navio": "GUO YUAN 32",
@@ -188,6 +198,26 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9747314",
+      "navio": "CL TAIZHOU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,26 +238,6 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 08:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 08:00",
-      "imo": "9747314",
-      "navio": "CL TAIZHOU",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
