@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T02:27:08.628Z",
+  "updatedAt": "2026-04-01T02:28:09.627Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 85
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 22:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 22:00",
       "imo": "0011466537",
       "navio": "BONO II",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 22:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 06:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
