@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T16:26:11.591Z",
+  "updatedAt": "2026-04-01T16:27:10.137Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 13:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS",
       "tipo": "ENTRADA",
@@ -341,6 +331,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 13:30",
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
       "imo": "9385271",
       "navio": "HOS TAURUS (REB)",
@@ -352,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 13:30",
-      "imo": "9945849",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
