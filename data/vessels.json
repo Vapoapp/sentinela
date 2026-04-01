@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-01T02:21:08.867Z",
+  "updatedAt": "2026-04-01T02:22:11.025Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -392,6 +392,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 14:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 14:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "ENTRADA",
@@ -408,16 +418,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 14:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,16 +502,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 18:00",
-      "imo": "9292072",
-      "navio": "ILHA DO CABO FRIO",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 18:00",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "SAÍDA",
@@ -528,6 +518,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 18:00",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/03/2026 22:00",
-      "imo": "0011466537",
-      "navio": "BONO II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/03/2026 22:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/03/2026 22:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -677,6 +677,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 04:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N11 - Armazém 13",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
@@ -742,26 +752,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 08:00",
-      "imo": "9747314",
-      "navio": "CL TAIZHOU",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 08:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 08:00",
       "imo": "9365544",
       "navio": "NAVEGANTES PRIDE",
       "tipo": "MUDANÇA",
@@ -778,6 +768,26 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 08:00",
+      "imo": "9747314",
+      "navio": "CL TAIZHOU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
