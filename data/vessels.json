@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-02T00:44:10.648Z",
+  "updatedAt": "2026-04-02T00:45:13.854Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -592,6 +592,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 21:00",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 21:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
@@ -602,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 22:00",
-      "imo": "9429936",
-      "navio": "SANCO SPIRIT",
-      "tipo": "MUDANÇA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 22:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
       "de": "ESPR - MacLaren Ilha da Conceição",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 22:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "MUDANÇA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
