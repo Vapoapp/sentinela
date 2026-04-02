@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-02T00:24:10.426Z",
+  "updatedAt": "2026-04-02T00:25:12.528Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -602,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/04/2026 22:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "ESPR - MacLaren Ilha da Conceição",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/04/2026 22:00",
       "imo": "9429936",
       "navio": "SANCO SPIRIT",
       "tipo": "MUDANÇA",
       "de": "2N10 - Terminal de Trigo",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/04/2026 22:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -682,6 +682,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/04/2026 16:00",
+      "imo": "1016654",
+      "navio": "MSC LEILA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 16:00",
       "imo": "9969065",
       "navio": "MAERSK FRANKFURT",
       "tipo": "SAÍDA",
@@ -691,13 +701,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/04/2026 16:00",
-      "imo": "1016654",
-      "navio": "MSC LEILA",
+      "inicio": "02/04/2026 16:30",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
