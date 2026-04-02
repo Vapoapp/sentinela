@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-02T10:50:14.364Z",
+  "updatedAt": "2026-04-02T10:51:08.895Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 09:00",
+      "imo": "9372456",
+      "navio": "CELEBRITY EQUINOX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
