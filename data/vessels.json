@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T00:10:11.230Z",
+  "updatedAt": "2026-04-02T00:11:11.003Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -607,6 +607,16 @@
       "tipo": "SAÍDA",
       "de": "ESWS - ESTALEIRO",
       "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/04/2026 18:30",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
