@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-02T18:32:15.635Z",
+  "updatedAt": "2026-04-02T18:33:12.877Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -482,6 +482,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/04/2026 15:00",
+      "imo": "9680786",
+      "navio": "VEGA CHALLENGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESSM - SÃO MIGUEL",
+      "para": "-",
+      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 15:00",
       "imo": "9515723",
       "navio": "CLIPPER LIS",
       "tipo": "SAÍDA",
@@ -498,16 +508,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/04/2026 15:00",
-      "imo": "9680786",
-      "navio": "VEGA CHALLENGER (REB)",
-      "tipo": "SAÍDA",
-      "de": "ESSM - SÃO MIGUEL",
-      "para": "-",
-      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +538,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 17:00",
+      "imo": "1065978",
+      "navio": "YA QING ZHI XING",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F03 - Feiticeira",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
