@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T19:02:10.486Z",
+  "updatedAt": "2026-04-02T19:03:15.255Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -836,6 +836,16 @@
       "navio": "ASL CLASSIC 1",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "03/04/2026 17:30",
+      "imo": "9514212",
+      "navio": "CAPE HARMONY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB2 - Área de Fundeio B2",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
