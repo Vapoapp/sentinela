@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-02T10:42:10.258Z",
+  "updatedAt": "2026-04-02T10:43:08.929Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -231,6 +231,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 10:00",
+      "imo": "9946300",
+      "navio": "NS PIONEER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/04/2026 11:00",
       "imo": "9426972",
       "navio": "CBO BIANCA",
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/04/2026 12:00",
-      "imo": "3813880435",
-      "navio": "MARTIN LEME XIX",
-      "tipo": "MUDANÇA",
-      "de": "2N06 - Armazém 7",
-      "para": "2N11 - Armazém 13",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/04/2026 12:00",
       "imo": "9492000",
       "navio": "ANGRA DOS REIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/04/2026 12:00",
+      "imo": "3813880435",
+      "navio": "MARTIN LEME XIX",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "2N11 - Armazém 13",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
