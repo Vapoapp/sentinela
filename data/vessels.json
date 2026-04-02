@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T18:07:14.841Z",
+  "updatedAt": "2026-04-02T18:08:17.607Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "02/04/2026 17:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
