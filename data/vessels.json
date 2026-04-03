@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T04:24:11.086Z",
+  "updatedAt": "2026-04-03T04:25:11.828Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 03:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
