@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T08:05:12.467Z",
+  "updatedAt": "2026-04-03T08:06:12.665Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -122,22 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 06:00",
-      "imo": "9850862",
-      "navio": "EVER FAR",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/04/2026 06:00",
       "imo": "9621546",
       "navio": "BOREAS-G",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 06:00",
+      "imo": "9850862",
+      "navio": "EVER FAR",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -278,6 +278,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 21:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
