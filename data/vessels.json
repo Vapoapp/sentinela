@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T19:42:12.544Z",
+  "updatedAt": "2026-04-03T19:43:11.385Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -282,8 +282,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 09:00",
-      "imo": "9271755",
-      "navio": "MARLIN FLAMENGO",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -292,8 +292,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 09:00",
-      "imo": "9641261",
-      "navio": "MAR LIMPO V",
+      "imo": "9271755",
+      "navio": "MARLIN FLAMENGO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -468,6 +468,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 17:00",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
