@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T04:10:17.757Z",
+  "updatedAt": "2026-04-03T04:11:10.807Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 01:30",
+      "imo": "9687796",
+      "navio": "LOCAR LH XX",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
