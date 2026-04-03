@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T14:41:10.677Z",
+  "updatedAt": "2026-04-03T14:42:12.347Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -222,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 08:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 08:00",
       "imo": "0011444517",
       "navio": "DONA ISA (EX SANTA BÁRBARA XV)",
       "tipo": "MUDANÇA",
@@ -308,6 +318,26 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 11:50",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 12:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
