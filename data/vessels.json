@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T21:23:12.527Z",
+  "updatedAt": "2026-04-03T21:24:09.205Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 09:00",
-      "imo": "9710878",
-      "navio": "SEVEN RIO",
-      "tipo": "SAÍDA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/04/2026 09:00",
       "imo": "9644160",
       "navio": "BRAM BELEM",
       "tipo": "MUDANÇA",
@@ -282,8 +272,18 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 09:00",
-      "imo": "9641261",
-      "navio": "MAR LIMPO V",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 09:00",
+      "imo": "9271755",
+      "navio": "MARLIN FLAMENGO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -292,8 +292,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 09:00",
-      "imo": "9271755",
-      "navio": "MARLIN FLAMENGO",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -521,6 +521,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 19:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/04/2026 19:30",
       "imo": "9595321",
       "navio": "MSC PREZIOSA",
@@ -528,6 +538,26 @@
       "de": "2N04 - Armazém 4",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 19:30",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 20:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
