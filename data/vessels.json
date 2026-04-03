@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-03T12:11:08.855Z",
+  "updatedAt": "2026-04-03T12:12:10.868Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/04/2026 07:00",
+      "imo": "9687796",
+      "navio": "LOCAR LH XX",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
