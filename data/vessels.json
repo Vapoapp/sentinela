@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T03:30:16.544Z",
+  "updatedAt": "2026-04-04T03:31:08.785Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -34,6 +34,16 @@
       "inicio": "04/04/2026 00:00",
       "imo": "9806512",
       "navio": "STARNAV DELPHINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 04:00",
+      "imo": "9668740",
+      "navio": "STARNAV URSUS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
