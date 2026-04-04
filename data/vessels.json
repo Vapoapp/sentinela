@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T03:26:09.716Z",
+  "updatedAt": "2026-04-04T03:27:10.280Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 07:00",
+      "imo": "9365544",
+      "navio": "NAVEGANTES PRIDE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
