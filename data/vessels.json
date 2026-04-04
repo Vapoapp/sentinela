@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T23:15:12.188Z",
+  "updatedAt": "2026-04-04T23:16:08.886Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/04/2026 08:00",
+      "imo": "9768083",
+      "navio": "MARINA I",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 08:00",
       "imo": "9868388",
       "navio": "SYNNOVE KNUTSEN",
       "tipo": "ENTRADA",
@@ -458,6 +468,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 16:00",
+      "imo": "9597381",
+      "navio": "ODYSSEAS L",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
