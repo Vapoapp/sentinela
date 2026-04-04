@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T13:11:08.054Z",
+  "updatedAt": "2026-04-04T13:12:10.287Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -132,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/04/2026 07:00",
+      "imo": "9365544",
+      "navio": "NAVEGANTES PRIDE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 07:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
@@ -148,16 +158,6 @@
       "de": "-",
       "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/04/2026 07:00",
-      "imo": "9365544",
-      "navio": "NAVEGANTES PRIDE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 10:00",
+      "imo": "9328455",
+      "navio": "ILHA DE SANTANA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
