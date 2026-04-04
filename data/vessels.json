@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T23:13:09.774Z",
+  "updatedAt": "2026-04-04T23:14:11.391Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -131,6 +131,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 04:00",
+      "imo": "9973315",
+      "navio": "BOCHEM BRISBANE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/04/2026 05:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
@@ -158,6 +168,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 06:40",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -341,6 +361,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 13:30",
+      "imo": "9679218",
+      "navio": "WS CYGNUS",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/04/2026 14:00",
       "imo": "9547685",
       "navio": "CARLOS DRUMMOND DE ANDRADE",
@@ -468,6 +498,16 @@
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 19:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
