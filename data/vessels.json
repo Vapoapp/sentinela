@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T03:20:12.592Z",
+  "updatedAt": "2026-04-04T03:21:08.436Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "-",
       "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 10:00",
+      "imo": "9407160",
+      "navio": "SEASPAN EMPIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
