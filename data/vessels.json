@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T03:24:10.410Z",
+  "updatedAt": "2026-04-04T03:25:09.915Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "-",
       "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 08:00",
+      "imo": "9356696",
+      "navio": "CMA CGM FRANCOISE SAGAN",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
