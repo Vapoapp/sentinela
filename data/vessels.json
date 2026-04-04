@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-04T11:59:09.456Z",
+  "updatedAt": "2026-04-04T12:00:15.348Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/04/2026 07:00",
-      "imo": "9862023",
-      "navio": "SEABOURN VENTURE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/04/2026 07:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 07:00",
+      "imo": "9862023",
+      "navio": "SEABOURN VENTURE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +238,26 @@
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 12:00",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/04/2026 12:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
