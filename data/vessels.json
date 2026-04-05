@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-05T15:23:09.628Z",
+  "updatedAt": "2026-04-05T15:24:09.672Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/04/2026 10:30",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/04/2026 10:30",
       "imo": "9784661",
       "navio": "MERCOSUL FORTALEZA (CNC LION) (REB)",
       "tipo": "ENTRADA",
@@ -241,13 +251,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/04/2026 10:30",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "05/04/2026 11:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -261,13 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/04/2026 11:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
+      "inicio": "05/04/2026 12:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
       "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
