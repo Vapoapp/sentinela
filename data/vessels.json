@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T18:59:11.177Z",
+  "updatedAt": "2026-04-06T19:00:19.734Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "06/04/2026 08:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Niterói",
       "inicio": "06/04/2026 20:00",
       "imo": "9670341",
       "navio": "BLUE ORCA",
@@ -511,7 +521,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "06/04/2026 22:00",
+      "inicio": "06/04/2026 22:30",
       "imo": "9603221",
       "navio": "FERNÃO DE MAGALHÃES",
       "tipo": "SAÍDA",
