@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-06T08:22:14.869Z",
+  "updatedAt": "2026-04-06T08:23:10.647Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 03:00",
+      "imo": "9692636",
+      "navio": "CBO ENERGY (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
