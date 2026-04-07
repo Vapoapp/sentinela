@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T01:17:08.565Z",
+  "updatedAt": "2026-04-07T01:18:09.798Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -282,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 15:00",
-      "imo": "9399595",
-      "navio": "OLIVIA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 15:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 15:00",
+      "imo": "9399595",
+      "navio": "OLIVIA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 10:00",
+      "imo": "9644134",
+      "navio": "PRION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 10:00",
       "imo": "9963413",
       "navio": "BBC ODESA",
       "tipo": "ENTRADA",
@@ -552,22 +562,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 10:30",
-      "imo": "9480203",
-      "navio": "MSC CADIZ",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 10:30",
       "imo": "9312444",
       "navio": "PRESIDENT I",
       "tipo": "SAÍDA",
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 10:30",
+      "imo": "9480203",
+      "navio": "MSC CADIZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
