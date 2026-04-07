@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T12:59:09.545Z",
+  "updatedAt": "2026-04-07T13:00:17.916Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 08:00",
+      "imo": "9938250",
+      "navio": "CMA CGM BUZIOS",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
