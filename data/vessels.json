@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T14:39:14.801Z",
+  "updatedAt": "2026-04-07T14:40:13.972Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 06:00",
-      "imo": "9318412",
-      "navio": "CBO GUANABARA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 06:00",
       "imo": "9423229",
       "navio": "ELIZABETH C",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 06:00",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -158,16 +158,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 08:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 08:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 08:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "MUDANÇA",
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 09:00",
+      "imo": "9680786",
+      "navio": "VEGA CHALLENGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 09:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "MUDANÇA",
@@ -248,16 +258,6 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 09:00",
-      "imo": "9680786",
-      "navio": "VEGA CHALLENGER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,6 +362,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 14:00",
+      "imo": "9529877",
+      "navio": "HOS FIRE SERPENT",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 14:00",
       "imo": "9312444",
       "navio": "PRESIDENT I",
       "tipo": "SAÍDA",
@@ -388,6 +398,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 17:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
