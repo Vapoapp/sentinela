@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T01:18:09.798Z",
+  "updatedAt": "2026-04-07T01:19:11.223Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 23:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 23:00",
       "imo": "9685396",
       "navio": "RAQUEL KNUTSEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 23:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,6 +522,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 08:00",
+      "imo": "9530008",
+      "navio": "JACK EDWARDS (BAND. GREYLIST TOKYO MOU)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 08:00",
       "imo": "9468657",
       "navio": "GNL 1015",
       "tipo": "MUDANÇA",
@@ -531,13 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 08:00",
-      "imo": "9530008",
-      "navio": "JACK EDWARDS (BAND. GREYLIST TOKYO MOU)",
+      "inicio": "07/04/2026 08:30",
+      "imo": "9945887",
+      "navio": "COSCO SHIPPING CHILE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
