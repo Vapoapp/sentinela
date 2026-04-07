@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T16:45:14.906Z",
+  "updatedAt": "2026-04-07T16:46:12.029Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -372,16 +372,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 14:00",
-      "imo": "9529877",
-      "navio": "HOS FIRE SERPENT",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 14:00",
       "imo": "9312444",
       "navio": "PRESIDENT I",
       "tipo": "SAÍDA",
@@ -407,6 +397,16 @@
       "tipo": "MUDANÇA",
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 16:00",
+      "imo": "9529877",
+      "navio": "HOS FIRE SERPENT",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
