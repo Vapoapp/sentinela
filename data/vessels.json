@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T21:38:12.463Z",
+  "updatedAt": "2026-04-07T21:39:11.490Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -488,6 +488,16 @@
       "de": "-",
       "para": "ESSM - SÃO MIGUEL",
       "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 19:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
