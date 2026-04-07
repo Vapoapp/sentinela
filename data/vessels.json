@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T01:24:12.279Z",
+  "updatedAt": "2026-04-07T01:25:14.400Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 06:00",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 12:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 12:00",
       "imo": "9686144",
       "navio": "HOS REMINGTON",
       "tipo": "ENTRADA",
@@ -222,22 +222,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 12:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 12:00",
       "imo": "9506394",
       "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 12:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 12:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 13:30",
-      "imo": "9337688",
-      "navio": "NYK DIANA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 13:30",
       "imo": "9230830",
       "navio": "C-ATLAS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 13:30",
+      "imo": "9337688",
+      "navio": "NYK DIANA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 15:00",
-      "imo": "9399595",
-      "navio": "OLIVIA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 15:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 15:00",
+      "imo": "9399595",
+      "navio": "OLIVIA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 20:00",
-      "imo": "9767833",
-      "navio": "CBO PARINTINS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 20:00",
       "imo": "9710880",
       "navio": "SEVEN CRUZEIRO",
       "tipo": "SAÍDA",
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 20:00",
+      "imo": "9767833",
+      "navio": "CBO PARINTINS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 23:00",
-      "imo": "9685396",
-      "navio": "RAQUEL KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 23:00",
       "imo": "9799070",
       "navio": "STARNAV SCORPIUS",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 23:00",
+      "imo": "9685396",
+      "navio": "RAQUEL KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
