@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T01:16:11.771Z",
+  "updatedAt": "2026-04-07T01:17:08.565Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -452,6 +452,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/04/2026 23:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/04/2026 23:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "MUDANÇA",
@@ -468,16 +478,6 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/04/2026 23:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 10:30",
+      "imo": "9480203",
+      "navio": "MSC CADIZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 10:30",
       "imo": "9312444",
       "navio": "PRESIDENT I",
       "tipo": "SAÍDA",
@@ -562,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 10:30",
-      "imo": "9480203",
-      "navio": "MSC CADIZ",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "imo": "9624299",
+      "navio": "MAERSK KARUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
