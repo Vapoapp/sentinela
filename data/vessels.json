@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T12:41:13.945Z",
+  "updatedAt": "2026-04-07T12:42:13.822Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 08:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,12 +182,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 08:00",
-      "imo": "9641261",
-      "navio": "MAR LIMPO V",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,16 +252,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 10:00",
-      "imo": "9963413",
-      "navio": "BBC ODESA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
-      "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 10:00",
       "imo": "9636034",
       "navio": "ORYX (REB)",
       "tipo": "MUDANÇA",
@@ -287,6 +277,26 @@
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 10:00",
+      "imo": "9963413",
+      "navio": "BBC ODESA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 10:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
