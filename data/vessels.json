@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-07T19:44:11.817Z",
+  "updatedAt": "2026-04-07T19:45:16.678Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 14:00",
-      "imo": "9641261",
-      "navio": "MAR LIMPO V",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 14:00",
       "imo": "9312444",
       "navio": "PRESIDENT I",
       "tipo": "SAÍDA",
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 14:00",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,13 +431,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 16:30",
+      "imo": "9654464",
+      "navio": "WIELAND",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 17:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +462,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 17:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
