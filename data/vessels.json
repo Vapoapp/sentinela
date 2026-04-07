@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T15:21:11.148Z",
+  "updatedAt": "2026-04-07T15:22:11.382Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -568,16 +568,6 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "07/04/2026 14:00",
-      "imo": "9612064",
-      "navio": "SAMJOHN DREAM",
-      "tipo": "SAÍDA",
-      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
