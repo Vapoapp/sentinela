@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T13:42:14.728Z",
+  "updatedAt": "2026-04-08T13:43:18.014Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 12:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
