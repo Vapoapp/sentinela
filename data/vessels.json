@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T23:17:13.652Z",
+  "updatedAt": "2026-04-08T23:18:17.145Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -512,22 +512,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 15:00",
-      "imo": "9843338",
-      "navio": "YUAN DONG HAI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 15:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 15:00",
+      "imo": "9843338",
+      "navio": "YUAN DONG HAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -592,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 18:00",
-      "imo": "9720512",
-      "navio": "MSC MICHELA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 18:00",
       "imo": "9489895",
       "navio": "CELSO FURTADO",
       "tipo": "SAÍDA",
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 18:00",
+      "imo": "9720512",
+      "navio": "MSC MICHELA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -672,6 +672,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:30",
+      "imo": "1051109",
+      "navio": "COSCO SHIPPING JIXIANG",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:30",
       "imo": "9692636",
       "navio": "CBO ENERGY (REB)",
       "tipo": "ENTRADA",
@@ -681,13 +691,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 06:30",
-      "imo": "1051109",
-      "navio": "COSCO SHIPPING JIXIANG",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "inicio": "09/04/2026 07:00",
+      "imo": "9339131",
+      "navio": "SKANDI BOTAFOGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -701,13 +711,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 07:00",
-      "imo": "9339131",
-      "navio": "SKANDI BOTAFOGO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "09/04/2026 08:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "MUDANÇA",
+      "de": "TPSS - SUBSEA",
+      "para": "TPAM - ARSENAL DA MARINHA",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 09:00",
+      "imo": "9945887",
+      "navio": "COSCO SHIPPING CHILE",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
