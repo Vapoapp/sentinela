@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T23:25:10.425Z",
+  "updatedAt": "2026-04-08T23:26:11.187Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 02:00",
+      "imo": "9246580",
+      "navio": "GRANDE NIGERIA",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
