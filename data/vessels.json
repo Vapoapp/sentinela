@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T00:20:10.835Z",
+  "updatedAt": "2026-04-08T00:21:09.548Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 07:30",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
