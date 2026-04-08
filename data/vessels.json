@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T00:15:13.892Z",
+  "updatedAt": "2026-04-08T00:16:11.422Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -552,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/04/2026 22:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/04/2026 22:00",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
       "tipo": "SAÍDA",
@@ -568,16 +578,6 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/04/2026 22:00",
-      "imo": "9788459",
-      "navio": "MR ALDO",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 06:00",
+      "imo": "9679517",
+      "navio": "SAFE ZEPHYRUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F11 - AF Boa Viagem",
+      "para": "-",
+      "agente": "AGENCIA MARÍTIMA OFFSHORE CONTINENTAL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
