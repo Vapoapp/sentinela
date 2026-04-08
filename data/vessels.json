@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T17:28:16.489Z",
+  "updatedAt": "2026-04-08T17:29:12.986Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -757,6 +757,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "08/04/2026 15:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
