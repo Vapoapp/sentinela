@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-08T01:00:17.287Z",
+  "updatedAt": "2026-04-08T01:01:11.909Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -738,6 +738,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 14:00",
+      "imo": "9850563",
+      "navio": "EVER FORTUNE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
