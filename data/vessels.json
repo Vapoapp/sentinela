@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-08T03:57:13.966Z",
+  "updatedAt": "2026-04-08T03:58:09.336Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 03:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 03:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "ENTRADA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 03:00",
-      "imo": "9417828",
-      "navio": "NORMAND SAGARIS (REB)",
+      "inicio": "08/04/2026 05:30",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLSTAD SHIPPING LTDA."
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -118,16 +128,6 @@
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 05:30",
-      "imo": "9944417",
-      "navio": "BRAM SPIRIT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 06:30",
+      "imo": "1051109",
+      "navio": "COSCO SHIPPING JIXIANG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 06:30",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "ENTRADA",
@@ -181,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 06:30",
-      "imo": "1051109",
-      "navio": "COSCO SHIPPING JIXIANG",
+      "inicio": "08/04/2026 07:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 07:00",
-      "imo": "9385398",
-      "navio": "A.H. CAMOGLI (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 07:00",
       "imo": "9459759",
       "navio": "SKANDI SKANSEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 07:00",
+      "imo": "9385398",
+      "navio": "A.H. CAMOGLI (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +358,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "08/04/2026 00:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
