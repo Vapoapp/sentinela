@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T08:58:17.177Z",
+  "updatedAt": "2026-04-09T08:59:10.937Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:00",
       "imo": "9768588",
       "navio": "VOX AMALIA",
       "tipo": "ENTRADA",
@@ -202,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:30",
-      "imo": "9459759",
-      "navio": "SKANDI SKANSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N05 - Armazém 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 06:30",
       "imo": "1051109",
       "navio": "COSCO SHIPPING JIXIANG",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:30",
+      "imo": "9459759",
+      "navio": "SKANDI SKANSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
