@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T03:57:11.892Z",
+  "updatedAt": "2026-04-09T03:58:09.618Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 00:00",
-      "imo": "9268681",
-      "navio": "FORTE DE COPACABANA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 00:00",
@@ -112,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 04:00",
+      "imo": "9268681",
+      "navio": "FORTE DE COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 04:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "MUDANÇA",
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:00",
+      "imo": "9768588",
+      "navio": "VOX AMALIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:00",
       "imo": "9497139",
       "navio": "SANTOS SUPPLIER",
       "tipo": "ENTRADA",
@@ -158,16 +168,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 06:00",
-      "imo": "9768588",
-      "navio": "VOX AMALIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
