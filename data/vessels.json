@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T01:31:08.592Z",
+  "updatedAt": "2026-04-09T01:32:09.960Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 94
+      "count": 95
     },
     "niteroi": {
       "ok": true,
@@ -482,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 14:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 14:00",
       "imo": "9273258",
       "navio": "AUSTRAL ABROLHOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 14:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 16:00",
-      "imo": "9679517",
-      "navio": "SAFE ZEPHYRUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F11 - AF Boa Viagem",
-      "para": "-",
-      "agente": "AGENCIA MARÍTIMA OFFSHORE CONTINENTAL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/04/2026 16:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/04/2026 16:00",
+      "imo": "9679517",
+      "navio": "SAFE ZEPHYRUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F11 - AF Boa Viagem",
+      "para": "-",
+      "agente": "AGENCIA MARÍTIMA OFFSHORE CONTINENTAL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,12 +652,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 22:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -682,12 +682,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/04/2026 22:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -768,6 +768,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 04:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
