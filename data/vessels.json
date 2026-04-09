@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T16:11:09.299Z",
+  "updatedAt": "2026-04-09T16:12:11.021Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -498,6 +498,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 17:00",
+      "imo": "9385398",
+      "navio": "A.H. CAMOGLI (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
