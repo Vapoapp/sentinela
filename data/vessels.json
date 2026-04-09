@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T04:02:09.693Z",
+  "updatedAt": "2026-04-09T04:03:11.448Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 03:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 03:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "MUDANÇA",
@@ -91,13 +101,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 03:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "inicio": "09/04/2026 04:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 04:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -121,36 +141,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 04:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 04:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 06:00",
-      "imo": "9768588",
-      "navio": "VOX AMALIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:00",
       "imo": "9497139",
       "navio": "SANTOS SUPPLIER",
@@ -171,6 +161,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:00",
+      "imo": "9768588",
+      "navio": "VOX AMALIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 06:30",
       "imo": "9692636",
       "navio": "CBO ENERGY (REB)",
@@ -188,6 +188,16 @@
       "de": "-",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 06:30",
+      "imo": "9459759",
+      "navio": "SKANDI SKANSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -278,16 +288,6 @@
       "de": "TPAM - ARSENAL DA MARINHA",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 11:00",
-      "imo": "9459759",
-      "navio": "SKANDI SKANSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N05 - Armazém 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
