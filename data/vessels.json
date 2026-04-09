@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T14:32:13.055Z",
+  "updatedAt": "2026-04-09T14:33:12.746Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -252,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 07:00",
-      "imo": "3813890457",
-      "navio": "COSTA NOVA",
-      "tipo": "SAÍDA",
-      "de": "ESCA - ESTALEIRO CASSINU",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 07:00",
       "imo": "9339131",
       "navio": "SKANDI BOTAFOGO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 07:00",
+      "imo": "3813890457",
+      "navio": "COSTA NOVA",
+      "tipo": "SAÍDA",
+      "de": "ESCA - ESTALEIRO CASSINU",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -321,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 11:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
+      "inicio": "09/04/2026 10:45",
+      "imo": "9497139",
+      "navio": "SANTOS SUPPLIER",
       "tipo": "SAÍDA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 11:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +398,16 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 13:00",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
