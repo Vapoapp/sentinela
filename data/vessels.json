@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T00:14:14.856Z",
+  "updatedAt": "2026-04-09T00:15:15.068Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 89
     },
     "niteroi": {
       "ok": true,
@@ -808,6 +808,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 10:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
