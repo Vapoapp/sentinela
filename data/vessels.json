@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T21:47:11.732Z",
+  "updatedAt": "2026-04-09T21:48:10.686Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -492,12 +492,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 16:00",
-      "imo": "9850563",
-      "navio": "EVER FORTUNE",
+      "imo": "9973315",
+      "navio": "BOCHEM BRISBANE",
       "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "de": "2NTO - Terminal de Óleo",
       "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 16:00",
-      "imo": "9973315",
-      "navio": "BOCHEM BRISBANE",
+      "imo": "9850563",
+      "navio": "EVER FORTUNE",
       "tipo": "SAÍDA",
-      "de": "2NTO - Terminal de Óleo",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 18:00",
-      "imo": "9944417",
-      "navio": "BRAM SPIRIT",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 18:00",
       "imo": "9262118",
       "navio": "XIN CHONG QING",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 18:00",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -758,6 +758,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 06:30",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
