@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T21:46:12.356Z",
+  "updatedAt": "2026-04-09T21:47:11.732Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 18:00",
-      "imo": "9262118",
-      "navio": "XIN CHONG QING",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 18:00",
       "imo": "9944417",
       "navio": "BRAM SPIRIT",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 18:00",
+      "imo": "9262118",
+      "navio": "XIN CHONG QING",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +688,16 @@
       "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 21:30",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
