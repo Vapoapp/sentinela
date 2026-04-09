@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T21:19:09.919Z",
+  "updatedAt": "2026-04-09T21:20:15.588Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -722,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 09:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 09:00",
       "imo": "9492050",
       "navio": "MADRE DE DEUS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 09:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
