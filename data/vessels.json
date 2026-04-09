@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T11:27:12.942Z",
+  "updatedAt": "2026-04-09T11:28:11.807Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -501,26 +501,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/04/2026 12:30",
-      "imo": "9689691",
-      "navio": "BOSPORUS",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "09/04/2026 15:30",
-      "imo": "9750921",
-      "navio": "BERGE GROSSGLOCKNER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "09/04/2026 16:30",
       "imo": "9926415",
       "navio": "SHANDONG CIVILIZATION",
@@ -532,12 +512,12 @@
     {
       "porto": "Itaguaí",
       "inicio": "09/04/2026 19:00",
-      "imo": "9865764",
-      "navio": "WITHAM",
+      "imo": "9689691",
+      "navio": "BOSPORUS",
       "tipo": "SAÍDA",
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
