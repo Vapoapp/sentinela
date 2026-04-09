@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-09T07:47:13.040Z",
+  "updatedAt": "2026-04-09T07:48:12.338Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -146,16 +146,6 @@
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 06:00",
-      "imo": "9497139",
-      "navio": "SANTOS SUPPLIER",
-      "tipo": "ENTRADA",
-      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -461,7 +451,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/04/2026 18:30",
+      "inicio": "09/04/2026 19:00",
       "imo": "9865764",
       "navio": "WITHAM",
       "tipo": "SAÍDA",
