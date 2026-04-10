@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T20:58:10.636Z",
+  "updatedAt": "2026-04-10T20:59:11.663Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -698,6 +698,26 @@
       "de": "-",
       "para": "TPMJ - Estaleiro Mauá",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/04/2026 19:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/04/2026 21:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
