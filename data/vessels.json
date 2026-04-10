@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T09:29:10.111Z",
+  "updatedAt": "2026-04-10T09:30:16.037Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -261,6 +261,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 09:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 11:30",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
@@ -342,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 21:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 21:00",
       "imo": "3813869946",
       "navio": "DRATEC XXI",
       "tipo": "MUDANÇA",
       "de": "TPBS - TPBS",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 21:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Niterói",
