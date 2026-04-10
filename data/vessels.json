@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T03:00:15.919Z",
+  "updatedAt": "2026-04-10T03:01:08.379Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 05:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 05:30",
       "imo": "9610717",
       "navio": "JAMAICA BAY",
@@ -88,6 +98,16 @@
       "de": "TPBR - BRASCO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 06:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
