@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T04:52:10.072Z",
+  "updatedAt": "2026-04-10T04:53:13.997Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 11:30",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
