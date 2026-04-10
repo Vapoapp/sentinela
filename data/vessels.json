@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T01:19:16.471Z",
+  "updatedAt": "2026-04-10T01:20:16.375Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
@@ -711,6 +711,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 22:30",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 00:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
@@ -782,22 +792,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 06:30",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 06:30",
       "imo": "1016692",
       "navio": "MSC ADELE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 06:30",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
