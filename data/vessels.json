@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-10T18:53:08.833Z",
+  "updatedAt": "2026-04-10T18:54:11.493Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 19:30",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 20:00",
       "imo": "3813896277",
       "navio": "DRATEC XXII",
@@ -638,16 +648,6 @@
       "de": "-",
       "para": "TPMJ - Estaleiro Mauá",
       "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Niterói",
-      "inicio": "10/04/2026 15:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
