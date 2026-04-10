@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T11:26:12.768Z",
+  "updatedAt": "2026-04-10T11:27:13.009Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 07:00",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 07:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "SAÍDA",
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 07:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 15:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
+      "inicio": "10/04/2026 14:00",
+      "imo": "9371218",
+      "navio": "NORMAND FORTRESS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +318,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 15:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
