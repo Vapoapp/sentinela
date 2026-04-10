@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T16:04:10.913Z",
+  "updatedAt": "2026-04-10T16:05:11.682Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -132,16 +132,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 05:30",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 05:30",
       "imo": "9610717",
       "navio": "JAMAICA BAY",
       "tipo": "ENTRADA",
@@ -151,13 +141,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 06:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
+      "inicio": "10/04/2026 05:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
       "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,6 +158,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 06:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,26 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 09:00",
-      "imo": "9492050",
-      "navio": "MADRE DE DEUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 09:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 09:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "ENTRADA",
@@ -298,6 +278,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 09:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 09:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 14:00",
+      "imo": "9489924",
+      "navio": "JOSÉ ALENCAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +528,16 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 15:00",
+      "imo": "9687356",
+      "navio": "NORMAND NAVIGATOR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
