@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T00:12:14.715Z",
+  "updatedAt": "2026-04-10T00:13:11.340Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -622,22 +622,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/04/2026 18:00",
-      "imo": "9262118",
-      "navio": "XIN CHONG QING",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/04/2026 18:00",
       "imo": "9944417",
       "navio": "BRAM SPIRIT",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/04/2026 18:00",
+      "imo": "9262118",
+      "navio": "XIN CHONG QING",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -761,6 +761,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 06:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 06:30",
       "imo": "1016692",
       "navio": "MSC ADELE",
@@ -848,6 +858,16 @@
       "de": "TPBS - TPBS",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 21:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Niterói",
