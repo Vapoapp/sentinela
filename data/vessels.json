@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T12:42:11.510Z",
+  "updatedAt": "2026-04-10T12:43:08.943Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -341,16 +341,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 15:00",
-      "imo": "9431305",
-      "navio": "MAERSK KIERA",
-      "tipo": "SAÍDA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 17:00",
       "imo": "9506394",
       "navio": "LOG-IN DISCOVERY (REB S/L)",
@@ -478,6 +468,16 @@
       "de": "Fundeio - 5FB3 - Área de Fundeio B3",
       "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/04/2026 14:00",
+      "imo": "9451264",
+      "navio": "NICHOLAS G.S",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
