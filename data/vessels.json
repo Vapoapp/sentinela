@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T01:57:11.759Z",
+  "updatedAt": "2026-04-10T01:58:09.756Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -1068,6 +1068,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/04/2026 08:30",
+      "imo": "9977373",
+      "navio": "CL YANGJIANG",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
