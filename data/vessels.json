@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T12:49:13.062Z",
+  "updatedAt": "2026-04-10T12:50:15.440Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "Fundeio - 5FB3 - Área de Fundeio B3",
       "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/04/2026 13:00",
+      "imo": "9986910",
+      "navio": "GREAT BLOSSOM",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Itaguaí",
