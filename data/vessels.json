@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-10T12:55:12.166Z",
+  "updatedAt": "2026-04-10T12:56:13.886Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -192,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 07:00",
-      "imo": "9623635",
-      "navio": "CARMEN KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,12 +212,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 07:00",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "imo": "9623635",
+      "navio": "CARMEN KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -248,6 +248,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 08:50",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 12:00",
+      "imo": "9431305",
+      "navio": "MAERSK KIERA",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 12:00",
       "imo": "9427639",
       "navio": "COPPER SPIRIT",
       "tipo": "ENTRADA",
@@ -362,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/04/2026 21:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/04/2026 21:00",
       "imo": "3813869946",
       "navio": "DRATEC XXI",
       "tipo": "MUDANÇA",
       "de": "TPBS - TPBS",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/04/2026 21:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Niterói",
