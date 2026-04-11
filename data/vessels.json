@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T00:36:10.978Z",
+  "updatedAt": "2026-04-11T00:37:11.418Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -642,22 +642,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/04/2026 09:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/04/2026 09:00",
       "imo": "9292773",
       "navio": "ALESSANDRO VOLTA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 09:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 17:00",
+      "imo": "3813896200",
+      "navio": "TS 9",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "BOIA TSHP - Boia Tranship",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
