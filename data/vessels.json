@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T00:48:09.357Z",
+  "updatedAt": "2026-04-11T00:49:09.720Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 20:00",
+      "imo": "9453896",
+      "navio": "ABDIAS NASCIMENTO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
