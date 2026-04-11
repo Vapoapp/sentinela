@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T00:35:11.135Z",
+  "updatedAt": "2026-04-11T00:36:10.978Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "2N07 - Pátio 8/9",
       "para": "2N16 - Armazém 16",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 15:00",
+      "imo": "9350020",
+      "navio": "APL NEW JERSEY",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
