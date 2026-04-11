@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T03:26:09.074Z",
+  "updatedAt": "2026-04-11T03:27:08.537Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 00:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/04/2026 01:00",
@@ -92,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/04/2026 09:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 09:00",
       "imo": "9292773",
       "navio": "ALESSANDRO VOLTA",
       "tipo": "ENTRADA",
@@ -108,16 +128,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/04/2026 09:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
