@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T18:39:07.648Z",
+  "updatedAt": "2026-04-11T18:40:11.349Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -561,13 +561,23 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "12/04/2026 10:30",
+      "inicio": "12/04/2026 09:00",
       "imo": "9926415",
       "navio": "SHANDONG CIVILIZATION",
       "tipo": "SAÍDA",
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "12/04/2026 10:30",
+      "imo": "9683104",
+      "navio": "ORIENTAL DRAGON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE2 - Área de Fundeio E2",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
@@ -578,16 +588,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "12/04/2026 14:30",
-      "imo": "9683104",
-      "navio": "ORIENTAL DRAGON",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FE2 - Área de Fundeio E2",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
