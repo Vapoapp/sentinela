@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T09:03:11.735Z",
+  "updatedAt": "2026-04-11T09:04:12.735Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/04/2026 02:30",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 02:30",
       "imo": "9788459",
       "navio": "MR ALDO",
       "tipo": "MUDANÇA",
@@ -132,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/04/2026 07:00",
-      "imo": "9973315",
-      "navio": "BOCHEM BRISBANE",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/04/2026 07:00",
       "imo": "3813890457",
       "navio": "COSTA NOVA",
       "tipo": "SAÍDA",
       "de": "ESCA - ESTALEIRO CASSINU",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/04/2026 07:00",
+      "imo": "9973315",
+      "navio": "BOCHEM BRISBANE",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
