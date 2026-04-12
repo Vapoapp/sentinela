@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T10:06:11.459Z",
+  "updatedAt": "2026-04-12T10:07:10.075Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -291,26 +291,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "12/04/2026 09:30",
-      "imo": "9926415",
-      "navio": "SHANDONG CIVILIZATION",
-      "tipo": "MUDANÇA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "12/04/2026 10:30",
-      "imo": "9683104",
-      "navio": "ORIENTAL DRAGON",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FE2 - Área de Fundeio E2",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "12/04/2026 13:00",
       "imo": "9750921",
       "navio": "BERGE GROSSGLOCKNER",
@@ -318,6 +298,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "12/04/2026 14:30",
+      "imo": "9683104",
+      "navio": "ORIENTAL DRAGON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE2 - Área de Fundeio E2",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
