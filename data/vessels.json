@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T04:16:10.900Z",
+  "updatedAt": "2026-04-12T04:17:12.145Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 12:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 13:00",
+      "imo": "9385257",
+      "navio": "HOS MAVERICK",
+      "tipo": "MUDANÇA",
+      "de": "DOCKBRASIL - DOCKBRASIL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
