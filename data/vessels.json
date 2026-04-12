@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T12:49:13.155Z",
+  "updatedAt": "2026-04-12T12:50:13.981Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 13:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "SAÍDA",
+      "de": "TPSS - SUBSEA",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
