@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T11:33:08.370Z",
+  "updatedAt": "2026-04-12T11:34:11.043Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "2N04 - Armazém 4",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 20:00",
+      "imo": "9347358",
+      "navio": "ALLIE CHOUEST",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
