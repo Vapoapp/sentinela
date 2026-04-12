@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-12T18:06:12.981Z",
+  "updatedAt": "2026-04-12T18:07:09.753Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -448,6 +448,46 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "12/04/2026 23:00",
+      "imo": "9750921",
+      "navio": "BERGE GROSSGLOCKNER",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/04/2026 06:00",
+      "imo": "9439620",
+      "navio": "RICHLAND NEWCASTLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/04/2026 07:00",
+      "imo": "9603233",
+      "navio": "AMÉRICO VESPÚCIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/04/2026 15:00",
+      "imo": "9624263",
+      "navio": "BULK TIRRENO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
