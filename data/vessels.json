@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T14:19:08.261Z",
+  "updatedAt": "2026-04-12T14:20:13.734Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 12:00",
+      "imo": "9350020",
+      "navio": "APL NEW JERSEY",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
