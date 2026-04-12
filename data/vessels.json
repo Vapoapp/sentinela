@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T04:14:12.205Z",
+  "updatedAt": "2026-04-12T04:15:15.798Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 18:00",
+      "imo": "9659062",
+      "navio": "NORMAND SIGMA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
