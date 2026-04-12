@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T04:17:12.145Z",
+  "updatedAt": "2026-04-12T04:18:10.014Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 08:00",
+      "imo": "9347358",
+      "navio": "ALLIE CHOUEST",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
