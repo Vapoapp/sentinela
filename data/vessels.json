@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T04:15:15.798Z",
+  "updatedAt": "2026-04-12T04:16:10.900Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 14:00",
+      "imo": "9768007",
+      "navio": "LAEM CHABANG EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
