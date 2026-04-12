@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T04:20:12.845Z",
+  "updatedAt": "2026-04-12T04:21:13.220Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 00:00",
+      "imo": "9768083",
+      "navio": "MARINA I",
+      "tipo": "MUDANÇA",
+      "de": "2N05 - Armazém 6",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
