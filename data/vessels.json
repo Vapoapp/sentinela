@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-12T18:19:09.429Z",
+  "updatedAt": "2026-04-12T18:20:11.058Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -252,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 13:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "SAÍDA",
+      "de": "TPSS - SUBSEA",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 13:00",
       "imo": "9365544",
       "navio": "NAVEGANTES PRIDE",
       "tipo": "SAÍDA",
@@ -267,16 +277,6 @@
       "tipo": "MUDANÇA",
       "de": "DOCKBRASIL - DOCKBRASIL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 13:00",
-      "imo": "9286762",
-      "navio": "SEVEN SABIÁ",
-      "tipo": "SAÍDA",
-      "de": "TPSS - SUBSEA",
-      "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
@@ -298,6 +298,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 16:00",
+      "imo": "9453896",
+      "navio": "ABDIAS NASCIMENTO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
