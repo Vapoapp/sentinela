@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T09:28:10.967Z",
+  "updatedAt": "2026-04-13T09:29:13.409Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 07:00",
+      "imo": "3813869946",
+      "navio": "DRATEC XXI",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "TPBS - TPBS",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 07:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "ENTRADA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 07:00",
-      "imo": "3813869946",
-      "navio": "DRATEC XXI",
+      "inicio": "13/04/2026 08:00",
+      "imo": "9385398",
+      "navio": "A.H. CAMOGLI (REB)",
       "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "TPBS - TPBS",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -121,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 08:00",
-      "imo": "9385398",
-      "navio": "A.H. CAMOGLI (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "13/04/2026 09:00",
+      "imo": "9290074",
+      "navio": "ONEGO EMS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
