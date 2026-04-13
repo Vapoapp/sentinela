@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T19:03:09.377Z",
+  "updatedAt": "2026-04-13T19:04:12.659Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -321,6 +321,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 17:00",
+      "imo": "9409663",
+      "navio": "POSIDONIA LION (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 18:00",
       "imo": "9762144",
       "navio": "C SALVADOR",
@@ -328,6 +338,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 19:30",
+      "imo": "9539494",
+      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
