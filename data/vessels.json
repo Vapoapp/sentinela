@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T16:09:12.091Z",
+  "updatedAt": "2026-04-13T16:10:15.783Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -92,22 +92,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 07:00",
-      "imo": "3813869946",
-      "navio": "DRATEC XXI",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "TPBS - TPBS",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 07:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 07:00",
+      "imo": "3813869946",
+      "navio": "DRATEC XXI",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "TPBS - TPBS",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 10:00",
-      "imo": "9965851",
-      "navio": "PORT NAGASAKI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 10:00",
       "imo": "9705005",
       "navio": "MSC CATERINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 10:00",
+      "imo": "9965851",
+      "navio": "PORT NAGASAKI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +308,26 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 12:00",
+      "imo": "9141297",
+      "navio": "MSC ROCHELLE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 16:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
