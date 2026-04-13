@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T21:18:10.750Z",
+  "updatedAt": "2026-04-13T21:19:09.452Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -292,21 +292,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 17:00",
-      "imo": "3813869946",
-      "navio": "DRATEC XXI",
-      "tipo": "MUDANÇA",
-      "de": "TPBS - TPBS",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 17:00",
       "imo": "9409663",
       "navio": "POSIDONIA LION (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 17:00",
+      "imo": "3813869946",
+      "navio": "DRATEC XXI",
+      "tipo": "MUDANÇA",
+      "de": "TPBS - TPBS",
+      "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -358,6 +358,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 20:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
