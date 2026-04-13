@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T17:17:10.946Z",
+  "updatedAt": "2026-04-13T17:18:15.008Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 01:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
