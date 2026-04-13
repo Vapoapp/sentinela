@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T02:37:10.033Z",
+  "updatedAt": "2026-04-13T02:38:12.086Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 13:00",
+      "imo": "9141297",
+      "navio": "MSC ROCHELLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
