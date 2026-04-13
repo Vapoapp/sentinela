@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T21:20:13.166Z",
+  "updatedAt": "2026-04-13T21:21:09.633Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "-",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 16:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
