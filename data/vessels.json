@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T00:02:09.404Z",
+  "updatedAt": "2026-04-13T00:03:09.416Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 06:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 06:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 06:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 19:00",
-      "imo": "3813896277",
-      "navio": "DRATEC XXII",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "TPBS - TPBS",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 19:00",
       "imo": "9745378",
       "navio": "MSC SEAVIEW",
       "tipo": "SAÍDA",
       "de": "2N04 - Armazém 4",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 19:00",
+      "imo": "3813896277",
+      "navio": "DRATEC XXII",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "TPBS - TPBS",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +448,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 08:00",
+      "imo": "9385398",
+      "navio": "A.H. CAMOGLI (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
