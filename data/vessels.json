@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T08:23:08.986Z",
+  "updatedAt": "2026-04-13T08:24:10.766Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "TPBS - TPBS",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 00:00",
+      "imo": "9539494",
+      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
