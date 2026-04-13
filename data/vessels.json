@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T08:57:08.938Z",
+  "updatedAt": "2026-04-13T08:58:14.262Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 07:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
