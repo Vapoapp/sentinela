@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T02:36:12.793Z",
+  "updatedAt": "2026-04-13T02:37:10.033Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -122,16 +122,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 06:00",
-      "imo": "9715567",
-      "navio": "CBO OCEANA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 06:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "SAÍDA",
@@ -151,13 +141,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 07:00",
-      "imo": "3813896200",
-      "navio": "TS 9",
+      "inicio": "12/04/2026 06:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
       "tipo": "MUDANÇA",
-      "de": "BOIA TSHP - Boia Tranship",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,6 +158,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 07:00",
+      "imo": "3813896200",
+      "navio": "TS 9",
+      "tipo": "MUDANÇA",
+      "de": "BOIA TSHP - Boia Tranship",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 12:00",
+      "imo": "9350020",
+      "navio": "APL NEW JERSEY",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 12:00",
       "imo": "9705005",
       "navio": "MSC CATERINA",
       "tipo": "ENTRADA",
@@ -261,13 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 12:00",
-      "imo": "9350020",
-      "navio": "APL NEW JERSEY",
+      "inicio": "12/04/2026 13:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "TPSS - SUBSEA",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -287,16 +297,6 @@
       "tipo": "MUDANÇA",
       "de": "DOCKBRASIL - DOCKBRASIL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 13:00",
-      "imo": "9286762",
-      "navio": "SEVEN SABIÁ",
-      "tipo": "SAÍDA",
-      "de": "TPSS - SUBSEA",
-      "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/04/2026 22:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/04/2026 22:00",
       "imo": "9678147",
       "navio": "BRAVANTE II",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/04/2026 22:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 04:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
