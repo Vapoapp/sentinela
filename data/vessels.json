@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T19:16:15.919Z",
+  "updatedAt": "2026-04-13T19:17:12.008Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -231,16 +231,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 13:00",
-      "imo": "9141297",
-      "navio": "MSC ROCHELLE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 13:30",
       "imo": "9626118",
       "navio": "ALENTEJO",
@@ -377,16 +367,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 12:00",
-      "imo": "9141297",
-      "navio": "MSC ROCHELLE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
