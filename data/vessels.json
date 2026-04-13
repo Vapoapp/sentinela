@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T11:17:10.956Z",
+  "updatedAt": "2026-04-13T11:18:11.732Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 09:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
