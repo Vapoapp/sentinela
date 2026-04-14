@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T11:36:11.863Z",
+  "updatedAt": "2026-04-14T11:37:11.944Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 15:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
