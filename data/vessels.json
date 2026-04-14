@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T19:43:13.001Z",
+  "updatedAt": "2026-04-14T19:44:16.212Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -452,16 +452,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 16:00",
-      "imo": "9705005",
-      "navio": "MSC CATERINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 16:00",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
       "tipo": "ENTRADA",
@@ -492,12 +482,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 16:00",
-      "imo": "9423437",
-      "navio": "AKOFS SANTOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +508,16 @@
       "de": "-",
       "para": "TPSS - SUBSEA",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 16:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +578,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 13:00",
+      "imo": "9991202",
+      "navio": "MAERSK FREEPORT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
