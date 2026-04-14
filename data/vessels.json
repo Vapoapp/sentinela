@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T00:41:09.541Z",
+  "updatedAt": "2026-04-14T00:42:10.299Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 16:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/04/2026 16:00",
       "imo": "9705005",
       "navio": "MSC CATERINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 16:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/04/2026 20:00",
+      "imo": "9365582",
+      "navio": "SKANDI FLUMINENSE",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/04/2026 20:00",
       "imo": "9385271",
       "navio": "HOS TAURUS (REB)",
       "tipo": "ENTRADA",
@@ -458,6 +468,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 09:30",
+      "imo": "9489924",
+      "navio": "JOSÉ ALENCAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
