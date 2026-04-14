@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T22:56:09.883Z",
+  "updatedAt": "2026-04-14T22:57:08.222Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -402,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 14:00",
-      "imo": "9697002",
-      "navio": "MERCOSUL ITAJAÍ",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 14:00",
       "imo": "9703667",
       "navio": "BRAM HERO",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 14:00",
+      "imo": "9697002",
+      "navio": "MERCOSUL ITAJAÍ",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,16 +452,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 16:00",
-      "imo": "9427641",
-      "navio": "TAHOE SPIRIT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 16:00",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
       "tipo": "ENTRADA",
@@ -488,6 +478,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 16:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,12 +522,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 16:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9427641",
+      "navio": "TAHOE SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -622,6 +622,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/04/2026 04:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 04:00",
       "imo": "9827255",
       "navio": "VICTORIA HIGHWAY",
       "tipo": "SAÍDA",
@@ -632,22 +642,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/04/2026 06:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/04/2026 06:00",
       "imo": "9525376",
       "navio": "MAERSK CHAMBAL",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 06:00",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
