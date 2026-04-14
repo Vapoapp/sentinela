@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T11:44:11.274Z",
+  "updatedAt": "2026-04-14T11:45:12.836Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 06:00",
-      "imo": "9956903",
-      "navio": "SPARROWHAWK",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 06:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 06:00",
+      "imo": "9956903",
+      "navio": "SPARROWHAWK",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/04/2026 10:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
-      "para": "2N05 - Armazém 6",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/04/2026 10:00",
       "imo": "9827255",
       "navio": "VICTORIA HIGHWAY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 10:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "2N05 - Armazém 6",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 17:00",
+      "imo": "9141297",
+      "navio": "MSC ROCHELLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
