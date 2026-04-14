@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T00:53:14.080Z",
+  "updatedAt": "2026-04-14T00:54:12.238Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 05:00",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
