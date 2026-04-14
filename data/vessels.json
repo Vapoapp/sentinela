@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T23:38:10.214Z",
+  "updatedAt": "2026-04-14T23:39:11.682Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "14/04/2026 21:00",
+      "imo": "4430483591",
+      "navio": "AMBIPAR PLACIDO",
+      "tipo": "SAÍDA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "-",
+      "agente": "F.N AGENCIAMENTOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
