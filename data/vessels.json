@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-14T08:17:11.515Z",
+  "updatedAt": "2026-04-14T08:18:12.001Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "2N05 - Armazém 6",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/04/2026 10:30",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
