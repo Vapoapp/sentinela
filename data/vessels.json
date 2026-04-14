@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T23:39:11.682Z",
+  "updatedAt": "2026-04-14T23:40:13.369Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -768,6 +768,16 @@
       "de": "ESCD - ESTALEIRO CODEPE",
       "para": "-",
       "agente": "F.N AGENCIAMENTOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "14/04/2026 21:00",
+      "imo": "9559975",
+      "navio": "STIM STAR ARABIAN GULF (REB)",
+      "tipo": "SAÍDA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
