@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-15T12:48:11.004Z",
+  "updatedAt": "2026-04-15T12:49:10.869Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -361,16 +361,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/04/2026 16:30",
-      "imo": "9701140",
-      "navio": "GOODWOOD",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "15/04/2026 18:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS",
@@ -538,6 +528,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/04/2026 16:00",
+      "imo": "9986910",
+      "navio": "GREAT BLOSSOM",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Itaguaí",
