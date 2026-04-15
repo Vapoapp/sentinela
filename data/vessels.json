@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-15T05:29:08.848Z",
+  "updatedAt": "2026-04-15T05:30:15.130Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -108,6 +108,16 @@
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 05:00",
+      "imo": "9827255",
+      "navio": "VICTORIA HIGHWAY",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
