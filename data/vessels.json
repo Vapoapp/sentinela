@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-15T09:15:13.512Z",
+  "updatedAt": "2026-04-15T09:16:12.611Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -198,6 +198,16 @@
       "de": "2N16 - Armazém 16",
       "para": "2N07 - Pátio 8/9",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 07:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
