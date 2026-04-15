@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-15T03:33:10.456Z",
+  "updatedAt": "2026-04-15T03:34:10.166Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -61,13 +61,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/04/2026 04:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "inicio": "15/04/2026 02:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -78,6 +78,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 04:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
