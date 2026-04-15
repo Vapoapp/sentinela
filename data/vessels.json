@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T15:02:15.817Z",
+  "updatedAt": "2026-04-15T15:03:12.625Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/04/2026 18:30",
+      "imo": "9701188",
+      "navio": "MINERAL HIMAWARI",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
