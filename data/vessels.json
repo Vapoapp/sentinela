@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-15T02:07:10.356Z",
+  "updatedAt": "2026-04-15T02:08:13.992Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -622,6 +622,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/04/2026 04:00",
+      "imo": "9827255",
+      "navio": "VICTORIA HIGHWAY",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/04/2026 04:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "ENTRADA",
@@ -631,13 +641,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/04/2026 04:00",
-      "imo": "9827255",
-      "navio": "VICTORIA HIGHWAY",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "inicio": "15/04/2026 05:00",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
