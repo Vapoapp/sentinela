@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T15:05:21.803Z",
+  "updatedAt": "2026-04-16T15:06:15.600Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 08:00",
-      "imo": "9902249",
-      "navio": "EAGLE COLOMBO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 08:00",
       "imo": "9521021",
       "navio": "CBO WAVE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 08:00",
+      "imo": "9902249",
+      "navio": "EAGLE COLOMBO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 12:00",
-      "imo": "9965851",
-      "navio": "PORT NAGASAKI",
-      "tipo": "SAÍDA",
-      "de": "2N07 - Pátio 8/9",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 12:00",
       "imo": "9294082",
       "navio": "MAERSK VEGA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 12:00",
+      "imo": "9965851",
+      "navio": "PORT NAGASAKI",
+      "tipo": "SAÍDA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 16:30",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
