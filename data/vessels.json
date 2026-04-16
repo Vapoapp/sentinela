@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T11:03:10.395Z",
+  "updatedAt": "2026-04-16T11:04:13.364Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -202,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 08:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 08:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 13:30",
-      "imo": "9271755",
-      "navio": "MARLIN FLAMENGO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 13:30",
       "imo": "9569932",
       "navio": "PHILIPPAKOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 13:30",
+      "imo": "9271755",
+      "navio": "MARLIN FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
