@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T11:31:10.088Z",
+  "updatedAt": "2026-04-16T11:32:10.442Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 09:00",
+      "imo": "3813896277",
+      "navio": "DRATEC XXII",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "TPBS - TPBS",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 09:00",
       "imo": "9499888",
       "navio": "RECIFE KNUTSEN",
       "tipo": "SAÍDA",
@@ -312,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 13:30",
-      "imo": "9569932",
-      "navio": "PHILIPPAKOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 13:30",
       "imo": "9271755",
       "navio": "MARLIN FLAMENGO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 13:30",
+      "imo": "9569932",
+      "navio": "PHILIPPAKOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
