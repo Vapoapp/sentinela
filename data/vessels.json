@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T23:25:10.641Z",
+  "updatedAt": "2026-04-16T23:26:09.968Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -541,6 +541,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 21:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 23:00",
       "imo": "9334179",
       "navio": "CAPTAIN NICHOLAS Z",
@@ -592,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/04/2026 07:00",
-      "imo": "9704972",
-      "navio": "MSC ELODIE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/04/2026 07:00",
       "imo": "9692791",
       "navio": "WILDEBEEST (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 07:00",
+      "imo": "9704972",
+      "navio": "MSC ELODIE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
