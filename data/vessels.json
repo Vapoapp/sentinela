@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T01:14:13.586Z",
+  "updatedAt": "2026-04-16T01:15:11.920Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 07:00",
+      "imo": "9318448",
+      "navio": "NORSUL VEGA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
