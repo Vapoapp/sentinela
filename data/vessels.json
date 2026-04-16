@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T21:17:11.797Z",
+  "updatedAt": "2026-04-16T21:18:11.576Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -461,12 +461,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 19:00",
-      "imo": "9636034",
-      "navio": "ORYX (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
+      "inicio": "16/04/2026 18:00",
+      "imo": "9497139",
+      "navio": "SANTOS SUPPLIER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -478,6 +478,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 19:00",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
