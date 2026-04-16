@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T16:11:20.242Z",
+  "updatedAt": "2026-04-16T16:12:17.686Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 09:00",
-      "imo": "3813896277",
-      "navio": "DRATEC XXII",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "TPBS - TPBS",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 09:00",
       "imo": "9499888",
       "navio": "RECIFE KNUTSEN",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 09:00",
+      "imo": "3813896277",
+      "navio": "DRATEC XXII",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "TPBS - TPBS",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +358,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 16:00",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
