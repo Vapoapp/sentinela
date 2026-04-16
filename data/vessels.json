@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-16T16:03:14.469Z",
+  "updatedAt": "2026-04-16T16:04:22.580Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -202,26 +202,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 08:00",
-      "imo": "9521021",
-      "navio": "CBO WAVE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 08:00",
-      "imo": "9902249",
-      "navio": "EAGLE COLOMBO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 08:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "SAÍDA",
@@ -238,6 +218,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 08:00",
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 08:00",
+      "imo": "9902249",
+      "navio": "EAGLE COLOMBO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/04/2026 13:30",
-      "imo": "9569932",
-      "navio": "PHILIPPAKOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 13:30",
       "imo": "9271755",
       "navio": "MARLIN FLAMENGO",
       "tipo": "ENTRADA",
@@ -341,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/04/2026 14:00",
-      "imo": "9141297",
-      "navio": "MSC ROCHELLE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "16/04/2026 13:30",
+      "imo": "9569932",
+      "navio": "PHILIPPAKOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +348,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/04/2026 14:00",
+      "imo": "9141297",
+      "navio": "MSC ROCHELLE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,26 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 07:00",
+      "imo": "9704972",
+      "navio": "MSC ELODIE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 08:00",
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
