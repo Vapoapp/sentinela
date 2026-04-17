@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-17T06:06:12.949Z",
+  "updatedAt": "2026-04-17T06:07:11.906Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 06:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
