@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-17T11:11:08.846Z",
+  "updatedAt": "2026-04-17T11:12:11.604Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,16 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 18:00",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
