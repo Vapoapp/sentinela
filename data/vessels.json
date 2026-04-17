@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-17T03:53:11.720Z",
+  "updatedAt": "2026-04-17T03:54:10.564Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 05:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
