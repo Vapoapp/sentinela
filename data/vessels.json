@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-17T10:50:13.097Z",
+  "updatedAt": "2026-04-17T10:51:09.532Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/04/2026 06:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 06:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "MUDANÇA",
@@ -158,16 +168,6 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/04/2026 06:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -261,6 +261,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 11:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/04/2026 12:00",
       "imo": "9358826",
       "navio": "SEVEN OCEANS",
@@ -308,6 +318,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 09:30",
+      "imo": "9629457",
+      "navio": "CARDIFF",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
