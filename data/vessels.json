@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T17:58:10.684Z",
+  "updatedAt": "2026-04-17T17:59:08.701Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -668,6 +668,46 @@
       "de": "-",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/04/2026 20:00",
+      "imo": "9882451",
+      "navio": "MINERAL TANZANIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/04/2026 14:30",
+      "imo": "9439620",
+      "navio": "RICHLAND NEWCASTLE",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/04/2026 16:00",
+      "imo": "9882451",
+      "navio": "MINERAL TANZANIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/04/2026 17:00",
+      "imo": "9300582",
+      "navio": "XIN HAI TONG 905",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
