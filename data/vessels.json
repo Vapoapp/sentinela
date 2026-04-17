@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T11:30:17.558Z",
+  "updatedAt": "2026-04-17T11:31:11.862Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/04/2026 14:00",
+      "imo": "9488853",
+      "navio": "BRAVOS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
