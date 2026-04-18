@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T19:05:12.490Z",
+  "updatedAt": "2026-04-18T19:06:13.237Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/04/2026 19:00",
+      "imo": "9141297",
+      "navio": "MSC ROCHELLE",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING DO BRASIL LTDA"
     }
   ]
 }
