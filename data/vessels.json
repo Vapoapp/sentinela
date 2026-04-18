@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T00:05:14.359Z",
+  "updatedAt": "2026-04-18T00:06:09.439Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -432,16 +432,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/04/2026 16:00",
-      "imo": "9253210",
-      "navio": "GRANDE BUENOS AIRES",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/04/2026 16:00",
       "imo": "9659567",
       "navio": "BARU ÁTRIA",
       "tipo": "SAÍDA",
@@ -537,6 +527,16 @@
       "tipo": "SAÍDA",
       "de": "TPBL - BRICLOG",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/04/2026 21:00",
+      "imo": "9530199",
+      "navio": "SANTOS SERVICE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
