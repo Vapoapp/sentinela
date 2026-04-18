@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-18T22:22:09.739Z",
+  "updatedAt": "2026-04-18T22:23:10.852Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -512,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 16:00",
-      "imo": "9670743",
-      "navio": "CETUS BELUGA",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,12 +532,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 16:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
+      "imo": "9670743",
+      "navio": "CETUS BELUGA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -638,6 +638,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 04:00",
+      "imo": "9388584",
+      "navio": "MAERSK TOPPER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 04:30",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
