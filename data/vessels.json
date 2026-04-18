@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T11:59:08.342Z",
+  "updatedAt": "2026-04-18T12:00:14.733Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -441,16 +441,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "18/04/2026 14:30",
-      "imo": "9439620",
-      "navio": "RICHLAND NEWCASTLE",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "18/04/2026 16:00",
       "imo": "9882451",
       "navio": "MINERAL TANZANIA",
@@ -468,6 +458,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/04/2026 19:30",
+      "imo": "9439620",
+      "navio": "RICHLAND NEWCASTLE",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
