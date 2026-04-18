@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-18T20:13:07.867Z",
+  "updatedAt": "2026-04-18T20:14:09.329Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -342,8 +342,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 12:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
@@ -352,8 +352,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 12:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
@@ -502,26 +502,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 16:00",
-      "imo": "9422330",
-      "navio": "NORMAND POSEIDON (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 16:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 16:00",
       "imo": "9670743",
       "navio": "CETUS BELUGA",
       "tipo": "ENTRADA",
@@ -541,6 +521,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 16:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 16:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 16:30",
       "imo": "9492139",
       "navio": "SAO LUIZ",
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 16:30",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
