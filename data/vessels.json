@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-18T02:51:09.518Z",
+  "updatedAt": "2026-04-18T02:52:13.189Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -778,6 +778,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 10:30",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
