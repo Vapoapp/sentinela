@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-18T20:10:12.312Z",
+  "updatedAt": "2026-04-18T20:11:09.231Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -568,6 +568,16 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 18:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
