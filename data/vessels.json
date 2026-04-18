@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-18T21:12:12.451Z",
+  "updatedAt": "2026-04-18T21:13:10.002Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -342,8 +342,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 12:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
@@ -352,8 +352,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 12:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 14:30",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 14:30",
       "imo": "9704996",
       "navio": "MSC JULIE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 14:30",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,6 +502,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/04/2026 16:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 16:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 16:00",
       "imo": "9670743",
       "navio": "CETUS BELUGA",
       "tipo": "ENTRADA",
@@ -521,23 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 16:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
+      "inicio": "18/04/2026 16:30",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 16:00",
-      "imo": "9422330",
-      "navio": "NORMAND POSEIDON (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "SOLSTAD SHIPPING LTDA."
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -548,16 +558,6 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/04/2026 16:30",
-      "imo": "9668752",
-      "navio": "STARNAV REGULUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -608,6 +608,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/04/2026 22:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
