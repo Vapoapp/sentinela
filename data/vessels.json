@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-19T18:55:12.399Z",
+  "updatedAt": "2026-04-19T18:56:11.931Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -452,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/04/2026 15:00",
-      "imo": "9388584",
-      "navio": "MAERSK TOPPER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/04/2026 15:00",
       "imo": "9649835",
       "navio": "CMA CGM SANTOS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 15:00",
+      "imo": "9388584",
+      "navio": "MAERSK TOPPER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 00:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
