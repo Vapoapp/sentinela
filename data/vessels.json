@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:22:09.261Z",
+  "updatedAt": "2026-04-19T23:23:09.339Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 16
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -687,16 +687,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "20/04/2026 03:00",
-      "imo": "9588768",
-      "navio": "CHINA PIONEER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GEM SHIPPING LTDA"
     },
     {
