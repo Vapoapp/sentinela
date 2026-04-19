@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T23:27:09.303Z",
+  "updatedAt": "2026-04-19T23:28:11.085Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/04/2026 16:30",
+      "imo": "9300582",
+      "navio": "XIN HAI TONG 905",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
