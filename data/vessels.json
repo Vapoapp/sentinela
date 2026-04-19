@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-19T18:00:17.433Z",
+  "updatedAt": "2026-04-19T18:01:08.159Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/04/2026 06:00",
-      "imo": "9878345",
-      "navio": "LIBRA CONFIDENCE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/04/2026 06:00",
       "imo": "9365544",
       "navio": "NAVEGANTES PRIDE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 06:00",
+      "imo": "9878345",
+      "navio": "LIBRA CONFIDENCE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,6 +342,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/04/2026 13:00",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 13:00",
       "imo": "9324837",
       "navio": "NAVIOS VERMILION",
       "tipo": "SAÍDA",
@@ -372,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/04/2026 14:00",
+      "imo": "9497139",
+      "navio": "SANTOS SUPPLIER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 14:00",
       "imo": "9789726",
       "navio": "MANTA BEYOGLU",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/04/2026 14:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,12 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/04/2026 14:00",
-      "imo": "9497139",
-      "navio": "SANTOS SUPPLIER",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
