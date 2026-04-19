@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-19T08:11:11.850Z",
+  "updatedAt": "2026-04-19T08:12:09.320Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/04/2026 05:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
