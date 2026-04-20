@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T22:44:10.266Z",
+  "updatedAt": "2026-04-20T22:45:12.843Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -301,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 13:50",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 14:00",
       "imo": "9230830",
       "navio": "C-ATLAS (REB)",
@@ -461,6 +471,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:30",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 18:40",
       "imo": "9686144",
       "navio": "HOS REMINGTON",
@@ -608,6 +628,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "2NTO - Terminal de Óleo",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 18:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
