@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T18:41:09.955Z",
+  "updatedAt": "2026-04-20T18:42:10.606Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -608,6 +608,16 @@
       "de": "-",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/04/2026 18:00",
+      "imo": "1047419",
+      "navio": "CAPTAIN PANAGIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     }
   ]
 }
