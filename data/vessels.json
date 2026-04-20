@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T09:27:10.207Z",
+  "updatedAt": "2026-04-20T09:29:10.311Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 06:00",
+      "imo": "9739305",
+      "navio": "STOLT COBALT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
