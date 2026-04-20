@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T22:34:10.586Z",
+  "updatedAt": "2026-04-20T22:35:14.439Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 18:40",
       "imo": "9686144",
       "navio": "HOS REMINGTON",
@@ -458,6 +468,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9328455",
+      "navio": "ILHA DE SANTANA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +518,16 @@
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:30",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
