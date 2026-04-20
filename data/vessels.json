@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T22:51:09.449Z",
+  "updatedAt": "2026-04-20T22:52:14.543Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -492,12 +492,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 20:00",
-      "imo": "9636888",
-      "navio": "COSTA DIADEMA",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
       "tipo": "SAÍDA",
-      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,12 +542,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 20:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
+      "imo": "9636888",
+      "navio": "COSTA DIADEMA",
       "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
+      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,26 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 04:00",
+      "imo": "9525388",
+      "navio": "MAERSK CHACHAI",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 06:00",
+      "imo": "9250983",
+      "navio": "MSC DAMLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
