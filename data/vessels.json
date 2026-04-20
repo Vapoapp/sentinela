@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T11:34:14.030Z",
+  "updatedAt": "2026-04-20T11:35:16.238Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -276,6 +276,16 @@
       "navio": "MSC JULIE",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
+      "imo": "9978949",
+      "navio": "MSC MUGE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
