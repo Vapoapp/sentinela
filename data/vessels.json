@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T22:18:10.913Z",
+  "updatedAt": "2026-04-20T22:19:09.753Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -482,16 +482,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 21:00",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "MUDANÇA",
-      "de": "2NTO - Terminal de Óleo",
-      "para": "2N05 - Armazém 6",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 21:00",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
       "tipo": "ENTRADA",
@@ -518,6 +508,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 22:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "MUDANÇA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "2N05 - Armazém 6",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
