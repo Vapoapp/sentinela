@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T18:12:13.760Z",
+  "updatedAt": "2026-04-20T18:13:08.505Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/04/2026 19:30",
+      "imo": "9588768",
+      "navio": "CHINA PIONEER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
