@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T21:06:10.667Z",
+  "updatedAt": "2026-04-20T21:07:09.652Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 18:00",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
       "imo": "9365544",
       "navio": "NAVEGANTES PRIDE",
       "tipo": "SAÍDA",
@@ -488,6 +498,16 @@
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 21:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "MUDANÇA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "2N05 - Armazém 6",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
