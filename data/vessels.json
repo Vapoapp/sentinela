@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T22:03:07.798Z",
+  "updatedAt": "2026-04-20T22:04:09.716Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 08:00",
-      "imo": "9636888",
-      "navio": "COSTA DIADEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N04 - Armazém 4",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 08:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 08:00",
+      "imo": "9636888",
+      "navio": "COSTA DIADEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N04 - Armazém 4",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 16:00",
-      "imo": "9938250",
-      "navio": "CMA CGM BUZIOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,12 +382,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 16:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "SAÍDA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9938250",
+      "navio": "CMA CGM BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 18:00",
+      "imo": "9365544",
+      "navio": "NAVEGANTES PRIDE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
       "imo": "9283435",
       "navio": "MARLIN COPACABANA",
       "tipo": "ENTRADA",
@@ -441,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 18:00",
-      "imo": "9365544",
-      "navio": "NAVEGANTES PRIDE",
+      "inicio": "20/04/2026 18:40",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +518,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 22:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
