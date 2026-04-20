@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T09:21:12.541Z",
+  "updatedAt": "2026-04-20T09:22:14.654Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -198,6 +198,16 @@
       "de": "2N11 - Armazém 13",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 15:00",
+      "imo": "9938250",
+      "navio": "CMA CGM BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
