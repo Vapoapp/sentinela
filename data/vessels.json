@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T22:36:09.367Z",
+  "updatedAt": "2026-04-20T22:37:10.176Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 15:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 15:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 15:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,6 +472,36 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 20:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9636888",
+      "navio": "COSTA DIADEMA",
+      "tipo": "SAÍDA",
+      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9348053",
+      "navio": "MAERSK MONTE AZUL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
       "imo": "9328455",
       "navio": "ILHA DE SANTANA (REB)",
       "tipo": "ENTRADA",
@@ -488,36 +518,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9348053",
-      "navio": "MAERSK MONTE AZUL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9636888",
-      "navio": "COSTA DIADEMA",
-      "tipo": "SAÍDA",
-      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +578,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 23:00",
+      "imo": "9497139",
+      "navio": "SANTOS SUPPLIER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
