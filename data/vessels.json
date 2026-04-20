@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-20T09:18:10.382Z",
+  "updatedAt": "2026-04-20T09:19:09.267Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 22:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
