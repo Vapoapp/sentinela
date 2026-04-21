@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T16:20:18.935Z",
+  "updatedAt": "2026-04-21T16:21:11.502Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -608,16 +608,6 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "21/04/2026 18:00",
-      "imo": "1047419",
-      "navio": "CAPTAIN PANAGIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     }
   ]
 }
