@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-21T16:09:11.368Z",
+  "updatedAt": "2026-04-21T16:10:13.568Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/04/2026 07:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 07:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
       "tipo": "MUDANÇA",
@@ -272,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/04/2026 10:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/04/2026 10:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 10:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,22 +512,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/04/2026 21:00",
-      "imo": "9348053",
-      "navio": "MAERSK MONTE AZUL",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/04/2026 21:00",
       "imo": "1057268",
       "navio": "VIGOR OL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 21:00",
+      "imo": "9348053",
+      "navio": "MAERSK MONTE AZUL",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
