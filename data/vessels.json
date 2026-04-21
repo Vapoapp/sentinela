@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-21T09:07:14.135Z",
+  "updatedAt": "2026-04-21T09:08:13.855Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/04/2026 06:30",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 06:30",
       "imo": "9853278",
       "navio": "NAVIG8 PASSION",
       "tipo": "MUDANÇA",
@@ -202,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/04/2026 10:30",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/04/2026 10:30",
       "imo": "9492000",
       "navio": "ANGRA DOS REIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 10:30",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
