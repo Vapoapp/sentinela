@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-21T00:48:09.755Z",
+  "updatedAt": "2026-04-21T00:49:09.573Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 86
+      "count": 87
     },
     "niteroi": {
       "ok": true,
@@ -492,46 +492,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 20:00",
-      "imo": "9636888",
-      "navio": "COSTA DIADEMA",
-      "tipo": "SAÍDA",
-      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9348053",
-      "navio": "MAERSK MONTE AZUL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 20:00",
       "imo": "9328455",
       "navio": "ILHA DE SANTANA (REB)",
       "tipo": "ENTRADA",
@@ -548,6 +508,46 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9348053",
+      "navio": "MAERSK MONTE AZUL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9636888",
+      "navio": "COSTA DIADEMA",
+      "tipo": "SAÍDA",
+      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 20:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,8 +612,18 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 23:00",
-      "imo": "9636022",
-      "navio": "SABLE (REB)",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 23:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -632,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 23:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 23:00",
       "imo": "9978949",
       "navio": "MSC MUGE",
       "tipo": "SAÍDA",
@@ -641,23 +661,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 23:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 23:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "21/04/2026 01:00",
+      "imo": "9494618",
+      "navio": "A.H. VALLETTA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
