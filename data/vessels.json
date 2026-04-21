@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-21T02:19:11.148Z",
+  "updatedAt": "2026-04-21T02:20:14.834Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 91
+      "count": 92
     },
     "niteroi": {
       "ok": true,
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 08:30",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "2N11 - Armazém 13",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 08:30",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 08:30",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "2N11 - Armazém 13",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 15:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 15:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
@@ -348,16 +358,6 @@
       "de": "-",
       "para": "2N11 - Armazém 13",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 15:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,26 +432,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 18:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 18:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 18:00",
       "imo": "9283435",
       "navio": "MARLIN COPACABANA",
       "tipo": "ENTRADA",
@@ -468,6 +448,26 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 18:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -592,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/04/2026 22:00",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "MUDANÇA",
-      "de": "2NTO - Terminal de Óleo",
-      "para": "2N05 - Armazém 6",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/04/2026 22:00",
       "imo": "9274862",
       "navio": "PARCEL DAS TIMBEBAS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 22:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "MUDANÇA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "2N05 - Armazém 6",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -678,6 +678,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 23:30",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
