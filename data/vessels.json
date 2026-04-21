@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-21T00:42:10.191Z",
+  "updatedAt": "2026-04-21T00:43:09.092Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -598,6 +598,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "2N05 - Armazém 6",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/04/2026 22:30",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
