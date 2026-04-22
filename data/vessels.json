@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T09:06:12.151Z",
+  "updatedAt": "2026-04-22T09:07:12.696Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -118,6 +118,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 07:00",
+      "imo": "9442067",
+      "navio": "TORDA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
     },
     {
       "porto": "Rio de Janeiro",
