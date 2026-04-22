@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T12:02:10.573Z",
+  "updatedAt": "2026-04-22T12:03:10.277Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "2NTO - Terminal de Óleo",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 12:30",
+      "imo": "9902225",
+      "navio": "EAGLE CAMPOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
