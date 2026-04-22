@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T02:51:10.988Z",
+  "updatedAt": "2026-04-22T02:52:09.707Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -578,6 +578,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/04/2026 23:00",
+      "imo": "9329966",
+      "navio": "NORMAND TURQUESA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Niterói",
