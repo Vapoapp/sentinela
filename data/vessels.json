@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T07:26:11.151Z",
+  "updatedAt": "2026-04-22T07:27:11.896Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "DOCKBRASIL - DOCKBRASIL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 13:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
