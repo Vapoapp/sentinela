@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T22:14:10.097Z",
+  "updatedAt": "2026-04-22T22:15:13.331Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 18:30",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
