@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T07:24:10.269Z",
+  "updatedAt": "2026-04-22T07:25:14.369Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 6
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,36 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 05:00",
+      "imo": "9368895",
+      "navio": "VIKING BRASILIA",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 06:00",
+      "imo": "9250983",
+      "navio": "MSC DAMLA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 14:00",
+      "imo": "9706449",
+      "navio": "SKANDI AÇU",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
