@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T07:31:09.304Z",
+  "updatedAt": "2026-04-22T07:32:17.439Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 00:30",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/04/2026 00:30",
