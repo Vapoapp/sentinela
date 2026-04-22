@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-22T07:30:16.589Z",
+  "updatedAt": "2026-04-22T07:31:09.304Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -91,6 +91,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 06:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/04/2026 06:30",
       "imo": "9644122",
       "navio": "TAGAZ",
@@ -102,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/04/2026 08:00",
-      "imo": "9626455",
-      "navio": "KUDU (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/04/2026 08:00",
       "imo": "9290531",
       "navio": "MSC PAMELA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 08:00",
+      "imo": "9626455",
+      "navio": "KUDU (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
