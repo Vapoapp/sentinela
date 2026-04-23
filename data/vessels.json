@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T05:25:10.289Z",
+  "updatedAt": "2026-04-23T05:26:10.317Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -46,6 +46,16 @@
       "navio": "SANTOS SCOUT",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 03:00",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "TPBL - BRICLOG",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
