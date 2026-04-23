@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T14:35:05.855Z",
+  "updatedAt": "2026-04-23T14:36:13.383Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,12 +352,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9492000",
-      "navio": "ANGRA DOS REIS",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9692636",
-      "navio": "CBO ENERGY (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 13:30",
       "imo": "9246607",
       "navio": "GRANDE AMBURGO",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 13:30",
+      "imo": "9692636",
+      "navio": "CBO ENERGY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 15:15",
+      "imo": "9644122",
+      "navio": "TAGAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
