@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T08:20:13.784Z",
+  "updatedAt": "2026-04-23T08:21:14.630Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -101,6 +101,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 05:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 06:00",
       "imo": "1",
       "navio": "DIXMUDE",
@@ -162,16 +172,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 07:30",
-      "imo": "9867619",
-      "navio": "AITOLOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 07:30",
       "imo": "9996733",
       "navio": "CMA CGM KRYPTON",
       "tipo": "SAÍDA",
@@ -181,13 +181,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "23/04/2026 07:30",
+      "imo": "9867619",
+      "navio": "AITOLOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -198,6 +198,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 08:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9246607",
-      "navio": "GRANDE AMBURGO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 13:30",
       "imo": "9692636",
       "navio": "CBO ENERGY (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 13:30",
+      "imo": "9246607",
+      "navio": "GRANDE AMBURGO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
