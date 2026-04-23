@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T20:59:09.136Z",
+  "updatedAt": "2026-04-23T21:00:19.173Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "TPMJ - Estaleiro Mauá",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/04/2026 15:30",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
