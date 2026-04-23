@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T09:14:12.120Z",
+  "updatedAt": "2026-04-23T09:15:17.826Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 04:15",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 08:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:00",
       "imo": "9644122",
       "navio": "TAGAZ",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 08:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
