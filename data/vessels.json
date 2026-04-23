@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T01:36:13.361Z",
+  "updatedAt": "2026-04-23T01:37:12.700Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -601,6 +601,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 04:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 05:30",
       "imo": "9246607",
       "navio": "GRANDE AMBURGO",
@@ -672,16 +682,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 08:00",
-      "imo": "9644122",
-      "navio": "TAGAZ",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "SAÍDA",
@@ -691,13 +691,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:30",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "MUDANÇA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "inicio": "23/04/2026 08:00",
+      "imo": "9644122",
+      "navio": "TAGAZ",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -708,6 +708,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 08:30",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "MUDANÇA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +738,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 12:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -758,16 +778,6 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 12:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
