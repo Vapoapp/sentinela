@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T19:29:12.947Z",
+  "updatedAt": "2026-04-23T19:30:15.342Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "-",
       "para": "Fundeio - 5FB5 - Área de Fundeio B5",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/04/2026 19:00",
+      "imo": "9592446",
+      "navio": "AANYA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
