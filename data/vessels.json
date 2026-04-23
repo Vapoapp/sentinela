@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T14:32:16.225Z",
+  "updatedAt": "2026-04-23T14:35:05.855Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 08:30",
+      "imo": "9830056",
+      "navio": "CSSC YUAN JING",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 08:30",
       "imo": "9605279",
       "navio": "MSC AMALFI",
       "tipo": "ENTRADA",
@@ -248,16 +258,6 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:30",
-      "imo": "9830056",
-      "navio": "CSSC YUAN JING",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 09:30",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 09:30",
       "imo": "9907847",
       "navio": "ETG MISHIMA",
       "tipo": "ENTRADA",
@@ -302,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 11:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 11:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 11:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,12 +342,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 12:00",
       "imo": "9492000",
       "navio": "ANGRA DOS REIS",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 12:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9246607",
-      "navio": "GRANDE AMBURGO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 13:30",
       "imo": "9692636",
       "navio": "CBO ENERGY (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 13:30",
+      "imo": "9246607",
+      "navio": "GRANDE AMBURGO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +428,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 18:00",
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
