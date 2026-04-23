@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T01:20:12.713Z",
+  "updatedAt": "2026-04-23T01:21:09.125Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -798,6 +798,26 @@
       "de": "ESCS - CASTRO SILVA",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "22/04/2026 22:30",
+      "imo": "9273258",
+      "navio": "AUSTRAL ABROLHOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "22/04/2026 22:30",
+      "imo": "9284324",
+      "navio": "OCEANICASUB XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Niterói",
