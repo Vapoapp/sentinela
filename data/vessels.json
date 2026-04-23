@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T00:09:09.967Z",
+  "updatedAt": "2026-04-23T00:10:13.292Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 12:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
