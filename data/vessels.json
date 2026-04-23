@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T00:31:10.958Z",
+  "updatedAt": "2026-04-23T00:32:09.525Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -532,16 +532,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/04/2026 22:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/04/2026 22:00",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
       "tipo": "SAÍDA",
@@ -558,6 +548,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/04/2026 22:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -758,6 +758,26 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 13:00",
+      "imo": "9302592",
+      "navio": "ARCHANGEL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 14:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Niterói",
