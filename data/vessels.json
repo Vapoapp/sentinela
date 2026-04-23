@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T08:22:14.585Z",
+  "updatedAt": "2026-04-23T08:23:09.078Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 08:00",
-      "imo": "9644122",
-      "navio": "TAGAZ",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 08:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 08:00",
+      "imo": "9644122",
+      "navio": "TAGAZ",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,12 +272,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9692636",
-      "navio": "CBO ENERGY (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 13:30",
       "imo": "9246607",
       "navio": "GRANDE AMBURGO",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 13:30",
+      "imo": "9692636",
+      "navio": "CBO ENERGY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +348,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 15:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Niterói",
