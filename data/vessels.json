@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T22:12:10.901Z",
+  "updatedAt": "2026-04-23T22:13:12.737Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -342,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 12:00",
-      "imo": "9756951",
-      "navio": "BS UBATUBA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/04/2026 12:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 12:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,18 +422,18 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9692636",
-      "navio": "CBO ENERGY (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "9806512",
+      "navio": "STARNAV DELPHINUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9806512",
-      "navio": "STARNAV DELPHINUS",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
@@ -452,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/04/2026 13:30",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9692636",
+      "navio": "CBO ENERGY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -758,6 +758,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 13:30",
+      "imo": "9299549",
+      "navio": "MSC JUDITH (BAND. GREYLIST PARIS MOU)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
