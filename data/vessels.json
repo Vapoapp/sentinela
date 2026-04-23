@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-23T03:23:09.896Z",
+  "updatedAt": "2026-04-23T03:24:14.082Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -197,6 +197,16 @@
       "tipo": "SAÍDA",
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/04/2026 09:30",
+      "imo": "9907847",
+      "navio": "ETG MISHIMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
