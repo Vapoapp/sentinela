@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T17:38:10.291Z",
+  "updatedAt": "2026-04-24T17:39:10.427Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -352,16 +352,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 13:30",
-      "imo": "9806483",
-      "navio": "STARNAV LIBRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 13:30",
       "imo": "9299549",
       "navio": "MSC JUDITH (BAND. GREYLIST PARIS MOU)",
       "tipo": "ENTRADA",
@@ -391,6 +381,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 13:30",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 14:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 14:00",
       "imo": "9600578",
       "navio": "SKANDI URCA",
@@ -411,16 +421,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 14:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 14:30",
       "imo": "9763760",
       "navio": "BRAM BUCK",
@@ -438,6 +438,16 @@
       "de": "Fundeio - 2F08 - NW DO TPP1",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 15:30",
+      "imo": "9257606",
+      "navio": "VIKING SURF (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
