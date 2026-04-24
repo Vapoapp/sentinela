@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T09:36:14.445Z",
+  "updatedAt": "2026-04-24T09:37:13.132Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 14:30",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
