@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T16:45:15.011Z",
+  "updatedAt": "2026-04-24T16:46:16.570Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -362,6 +362,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 13:30",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 13:30",
       "imo": "9299549",
       "navio": "MSC JUDITH (BAND. GREYLIST PARIS MOU)",
       "tipo": "ENTRADA",
@@ -372,22 +382,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 13:30",
-      "imo": "9672636",
-      "navio": "HOS BRASS RING",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 14:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +398,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 14:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
