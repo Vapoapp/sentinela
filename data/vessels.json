@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T19:02:14.689Z",
+  "updatedAt": "2026-04-24T19:03:10.459Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -252,12 +252,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 10:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 10:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +518,16 @@
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 23:00",
+      "imo": "9629469",
+      "navio": "SWANSEA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
