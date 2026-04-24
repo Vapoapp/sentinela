@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T17:37:14.933Z",
+  "updatedAt": "2026-04-24T17:38:10.291Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 10:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 10:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 10:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,6 +352,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 13:30",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 13:30",
       "imo": "9299549",
       "navio": "MSC JUDITH (BAND. GREYLIST PARIS MOU)",
       "tipo": "ENTRADA",
@@ -381,16 +391,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 13:30",
-      "imo": "9806483",
-      "navio": "STARNAV LIBRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 14:00",
       "imo": "9600578",
       "navio": "SKANDI URCA",
@@ -398,6 +398,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 14:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "MUDANÇA",
+      "de": "TPSS - SUBSEA",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
