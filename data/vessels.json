@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T09:45:13.643Z",
+  "updatedAt": "2026-04-24T09:46:11.395Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -268,6 +268,16 @@
       "de": "2N07 - Pátio 8/9",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "24/04/2026 06:30",
+      "imo": "9644134",
+      "navio": "PRION",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
