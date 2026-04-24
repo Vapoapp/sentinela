@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T20:12:14.356Z",
+  "updatedAt": "2026-04-24T20:13:13.204Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -677,6 +677,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/04/2026 04:30",
+      "imo": "9595591",
+      "navio": "NGM GLORY",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
