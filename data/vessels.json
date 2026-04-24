@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-24T21:39:09.121Z",
+  "updatedAt": "2026-04-24T21:40:18.264Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 12:00",
-      "imo": "9686144",
-      "navio": "HOS REMINGTON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/04/2026 12:00",
       "imo": "9257606",
       "navio": "VIKING SURF (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 12:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -501,6 +501,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 18:40",
+      "imo": "9494618",
+      "navio": "A.H. VALLETTA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 19:00",
       "imo": "9642590",
       "navio": "PINGUIM",
@@ -512,12 +522,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 19:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
+      "imo": "9303508",
+      "navio": "ILHA DE SÃO SEBASTIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,12 +542,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/04/2026 19:00",
-      "imo": "9303508",
-      "navio": "ILHA DE SÃO SEBASTIÃO (REB)",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/04/2026 20:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -622,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/04/2026 07:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/04/2026 07:00",
       "imo": "0011466537",
       "navio": "BONO II",
       "tipo": "MUDANÇA",
@@ -638,16 +668,6 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/04/2026 07:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
