@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-25T03:51:13.258Z",
+  "updatedAt": "2026-04-25T03:52:10.154Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "niteroi": {
       "ok": true,
@@ -61,6 +61,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/04/2026 04:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/04/2026 05:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
@@ -72,12 +82,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/04/2026 07:00",
-      "imo": "0011466537",
-      "navio": "BONO II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -92,12 +102,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/04/2026 07:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
