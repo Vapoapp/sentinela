@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-25T13:30:13.390Z",
+  "updatedAt": "2026-04-25T13:31:09.318Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/04/2026 09:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "MUDANÇA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "Fundeio - 2F08 - NW DO TPP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/04/2026 09:00",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/04/2026 09:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "MUDANÇA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "Fundeio - 2F08 - NW DO TPP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -258,6 +258,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/04/2026 13:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
