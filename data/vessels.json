@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-25T08:44:12.034Z",
+  "updatedAt": "2026-04-25T08:45:12.252Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/04/2026 07:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
