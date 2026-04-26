@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T02:17:09.727Z",
+  "updatedAt": "2026-04-26T02:18:12.033Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -557,6 +557,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "25/04/2026 23:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
       "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
