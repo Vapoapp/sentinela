@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-26T19:21:07.899Z",
+  "updatedAt": "2026-04-26T19:22:09.354Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 10:00",
-      "imo": "9989211",
-      "navio": "BOW COUGAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 10:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 10:00",
+      "imo": "9989211",
+      "navio": "BOW COUGAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -211,6 +211,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 12:00",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 13:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
@@ -232,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 15:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 15:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 15:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,12 +272,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 15:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
