@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-26T09:03:14.822Z",
+  "updatedAt": "2026-04-26T09:04:08.740Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 05:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 05:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "MUDANÇA",
@@ -91,13 +101,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 05:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "26/04/2026 07:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
