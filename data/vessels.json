@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T08:19:12.630Z",
+  "updatedAt": "2026-04-27T08:20:15.636Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -91,6 +91,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 05:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 06:00",
       "imo": "9710969",
       "navio": "SEVEN SUN",
@@ -121,6 +131,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 06:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 06:30",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
@@ -138,6 +158,16 @@
       "de": "Fundeio - 2F08 - NW DO TPP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 07:30",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
