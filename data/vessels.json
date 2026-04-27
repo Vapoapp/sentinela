@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T02:11:08.620Z",
+  "updatedAt": "2026-04-27T02:12:12.568Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 12:00",
-      "imo": "9271755",
-      "navio": "MARLIN FLAMENGO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 12:00",
       "imo": "9369734",
       "navio": "MSC BREMEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 12:00",
+      "imo": "9271755",
+      "navio": "MARLIN FLAMENGO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -237,16 +237,6 @@
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 15:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
@@ -281,6 +271,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 15:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 16:00",
       "imo": "9799070",
       "navio": "STARNAV SCORPIUS",
@@ -292,21 +292,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 16:00",
-      "imo": "9271755",
-      "navio": "MARLIN FLAMENGO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 16:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 16:00",
+      "imo": "9271755",
+      "navio": "MARLIN FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/04/2026 19:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/04/2026 19:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 19:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +378,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/04/2026 22:30",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
