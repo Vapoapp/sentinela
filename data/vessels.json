@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T06:42:13.122Z",
+  "updatedAt": "2026-04-27T06:43:11.611Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -231,6 +231,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "27/04/2026 04:30",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
       "inicio": "27/04/2026 06:00",
       "imo": "9385257",
       "navio": "HOS MAVERICK",
@@ -238,6 +248,16 @@
       "de": "-",
       "para": "ESMA - ESTALEIRO MAUÁ",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/04/2026 10:30",
+      "imo": "9284324",
+      "navio": "OCEANICASUB XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
