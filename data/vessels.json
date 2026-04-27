@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T19:10:14.588Z",
+  "updatedAt": "2026-04-27T19:11:10.469Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -342,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 16:00",
-      "imo": "9945837",
-      "navio": "COSCO SHIPPING BRAZIL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 16:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 16:00",
+      "imo": "9945837",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +418,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 07:00",
+      "imo": "9307243",
+      "navio": "LE HAVRE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
