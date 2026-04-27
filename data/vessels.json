@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T06:36:10.074Z",
+  "updatedAt": "2026-04-27T06:37:10.650Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 02:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -92,12 +102,52 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 06:00",
+      "imo": "9369734",
+      "navio": "MSC BREMEN",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 06:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 07:00",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F08 - NW DO TPP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 08:30",
+      "imo": "1",
+      "navio": "DIXMUDE",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 09:00",
+      "imo": "2",
+      "navio": "SURCOUF (ACONIT)",
+      "tipo": "SAÍDA",
+      "de": "2N05 - Armazém 6",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
