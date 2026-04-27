@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T19:02:11.709Z",
+  "updatedAt": "2026-04-27T19:03:09.897Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 2
+      "count": 4
     },
     "angra": {
       "ok": true,
@@ -548,6 +548,26 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/04/2026 22:00",
+      "imo": "9757797",
+      "navio": "PORT PIRIE",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "28/04/2026 00:00",
+      "imo": "9703411",
+      "navio": "CL CONTIGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
