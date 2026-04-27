@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T18:50:12.972Z",
+  "updatedAt": "2026-04-27T18:51:09.743Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 09:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 09:00",
       "imo": "2",
       "navio": "SURCOUF (ACONIT)",
       "tipo": "SAÍDA",
       "de": "2N05 - Armazém 6",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 09:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 10:00",
-      "imo": "9439917",
-      "navio": "GH EXPLORER",
+      "imo": "9956410",
+      "navio": "BOCHEM CASABLANCA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 10:00",
-      "imo": "9956410",
-      "navio": "BOCHEM CASABLANCA",
+      "imo": "9439917",
+      "navio": "GH EXPLORER",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2NTO - Terminal de Óleo",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 14:00",
-      "imo": "9396775",
-      "navio": "PACIFIC PRIDE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 14:00",
       "imo": "9348065",
       "navio": "MAERSK MONTE ALEGRE",
       "tipo": "ENTRADA",
@@ -331,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 16:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "27/04/2026 14:00",
+      "imo": "9396775",
+      "navio": "PACIFIC PRIDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +338,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 16:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +378,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 01:00",
+      "imo": "9651321",
+      "navio": "AEGIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
