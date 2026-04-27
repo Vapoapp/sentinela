@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T06:40:12.742Z",
+  "updatedAt": "2026-04-27T06:41:11.229Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 06:00",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 06:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "ENTRADA",
@@ -118,6 +128,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 06:30",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
