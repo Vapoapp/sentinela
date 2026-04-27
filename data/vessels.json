@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T10:52:13.013Z",
+  "updatedAt": "2026-04-27T10:53:14.116Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 08:00",
+      "imo": "9307243",
+      "navio": "LE HAVRE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
