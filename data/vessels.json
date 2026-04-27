@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T20:59:11.764Z",
+  "updatedAt": "2026-04-27T21:00:19.543Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 06:00",
-      "imo": "9710969",
-      "navio": "SEVEN SUN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 06:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 06:00",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 10:00",
+      "imo": "9439917",
+      "navio": "GH EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 10:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "ENTRADA",
@@ -238,16 +248,6 @@
       "de": "-",
       "para": "2NTO - Terminal de Óleo",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 10:00",
-      "imo": "9439917",
-      "navio": "GH EXPLORER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -387,6 +387,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 17:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
