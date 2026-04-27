@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T16:19:11.825Z",
+  "updatedAt": "2026-04-27T16:20:14.335Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/04/2026 14:00",
+      "imo": "9442067",
+      "navio": "TORDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
     },
     {
       "porto": "Niterói",
