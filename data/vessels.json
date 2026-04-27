@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-27T20:26:14.961Z",
+  "updatedAt": "2026-04-27T20:27:10.105Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 08:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
