@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T00:58:10.679Z",
+  "updatedAt": "2026-04-28T00:59:10.683Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -568,6 +568,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9296248",
+      "navio": "OCEAN LION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "CP SHIPPING"
     },
     {
       "porto": "Rio de Janeiro",
