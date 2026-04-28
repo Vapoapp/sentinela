@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T14:22:23.713Z",
+  "updatedAt": "2026-04-28T14:23:12.105Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 14:00",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
