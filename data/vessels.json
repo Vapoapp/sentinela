@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T04:37:10.993Z",
+  "updatedAt": "2026-04-28T04:38:14.422Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 01:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,36 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 10:00",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 10:00",
-      "imo": "9604586",
-      "navio": "SKANDI PARATY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 10:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 10:00",
       "imo": "0011466537",
       "navio": "BONO II",
       "tipo": "MUDANÇA",
@@ -178,6 +158,36 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9604586",
+      "navio": "SKANDI PARATY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
