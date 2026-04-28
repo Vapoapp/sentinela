@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T01:38:09.463Z",
+  "updatedAt": "2026-04-28T01:39:09.988Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -392,21 +392,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 17:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 17:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 17:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
@@ -588,6 +588,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
