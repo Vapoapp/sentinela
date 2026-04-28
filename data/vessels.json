@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T23:24:12.512Z",
+  "updatedAt": "2026-04-28T23:25:13.867Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -422,6 +422,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 18:00",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 18:00",
       "imo": "9656204",
       "navio": "SAPURA ESMERALDA",
       "tipo": "SAÍDA",
@@ -431,13 +441,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 18:00",
-      "imo": "9274874",
-      "navio": "NORMAND TOPAZIO",
+      "inicio": "28/04/2026 20:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +462,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 20:00",
-      "imo": "9668726",
-      "navio": "STARNAV PERSEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
