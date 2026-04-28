@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T11:30:15.951Z",
+  "updatedAt": "2026-04-28T11:31:10.806Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 11:00",
+      "imo": "3810263427",
+      "navio": "TMJ 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
