@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T22:55:12.898Z",
+  "updatedAt": "2026-04-28T22:56:14.355Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 17:00",
-      "imo": "9442067",
-      "navio": "TORDA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 17:00",
       "imo": "3810508756",
       "navio": "TS OURIÇADO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 17:00",
+      "imo": "9442067",
+      "navio": "TORDA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -478,6 +478,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 23:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
