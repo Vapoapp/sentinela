@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T01:39:09.988Z",
+  "updatedAt": "2026-04-28T01:40:16.087Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 14:00",
+      "imo": "9396775",
+      "navio": "PACIFIC PRIDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 14:00",
       "imo": "4430483591",
       "navio": "AMBIPAR PLACIDO",
       "tipo": "ENTRADA",
@@ -338,16 +348,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 14:00",
-      "imo": "9396775",
-      "navio": "PACIFIC PRIDE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,21 +392,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/04/2026 17:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/04/2026 17:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 17:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
@@ -502,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 00:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 00:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "MUDANÇA",
       "de": "2P14 - Terminal Petrobrás (Armazém 14)",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 00:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +538,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 07:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -618,6 +628,16 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
