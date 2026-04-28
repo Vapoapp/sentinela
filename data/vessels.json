@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T23:50:13.817Z",
+  "updatedAt": "2026-04-28T23:51:09.794Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 20:00",
-      "imo": "3810508756",
-      "navio": "TS OURIÇADO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 20:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 20:00",
+      "imo": "3810508756",
+      "navio": "TS OURIÇADO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -504,6 +504,16 @@
       "inicio": "28/04/2026 21:50",
       "imo": "9626455",
       "navio": "KUDU (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 22:30",
+      "imo": "9788459",
+      "navio": "MR ALDO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -538,6 +548,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 04:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
