@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T22:56:14.355Z",
+  "updatedAt": "2026-04-28T22:57:19.383Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 07:00",
+      "imo": "9569932",
+      "navio": "PHILIPPAKOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 07:00",
       "imo": "0011466537",
       "navio": "BONO II",
       "tipo": "MUDANÇA",
@@ -121,16 +131,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 07:00",
-      "imo": "9569932",
-      "navio": "PHILIPPAKOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 07:30",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
@@ -138,16 +138,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 08:00",
-      "imo": "9494618",
-      "navio": "A.H. VALLETTA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N05 - Armazém 6",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,6 +158,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2N16 - Armazém 16",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 08:00",
+      "imo": "9494618",
+      "navio": "A.H. VALLETTA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N05 - Armazém 6",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 12:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 12:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "MUDANÇA",
@@ -261,13 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 12:00",
-      "imo": "9440681",
-      "navio": "SKUA",
+      "inicio": "28/04/2026 13:00",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
       "tipo": "SAÍDA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -281,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 13:00",
-      "imo": "9492000",
-      "navio": "ANGRA DOS REIS",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "inicio": "28/04/2026 14:00",
+      "imo": "9767833",
+      "navio": "CBO PARINTINS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,16 +308,6 @@
       "de": "Fundeio - WPT 82 - 2F08",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 14:00",
-      "imo": "9767833",
-      "navio": "CBO PARINTINS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 18:00",
-      "imo": "9274874",
-      "navio": "NORMAND TOPAZIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 18:00",
       "imo": "9656204",
       "navio": "SAPURA ESMERALDA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 18:00",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "2N06 - Armazém 7",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 01:30",
+      "imo": "9442067",
+      "navio": "TORDA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
     },
     {
       "porto": "Rio de Janeiro",
