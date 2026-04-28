@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T00:52:10.916Z",
+  "updatedAt": "2026-04-28T00:53:11.250Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/04/2026 13:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
