@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T14:47:13.009Z",
+  "updatedAt": "2026-04-28T14:48:20.974Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -291,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 14:00",
-      "imo": "9489900",
-      "navio": "SERGIO BUARQUE DE HOLANDA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 82 - 2F08",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "inicio": "28/04/2026 13:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +308,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 14:00",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
