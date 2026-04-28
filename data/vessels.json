@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T11:57:10.969Z",
+  "updatedAt": "2026-04-28T11:58:13.854Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -447,16 +447,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "28/04/2026 19:00",
-      "imo": "9603386",
-      "navio": "CAPE UNIVERSE",
-      "tipo": "SAÍDA",
-      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
