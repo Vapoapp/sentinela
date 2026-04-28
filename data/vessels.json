@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T13:26:16.417Z",
+  "updatedAt": "2026-04-28T13:27:17.865Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 08:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 08:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "SAÍDA",
@@ -171,12 +161,22 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 09:00",
-      "imo": "9795139",
-      "navio": "Eagle San Jose",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
+      "inicio": "28/04/2026 08:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 08:30",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -191,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 10:00",
-      "imo": "9604586",
-      "navio": "SKANDI PARATY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "28/04/2026 09:00",
+      "imo": "9795139",
+      "navio": "Eagle San Jose",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 10:00",
+      "imo": "9604586",
+      "navio": "SKANDI PARATY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
