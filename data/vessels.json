@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T23:46:14.279Z",
+  "updatedAt": "2026-04-28T23:47:10.496Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -452,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 20:00",
-      "imo": "3810508756",
-      "navio": "TS OURIÇADO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 20:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 20:00",
+      "imo": "3810508756",
+      "navio": "TS OURIÇADO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -484,6 +484,16 @@
       "inicio": "28/04/2026 21:30",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 21:50",
+      "imo": "9626455",
+      "navio": "KUDU (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
