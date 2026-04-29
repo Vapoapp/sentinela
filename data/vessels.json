@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T04:43:08.684Z",
+  "updatedAt": "2026-04-29T04:44:09.606Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "29/04/2026 06:30",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Itaguaí",
