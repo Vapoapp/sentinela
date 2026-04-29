@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T18:00:26.126Z",
+  "updatedAt": "2026-04-29T18:01:15.789Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -678,6 +678,66 @@
       "de": "-",
       "para": "301 - TECON - SEPETIBA TECON S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/04/2026 23:30",
+      "imo": "9965928",
+      "navio": "FRONTIER SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/04/2026 01:00",
+      "imo": "9959216",
+      "navio": "PROTEUS",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/04/2026 02:30",
+      "imo": "9871098",
+      "navio": "HUGO OLDENDORFF",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/04/2026 06:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/04/2026 12:00",
+      "imo": "9731585",
+      "navio": "GLOBAL ADVENTURE",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/04/2026 18:00",
+      "imo": "9883821",
+      "navio": "Azul Harmony",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
