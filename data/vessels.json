@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T00:46:13.257Z",
+  "updatedAt": "2026-04-29T00:47:09.436Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "TPIR - ILHA REDONDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9767819",
+      "navio": "CBO XAVANTES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
