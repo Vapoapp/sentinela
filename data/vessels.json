@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T03:26:09.146Z",
+  "updatedAt": "2026-04-29T03:27:12.886Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 00:30",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 01:00",
