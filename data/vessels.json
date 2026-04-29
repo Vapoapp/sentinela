@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T03:58:09.217Z",
+  "updatedAt": "2026-04-29T03:59:07.757Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 01:00",
+      "imo": "9626455",
+      "navio": "KUDU (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
