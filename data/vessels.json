@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T20:23:11.934Z",
+  "updatedAt": "2026-04-29T20:24:17.634Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -352,6 +352,36 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 12:00",
+      "imo": "9347322",
+      "navio": "HOS SPRINGFIELD",
+      "tipo": "SAÍDA",
+      "de": "DOCKBRASIL - DOCKBRASIL",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
@@ -368,36 +398,6 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 12:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "TPBR - BRASCO",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 12:00",
-      "imo": "9347322",
-      "navio": "HOS SPRINGFIELD",
-      "tipo": "SAÍDA",
-      "de": "DOCKBRASIL - DOCKBRASIL",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 12:00",
-      "imo": "9453810",
-      "navio": "ZUMBI DOS PALMARES",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 21:00",
+      "imo": "9296248",
+      "navio": "OCEAN LION",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "CP SHIPPING"
     },
     {
       "porto": "Rio de Janeiro",
