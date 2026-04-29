@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T13:28:15.152Z",
+  "updatedAt": "2026-04-29T13:29:20.894Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -418,6 +418,26 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "29/04/2026 10:20",
+      "imo": "9270244",
+      "navio": "HAROLDO RAMOS",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "ASGAARD NAVEGACAO S/A"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
