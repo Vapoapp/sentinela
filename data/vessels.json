@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T03:27:12.886Z",
+  "updatedAt": "2026-04-29T03:28:09.198Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -51,6 +51,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 03:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 04:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
@@ -82,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 06:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 06:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "SAÍDA",
@@ -111,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 06:30",
-      "imo": "9578660",
-      "navio": "SEA1 ATLAS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "29/04/2026 06:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,6 +128,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 06:30",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
