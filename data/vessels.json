@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T17:36:19.138Z",
+  "updatedAt": "2026-04-29T17:37:25.617Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 05:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 05:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 05:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 08:00",
-      "imo": "9996680",
-      "navio": "CMA CGM COBALT",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 08:00",
       "imo": "9492139",
       "navio": "SAO LUIZ",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 08:00",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -411,6 +411,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 14:00",
+      "imo": "9753923",
+      "navio": "SKANDI INVOLVER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 14:30",
       "imo": "9757723",
       "navio": "AMETISTA BRASIL (REB)",
@@ -448,6 +458,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 17:00",
+      "imo": "9381495",
+      "navio": "A.H. LIGURIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
