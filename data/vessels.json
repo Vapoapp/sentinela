@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T14:36:11.646Z",
+  "updatedAt": "2026-04-29T14:37:17.524Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -507,16 +507,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "301 - TECON - SEPETIBA TECON S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "29/04/2026 17:00",
-      "imo": "9959216",
-      "navio": "PROTEUS",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
