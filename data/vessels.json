@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T13:25:18.788Z",
+  "updatedAt": "2026-04-29T13:26:19.430Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -162,8 +162,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 06:00",
-      "imo": "9659634",
-      "navio": "BARU TESORO",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
@@ -192,8 +192,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 06:00",
-      "imo": "9659543",
-      "navio": "BARU ANTARES",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 06:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 06:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 06:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9347322",
+      "navio": "HOS SPRINGFIELD",
+      "tipo": "SAÍDA",
+      "de": "DOCKBRASIL - DOCKBRASIL",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
