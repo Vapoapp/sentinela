@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T22:19:09.401Z",
+  "updatedAt": "2026-04-29T22:20:23.286Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 11:00",
-      "imo": "9604586",
-      "navio": "SKANDI PARATY",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 11:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "SAÍDA",
       "de": "TPIR - ILHA REDONDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 11:00",
+      "imo": "9604586",
+      "navio": "SKANDI PARATY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 13:00",
-      "imo": "9385271",
-      "navio": "HOS TAURUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 13:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 13:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -471,6 +471,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 16:30",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "2N11 - Armazém 13",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 17:00",
       "imo": "9381495",
       "navio": "A.H. LIGURIA (REB)",
@@ -501,6 +511,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 19:20",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "MUDANÇA",
+      "de": "TPSS - SUBSEA",
+      "para": "2N06 - Armazém 7",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 20:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
@@ -518,6 +538,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 21:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
