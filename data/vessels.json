@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T23:30:23.712Z",
+  "updatedAt": "2026-04-29T23:31:08.863Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "CP SHIPPING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 21:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
