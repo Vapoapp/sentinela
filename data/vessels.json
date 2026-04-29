@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T20:30:24.317Z",
+  "updatedAt": "2026-04-29T20:31:10.206Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -607,6 +607,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "29/04/2026 09:00",
+      "imo": "9466099",
+      "navio": "PARCEL DO BADEJO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
