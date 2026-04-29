@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T15:40:16.776Z",
+  "updatedAt": "2026-04-29T15:41:09.916Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 11:00",
+      "imo": "9381495",
+      "navio": "A.H. LIGURIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 11:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "SAÍDA",
@@ -351,13 +361,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 11:00",
-      "imo": "9381495",
-      "navio": "A.H. LIGURIA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "FINARGE APOIO MARITIMO LTDA"
+      "inicio": "29/04/2026 12:00",
+      "imo": "9767819",
+      "navio": "CBO XAVANTES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -391,16 +401,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 12:00",
-      "imo": "9767819",
-      "navio": "CBO XAVANTES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 13:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
@@ -428,6 +428,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 18:30",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
