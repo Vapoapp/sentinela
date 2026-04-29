@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T04:54:11.679Z",
+  "updatedAt": "2026-04-29T04:55:12.019Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 00:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 00:30",
@@ -132,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 06:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 06:00",
       "imo": "9529891",
       "navio": "JOE GRIFFIN (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 06:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
