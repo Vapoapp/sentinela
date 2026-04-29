@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T00:01:08.310Z",
+  "updatedAt": "2026-04-29T00:02:10.334Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 07:00",
-      "imo": "0011466537",
-      "navio": "BONO II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 07:00",
       "imo": "9307243",
       "navio": "LE HAVRE",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 07:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 08:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 08:00",
       "imo": "8637926",
       "navio": "RIOPORT II",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2N16 - Armazém 16",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 08:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 09:00",
-      "imo": "9795139",
-      "navio": "Eagle San Jose",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 09:00",
       "imo": "9996680",
       "navio": "CMA CGM COBALT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 09:00",
+      "imo": "9795139",
+      "navio": "Eagle San Jose",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 12:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 12:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "SAÍDA",
@@ -258,16 +268,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 12:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 17:00",
-      "imo": "3810508756",
-      "navio": "TS OURIÇADO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/04/2026 17:00",
       "imo": "9442067",
       "navio": "TORDA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "MAGALLANES NAVEGACAO BRASILEIRA SA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/04/2026 17:00",
+      "imo": "3810508756",
+      "navio": "TS OURIÇADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 20:00",
-      "imo": "9668726",
-      "navio": "STARNAV PERSEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "3810508756",
+      "navio": "TS OURIÇADO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,12 +472,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/04/2026 20:00",
-      "imo": "3810508756",
-      "navio": "TS OURIÇADO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +538,16 @@
       "de": "2N06 - Armazém 7",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 01:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
