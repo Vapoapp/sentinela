@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T12:02:20.578Z",
+  "updatedAt": "2026-04-30T12:03:16.837Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "ESWS - ESTALEIRO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 00:30",
+      "imo": "9409651",
+      "navio": "OCEANICASUB XV (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "-",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
