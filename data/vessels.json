@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T03:22:15.181Z",
+  "updatedAt": "2026-04-30T03:23:15.374Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 00:00",
+      "imo": "9424962",
+      "navio": "SAVEIROS PELICANO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Niterói",
