@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T00:51:09.988Z",
+  "updatedAt": "2026-04-30T00:52:13.174Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 22:00",
+      "imo": "9460095",
+      "navio": "ISLAND INTERVENTION (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
