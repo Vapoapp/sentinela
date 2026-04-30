@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T01:24:15.382Z",
+  "updatedAt": "2026-04-30T01:25:12.437Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 01:00",
+      "imo": "9357236",
+      "navio": "BBC VERMONT",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Rio de Janeiro",
