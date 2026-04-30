@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T03:05:11.587Z",
+  "updatedAt": "2026-04-30T03:06:18.312Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "-",
       "para": "ESCS - CASTRO SILVA",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 08:00",
+      "imo": "9237955",
+      "navio": "OCEANICASUB VI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
