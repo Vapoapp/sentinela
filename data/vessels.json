@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T13:33:13.156Z",
+  "updatedAt": "2026-04-30T13:34:19.513Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -648,6 +648,16 @@
       "de": "ESWS - ESTALEIRO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 09:10",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
