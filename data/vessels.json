@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T02:47:12.741Z",
+  "updatedAt": "2026-04-30T02:48:09.489Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -532,6 +532,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 20:00",
+      "imo": "9447641",
+      "navio": "ROCHEDO DE SÃO PAULO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 20:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "MUDANÇA",
@@ -541,13 +551,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 20:00",
-      "imo": "9447641",
-      "navio": "ROCHEDO DE SÃO PAULO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+      "inicio": "29/04/2026 21:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 21:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,26 +598,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 21:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 21:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 22:00",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 22:00",
       "imo": "9460095",
       "navio": "ISLAND INTERVENTION (REB)",
       "tipo": "ENTRADA",
@@ -651,13 +661,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 22:00",
-      "imo": "9668752",
-      "navio": "STARNAV REGULUS",
+      "inicio": "29/04/2026 23:00",
+      "imo": "9578660",
+      "navio": "SEA1 ATLAS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +698,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 01:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -762,16 +782,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 07:00",
-      "imo": "9600580",
-      "navio": "SKANDI ANGRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 07:00",
       "imo": "9692791",
       "navio": "WILDEBEEST (REB)",
       "tipo": "ENTRADA",
@@ -782,12 +792,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 07:00",
-      "imo": "9239446",
-      "navio": "SKANDI CARLA",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -798,6 +808,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 07:00",
+      "imo": "9239446",
+      "navio": "SKANDI CARLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
