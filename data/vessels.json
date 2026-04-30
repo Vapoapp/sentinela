@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T05:52:16.045Z",
+  "updatedAt": "2026-04-30T05:53:08.829Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -151,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 04:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 06:00",
       "imo": "8637926",
       "navio": "RIOPORT II",
@@ -212,16 +222,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 07:00",
-      "imo": "9600580",
-      "navio": "SKANDI ANGRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 07:00",
       "imo": "9417828",
       "navio": "NORMAND SAGARIS (REB)",
       "tipo": "ENTRADA",
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 07:00",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
