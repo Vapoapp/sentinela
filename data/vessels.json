@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T13:32:11.973Z",
+  "updatedAt": "2026-04-30T13:33:13.156Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -142,21 +142,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 04:00",
-      "imo": "9514092",
-      "navio": "BJ BLUE MARLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 04:00",
       "imo": "9530204",
       "navio": "SANTOS SOLUTION",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 04:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 07:00",
+      "imo": "9692791",
+      "navio": "WILDEBEEST (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 07:00",
       "imo": "9239446",
       "navio": "SKANDI CARLA",
       "tipo": "ENTRADA",
@@ -288,16 +298,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 07:00",
-      "imo": "9692791",
-      "navio": "WILDEBEEST (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,6 +441,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 11:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 12:30",
       "imo": "9453810",
       "navio": "ZUMBI DOS PALMARES",
@@ -458,6 +468,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 13:00",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "MUDANÇA",
+      "de": "TPSS - SUBSEA",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
