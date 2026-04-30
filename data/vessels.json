@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T00:46:15.868Z",
+  "updatedAt": "2026-04-30T00:47:10.124Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -352,16 +352,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 12:00",
-      "imo": "9767819",
-      "navio": "CBO XAVANTES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/04/2026 12:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
@@ -372,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 12:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
+      "imo": "9767819",
+      "navio": "CBO XAVANTES",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "TPBR - BRASCO",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +378,16 @@
       "de": "DOCKBRASIL - DOCKBRASIL",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/04/2026 12:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -671,13 +671,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 07:00",
-      "imo": "9417828",
-      "navio": "NORMAND SAGARIS (REB)",
+      "inicio": "30/04/2026 06:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 06:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +698,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 07:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
