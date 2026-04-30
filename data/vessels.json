@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-30T18:26:18.594Z",
+  "updatedAt": "2026-04-30T18:27:10.724Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 77
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -388,16 +388,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 08:15",
-      "imo": "9578919",
-      "navio": "CBO PACÍFICO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -868,6 +858,26 @@
       "de": "4101 - TERMINAL NITPORT - NITPORT SERVIÇOS PORTUÁRIOS S/A.",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 14:00",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "MUDANÇA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 16:30",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
