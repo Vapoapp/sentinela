@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T09:21:15.135Z",
+  "updatedAt": "2026-04-30T09:22:17.858Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 01:00",
+      "imo": "9439917",
+      "navio": "GH EXPLORER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
