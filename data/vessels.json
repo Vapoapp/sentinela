@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T23:43:10.173Z",
+  "updatedAt": "2026-04-30T23:44:16.657Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -492,16 +492,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 13:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 13:00",
       "imo": "9750464",
       "navio": "INDUSTRIAL SONG",
       "tipo": "SAÍDA",
@@ -522,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 13:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +528,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 13:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -737,6 +737,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 18:40",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
