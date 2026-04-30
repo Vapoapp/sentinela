@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T13:31:11.480Z",
+  "updatedAt": "2026-04-30T13:32:11.973Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - WPT 82 - 2F08",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 17:30",
+      "imo": "9727625",
+      "navio": "CAPE SOUNIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
