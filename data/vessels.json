@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T16:03:18.165Z",
+  "updatedAt": "2026-04-30T16:04:18.399Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 13:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "4101 - TERMINAL NITPORT - NITPORT SERVIÇOS PORTUÁRIOS S/A.",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Niterói",
