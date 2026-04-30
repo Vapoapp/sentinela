@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T23:49:20.672Z",
+  "updatedAt": "2026-04-30T23:50:18.608Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 89
     },
     "niteroi": {
       "ok": true,
@@ -682,22 +682,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 16:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 16:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 16:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -768,6 +768,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 18:00",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
