@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T08:52:11.539Z",
+  "updatedAt": "2026-04-30T08:53:15.664Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -217,6 +217,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 06:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
