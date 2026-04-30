@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T02:55:13.898Z",
+  "updatedAt": "2026-04-30T02:56:09.462Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 94
+      "count": 95
     },
     "niteroi": {
       "ok": true,
@@ -552,12 +552,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 21:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/04/2026 21:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -682,6 +682,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 00:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 00:00",
       "imo": "9791884",
       "navio": "ISABELA ISLAND",
       "tipo": "SAÍDA",
@@ -712,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 01:00",
-      "imo": "9357236",
-      "navio": "BBC VERMONT",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 01:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 01:00",
+      "imo": "9357236",
+      "navio": "BBC VERMONT",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Rio de Janeiro",
