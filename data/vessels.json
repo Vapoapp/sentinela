@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T22:46:10.747Z",
+  "updatedAt": "2026-05-01T22:47:14.683Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -567,6 +567,16 @@
       "tipo": "MUDANÇA",
       "de": "4101 - TERMINAL NITPORT - NITPORT SERVIÇOS PORTUÁRIOS S/A.",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/05/2026 21:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
