@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T09:40:13.674Z",
+  "updatedAt": "2026-05-01T09:41:13.520Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/05/2026 07:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
