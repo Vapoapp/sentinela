@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-01T04:20:14.378Z",
+  "updatedAt": "2026-05-01T04:21:15.110Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "TPBL - BRICLOG",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 00:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,6 +178,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 10:30",
+      "imo": "9727625",
+      "navio": "CAPE SOUNIO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
