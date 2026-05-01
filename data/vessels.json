@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:01:15.356Z",
+  "updatedAt": "2026-05-01T00:02:16.684Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "itaguai": {
       "ok": true,
@@ -1007,6 +1007,16 @@
       "tipo": "SAÍDA",
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 23:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
