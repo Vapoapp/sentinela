@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-01T23:29:09.846Z",
+  "updatedAt": "2026-05-01T23:30:12.935Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 22:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
