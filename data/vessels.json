@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-01T00:22:11.169Z",
+  "updatedAt": "2026-05-01T00:23:08.377Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 92
+      "count": 93
     },
     "niteroi": {
       "ok": true,
@@ -542,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 13:30",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 13:30",
       "imo": "9968853",
       "navio": "KOTA EBONY",
       "tipo": "SAÍDA",
@@ -712,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 16:30",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/04/2026 16:30",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 16:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
