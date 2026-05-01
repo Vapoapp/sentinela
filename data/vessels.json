@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:02:16.684Z",
+  "updatedAt": "2026-05-01T00:03:08.908Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "itaguai": {
       "ok": true,
@@ -1008,6 +1008,16 @@
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 19:30",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
