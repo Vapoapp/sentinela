@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:03:08.908Z",
+  "updatedAt": "2026-05-01T00:04:12.822Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "itaguai": {
       "ok": true,
@@ -1017,6 +1017,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 20:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "4101 - TERMINAL NITPORT - NITPORT SERVIÇOS PORTUÁRIOS S/A.",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
