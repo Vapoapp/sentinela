@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-01T00:58:09.630Z",
+  "updatedAt": "2026-05-01T00:59:10.217Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 99
+      "count": 101
     },
     "niteroi": {
       "ok": true,
@@ -871,6 +871,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/04/2026 22:00",
+      "imo": "9578919",
+      "navio": "CBO PACÍFICO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/04/2026 22:30",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
@@ -908,6 +918,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 00:10",
+      "imo": "9692791",
+      "navio": "WILDEBEEST (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBL - BRICLOG",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
