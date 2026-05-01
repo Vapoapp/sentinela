@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:04:12.822Z",
+  "updatedAt": "2026-05-01T00:05:11.312Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "itaguai": {
       "ok": true,
@@ -998,6 +998,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 17:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
