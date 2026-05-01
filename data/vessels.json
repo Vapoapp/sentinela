@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T00:05:11.312Z",
+  "updatedAt": "2026-05-01T00:06:12.878Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "itaguai": {
       "ok": true,
@@ -958,6 +958,16 @@
       "de": "ESWS - ESTALEIRO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/04/2026 09:00",
+      "imo": "9237955",
+      "navio": "OCEANICASUB VI",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
