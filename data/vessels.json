@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-01T18:42:11.403Z",
+  "updatedAt": "2026-05-01T18:43:09.510Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/05/2026 10:00",
+      "imo": "9499888",
+      "navio": "RECIFE KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 10:00",
       "imo": "9460095",
       "navio": "ISLAND INTERVENTION (REB)",
       "tipo": "SAÍDA",
@@ -248,16 +258,6 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/05/2026 10:00",
-      "imo": "9499888",
-      "navio": "RECIFE KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,6 +352,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/05/2026 15:30",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 15:30",
       "imo": "9865740",
       "navio": "TWEED",
       "tipo": "ENTRADA",
@@ -388,6 +398,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/05/2026 17:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
