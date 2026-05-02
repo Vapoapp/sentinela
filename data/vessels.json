@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T07:57:11.935Z",
+  "updatedAt": "2026-05-02T07:58:10.232Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,26 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 09:30",
+      "imo": "9292773",
+      "navio": "ALESSANDRO VOLTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 09:30",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
