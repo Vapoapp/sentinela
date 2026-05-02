@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T11:27:10.087Z",
+  "updatedAt": "2026-05-02T11:28:17.921Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "-",
       "para": "TPAM - ARSENAL DA MARINHA",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 12:30",
+      "imo": "9757797",
+      "navio": "PORT PIRIE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
