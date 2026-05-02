@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T11:25:12.927Z",
+  "updatedAt": "2026-05-02T11:26:10.505Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 03:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "Fundeio - 2F09 - XAREU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
