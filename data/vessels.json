@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T19:08:10.320Z",
+  "updatedAt": "2026-05-02T19:09:15.780Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -588,6 +588,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "02/05/2026 14:30",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
