@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T07:56:10.785Z",
+  "updatedAt": "2026-05-02T07:57:11.935Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,26 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 10:30",
+      "imo": "7351783",
+      "navio": "FPSO PETROBRAS 35",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPAM - ARSENAL DA MARINHA",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 12:30",
+      "imo": "9928188",
+      "navio": "MAERSK ACADIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
