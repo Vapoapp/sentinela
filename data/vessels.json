@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T11:32:10.612Z",
+  "updatedAt": "2026-05-02T11:33:10.002Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -338,6 +338,26 @@
       "de": "-",
       "para": "TPPT - NEOLUBES",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 07:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 07:30",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
