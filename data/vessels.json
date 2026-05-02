@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T11:30:13.838Z",
+  "updatedAt": "2026-05-02T11:31:11.438Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "-",
       "para": "2N10 - Terminal de Trigo",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 09:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
