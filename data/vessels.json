@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-02T11:26:10.505Z",
+  "updatedAt": "2026-05-02T11:27:10.087Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -131,6 +131,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 07:00",
+      "imo": "9767833",
+      "navio": "CBO PARINTINS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/05/2026 08:00",
       "imo": "9659567",
       "navio": "BARU ÁTRIA",
@@ -158,6 +168,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/05/2026 08:30",
+      "imo": "9715206",
+      "navio": "AFRICAN PLOVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
