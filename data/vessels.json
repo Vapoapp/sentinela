@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T05:39:10.763Z",
+  "updatedAt": "2026-05-03T05:40:17.741Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -31,6 +31,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 01:45",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 02:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 02:30",
       "imo": "9928188",
       "navio": "MAERSK ACADIA",
@@ -38,6 +58,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 04:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -82,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 07:30",
-      "imo": "9949209",
-      "navio": "EPTALOFOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 07:30",
       "imo": "9770749",
       "navio": "MSC BIANCA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 07:30",
+      "imo": "9949209",
+      "navio": "EPTALOFOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
