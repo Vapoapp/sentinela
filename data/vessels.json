@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T23:58:11.078Z",
+  "updatedAt": "2026-05-03T23:59:08.844Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -611,6 +611,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 23:30",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 00:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
@@ -632,22 +642,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 06:00",
-      "imo": "1016666",
-      "navio": "MSC INSA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 06:00",
       "imo": "9085211",
       "navio": "OCEANIC CHAMPION",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 06:00",
+      "imo": "1016666",
+      "navio": "MSC INSA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
