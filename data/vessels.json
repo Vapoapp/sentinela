@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T08:35:16.153Z",
+  "updatedAt": "2026-05-03T08:36:16.189Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -131,6 +131,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 06:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 06:15",
       "imo": "9659579",
       "navio": "BARU MUCURA",
@@ -142,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 06:30",
-      "imo": "9852676",
-      "navio": "AMIS QUEEN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 06:30",
       "imo": "9640114",
       "navio": "LUMPHINI PARK",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPT - NEOLUBES",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 06:30",
+      "imo": "9852676",
+      "navio": "AMIS QUEEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
