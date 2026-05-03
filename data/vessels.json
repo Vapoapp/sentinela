@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T08:11:14.375Z",
+  "updatedAt": "2026-05-03T08:12:10.486Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 03:30",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 04:00",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 06:30",
-      "imo": "9640114",
-      "navio": "LUMPHINI PARK",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPT - NEOLUBES",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "inicio": "03/05/2026 06:15",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -118,6 +128,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 06:30",
+      "imo": "9640114",
+      "navio": "LUMPHINI PARK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPT - NEOLUBES",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -164,9 +184,9 @@
       "inicio": "03/05/2026 08:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
@@ -174,9 +194,9 @@
       "inicio": "03/05/2026 08:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
