@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T13:47:14.439Z",
+  "updatedAt": "2026-05-03T13:48:11.806Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 04:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 04:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 04:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 07:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 07:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 07:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -198,16 +198,6 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/05/2026 08:00",
-      "imo": "9616187",
-      "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -237,6 +227,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 08:00",
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
@@ -292,12 +292,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 11:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 11:00",
       "imo": "9630420",
       "navio": "XIAMEN EXPRESS",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 13:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
