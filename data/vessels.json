@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T10:15:14.669Z",
+  "updatedAt": "2026-05-03T10:16:09.125Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -224,6 +224,16 @@
       "inicio": "03/05/2026 08:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/05/2026 08:00",
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -232,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/05/2026 08:00",
-      "imo": "9616187",
-      "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
