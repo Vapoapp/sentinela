@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-04T13:27:19.120Z",
+  "updatedAt": "2026-05-04T13:28:17.166Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -252,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 11:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 11:00",
       "imo": "9637777",
       "navio": "BRASIL KNUTSEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 11:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,16 @@
       "de": "2N08 - Pátio 9",
       "para": "2N17 - Armazém 17",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 13:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
