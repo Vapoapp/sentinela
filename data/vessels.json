@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-04T18:39:12.162Z",
+  "updatedAt": "2026-05-04T18:40:22.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 09:00",
+      "imo": "9657698",
+      "navio": "FUGRO AQUARIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 09:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
@@ -218,16 +228,6 @@
       "de": "2N17 - Armazém 17",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 09:00",
-      "imo": "9657698",
-      "navio": "FUGRO AQUARIUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -326,6 +326,16 @@
       "navio": "STARNAV PHOENIX",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 14:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
