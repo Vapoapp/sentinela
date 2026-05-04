@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T17:59:16.477Z",
+  "updatedAt": "2026-05-04T18:00:18.008Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -558,6 +558,26 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "04/05/2026 21:00",
+      "imo": "9997921",
+      "navio": "GREEN QINGDAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "04/05/2026 23:30",
+      "imo": "9965772",
+      "navio": "FIRANDO",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
