@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T16:02:20.536Z",
+  "updatedAt": "2026-05-04T16:03:20.486Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -242,16 +242,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 11:00",
-      "imo": "1016666",
-      "navio": "MSC INSA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 11:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "MUDANÇA",
@@ -312,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 13:00",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 13:00",
       "imo": "9687526",
       "navio": "COPIAPO",
       "tipo": "SAÍDA",
@@ -331,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 13:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
-      "tipo": "MUDANÇA",
-      "de": "2N08 - Pátio 9",
-      "para": "2N17 - Armazém 17",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "04/05/2026 14:00",
+      "imo": "1016666",
+      "navio": "MSC INSA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
