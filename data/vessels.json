@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-04T03:55:17.596Z",
+  "updatedAt": "2026-05-04T03:56:12.201Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "2N17 - Armazém 17",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 11:30",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
