@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T20:23:17.098Z",
+  "updatedAt": "2026-05-05T20:24:23.123Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "-",
       "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/05/2026 12:00",
+      "imo": "1076173",
+      "navio": "MH LANGOEY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
