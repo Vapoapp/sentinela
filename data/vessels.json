@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T03:55:13.523Z",
+  "updatedAt": "2026-05-05T03:56:13.266Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -121,6 +121,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 06:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 07:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 08:00",
       "imo": "9456965",
       "navio": "MSC ODESSA V",
@@ -142,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 09:00",
-      "imo": "9367554",
-      "navio": "BOW CAROLINE",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 09:00",
       "imo": "9637777",
       "navio": "BRASIL KNUTSEN",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 09:00",
+      "imo": "9367554",
+      "navio": "BOW CAROLINE",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,32 +222,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 13:00",
-      "imo": "9292773",
-      "navio": "ALESSANDRO VOLTA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 13:00",
-      "imo": "9292773",
-      "navio": "ALESSANDRO VOLTA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 13:00",
       "imo": "9656199",
       "navio": "SAPURA TOPAZIO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 13:00",
+      "imo": "9292773",
+      "navio": "ALESSANDRO VOLTA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 13:00",
+      "imo": "9292773",
+      "navio": "ALESSANDRO VOLTA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
