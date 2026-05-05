@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T15:51:26.026Z",
+  "updatedAt": "2026-05-05T15:52:21.754Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -132,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 06:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 06:00",
       "imo": "9581423",
       "navio": "GINGA OCELOT",
       "tipo": "MUDANÇA",
@@ -148,16 +158,6 @@
       "de": "-",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 06:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 10:00",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 10:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -231,13 +221,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 10:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 11:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "imo": "9647552",
+      "navio": "DEEP STAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,12 +252,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 11:00",
-      "imo": "9647552",
-      "navio": "DEEP STAR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 12:00",
+      "imo": "9492127",
+      "navio": "SAO SEBASTIAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 12:30",
+      "imo": "9623673",
+      "navio": "RDO FORTUNE",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
