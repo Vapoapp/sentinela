@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T01:40:11.473Z",
+  "updatedAt": "2026-05-05T01:41:08.873Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -788,6 +788,16 @@
       "de": "ESCS - CASTRO SILVA",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "05/05/2026 06:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
