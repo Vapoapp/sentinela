@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T11:22:13.011Z",
+  "updatedAt": "2026-05-05T11:23:15.159Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -201,6 +201,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 09:30",
+      "imo": "9640114",
+      "navio": "LUMPHINI PARK",
+      "tipo": "MUDANÇA",
+      "de": "TPSH - Terminal Privativo Shell",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 10:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
@@ -238,6 +248,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 12:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
