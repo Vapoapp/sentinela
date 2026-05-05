@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T03:31:09.655Z",
+  "updatedAt": "2026-05-05T03:32:19.930Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 09:00",
+      "imo": "9637777",
+      "navio": "BRASIL KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 09:00",
       "imo": "9367554",
       "navio": "BOW CAROLINE",
       "tipo": "SAÍDA",
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 11:00",
-      "imo": "9647552",
-      "navio": "DEEP STAR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +178,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 11:00",
+      "imo": "9647552",
+      "navio": "DEEP STAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
