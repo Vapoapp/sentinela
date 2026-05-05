@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T01:13:08.399Z",
+  "updatedAt": "2026-05-05T01:14:20.968Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 20:00",
+      "imo": "9425734",
+      "navio": "SKANDI LIFTER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
