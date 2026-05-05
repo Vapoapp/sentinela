@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T18:02:17.118Z",
+  "updatedAt": "2026-05-05T18:03:10.330Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 14:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 14:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
@@ -342,12 +352,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 14:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -625,7 +635,7 @@
       "imo": "9997921",
       "navio": "GREEN QINGDAO",
       "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     }
