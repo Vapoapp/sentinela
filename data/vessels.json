@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T17:17:17.977Z",
+  "updatedAt": "2026-05-05T17:18:24.419Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -322,12 +322,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 14:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,12 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 14:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "imo": "9440708",
+      "navio": "FULMAR",
       "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 14:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
