@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T21:13:17.025Z",
+  "updatedAt": "2026-05-05T21:14:19.641Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 16:30",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 16:30",
       "imo": "9453884",
       "navio": "MILTON SANTOS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F08 - NW DO TPP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 16:30",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -478,6 +478,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 19:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
