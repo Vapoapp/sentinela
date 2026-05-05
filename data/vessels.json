@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T18:33:16.716Z",
+  "updatedAt": "2026-05-05T18:34:21.686Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 18:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
