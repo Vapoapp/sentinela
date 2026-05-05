@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T16:02:25.049Z",
+  "updatedAt": "2026-05-05T16:03:22.188Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,16 +341,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 16:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 16:30",
       "imo": "9453884",
       "navio": "MILTON SANTOS",
@@ -397,6 +387,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 20:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
