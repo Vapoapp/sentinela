@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T01:33:09.158Z",
+  "updatedAt": "2026-05-05T01:34:10.687Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/05/2026 13:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/05/2026 13:00",
       "imo": "9687526",
       "navio": "COPIAPO",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/05/2026 13:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -551,6 +551,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 08:00",
+      "imo": "9456965",
+      "navio": "MSC ODESSA V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 08:30",
       "imo": "9759264",
       "navio": "BUENA CONFIANZA",
@@ -588,6 +598,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 11:00",
+      "imo": "9492127",
+      "navio": "SAO SEBASTIAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
