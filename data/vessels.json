@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T03:48:11.432Z",
+  "updatedAt": "2026-05-05T03:49:09.127Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 09:00",
+      "imo": "9367554",
+      "navio": "BOW CAROLINE",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 09:00",
       "imo": "9637777",
       "navio": "BRASIL KNUTSEN",
       "tipo": "SAÍDA",
@@ -151,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 09:00",
-      "imo": "9367554",
-      "navio": "BOW CAROLINE",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "inicio": "05/05/2026 10:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBK - BRASKEM",
+      "para": "Fundeio - WPT 92 - AF Preferencial Gusa",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
