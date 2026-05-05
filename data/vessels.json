@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-05T23:26:21.617Z",
+  "updatedAt": "2026-05-05T23:27:09.406Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -402,16 +402,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 16:30",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 16:30",
       "imo": "9453884",
       "navio": "MILTON SANTOS",
       "tipo": "SAÍDA",
@@ -421,13 +411,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 17:00",
-      "imo": "9367554",
-      "navio": "BOW CAROLINE",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "inicio": "05/05/2026 16:30",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,6 +428,16 @@
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 17:00",
+      "imo": "9367554",
+      "navio": "BOW CAROLINE",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,16 +462,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 19:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/05/2026 19:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "ENTRADA",
@@ -491,6 +481,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 19:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/05/2026 19:30",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
@@ -498,6 +498,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/05/2026 20:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
