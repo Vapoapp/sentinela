@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T23:54:16.743Z",
+  "updatedAt": "2026-05-06T23:55:10.708Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -648,6 +648,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 09:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
