@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T12:00:25.534Z",
+  "updatedAt": "2026-05-06T12:01:14.253Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 11:00",
-      "imo": "9343596",
-      "navio": "PARCEL DOS MEROS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 11:00",
       "imo": "9715206",
       "navio": "AFRICAN PLOVER",
       "tipo": "SAÍDA",
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 11:00",
+      "imo": "9343596",
+      "navio": "PARCEL DOS MEROS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -258,6 +258,16 @@
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 12:30",
+      "imo": "9640114",
+      "navio": "LUMPHINI PARK",
+      "tipo": "SAÍDA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
