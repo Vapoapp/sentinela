@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T13:57:15.661Z",
+  "updatedAt": "2026-05-06T13:58:22.512Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 06:30",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 06:30",
       "imo": "9530204",
       "navio": "SANTOS SOLUTION",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 06:30",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 11:00",
+      "imo": "9715206",
+      "navio": "AFRICAN PLOVER",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 11:00",
       "imo": "9949209",
       "navio": "EPTALOFOS",
       "tipo": "SAÍDA",
@@ -278,16 +288,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 11:00",
-      "imo": "9715206",
-      "navio": "AFRICAN PLOVER",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 16:30",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
