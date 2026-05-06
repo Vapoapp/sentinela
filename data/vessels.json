@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T08:56:18.483Z",
+  "updatedAt": "2026-05-06T08:57:18.028Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -268,6 +268,16 @@
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "06/05/2026 04:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
