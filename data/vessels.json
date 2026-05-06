@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T07:43:09.483Z",
+  "updatedAt": "2026-05-06T07:44:17.518Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -47,16 +47,6 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 04:00",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -137,16 +127,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 08:00",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
