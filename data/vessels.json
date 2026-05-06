@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T17:52:23.084Z",
+  "updatedAt": "2026-05-06T17:53:10.183Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 4
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -618,6 +618,66 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 02:00",
+      "imo": "9600425",
+      "navio": "GLOBAL GOLDEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 03:00",
+      "imo": "9837640",
+      "navio": "ZHONG YUAN HAI YUN KAI TUO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 07:30",
+      "imo": "9600425",
+      "navio": "GLOBAL GOLDEN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 12:30",
+      "imo": "9907718",
+      "navio": "EAGLE CAMBE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 15:00",
+      "imo": "9997921",
+      "navio": "GREEN QINGDAO",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 16:00",
+      "imo": "9837640",
+      "navio": "ZHONG YUAN HAI YUN KAI TUO",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
