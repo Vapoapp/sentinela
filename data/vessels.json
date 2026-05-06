@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T15:10:26.440Z",
+  "updatedAt": "2026-05-06T15:11:22.610Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -252,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 11:00",
+      "imo": "9949209",
+      "navio": "EPTALOFOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 11:00",
       "imo": "9343596",
       "navio": "PARCEL DOS MEROS (REB)",
       "tipo": "ENTRADA",
@@ -271,16 +281,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 11:00",
-      "imo": "9949209",
-      "navio": "EPTALOFOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 12:00",
       "imo": "9492127",
       "navio": "SAO SEBASTIAO",
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 12:00",
+      "imo": "9659646",
+      "navio": "BARU VEGA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
