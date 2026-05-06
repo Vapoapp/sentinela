@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T14:38:12.455Z",
+  "updatedAt": "2026-05-06T14:39:19.463Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 11:00",
+      "imo": "9343596",
+      "navio": "PARCEL DOS MEROS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 11:00",
       "imo": "9715206",
       "navio": "AFRICAN PLOVER",
       "tipo": "SAÍDA",
@@ -278,16 +288,6 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 11:00",
-      "imo": "9343596",
-      "navio": "PARCEL DOS MEROS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +318,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 14:00",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
