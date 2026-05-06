@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T19:17:18.254Z",
+  "updatedAt": "2026-05-06T19:18:11.501Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -372,16 +372,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 16:30",
-      "imo": "9710969",
-      "navio": "SEVEN SUN",
-      "tipo": "SAÍDA",
-      "de": "2N06 - Armazém 7",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 16:30",
       "imo": "0011466537",
       "navio": "BONO II",
       "tipo": "MUDANÇA",
@@ -391,13 +381,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 17:00",
-      "imo": "9616187",
-      "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "inicio": "06/05/2026 16:30",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -408,6 +398,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 17:00",
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
