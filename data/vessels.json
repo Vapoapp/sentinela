@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T05:25:18.778Z",
+  "updatedAt": "2026-05-06T05:26:18.438Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 10:30",
+      "imo": "9996745",
+      "navio": "CMA CGM THORIUM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
