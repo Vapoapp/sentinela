@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T05:53:10.345Z",
+  "updatedAt": "2026-05-06T05:54:11.334Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 06:30",
+      "imo": "9623673",
+      "navio": "RDO FORTUNE",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,16 +188,6 @@
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 12:30",
-      "imo": "9623673",
-      "navio": "RDO FORTUNE",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
