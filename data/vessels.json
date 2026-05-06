@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T17:31:13.743Z",
+  "updatedAt": "2026-05-06T17:32:12.509Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -341,13 +341,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 16:30",
-      "imo": "9710969",
-      "navio": "SEVEN SUN",
+      "inicio": "06/05/2026 15:30",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
       "tipo": "SAÍDA",
-      "de": "2N06 - Armazém 7",
+      "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +358,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 16:30",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
