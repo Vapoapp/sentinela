@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T15:15:28.235Z",
+  "updatedAt": "2026-05-06T15:16:29.823Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -92,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 06:30",
-      "imo": "9623673",
-      "navio": "RDO FORTUNE",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 06:30",
       "imo": "9530204",
       "navio": "SANTOS SOLUTION",
       "tipo": "MUDANÇA",
@@ -112,12 +102,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 06:30",
+      "imo": "9623673",
+      "navio": "RDO FORTUNE",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 06:30",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 06:40",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 11:00",
-      "imo": "9949209",
-      "navio": "EPTALOFOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 11:00",
       "imo": "9343596",
       "navio": "PARCEL DOS MEROS (REB)",
       "tipo": "ENTRADA",
@@ -278,6 +278,16 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 11:00",
+      "imo": "9949209",
+      "navio": "EPTALOFOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
