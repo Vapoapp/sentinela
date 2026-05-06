@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T21:32:18.978Z",
+  "updatedAt": "2026-05-06T21:33:10.993Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -728,6 +728,16 @@
       "de": "Fundeio - 5FB2 - Área de Fundeio B2",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/05/2026 08:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Itaguaí",
