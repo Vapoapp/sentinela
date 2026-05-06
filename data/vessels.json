@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-06T09:02:10.395Z",
+  "updatedAt": "2026-05-06T09:03:04.030Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 06:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 06:00",
       "imo": "9944417",
       "navio": "BRAM SPIRIT",
       "tipo": "ENTRADA",
@@ -132,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 07:00",
-      "imo": "9626443",
-      "navio": "BONGO (REB)",
-      "tipo": "MUDANÇA",
-      "de": "TPBL - BRICLOG",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 07:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
@@ -158,6 +158,16 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 07:00",
+      "imo": "9626443",
+      "navio": "BONGO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
