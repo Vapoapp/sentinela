@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T20:23:11.275Z",
+  "updatedAt": "2026-05-06T20:24:19.222Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -598,6 +598,16 @@
       "de": "-",
       "para": "ESMA - ESTALEIRO MAUÁ",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "06/05/2026 16:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMA - ESTALEIRO MAUÁ",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
