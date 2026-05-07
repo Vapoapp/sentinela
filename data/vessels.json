@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T06:09:16.301Z",
+  "updatedAt": "2026-05-07T06:10:23.054Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -47,6 +47,16 @@
       "tipo": "SAÍDA",
       "de": "TPBL - BRICLOG",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 03:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
