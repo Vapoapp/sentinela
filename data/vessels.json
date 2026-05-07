@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T17:04:15.044Z",
+  "updatedAt": "2026-05-07T17:05:21.494Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 09:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 09:00",
       "imo": "9453810",
       "navio": "ZUMBI DOS PALMARES",
       "tipo": "SAÍDA",
@@ -618,16 +608,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 01:00",
-      "imo": "9519119",
-      "navio": "BRASILIA HIGHWAY",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
