@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T01:16:16.181Z",
+  "updatedAt": "2026-05-07T01:17:18.706Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/05/2026 18:30",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/05/2026 18:30",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 18:30",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,6 +568,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/05/2026 23:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
