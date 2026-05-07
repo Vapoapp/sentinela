@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T18:02:20.151Z",
+  "updatedAt": "2026-05-07T18:03:14.076Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -828,6 +828,76 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 03:00",
+      "imo": "9837640",
+      "navio": "ZHONG YUAN HAI YUN KAI TUO",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 06:00",
+      "imo": "9907718",
+      "navio": "EAGLE CAMBE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 07:00",
+      "imo": "9930935",
+      "navio": "MSC BIANCA SILVIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 08:00",
+      "imo": "9440320",
+      "navio": "Maran Grace",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 17:00",
+      "imo": "9623752",
+      "navio": "ELLINA",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 19:00",
+      "imo": "1026996",
+      "navio": "PALEXPO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/05/2026 19:00",
+      "imo": "9327815",
+      "navio": "JADE LUCK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
