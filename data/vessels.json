@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T03:41:13.340Z",
+  "updatedAt": "2026-05-07T03:42:11.621Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 05:30",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 63 - 2F6A",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
