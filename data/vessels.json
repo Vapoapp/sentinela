@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T17:07:12.018Z",
+  "updatedAt": "2026-05-07T17:08:17.946Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -118,16 +118,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 06:00",
-      "imo": "9418042",
-      "navio": "SKANDI JUPITER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 14:00",
-      "imo": "9303493",
-      "navio": "MR. CHAFIC",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 14:00",
       "imo": "9381495",
       "navio": "A.H. LIGURIA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 14:00",
+      "imo": "9303493",
+      "navio": "MR. CHAFIC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -608,6 +598,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 03:00",
+      "imo": "9519119",
+      "navio": "BRASILIA HIGHWAY",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
