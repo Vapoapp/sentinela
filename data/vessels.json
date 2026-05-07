@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T11:35:12.487Z",
+  "updatedAt": "2026-05-07T11:36:17.432Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -311,6 +311,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 09:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 09:30",
       "imo": "9788459",
       "navio": "MR ALDO",
@@ -332,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 10:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 10:00",
       "imo": "9644146",
       "navio": "ALCATRAZ",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 10:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
