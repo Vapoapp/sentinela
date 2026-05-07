@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T06:36:17.498Z",
+  "updatedAt": "2026-05-07T06:37:20.190Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 06:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 06:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "SAÍDA",
@@ -152,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 07:00",
-      "imo": "9528354",
-      "navio": "SKANDI IGUAÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 07:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "SAÍDA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 07:00",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
