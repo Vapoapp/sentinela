@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T12:46:18.964Z",
+  "updatedAt": "2026-05-07T12:47:18.472Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -232,12 +232,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 08:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N06 - Armazém 7",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,12 +252,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 08:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N06 - Armazém 7",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -411,6 +411,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 12:30",
+      "imo": "9996733",
+      "navio": "CMA CGM KRYPTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 12:40",
       "imo": "9290567",
       "navio": "SANTA LORETTA",
@@ -488,6 +498,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 11:30",
+      "imo": "9996733",
+      "navio": "CMA CGM KRYPTON",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
