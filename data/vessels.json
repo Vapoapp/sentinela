@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T11:29:10.035Z",
+  "updatedAt": "2026-05-07T11:30:17.266Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -311,13 +311,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 10:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "inicio": "07/05/2026 09:30",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 10:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
