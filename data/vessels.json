@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T18:50:17.197Z",
+  "updatedAt": "2026-05-07T18:51:17.357Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -542,16 +542,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 15:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/05/2026 15:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
       "tipo": "ENTRADA",
@@ -561,12 +551,32 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 15:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 16:00",
       "imo": "8637926",
       "navio": "RIOPORT II",
       "tipo": "MUDANÇA",
       "de": "2N11 - Armazém 13",
       "para": "2N08 - Pátio 9",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 16:00",
+      "imo": "9257606",
+      "navio": "VIKING SURF (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -588,6 +598,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 18:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
