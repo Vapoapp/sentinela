@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T17:28:22.119Z",
+  "updatedAt": "2026-05-07T17:29:16.732Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "08/05/2026 06:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Itaguaí",
