@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-07T23:40:18.097Z",
+  "updatedAt": "2026-05-07T23:41:11.749Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -671,6 +671,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/05/2026 22:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/05/2026 23:00",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
@@ -722,22 +732,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 03:00",
-      "imo": "9788552",
-      "navio": "PACIFIC JASPER",
-      "tipo": "SAÍDA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 03:00",
       "imo": "9519119",
       "navio": "BRASILIA HIGHWAY",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 03:00",
+      "imo": "9788552",
+      "navio": "PACIFIC JASPER",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
