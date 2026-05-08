@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-08T01:01:15.177Z",
+  "updatedAt": "2026-05-08T01:02:13.973Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 85
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -762,22 +762,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 03:00",
-      "imo": "9788552",
-      "navio": "PACIFIC JASPER",
-      "tipo": "SAÍDA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 03:00",
       "imo": "9519119",
       "navio": "BRASILIA HIGHWAY",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 03:00",
+      "imo": "9788552",
+      "navio": "PACIFIC JASPER",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -808,6 +808,16 @@
       "de": "-",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 07:00",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
