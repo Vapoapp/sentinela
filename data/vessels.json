@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:22:17.891Z",
+  "updatedAt": "2026-05-08T18:23:17.147Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -731,16 +731,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/05/2026 15:00",
-      "imo": "9930935",
-      "navio": "MSC BIANCA SILVIA",
-      "tipo": "SAÍDA",
-      "de": "303 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "09/05/2026 17:00",
       "imo": "1086063",
       "navio": "KL WINGS",
@@ -751,13 +741,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/05/2026 17:30",
-      "imo": "9872183",
-      "navio": "COSCO SHIPPING XING WANG",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "302 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "inicio": "09/05/2026 18:00",
+      "imo": "9930935",
+      "navio": "MSC BIANCA SILVIA",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     }
   ]
 }
