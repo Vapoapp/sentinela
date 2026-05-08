@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-08T08:49:16.350Z",
+  "updatedAt": "2026-05-08T08:50:15.449Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 06:30",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
