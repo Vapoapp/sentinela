@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T23:03:17.067Z",
+  "updatedAt": "2026-05-08T23:04:16.452Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "itaguai": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "09/05/2026 22:30",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
