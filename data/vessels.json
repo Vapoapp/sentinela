@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T19:31:18.099Z",
+  "updatedAt": "2026-05-08T19:32:17.121Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -808,6 +808,16 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "09/05/2026 19:30",
+      "imo": "9872183",
+      "navio": "COSCO SHIPPING XING WANG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
