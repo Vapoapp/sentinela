@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T12:40:20.900Z",
+  "updatedAt": "2026-05-08T12:41:10.815Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "08/05/2026 09:30",
+      "imo": "9885245",
+      "navio": "AQUA HELIX (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "-",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Itaguaí",
