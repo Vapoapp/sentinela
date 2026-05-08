@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T18:27:15.438Z",
+  "updatedAt": "2026-05-08T18:28:18.167Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -732,22 +732,22 @@
     {
       "porto": "Itaguaí",
       "inicio": "09/05/2026 17:00",
-      "imo": "1086063",
-      "navio": "KL WINGS",
-      "tipo": "SAÍDA",
-      "de": "301 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "09/05/2026 18:00",
       "imo": "9930935",
       "navio": "MSC BIANCA SILVIA",
       "tipo": "SAÍDA",
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "09/05/2026 18:00",
+      "imo": "1086063",
+      "navio": "KL WINGS",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
