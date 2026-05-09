@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T00:09:12.977Z",
+  "updatedAt": "2026-05-09T00:10:14.328Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "itaguai": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "08/05/2026 20:30",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
