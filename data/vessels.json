@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T01:31:10.000Z",
+  "updatedAt": "2026-05-09T01:32:17.600Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -302,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 13:00",
-      "imo": "9885245",
-      "navio": "AQUA HELIX (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,22 +322,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 13:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 13:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9885245",
+      "navio": "AQUA HELIX (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -346,6 +336,16 @@
       "navio": "BS-8",
       "tipo": "MUDANÇA",
       "de": "2N17 - Armazém 17",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 13:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
@@ -392,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 15:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 15:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/05/2026 15:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -561,13 +561,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/05/2026 02:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "MSC MEDITERRANEAN"
+      "inicio": "09/05/2026 00:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +578,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 02:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
