@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T02:33:15.028Z",
+  "updatedAt": "2026-05-09T02:34:16.442Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -578,6 +578,16 @@
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 01:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
