@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T01:11:14.793Z",
+  "updatedAt": "2026-05-09T01:12:11.431Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 00:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
