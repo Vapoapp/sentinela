@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T01:00:22.566Z",
+  "updatedAt": "2026-05-09T01:01:08.995Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -552,16 +552,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/05/2026 22:00",
-      "imo": "9406635",
-      "navio": "CMA CGM RABELAIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/05/2026 22:00",
       "imo": "9464247",
       "navio": "MALIAKOS",
       "tipo": "ENTRADA",
@@ -588,6 +578,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 05:00",
+      "imo": "9406635",
+      "navio": "CMA CGM RABELAIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
