@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T11:55:17.122Z",
+  "updatedAt": "2026-05-09T11:56:09.261Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/05/2026 06:30",
+      "imo": "1049807",
+      "navio": "ZY YULONG",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 06:30",
       "imo": "9659543",
       "navio": "BARU ANTARES",
       "tipo": "MUDANÇA",
@@ -151,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/05/2026 06:30",
-      "imo": "1049807",
-      "navio": "ZY YULONG",
+      "inicio": "09/05/2026 07:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,16 +188,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/05/2026 07:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +298,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 07:30",
+      "imo": "9720512",
+      "navio": "MSC MICHELA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
