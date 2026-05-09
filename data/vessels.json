@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T11:42:09.401Z",
+  "updatedAt": "2026-05-09T11:43:15.232Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -258,6 +258,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 06:30",
+      "imo": "9313931",
+      "navio": "MSC INIYA V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
