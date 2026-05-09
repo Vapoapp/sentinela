@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T20:54:10.114Z",
+  "updatedAt": "2026-05-09T20:55:10.900Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -377,6 +377,16 @@
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 00:00",
+      "imo": "9453846",
+      "navio": "ANDRÉ REBOUÇAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
