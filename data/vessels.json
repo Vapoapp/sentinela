@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T11:47:14.460Z",
+  "updatedAt": "2026-05-09T11:48:09.870Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -256,6 +256,16 @@
       "navio": "ANGRA DOS REIS",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 15:00",
+      "imo": "9326512",
+      "navio": "Aktea",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
