@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T17:51:10.033Z",
+  "updatedAt": "2026-05-10T17:52:10.408Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -428,6 +428,56 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/05/2026 20:30",
+      "imo": "9440320",
+      "navio": "Maran Grace",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/05/2026 23:00",
+      "imo": "9603233",
+      "navio": "AMÉRICO VESPÚCIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "11/05/2026 00:00",
+      "imo": "9712682",
+      "navio": "GARGANTUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "11/05/2026 07:00",
+      "imo": "9849758",
+      "navio": "GENCO VALKYRIE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "11/05/2026 09:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
+      "agente": "GAC DO BRASIL LTDA."
     }
   ]
 }
