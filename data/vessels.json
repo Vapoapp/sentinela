@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-10T15:16:10.509Z",
+  "updatedAt": "2026-05-10T15:17:12.940Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 03:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -141,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 07:30",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 08:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
@@ -152,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 08:30",
-      "imo": "9379014",
-      "navio": "A.H. GIORGIO P.",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "FINARGE APOIO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/05/2026 08:30",
       "imo": "9312559",
       "navio": "XIN CHANG SHA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 08:30",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
