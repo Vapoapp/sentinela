@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-10T08:47:11.197Z",
+  "updatedAt": "2026-05-10T08:48:10.309Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -42,6 +42,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 06:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 06:30",
       "imo": "9768007",
       "navio": "LAEM CHABANG EXPRESS",
       "tipo": "SAÍDA",
@@ -58,6 +68,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 08:30",
+      "imo": "9312559",
+      "navio": "XIN CHANG SHA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -78,6 +98,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 19:00",
+      "imo": "9539494",
+      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
