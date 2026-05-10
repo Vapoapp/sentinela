@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T12:43:12.664Z",
+  "updatedAt": "2026-05-10T12:44:12.113Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -287,16 +287,6 @@
       "tipo": "SAÍDA",
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "10/05/2026 08:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
-      "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
