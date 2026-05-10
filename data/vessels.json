@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T12:24:16.281Z",
+  "updatedAt": "2026-05-10T12:25:20.413Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -321,22 +321,22 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "10/05/2026 13:00",
-      "imo": "9444845",
-      "navio": "SANTA INES",
-      "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "10/05/2026 15:30",
       "imo": "9603233",
       "navio": "AMÉRICO VESPÚCIO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/05/2026 18:00",
+      "imo": "9444845",
+      "navio": "SANTA INES",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     }
   ]
