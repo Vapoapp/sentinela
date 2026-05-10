@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-10T08:49:09.800Z",
+  "updatedAt": "2026-05-10T08:50:15.245Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 05:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
