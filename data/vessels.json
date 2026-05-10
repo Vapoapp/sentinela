@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-10T00:43:09.124Z",
+  "updatedAt": "2026-05-10T00:44:12.449Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -402,12 +402,42 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/05/2026 22:00",
+      "imo": "9303493",
+      "navio": "MR. CHAFIC",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 22:00",
       "imo": "9492000",
       "navio": "ANGRA DOS REIS",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 22:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/05/2026 23:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
