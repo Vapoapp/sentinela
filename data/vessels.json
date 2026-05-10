@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T15:18:10.067Z",
+  "updatedAt": "2026-05-10T15:19:15.547Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/05/2026 12:00",
+      "imo": "9657698",
+      "navio": "FUGRO AQUARIUS",
+      "tipo": "MUDANÇA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
