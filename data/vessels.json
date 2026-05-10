@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T08:55:11.901Z",
+  "updatedAt": "2026-05-10T08:56:19.089Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 2
     },
     "itaguai": {
       "ok": true,
@@ -208,6 +208,26 @@
       "de": "TPBL - BRICLOG",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/05/2026 05:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "SAÍDA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "11/05/2026 07:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
