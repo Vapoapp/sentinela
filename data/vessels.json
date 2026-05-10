@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T19:29:09.830Z",
+  "updatedAt": "2026-05-10T19:30:13.750Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "Fundeio - 5FA2 - Área de Fundeio A2",
       "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "11/05/2026 14:30",
+      "imo": "9327815",
+      "navio": "JADE LUCK",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
