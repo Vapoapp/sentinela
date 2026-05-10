@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-10T09:02:12.632Z",
+  "updatedAt": "2026-05-10T09:03:09.086Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/05/2026 18:00",
+      "imo": "9440320",
+      "navio": "Maran Grace",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
