@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-11T16:12:23.025Z",
+  "updatedAt": "2026-05-11T16:13:28.053Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 07:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "2N08 - Pátio 9",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 07:00",
-      "imo": "9365582",
-      "navio": "SKANDI FLUMINENSE",
+      "imo": "9692210",
+      "navio": "SEVEN MERLIN",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,12 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 07:00",
-      "imo": "9692210",
-      "navio": "SEVEN MERLIN",
+      "imo": "9365582",
+      "navio": "SKANDI FLUMINENSE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 07:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 10:00",
+      "imo": "9396024",
+      "navio": "BOMAR OSPREY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 10:00",
       "imo": "9539494",
       "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
       "tipo": "SAÍDA",
@@ -221,13 +231,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 10:00",
-      "imo": "9396024",
-      "navio": "BOMAR OSPREY",
+      "inicio": "11/05/2026 11:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 11:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -251,43 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 11:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 11:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "inicio": "11/05/2026 12:00",
+      "imo": "0011450339",
+      "navio": "BONO III",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 12:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 12:00",
-      "imo": "9757711",
-      "navio": "TORDIS KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +292,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 12:00",
-      "imo": "0011450339",
-      "navio": "BONO III",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 12:00",
       "imo": "9547673",
       "navio": "CASTRO ALVES",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 12:00",
+      "imo": "9757711",
+      "navio": "TORDIS KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 12:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 14:00",
-      "imo": "9312559",
-      "navio": "XIN CHANG SHA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 14:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 14:00",
+      "imo": "9312559",
+      "navio": "XIN CHANG SHA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -407,6 +407,36 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 11:30",
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 12:00",
+      "imo": "9396024",
+      "navio": "BOMAR OSPREY",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 15:00",
+      "imo": "9313931",
+      "navio": "MSC INIYA V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
