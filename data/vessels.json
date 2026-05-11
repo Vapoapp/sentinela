@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-11T09:36:16.627Z",
+  "updatedAt": "2026-05-11T09:37:10.614Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 07:00",
+      "imo": "9365582",
+      "navio": "SKANDI FLUMINENSE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 07:00",
       "imo": "9659074",
       "navio": "NORMAND SIRIUS (REB)",
       "tipo": "ENTRADA",
@@ -141,22 +151,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 07:00",
-      "imo": "9365582",
-      "navio": "SKANDI FLUMINENSE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 08:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "imo": "9788459",
+      "navio": "MR ALDO",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -168,6 +168,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 08:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
