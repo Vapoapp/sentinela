@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-11T18:01:18.534Z",
+  "updatedAt": "2026-05-11T18:02:15.612Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -111,6 +111,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 06:30",
+      "imo": "9659074",
+      "navio": "NORMAND SIRIUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 07:00",
       "imo": "9692210",
       "navio": "SEVEN MERLIN",
@@ -122,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 07:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "2N08 - Pátio 9",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 07:00",
       "imo": "9365582",
       "navio": "SKANDI FLUMINENSE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 07:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
