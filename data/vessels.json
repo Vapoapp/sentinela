@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-11T00:57:13.383Z",
+  "updatedAt": "2026-05-11T00:58:11.104Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -122,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 06:30",
-      "imo": "9768007",
-      "navio": "LAEM CHABANG EXPRESS",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,12 +142,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 06:30",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "MUDANÇA",
-      "de": "ESPR - MacLaren Ilha da Conceição",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9768007",
+      "navio": "LAEM CHABANG EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,6 +312,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 15:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 15:00",
       "imo": "9326512",
       "navio": "Aktea",
       "tipo": "SAÍDA",
@@ -328,16 +338,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/05/2026 15:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -421,6 +421,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/05/2026 21:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/05/2026 23:30",
       "imo": "9935650",
       "navio": "SEA CORAL",
@@ -431,6 +441,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 02:00",
+      "imo": "9655494",
+      "navio": "ILHA DO MOSQUEIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 03:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
@@ -438,6 +458,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 03:40",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
