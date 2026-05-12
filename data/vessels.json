@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T17:29:19.092Z",
+  "updatedAt": "2026-05-12T17:30:16.541Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 13:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 13:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "MUDANÇA",
@@ -341,13 +351,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 13:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "12/05/2026 14:00",
+      "imo": "9347358",
+      "navio": "ALLIE CHOUEST",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 16:30",
-      "imo": "9786097",
-      "navio": "MAERSK PANGANI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 16:30",
       "imo": "9396024",
       "navio": "BOMAR OSPREY",
       "tipo": "SAÍDA",
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 16:30",
+      "imo": "9786097",
+      "navio": "MAERSK PANGANI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
