@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T23:12:11.219Z",
+  "updatedAt": "2026-05-12T23:13:09.186Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -572,22 +572,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 22:00",
-      "imo": "9659543",
-      "navio": "BARU ANTARES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 22:00",
       "imo": "9702766",
       "navio": "SAPURA RUBI",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 22:00",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -718,6 +718,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 12:00",
+      "imo": "9364253",
+      "navio": "THESEUS Z (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
