@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T11:52:20.392Z",
+  "updatedAt": "2026-05-12T11:53:14.464Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -271,16 +271,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 15:00",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 16:30",
       "imo": "9786097",
       "navio": "MAERSK PANGANI",
@@ -318,16 +308,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 08:30",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
