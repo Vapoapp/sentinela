@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T12:24:22.367Z",
+  "updatedAt": "2026-05-12T12:25:15.689Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "12/05/2026 15:30",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
