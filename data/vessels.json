@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T01:27:15.503Z",
+  "updatedAt": "2026-05-12T01:28:21.035Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 08:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
