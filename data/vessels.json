@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T23:23:10.433Z",
+  "updatedAt": "2026-05-12T23:24:14.495Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -252,21 +252,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 11:00",
-      "imo": "9670262",
-      "navio": "C CABEDELO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 11:00",
       "imo": "9098309",
       "navio": "LH COMANDANTE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 11:00",
+      "imo": "9670262",
+      "navio": "C CABEDELO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
@@ -348,6 +348,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 14:00",
+      "imo": "9191448",
+      "navio": "BSL CALYPSO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "GL7 SHIPPING AG. MAR. E REPR. INTERNACIONAIS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
