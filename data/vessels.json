@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T13:09:14.916Z",
+  "updatedAt": "2026-05-12T13:10:20.521Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 09:00",
-      "imo": "9499888",
-      "navio": "RECIFE KNUTSEN",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 09:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 09:00",
+      "imo": "9499888",
+      "navio": "RECIFE KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -231,6 +231,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 10:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 11:30",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 12:00",
-      "imo": "9396024",
-      "navio": "BOMAR OSPREY",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 12:00",
       "imo": "9492139",
       "navio": "SAO LUIZ",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 12:00",
+      "imo": "9396024",
+      "navio": "BOMAR OSPREY",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
