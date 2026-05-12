@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T12:57:11.093Z",
+  "updatedAt": "2026-05-12T12:58:19.883Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 10:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
