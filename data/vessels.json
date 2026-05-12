@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T15:37:15.143Z",
+  "updatedAt": "2026-05-12T15:38:12.241Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -271,6 +271,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 11:00",
+      "imo": "9670262",
+      "navio": "C CABEDELO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 11:30",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
@@ -322,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 13:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 13:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 13:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
