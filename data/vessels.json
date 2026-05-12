@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T19:39:13.366Z",
+  "updatedAt": "2026-05-12T19:40:14.023Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -421,6 +421,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 17:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 19:00",
       "imo": "9849265",
       "navio": "CLEAROCEAN MELODY",
@@ -432,12 +442,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 19:00",
-      "imo": "9636034",
-      "navio": "ORYX (REB)",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +462,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 19:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
