@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T11:22:38.126Z",
+  "updatedAt": "2026-05-12T11:23:41.417Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 07:00",
-      "imo": "9418030",
-      "navio": "SKANDI MERCURY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 07:00",
       "imo": "9484845",
       "navio": "STRIL EXPLORER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 07:00",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 10:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +278,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 00:00",
+      "imo": "9735103",
+      "navio": "PORT ORIENT",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Niterói",
