@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T17:13:20.014Z",
+  "updatedAt": "2026-05-12T17:14:19.849Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -478,6 +478,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 08:30",
+      "imo": "9786097",
+      "navio": "MAERSK PANGANI",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
