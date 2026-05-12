@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T13:50:17.509Z",
+  "updatedAt": "2026-05-12T13:51:18.179Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -72,26 +72,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 05:00",
-      "imo": "9763760",
-      "navio": "BRAM BUCK",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 05:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 05:00",
       "imo": "9253208",
       "navio": "GRANDE SAN PAOLO",
       "tipo": "SAÍDA",
@@ -108,6 +88,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 05:00",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 09:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 09:00",
       "imo": "9286762",
       "navio": "SEVEN SABIÁ",
       "tipo": "MUDANÇA",
       "de": "TPSS - SUBSEA",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 09:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,12 +212,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 10:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,12 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 10:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 11:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +318,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 16:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "SAÍDA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
