@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T00:31:10.587Z",
+  "updatedAt": "2026-05-12T00:32:18.801Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/05/2026 16:00",
-      "imo": "0011466537",
-      "navio": "BONO II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/05/2026 16:00",
       "imo": "9435478",
       "navio": "AKER WAYFARER (REB)",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/05/2026 16:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +538,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
