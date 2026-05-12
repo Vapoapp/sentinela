@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T18:01:14.080Z",
+  "updatedAt": "2026-05-12T18:02:12.031Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 1
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -658,6 +658,46 @@
       "de": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/05/2026 09:30",
+      "imo": "9712670",
+      "navio": "STAR LEO",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/05/2026 13:00",
+      "imo": "9508433",
+      "navio": "BBC MONT BLANC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/05/2026 15:30",
+      "imo": "9712682",
+      "navio": "GARGANTUA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/05/2026 18:30",
+      "imo": "9492098",
+      "navio": "AVILA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
