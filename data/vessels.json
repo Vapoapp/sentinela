@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T12:28:17.583Z",
+  "updatedAt": "2026-05-12T12:29:16.073Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 05:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
       "tipo": "ENTRADA",
@@ -108,16 +118,6 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 05:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 07:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 07:00",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
       "tipo": "ENTRADA",
@@ -172,12 +162,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 07:00",
-      "imo": "9499888",
-      "navio": "RECIFE KNUTSEN",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
       "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/05/2026 08:00",
-      "imo": "9767821",
-      "navio": "CBO BOSSA NOVA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/05/2026 08:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 08:00",
+      "imo": "9767821",
+      "navio": "CBO BOSSA NOVA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,6 +218,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 09:00",
+      "imo": "9499888",
+      "navio": "RECIFE KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
