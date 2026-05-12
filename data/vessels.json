@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-12T18:50:21.584Z",
+  "updatedAt": "2026-05-12T18:51:16.701Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/05/2026 12:30",
+      "imo": "9639440",
+      "navio": "C NEBLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
