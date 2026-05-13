@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T12:49:13.386Z",
+  "updatedAt": "2026-05-13T12:50:24.362Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -461,16 +461,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "13/05/2026 13:00",
-      "imo": "9508433",
-      "navio": "BBC MONT BLANC",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "301 - TECON - SEPETIBA TECON S.A.",
-      "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "13/05/2026 16:00",
       "imo": "9492098",
       "navio": "AVILA",
@@ -478,6 +468,16 @@
       "de": "-",
       "para": "Fundeio - 5FB4 - Área de Fundeio B4",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/05/2026 19:00",
+      "imo": "9508433",
+      "navio": "BBC MONT BLANC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "BRAZILIAN PORT AGENTS"
     }
   ]
 }
