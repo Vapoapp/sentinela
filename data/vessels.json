@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T12:47:19.741Z",
+  "updatedAt": "2026-05-13T12:48:22.659Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 09:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
