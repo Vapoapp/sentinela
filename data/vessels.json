@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T23:41:17.943Z",
+  "updatedAt": "2026-05-13T23:42:14.292Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -562,6 +562,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 20:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 20:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS",
       "tipo": "SAÍDA",
@@ -642,6 +652,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPG1 - GNL 1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "MUDANÇA",
@@ -658,16 +678,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPG1 - GNL 1",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
