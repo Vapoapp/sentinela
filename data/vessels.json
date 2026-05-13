@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T13:57:19.244Z",
+  "updatedAt": "2026-05-13T13:59:00.810Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 08:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 08:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 08:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 11:30",
-      "imo": "9996680",
-      "navio": "CMA CGM COBALT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 11:30",
       "imo": "9395953",
       "navio": "ZIM BALTIMORE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 11:30",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 12:00",
+      "imo": "9364253",
+      "navio": "THESEUS Z (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 12:00",
       "imo": "9250751",
       "navio": "BOW FIRDA",
       "tipo": "ENTRADA",
@@ -341,13 +351,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 12:00",
-      "imo": "9364253",
-      "navio": "THESEUS Z (REB)",
+      "inicio": "13/05/2026 12:30",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
