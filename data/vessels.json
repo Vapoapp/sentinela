@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T18:52:15.371Z",
+  "updatedAt": "2026-05-13T18:53:17.972Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 16:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 16:00",
       "imo": "9679907",
       "navio": "CMA CGM MISSISSIPPI",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 16:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +518,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
