@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T11:14:13.411Z",
+  "updatedAt": "2026-05-13T11:15:16.280Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "13/05/2026 23:30",
+      "imo": "9409651",
+      "navio": "OCEANICASUB XV (REB)",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
