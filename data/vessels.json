@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T23:42:14.292Z",
+  "updatedAt": "2026-05-13T23:43:17.635Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 02:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 02:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
       "tipo": "MUDANÇA",
@@ -88,16 +98,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 02:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 09:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 09:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 09:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 10:00",
-      "imo": "9283435",
-      "navio": "MARLIN COPACABANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 10:00",
       "imo": "9753923",
       "navio": "SKANDI INVOLVER",
       "tipo": "SAÍDA",
       "de": "2N08 - Pátio 9",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 10:00",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,26 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 13:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 13:00",
-      "imo": "9789726",
-      "navio": "MANTA BEYOGLU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIR - ILHA REDONDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 13:00",
       "imo": "9313931",
       "navio": "MSC INIYA V",
       "tipo": "ENTRADA",
@@ -358,6 +338,26 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 13:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 13:00",
+      "imo": "9789726",
+      "navio": "MANTA BEYOGLU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,16 +432,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 17:00",
-      "imo": "9889655",
-      "navio": "AFRICAN MARGAUX",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 17:00",
       "imo": "3813883612",
       "navio": "C MACAÉ",
       "tipo": "SAÍDA",
@@ -461,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 17:00",
+      "imo": "9889655",
+      "navio": "AFRICAN MARGAUX",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 18:30",
       "imo": "9530187",
       "navio": "SANTOS SCOUT",
@@ -468,16 +468,6 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 19:00",
-      "imo": "9757711",
-      "navio": "TORDIS KNUTSEN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -551,13 +541,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 19:00",
+      "imo": "9757711",
+      "navio": "TORDIS KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 20:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 20:00",
-      "imo": "9423437",
-      "navio": "AKOFS SANTOS",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -651,13 +651,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
+      "inicio": "14/05/2026 06:30",
+      "imo": "9850898",
+      "navio": "EVER FEAT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPG1 - GNL 1",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -678,6 +678,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPG1 - GNL 1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
