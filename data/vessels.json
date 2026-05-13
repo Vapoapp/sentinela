@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T20:53:10.386Z",
+  "updatedAt": "2026-05-13T20:54:11.908Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -492,6 +492,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 19:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 19:00",
       "imo": "9668752",
       "navio": "STARNAV REGULUS",
       "tipo": "SAÍDA",
@@ -521,16 +531,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 19:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 20:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS",
@@ -538,6 +538,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 20:30",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,12 +592,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
-      "imo": "9616187",
-      "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPG1 - GNL 1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -602,12 +612,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPG1 - GNL 1",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
