@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T13:53:23.096Z",
+  "updatedAt": "2026-05-13T13:54:22.550Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 13:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
