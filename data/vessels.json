@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T18:34:20.259Z",
+  "updatedAt": "2026-05-13T18:35:18.741Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/05/2026 17:30",
+      "imo": "9508433",
+      "navio": "BBC MONT BLANC",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
     }
   ]
 }
