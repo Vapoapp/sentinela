@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-13T21:27:12.960Z",
+  "updatedAt": "2026-05-13T21:28:20.762Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -492,21 +492,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 19:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 19:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 19:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
       "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
@@ -581,6 +581,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 22:00",
+      "imo": "9834545",
+      "navio": "WS SIRIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 03:30",
       "imo": "9849265",
       "navio": "CLEAROCEAN MELODY",
@@ -602,16 +612,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
-      "imo": "9616187",
-      "navio": "SCOTSMAN TIDE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
       "imo": "9972361",
       "navio": "HL EDWARD AUSTIN",
       "tipo": "ENTRADA",
@@ -628,6 +628,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
+      "imo": "9616187",
+      "navio": "SCOTSMAN TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
