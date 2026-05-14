@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T11:00:28.664Z",
+  "updatedAt": "2026-05-14T11:01:10.972Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -337,16 +337,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "14/05/2026 12:00",
-      "imo": "9500297",
-      "navio": "AGIA YPOMONI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
