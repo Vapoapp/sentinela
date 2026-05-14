@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T03:42:09.785Z",
+  "updatedAt": "2026-05-14T03:43:09.190Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -137,16 +137,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 09:30",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
