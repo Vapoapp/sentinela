@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T19:24:12.302Z",
+  "updatedAt": "2026-05-14T19:25:15.906Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 16:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
