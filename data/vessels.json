@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T19:33:14.826Z",
+  "updatedAt": "2026-05-14T19:34:38.078Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 12:00",
+      "imo": "9417830",
+      "navio": "CBO ENDEAVOUR (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
