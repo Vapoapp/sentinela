@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T02:17:16.657Z",
+  "updatedAt": "2026-05-14T02:18:10.132Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -392,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 14:00",
-      "imo": "3813883612",
-      "navio": "C MACAÉ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESCM - ESTALEIRO CAMORIM",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 14:00",
       "imo": "9267754",
       "navio": "OCEAN7 ROYAL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 14:00",
+      "imo": "3813883612",
+      "navio": "C MACAÉ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -651,6 +651,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 22:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 23:00",
       "imo": "9191448",
       "navio": "BSL CALYPSO",
@@ -702,16 +712,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPG1 - GNL 1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "MUDANÇA",
@@ -728,6 +728,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPG1 - GNL 1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
