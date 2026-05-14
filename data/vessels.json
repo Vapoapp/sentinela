@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T02:16:12.767Z",
+  "updatedAt": "2026-05-14T02:17:16.657Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 83
     },
     "niteroi": {
       "ok": true,
@@ -532,12 +532,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 19:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F09 - XAREU",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9196307",
+      "navio": "F. F GLORY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,12 +552,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 19:00",
-      "imo": "9196307",
-      "navio": "F. F GLORY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,16 +568,6 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 20:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +588,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 20:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -622,6 +622,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 22:00",
+      "imo": "9834545",
+      "navio": "WS SIRIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 22:00",
       "imo": "9659567",
       "navio": "BARU ÁTRIA",
       "tipo": "ENTRADA",
@@ -641,16 +651,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 22:00",
-      "imo": "9834545",
-      "navio": "WS SIRIUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 23:00",
       "imo": "9191448",
       "navio": "BSL CALYPSO",
@@ -658,6 +658,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "GL7 SHIPPING AG. MAR. E REPR. INTERNACIONAIS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 02:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,6 +702,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
+      "imo": "9972361",
+      "navio": "HL EDWARD AUSTIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPG1 - GNL 1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "MUDANÇA",
@@ -708,16 +728,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
-      "imo": "9972361",
-      "navio": "HL EDWARD AUSTIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPG1 - GNL 1",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
