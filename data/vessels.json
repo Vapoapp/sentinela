@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T03:45:14.191Z",
+  "updatedAt": "2026-05-14T03:46:15.985Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 09:30",
+      "imo": "9249295",
+      "navio": "OSHIMANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
