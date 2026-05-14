@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T08:44:14.372Z",
+  "updatedAt": "2026-05-14T08:45:19.495Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -248,6 +248,16 @@
       "de": "BOIA TSHP - Boia Tranship",
       "para": "2N05 - Armazém 6",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 14:00",
+      "imo": "9692636",
+      "navio": "CBO ENERGY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
