@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-14T02:18:10.132Z",
+  "updatedAt": "2026-05-14T02:19:15.728Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 14:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 14:00",
       "imo": "9267754",
       "navio": "OCEAN7 ROYAL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 14:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 19:00",
-      "imo": "9196307",
-      "navio": "F. F GLORY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N10 - Terminal de Trigo",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 19:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 19:00",
+      "imo": "9196307",
+      "navio": "F. F GLORY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,22 +632,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/05/2026 22:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/05/2026 22:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/05/2026 22:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -681,6 +681,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 03:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 03:30",
       "imo": "9849265",
       "navio": "CLEAROCEAN MELODY",
@@ -688,6 +698,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 04:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -712,16 +732,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 07:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 07:00",
       "imo": "9616187",
       "navio": "SCOTSMAN TIDE (REB)",
       "tipo": "MUDANÇA",
@@ -738,6 +748,16 @@
       "de": "-",
       "para": "TPG1 - GNL 1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
