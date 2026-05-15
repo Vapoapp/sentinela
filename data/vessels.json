@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T14:46:11.025Z",
+  "updatedAt": "2026-05-15T14:47:14.767Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 12:30",
+      "imo": "9447653",
+      "navio": "ROCHEDO DE SÃO PEDRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
