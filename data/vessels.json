@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T13:12:16.573Z",
+  "updatedAt": "2026-05-15T13:13:18.029Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -312,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 09:30",
-      "imo": "9868376",
-      "navio": "TOVE KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 09:30",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 92 - AF Preferencial Gusa",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 09:30",
+      "imo": "9868376",
+      "navio": "TOVE KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +358,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 10:30",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
