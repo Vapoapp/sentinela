@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T15:29:11.009Z",
+  "updatedAt": "2026-05-15T15:30:20.094Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/05/2026 19:00",
+      "imo": "9500297",
+      "navio": "AGIA YPOMONI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
