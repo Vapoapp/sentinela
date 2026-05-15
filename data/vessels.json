@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T02:43:08.621Z",
+  "updatedAt": "2026-05-15T02:44:17.369Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -461,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 20:00",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 21:00",
       "imo": "9788459",
       "navio": "MR ALDO",
@@ -612,6 +622,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 06:00",
+      "imo": "9425722",
+      "navio": "SKANDI LOGGER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 06:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "MUDANÇA",
@@ -628,16 +648,6 @@
       "de": "-",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 06:00",
-      "imo": "9425722",
-      "navio": "SKANDI LOGGER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -732,22 +742,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 18:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 18:00",
       "imo": "9782699",
       "navio": "GRANDE HOUSTON",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 18:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
