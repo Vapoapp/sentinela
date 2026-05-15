@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T01:15:14.098Z",
+  "updatedAt": "2026-05-15T01:16:10.805Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 13:30",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 13:30",
       "imo": "9336361",
       "navio": "TS ABROLHOS",
       "tipo": "MUDANÇA",
       "de": "BOIA TSHP - Boia Tranship",
       "para": "2N05 - Armazém 6",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 13:30",
+      "imo": "9313931",
+      "navio": "MSC INIYA V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,22 +432,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 17:00",
-      "imo": "9702766",
-      "navio": "SAPURA RUBI",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 17:00",
       "imo": "9274874",
       "navio": "NORMAND TOPAZIO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 17:00",
+      "imo": "9702766",
+      "navio": "SAPURA RUBI",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,6 +512,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/05/2026 23:00",
+      "imo": "3810517208",
+      "navio": "C TORMENTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/05/2026 23:00",
       "imo": "3810505781",
       "navio": "C TORNADO",
       "tipo": "ENTRADA",
@@ -521,13 +531,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/05/2026 23:00",
-      "imo": "3810517208",
-      "navio": "C TORMENTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "15/05/2026 00:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,16 +572,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 06:00",
-      "imo": "9868376",
-      "navio": "TOVE KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 06:00",
       "imo": "9425722",
       "navio": "SKANDI LOGGER (REB)",
       "tipo": "ENTRADA",
@@ -588,6 +588,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 06:00",
+      "imo": "9868376",
+      "navio": "TOVE KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -682,22 +692,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 18:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 18:00",
       "imo": "9782699",
       "navio": "GRANDE HOUSTON",
       "tipo": "SAÍDA",
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 18:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
