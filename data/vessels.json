@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T00:58:10.521Z",
+  "updatedAt": "2026-05-15T00:59:10.890Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -682,6 +682,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 18:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 18:00",
       "imo": "9782699",
       "navio": "GRANDE HOUSTON",
       "tipo": "SAÍDA",
@@ -691,13 +701,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 18:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "inicio": "15/05/2026 20:00",
+      "imo": "9639440",
+      "navio": "C NEBLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
