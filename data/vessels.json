@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T17:36:11.184Z",
+  "updatedAt": "2026-05-15T17:37:10.788Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 15:00",
+      "imo": "9978949",
+      "navio": "MSC MUGE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
