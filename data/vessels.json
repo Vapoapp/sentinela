@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T17:35:12.250Z",
+  "updatedAt": "2026-05-15T17:36:11.184Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -412,12 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 12:00",
-      "imo": "9767821",
-      "navio": "CBO BOSSA NOVA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,12 +432,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 12:00",
-      "imo": "9385271",
-      "navio": "HOS TAURUS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9767821",
+      "navio": "CBO BOSSA NOVA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -617,6 +617,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 13:00",
+      "imo": "9720483",
+      "navio": "MSC CHLOE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
