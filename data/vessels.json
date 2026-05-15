@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T12:10:15.634Z",
+  "updatedAt": "2026-05-15T12:11:11.341Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "Fundeio - 5FB5 - Área de Fundeio B5",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/05/2026 15:30",
+      "imo": "9849758",
+      "navio": "GENCO VALKYRIE",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
