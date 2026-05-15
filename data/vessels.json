@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T03:50:15.418Z",
+  "updatedAt": "2026-05-15T03:51:08.621Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 00:00",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 00:00",
