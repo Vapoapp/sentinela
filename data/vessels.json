@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T15:25:16.971Z",
+  "updatedAt": "2026-05-15T15:26:15.198Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 08:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N11 - Armazém 13",
-      "para": "2N09 - Armazém 10",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 08:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 08:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N11 - Armazém 13",
+      "para": "2N09 - Armazém 10",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 11:00",
-      "imo": "9196307",
-      "navio": "F. F GLORY",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/05/2026 11:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 11:00",
+      "imo": "9196307",
+      "navio": "F. F GLORY",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +418,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 12:00",
+      "imo": "9767821",
+      "navio": "CBO BOSSA NOVA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
