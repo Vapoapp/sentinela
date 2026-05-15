@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T11:32:14.520Z",
+  "updatedAt": "2026-05-15T11:33:10.884Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -451,16 +451,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "15/05/2026 11:30",
-      "imo": "9508433",
-      "navio": "BBC MONT BLANC",
-      "tipo": "SAÍDA",
-      "de": "301 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "15/05/2026 14:00",
       "imo": "9939967",
       "navio": "MOUNT ITA",
@@ -468,6 +458,16 @@
       "de": "-",
       "para": "Fundeio - 5FB5 - Área de Fundeio B5",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/05/2026 16:30",
+      "imo": "9508433",
+      "navio": "BBC MONT BLANC",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
     }
   ]
 }
