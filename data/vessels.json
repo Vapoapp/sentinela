@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T01:32:12.975Z",
+  "updatedAt": "2026-05-15T01:33:10.384Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -552,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 01:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/05/2026 01:00",
       "imo": "9741279",
       "navio": "ACE DEFENDER (REB)",
       "tipo": "MUDANÇA",
@@ -592,12 +602,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 06:00",
-      "imo": "9868376",
-      "navio": "TOVE KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "MUDANÇA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,12 +622,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/05/2026 06:00",
-      "imo": "9458157",
-      "navio": "GAZ SYNERGY",
-      "tipo": "MUDANÇA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9868376",
+      "navio": "TOVE KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
