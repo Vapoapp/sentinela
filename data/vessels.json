@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T12:25:15.179Z",
+  "updatedAt": "2026-05-16T12:26:11.104Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -192,8 +192,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 10:00",
-      "imo": "9530187",
-      "navio": "SANTOS SCOUT",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -202,8 +202,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 10:00",
-      "imo": "9763760",
-      "navio": "BRAM BUCK",
+      "imo": "9530187",
+      "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -218,6 +218,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 10:30",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
