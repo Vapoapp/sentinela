@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T18:58:10.665Z",
+  "updatedAt": "2026-05-16T18:59:10.094Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 15:30",
+      "imo": "9530187",
+      "navio": "SANTOS SCOUT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
