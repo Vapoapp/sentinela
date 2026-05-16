@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T05:43:12.820Z",
+  "updatedAt": "2026-05-16T05:44:12.365Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 06:00",
+      "imo": "3810517208",
+      "navio": "C TORMENTA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 06:00",
       "imo": "9453858",
       "navio": "MARCÍLIO DIAS",
       "tipo": "ENTRADA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/05/2026 06:00",
-      "imo": "3810517208",
-      "navio": "C TORMENTA",
+      "inicio": "16/05/2026 07:00",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
       "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
+      "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,16 +162,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 10:00",
-      "imo": "9868376",
-      "navio": "TOVE KNUTSEN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01N - Visita Norte",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/05/2026 10:00",
       "imo": "9530187",
       "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
@@ -178,6 +178,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 10:00",
+      "imo": "9868376",
+      "navio": "TOVE KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01N - Visita Norte",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 13:00",
-      "imo": "9453810",
-      "navio": "ZUMBI DOS PALMARES",
-      "tipo": "SAÍDA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/05/2026 13:00",
       "imo": "9720483",
       "navio": "MSC CHLOE",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 13:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -248,16 +258,6 @@
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/05/2026 14:30",
-      "imo": "9996680",
-      "navio": "CMA CGM COBALT",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
