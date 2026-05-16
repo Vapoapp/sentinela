@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T05:37:10.687Z",
+  "updatedAt": "2026-05-16T05:38:09.861Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -328,6 +328,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/05/2026 14:00",
+      "imo": "9657698",
+      "navio": "FUGRO AQUARIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPMJ - Estaleiro Mauá",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
