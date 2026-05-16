@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T12:09:11.699Z",
+  "updatedAt": "2026-05-16T12:10:13.737Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "-",
       "para": "TPMJ - Estaleiro Mauá",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/05/2026 22:00",
+      "imo": "9559975",
+      "navio": "STIM STAR ARABIAN GULF (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
