@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T12:28:10.227Z",
+  "updatedAt": "2026-05-16T12:29:13.881Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -202,8 +202,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 10:00",
-      "imo": "9530187",
-      "navio": "SANTOS SCOUT",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -212,8 +212,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 10:00",
-      "imo": "9763760",
-      "navio": "BRAM BUCK",
+      "imo": "9530187",
+      "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -268,6 +268,16 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 13:00",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
