@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T23:20:13.744Z",
+  "updatedAt": "2026-05-16T23:21:11.432Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -402,6 +402,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/05/2026 18:00",
+      "imo": "9388584",
+      "navio": "MAERSK TOPPER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 18:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "ENTRADA",
@@ -478,6 +488,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 22:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
