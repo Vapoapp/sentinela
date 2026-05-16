@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-16T03:21:08.729Z",
+  "updatedAt": "2026-05-16T03:22:12.146Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -47,6 +47,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/05/2026 03:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
