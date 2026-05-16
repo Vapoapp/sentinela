@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T09:36:14.184Z",
+  "updatedAt": "2026-05-16T09:37:10.751Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -397,26 +397,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "16/05/2026 06:30",
-      "imo": "9849758",
-      "navio": "GENCO VALKYRIE",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "16/05/2026 08:00",
-      "imo": "9860972",
-      "navio": "TOMINI K11",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
