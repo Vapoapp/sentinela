@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-17T18:00:15.825Z",
+  "updatedAt": "2026-05-17T18:01:11.219Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -281,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 13:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 14:00",
       "imo": "8650045",
       "navio": "C VENTANIA",
@@ -302,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 14:30",
-      "imo": "9454008",
-      "navio": "CBO ISABELLA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/05/2026 14:30",
       "imo": "9973303",
       "navio": "BOCHEM NEW ORLEANS",
       "tipo": "ENTRADA",
@@ -321,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/05/2026 15:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
+      "inicio": "17/05/2026 14:30",
+      "imo": "9454008",
+      "navio": "CBO ISABELLA",
+      "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 15:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
