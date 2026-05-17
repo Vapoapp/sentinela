@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-17T12:57:13.066Z",
+  "updatedAt": "2026-05-17T12:58:12.075Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 06:30",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/05/2026 06:30",
       "imo": "9928205",
       "navio": "MAERSK EVERGLADES",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 06:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +242,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 12:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "2N11 - Armazém 13",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 12:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 12:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
