@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-17T04:30:17.853Z",
+  "updatedAt": "2026-05-17T04:31:08.860Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 01:40",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
