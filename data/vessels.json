@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T03:37:10.943Z",
+  "updatedAt": "2026-05-18T03:38:09.502Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 12:00",
+      "imo": "9425734",
+      "navio": "SKANDI LIFTER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Itaguaí",
