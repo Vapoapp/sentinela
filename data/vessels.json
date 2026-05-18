@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T00:38:12.176Z",
+  "updatedAt": "2026-05-18T00:39:13.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 12:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "2N11 - Armazém 13",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 12:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
@@ -278,16 +288,6 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/05/2026 12:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "2N11 - Armazém 13",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 00:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
