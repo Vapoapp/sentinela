@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T19:30:18.907Z",
+  "updatedAt": "2026-05-18T19:31:15.348Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -347,6 +347,16 @@
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 21:00",
+      "imo": "9653111",
+      "navio": "DELTA CARDINAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
