@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T15:23:17.928Z",
+  "updatedAt": "2026-05-18T15:24:16.973Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -202,20 +202,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 12:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "imo": "9425734",
+      "navio": "SKANDI LIFTER",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 12:00",
-      "imo": "9425734",
-      "navio": "SKANDI LIFTER",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
@@ -241,6 +241,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 15:00",
+      "imo": "9489895",
+      "navio": "CELSO FURTADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 16:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
@@ -252,8 +262,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 17:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
@@ -262,8 +272,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 17:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
