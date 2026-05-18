@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T03:40:15.625Z",
+  "updatedAt": "2026-05-18T03:41:09.506Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 06:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
