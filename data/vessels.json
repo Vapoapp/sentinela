@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T01:34:14.542Z",
+  "updatedAt": "2026-05-18T01:35:10.569Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -738,6 +738,16 @@
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/05/2026 19:00",
+      "imo": "9906025",
+      "navio": "ZH HEDLAND",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
