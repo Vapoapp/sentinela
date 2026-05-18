@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T23:43:10.322Z",
+  "updatedAt": "2026-05-18T23:44:15.901Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 15:00",
-      "imo": "9489895",
-      "navio": "CELSO FURTADO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 15:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 15:00",
+      "imo": "9489895",
+      "navio": "CELSO FURTADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -492,22 +492,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 06:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 06:00",
       "imo": "9618769",
       "navio": "MAR LIMPO III",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 06:00",
+      "imo": "9626443",
+      "navio": "BONGO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 06:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
