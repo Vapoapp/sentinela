@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T02:06:10.507Z",
+  "updatedAt": "2026-05-18T02:07:11.681Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -262,12 +262,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 12:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 12:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -461,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 21:30",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 22:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
@@ -482,12 +492,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/05/2026 23:30",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +508,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/05/2026 23:30",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
