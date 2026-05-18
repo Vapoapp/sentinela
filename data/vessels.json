@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T17:46:18.857Z",
+  "updatedAt": "2026-05-18T17:47:23.987Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 11:00",
-      "imo": "9254202",
-      "navio": "ANDINO ALPHA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 11:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 11:00",
+      "imo": "9254202",
+      "navio": "ANDINO ALPHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 15:00",
-      "imo": "9489895",
-      "navio": "CELSO FURTADO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 15:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 15:00",
+      "imo": "9489895",
+      "navio": "CELSO FURTADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +298,16 @@
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 17:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
