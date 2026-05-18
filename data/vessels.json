@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T07:52:14.028Z",
+  "updatedAt": "2026-05-18T07:53:10.106Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 04:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 06:00",
       "imo": "9388584",
       "navio": "MAERSK TOPPER (REB)",
@@ -128,6 +138,16 @@
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 09:00",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
