@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T00:05:12.453Z",
+  "updatedAt": "2026-05-18T00:06:11.099Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "17/05/2026 18:30",
+      "imo": "9237955",
+      "navio": "OCEANICASUB VI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
