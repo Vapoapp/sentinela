@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T18:00:33.005Z",
+  "updatedAt": "2026-05-18T18:01:21.413Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -487,6 +487,86 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/05/2026 20:00",
+      "imo": "9926520",
+      "navio": "FLORIDA",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/05/2026 22:30",
+      "imo": "9602875",
+      "navio": "SEBASTIÃO CABOTO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/05/2026 23:30",
+      "imo": "9960150",
+      "navio": "OCEAN AZURE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 00:30",
+      "imo": "9410480",
+      "navio": "HARALAMBOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 06:30",
+      "imo": "9910741",
+      "navio": "SHANDONG MISSION",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 09:30",
+      "imo": "9602875",
+      "navio": "SEBASTIÃO CABOTO",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 17:30",
+      "imo": "9939967",
+      "navio": "MOUNT ITA",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 19:00",
+      "imo": "9906025",
+      "navio": "ZH HEDLAND",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
