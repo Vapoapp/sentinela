@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T03:42:10.523Z",
+  "updatedAt": "2026-05-18T03:43:10.024Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 03:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
