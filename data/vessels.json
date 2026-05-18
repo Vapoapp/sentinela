@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T12:52:14.962Z",
+  "updatedAt": "2026-05-18T12:53:23.103Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/05/2026 18:00",
+      "imo": "9325300",
+      "navio": "HENG YUAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
