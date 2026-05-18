@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-18T13:45:25.254Z",
+  "updatedAt": "2026-05-18T13:46:17.179Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 06:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 06:00",
       "imo": "9388584",
       "navio": "MAERSK TOPPER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 06:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -181,6 +181,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 13:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 15:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
@@ -191,9 +201,19 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 16:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 17:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
@@ -202,8 +222,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 17:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
