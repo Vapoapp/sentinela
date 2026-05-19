@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T19:26:11.832Z",
+  "updatedAt": "2026-05-19T19:27:14.401Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -161,6 +161,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 06:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "MUDANÇA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 06:30",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
@@ -212,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 08:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 08:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "MUDANÇA",
@@ -228,16 +248,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 08:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -411,13 +421,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
-      "imo": "9547673",
-      "navio": "CASTRO ALVES",
+      "inicio": "19/05/2026 15:15",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
+      "de": "TPSS - SUBSEA",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 16:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
+      "imo": "9547673",
+      "navio": "CASTRO ALVES",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
