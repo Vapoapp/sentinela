@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T17:59:15.898Z",
+  "updatedAt": "2026-05-19T18:00:20.555Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 4
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -638,6 +638,46 @@
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/05/2026 00:30",
+      "imo": "9906025",
+      "navio": "ZH HEDLAND",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/05/2026 05:30",
+      "imo": "9939967",
+      "navio": "MOUNT ITA",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/05/2026 07:00",
+      "imo": "9568067",
+      "navio": "PEACE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/05/2026 09:00",
+      "imo": "9951965",
+      "navio": "BERGE HUALALAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
