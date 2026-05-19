@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T18:12:15.047Z",
+  "updatedAt": "2026-05-19T18:13:10.763Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 19:00",
+      "imo": "9453858",
+      "navio": "MARCÍLIO DIAS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 63 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
