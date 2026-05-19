@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T12:58:15.889Z",
+  "updatedAt": "2026-05-19T12:59:12.957Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 10:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 10:00",
       "imo": "9618769",
       "navio": "MAR LIMPO III",
       "tipo": "ENTRADA",
@@ -332,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 16:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
