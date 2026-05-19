@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T13:05:15.044Z",
+  "updatedAt": "2026-05-19T13:06:16.666Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 08:00",
-      "imo": "9379428",
-      "navio": "ASSO VENTINOVE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 08:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 08:00",
+      "imo": "9379428",
+      "navio": "ASSO VENTINOVE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
