@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T00:19:12.756Z",
+  "updatedAt": "2026-05-19T00:20:15.642Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -52,22 +52,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 02:30",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 02:30",
       "imo": "9649835",
       "navio": "CMA CGM SANTOS (REB)",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 02:30",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 06:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 06:00",
       "imo": "9388584",
       "navio": "MAERSK TOPPER (REB)",
       "tipo": "ENTRADA",
@@ -131,16 +141,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 06:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 07:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 08:00",
-      "imo": "9246607",
-      "navio": "GRANDE AMBURGO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 08:00",
       "imo": "9620683",
       "navio": "MORNING CLAIRE",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 08:00",
+      "imo": "9246607",
+      "navio": "GRANDE AMBURGO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 11:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 11:00",
       "imo": "9254202",
       "navio": "ANDINO ALPHA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 11:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 15:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "imo": "9489895",
+      "navio": "CELSO FURTADO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 15:00",
-      "imo": "9489895",
-      "navio": "CELSO FURTADO",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,16 +372,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/05/2026 18:00",
-      "imo": "9797254",
-      "navio": "ALTAIR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/05/2026 18:00",
       "imo": "3810263427",
       "navio": "TMJ 2",
       "tipo": "SAÍDA",
@@ -398,6 +388,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/05/2026 18:00",
+      "imo": "9797254",
+      "navio": "ALTAIR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -482,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 01:00",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 01:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 01:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 02:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
