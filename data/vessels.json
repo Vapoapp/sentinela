@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T15:18:16.245Z",
+  "updatedAt": "2026-05-19T15:19:12.209Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -301,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 12:20",
+      "imo": "9670262",
+      "navio": "C CABEDELO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 12:45",
       "imo": "9477402",
       "navio": "CBO ANITA",
@@ -332,6 +342,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 16:00",
+      "imo": "9372810",
+      "navio": "POLARIS LEADER",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
       "imo": "9547673",
       "navio": "CASTRO ALVES",
       "tipo": "MUDANÇA",
@@ -352,32 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 16:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
-      "imo": "9372810",
-      "navio": "POLARIS LEADER",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
