@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T16:10:14.498Z",
+  "updatedAt": "2026-05-19T16:11:15.840Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -181,6 +181,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 06:30",
+      "imo": "9996769",
+      "navio": "CMA CGM SILVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 06:50",
       "imo": "9318412",
       "navio": "CBO GUANABARA",
@@ -341,13 +351,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
-      "imo": "9372810",
-      "navio": "POLARIS LEADER",
+      "inicio": "19/05/2026 14:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 15:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
       "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +398,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9372810",
+      "navio": "POLARIS LEADER",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
