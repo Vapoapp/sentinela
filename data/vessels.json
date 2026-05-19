@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T12:38:18.155Z",
+  "updatedAt": "2026-05-19T12:39:13.664Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "angra": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/05/2026 17:00",
+      "imo": "9976434",
+      "navio": "GREEN PARANAGUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
