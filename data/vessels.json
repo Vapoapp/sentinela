@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T18:39:15.333Z",
+  "updatedAt": "2026-05-19T18:40:15.107Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -351,13 +351,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 13:30",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
+      "inicio": "19/05/2026 13:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F03 - Feiticeira",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2N05 - Armazém 6",
       "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 13:30",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F03 - Feiticeira",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,16 +442,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/05/2026 16:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/05/2026 16:00",
       "imo": "9372810",
       "navio": "POLARIS LEADER",
       "tipo": "SAÍDA",
@@ -458,6 +458,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 16:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
