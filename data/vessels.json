@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T05:40:13.612Z",
+  "updatedAt": "2026-05-19T05:41:10.190Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -108,6 +108,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "2N06 - Armazém 7",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/05/2026 05:00",
+      "imo": "9670418",
+      "navio": "CS CELESTE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
