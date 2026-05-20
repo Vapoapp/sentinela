@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T11:16:13.609Z",
+  "updatedAt": "2026-05-20T11:17:14.465Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 12:30",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
