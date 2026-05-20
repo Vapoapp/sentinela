@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T17:27:06.746Z",
+  "updatedAt": "2026-05-20T17:27:54.539Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "itaguai": {
       "ok": true,
@@ -606,6 +606,16 @@
       "navio": "BJ BLUE MARLIN",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "20/05/2026 16:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "ESMC - MacLaren Ponta da Areia",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
