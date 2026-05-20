@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T19:08:18.532Z",
+  "updatedAt": "2026-05-20T19:09:14.883Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -718,6 +718,16 @@
       "de": "-",
       "para": "Fundeio - 5FB4 - Área de Fundeio B4",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/05/2026 20:00",
+      "imo": "9476288",
+      "navio": "TASSOS N",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
