@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T16:54:33.579Z",
+  "updatedAt": "2026-05-20T16:56:01.795Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 11:00",
-      "imo": "9715567",
-      "navio": "CBO OCEANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 11:00",
       "imo": "9723241",
       "navio": "CZECH",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 11:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -278,6 +278,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 13:00",
+      "imo": "9466099",
+      "navio": "PARCEL DO BADEJO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
