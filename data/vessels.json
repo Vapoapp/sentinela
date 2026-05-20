@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T17:22:53.902Z",
+  "updatedAt": "2026-05-20T17:23:14.524Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -361,6 +361,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 16:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 17:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
@@ -372,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 19:00",
-      "imo": "9782766",
-      "navio": "LENA KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 63 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 19:00",
       "imo": "9213959",
       "navio": "INDUSTRIAL CHARGER",
       "tipo": "MUDANÇA",
       "de": "2N06 - Armazém 7",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 19:00",
+      "imo": "9782766",
+      "navio": "LENA KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 63 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
