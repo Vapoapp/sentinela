@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T16:06:15.914Z",
+  "updatedAt": "2026-05-20T16:07:17.668Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 15:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 15:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "SAÍDA",
@@ -318,16 +328,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 15:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "2N06 - Armazém 7",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 06:00",
+      "imo": "9382774",
+      "navio": "SKANDI COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
