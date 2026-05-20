@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T06:13:14.381Z",
+  "updatedAt": "2026-05-20T06:14:15.947Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -82,8 +82,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 05:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -92,8 +92,28 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 05:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 05:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 05:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
