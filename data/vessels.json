@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T19:39:16.785Z",
+  "updatedAt": "2026-05-20T19:40:16.671Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 19:00",
-      "imo": "9782766",
-      "navio": "LENA KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 63 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 19:00",
       "imo": "9213959",
       "navio": "INDUSTRIAL CHARGER",
       "tipo": "MUDANÇA",
       "de": "2N06 - Armazém 7",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 19:00",
+      "imo": "9782766",
+      "navio": "LENA KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 63 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 07:00",
+      "imo": "9530008",
+      "navio": "JACK EDWARDS (BAND. GREYLIST TOKYO MOU)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
