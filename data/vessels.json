@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T22:19:10.130Z",
+  "updatedAt": "2026-05-20T22:20:16.170Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -432,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/05/2026 19:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 19:00",
       "imo": "9782766",
       "navio": "LENA KNUTSEN",
       "tipo": "ENTRADA",
@@ -441,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 19:00",
-      "imo": "9213959",
-      "navio": "INDUSTRIAL CHARGER",
+      "inicio": "20/05/2026 20:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
       "tipo": "MUDANÇA",
-      "de": "2N06 - Armazém 7",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
