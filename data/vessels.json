@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T09:06:14.339Z",
+  "updatedAt": "2026-05-20T09:07:11.226Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -131,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/05/2026 07:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
+      "inicio": "20/05/2026 06:30",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -158,6 +158,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 07:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
