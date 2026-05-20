@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T11:17:14.465Z",
+  "updatedAt": "2026-05-20T11:18:17.673Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 04:00",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -198,6 +208,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 11:00",
+      "imo": "9723241",
+      "navio": "CZECH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
