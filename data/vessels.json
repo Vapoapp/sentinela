@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-20T03:26:13.274Z",
+  "updatedAt": "2026-05-20T03:27:14.182Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/05/2026 15:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
