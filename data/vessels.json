@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T13:14:14.332Z",
+  "updatedAt": "2026-05-21T13:15:17.470Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -358,6 +358,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "GL7 SHIPPING AG. MAR. E REPR. INTERNACIONAIS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 13:00",
+      "imo": "9702742",
+      "navio": "SAPURA ONIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
