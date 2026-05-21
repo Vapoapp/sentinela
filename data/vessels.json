@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T18:35:13.481Z",
+  "updatedAt": "2026-05-21T18:36:13.941Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -475,7 +475,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
+      "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -485,7 +485,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
+      "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -618,6 +618,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 17:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
