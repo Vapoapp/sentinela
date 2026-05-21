@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T15:58:14.438Z",
+  "updatedAt": "2026-05-21T15:59:18.489Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 4
     },
     "angra": {
       "ok": true,
@@ -668,16 +668,6 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "21/05/2026 19:00",
-      "imo": "9703655",
-      "navio": "NM Cherry Blossom",
-      "tipo": "SAÍDA",
-      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
