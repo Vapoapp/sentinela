@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T03:22:13.545Z",
+  "updatedAt": "2026-05-21T03:23:13.377Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 01:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 01:40",
