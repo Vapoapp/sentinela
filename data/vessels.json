@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T14:21:15.863Z",
+  "updatedAt": "2026-05-21T14:22:18.403Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -422,6 +422,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 15:00",
+      "imo": "9612789",
+      "navio": "NC BRISA (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 15:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
       "tipo": "ENTRADA",
@@ -441,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 15:00",
-      "imo": "9612789",
-      "navio": "NC BRISA (REB S/L)",
+      "inicio": "21/05/2026 16:00",
+      "imo": "9401788",
+      "navio": "SAGA ODYSSEY",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
