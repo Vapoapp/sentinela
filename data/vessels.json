@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T17:04:15.692Z",
+  "updatedAt": "2026-05-21T17:05:14.367Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -455,7 +455,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
+      "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -465,7 +465,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
+      "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -498,6 +498,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 14:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 16:00",
-      "imo": "9636022",
-      "navio": "SABLE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 16:00",
       "imo": "9975583",
       "navio": "MSC LE HAVRE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 16:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
