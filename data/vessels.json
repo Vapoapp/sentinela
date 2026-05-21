@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T00:30:16.595Z",
+  "updatedAt": "2026-05-21T00:31:11.718Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "-",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 06:00",
+      "imo": "9624299",
+      "navio": "MAERSK KARUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
