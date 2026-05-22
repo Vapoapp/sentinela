@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T04:13:12.967Z",
+  "updatedAt": "2026-05-22T04:14:13.761Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -122,16 +122,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 06:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 06:00",
       "imo": "9412945",
       "navio": "PARANA WARRIOR",
       "tipo": "ENTRADA",
@@ -141,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 06:30",
-      "imo": "9632480",
-      "navio": "MAERSK RUBICON",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "inicio": "22/05/2026 06:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -161,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 06:30",
+      "imo": "9632480",
+      "navio": "MAERSK RUBICON",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 07:00",
       "imo": "9329966",
       "navio": "NORMAND TURQUESA",
@@ -171,6 +171,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 07:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 08:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
@@ -178,6 +188,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 08:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
