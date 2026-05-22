@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T20:47:13.109Z",
+  "updatedAt": "2026-05-22T20:48:16.591Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 10:00",
-      "imo": "9401788",
-      "navio": "SAGA ODYSSEY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 10:00",
       "imo": "9401075",
       "navio": "MELINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 10:00",
+      "imo": "9401788",
+      "navio": "SAGA ODYSSEY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,16 +562,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 19:00",
-      "imo": "9724348",
-      "navio": "PARTHENON TS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 19:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "SAÍDA",
@@ -582,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 19:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9724348",
+      "navio": "PARTHENON TS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +588,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -681,6 +681,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 02:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 03:30",
       "imo": "9362827",
       "navio": "INDUSTRIAL HOBART",
@@ -728,6 +738,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 10:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
