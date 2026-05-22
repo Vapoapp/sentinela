@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T19:57:15.431Z",
+  "updatedAt": "2026-05-22T19:58:15.685Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -452,7 +452,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
@@ -462,7 +462,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
@@ -541,23 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 19:00",
-      "imo": "9724348",
-      "navio": "PARTHENON TS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 19:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "SAÍDA",
+      "inicio": "22/05/2026 18:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +568,26 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9724348",
+      "navio": "PARTHENON TS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,22 +622,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 22:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 22:00",
       "imo": "9489912",
       "navio": "RÔMULO ALMEIDA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 22:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
