@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-21T23:59:13.243Z",
+  "updatedAt": "2026-05-22T00:00:20.815Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 92
+      "count": 94
     },
     "niteroi": {
       "ok": true,
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 13:00",
-      "imo": "3813884350",
-      "navio": "C RIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 13:00",
       "imo": "9271743",
       "navio": "SINGRAR (EX DANKO TIDE)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 13:00",
+      "imo": "3813884350",
+      "navio": "C RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,12 +632,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 17:00",
-      "imo": "9715567",
-      "navio": "CBO OCEANA",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,12 +652,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 17:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
       "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -812,22 +812,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 01:00",
-      "imo": "9249489",
-      "navio": "NORMAND FLOWER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2NTO - Terminal de Óleo",
-      "para": "-",
-      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 01:00",
       "imo": "9318412",
       "navio": "CBO GUANABARA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 01:00",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "-",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -912,6 +912,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 12:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 12:00",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "ENTRADA",
@@ -921,13 +931,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 12:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "inicio": "22/05/2026 15:30",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 15:30",
+      "imo": "8714205",
+      "navio": "MSC SABRINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
