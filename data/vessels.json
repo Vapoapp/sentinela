@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T00:40:16.398Z",
+  "updatedAt": "2026-05-22T00:41:12.841Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 97
+      "count": 98
     },
     "niteroi": {
       "ok": true,
@@ -392,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 13:00",
-      "imo": "9702742",
-      "navio": "SAPURA ONIX",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,22 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 13:00",
-      "imo": "9274874",
-      "navio": "NORMAND TOPAZIO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 13:00",
-      "imo": "3813884350",
-      "navio": "C RIO",
+      "imo": "9702742",
+      "navio": "SAPURA ONIX",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -437,6 +427,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 13:00",
+      "imo": "3813884350",
+      "navio": "C RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
@@ -822,22 +822,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 01:00",
-      "imo": "9318412",
-      "navio": "CBO GUANABARA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 01:00",
       "imo": "9249489",
       "navio": "NORMAND FLOWER (REB)",
       "tipo": "SAÍDA",
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 01:00",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -941,6 +941,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 10:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 12:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
@@ -962,7 +972,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
@@ -972,7 +982,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
