@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T01:55:12.751Z",
+  "updatedAt": "2026-05-22T01:56:13.002Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 97
+      "count": 98
     },
     "niteroi": {
       "ok": true,
@@ -475,7 +475,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
+      "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -485,7 +485,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
+      "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -838,6 +838,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 03:00",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "-",
+      "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
