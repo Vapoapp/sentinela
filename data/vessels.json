@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T15:54:14.495Z",
+  "updatedAt": "2026-05-22T15:55:17.920Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -312,6 +312,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 10:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 10:00",
       "imo": "9401788",
       "navio": "SAGA ODYSSEY",
       "tipo": "ENTRADA",
@@ -328,16 +338,6 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 10:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,7 +442,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
@@ -452,12 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 18:00",
+      "imo": "9358826",
+      "navio": "SEVEN OCEANS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -471,13 +481,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 18:00",
-      "imo": "9358826",
-      "navio": "SEVEN OCEANS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "22/05/2026 19:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
