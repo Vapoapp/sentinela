@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T16:08:15.361Z",
+  "updatedAt": "2026-05-22T16:09:15.696Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -502,6 +502,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 22:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 22:00",
       "imo": "9489912",
       "navio": "RÔMULO ALMEIDA",
       "tipo": "MUDANÇA",
@@ -518,16 +528,6 @@
       "de": "-",
       "para": "Fundeio - WPT 81 - 2F08",
       "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 02:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
