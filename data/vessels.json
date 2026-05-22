@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T17:00:23.241Z",
+  "updatedAt": "2026-05-22T17:01:17.196Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 10:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 10:00",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 10:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 13:35",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 14:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
@@ -431,13 +441,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 18:00",
-      "imo": "9358826",
-      "navio": "SEVEN OCEANS",
+      "inicio": "22/05/2026 16:00",
+      "imo": "9553141",
+      "navio": "APOGEE ENDEAVOUR",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F01 - Visita",
       "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +458,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 18:00",
+      "imo": "9358826",
+      "navio": "SEVEN OCEANS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
