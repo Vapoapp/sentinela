@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T00:16:16.571Z",
+  "updatedAt": "2026-05-22T00:17:12.324Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 94
+      "count": 95
     },
     "niteroi": {
       "ok": true,
@@ -475,7 +475,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
+      "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -485,7 +485,7 @@
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
+      "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
@@ -868,6 +868,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 06:00",
+      "imo": "9724348",
+      "navio": "PARTHENON TS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
