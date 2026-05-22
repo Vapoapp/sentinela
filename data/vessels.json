@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T16:09:15.696Z",
+  "updatedAt": "2026-05-22T16:10:17.272Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -362,16 +362,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 12:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 12:00",
       "imo": "9741279",
       "navio": "ACE DEFENDER (REB)",
       "tipo": "MUDANÇA",
@@ -478,6 +468,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
