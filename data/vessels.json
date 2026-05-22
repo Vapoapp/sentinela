@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T02:58:11.295Z",
+  "updatedAt": "2026-05-22T02:59:12.766Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 98
+      "count": 99
     },
     "niteroi": {
       "ok": true,
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 08:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "CMM OFFSHORE BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 08:00",
       "imo": "9249489",
       "navio": "NORMAND FLOWER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2NTO - Terminal de Óleo",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 08:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 10:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 10:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 10:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 13:30",
+      "imo": "9996745",
+      "navio": "CMA CGM THORIUM",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/05/2026 13:30",
       "imo": "3813884350",
       "navio": "C RIO",
       "tipo": "SAÍDA",
@@ -458,16 +468,6 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/05/2026 13:30",
-      "imo": "9996745",
-      "navio": "CMA CGM THORIUM",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,12 +542,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 15:00",
-      "imo": "9612789",
-      "navio": "NC BRISA (REB S/L)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,12 +562,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/05/2026 15:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9612789",
+      "navio": "NC BRISA (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -831,6 +831,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 01:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2N05 - Armazém 6",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 02:30",
       "imo": "9612789",
       "navio": "NC BRISA (REB S/L)",
@@ -972,7 +982,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
@@ -982,7 +992,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 15:30",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "ENTRADA",
       "de": "-",
