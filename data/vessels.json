@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T18:59:13.867Z",
+  "updatedAt": "2026-05-22T19:00:25.941Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "-",
       "para": "Fundeio - 5FB2 - Área de Fundeio B2",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/05/2026 13:00",
+      "imo": "9910741",
+      "navio": "SHANDONG MISSION",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
