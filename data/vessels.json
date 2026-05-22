@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-22T16:07:15.575Z",
+  "updatedAt": "2026-05-22T16:08:15.361Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 10:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 10:00",
       "imo": "9401788",
       "navio": "SAGA ODYSSEY",
       "tipo": "ENTRADA",
@@ -502,16 +492,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 20:00",
-      "imo": "9724348",
-      "navio": "PARTHENON TS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 20:00",
       "imo": "9797254",
       "navio": "ALTAIR",
       "tipo": "MUDANÇA",
@@ -528,6 +508,16 @@
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 23:00",
+      "imo": "9724348",
+      "navio": "PARTHENON TS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
