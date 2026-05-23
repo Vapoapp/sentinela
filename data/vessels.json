@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T19:18:14.796Z",
+  "updatedAt": "2026-05-23T19:19:11.306Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 04:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 04:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 04:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 09:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 09:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CMM OFFSHORE BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 09:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 13:30",
-      "imo": "9407160",
-      "navio": "SEASPAN EMPIRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 13:30",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "SAÍDA",
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 13:30",
+      "imo": "9407160",
+      "navio": "SEASPAN EMPIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 15:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
