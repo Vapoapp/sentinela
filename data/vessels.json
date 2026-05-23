@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T00:00:21.648Z",
+  "updatedAt": "2026-05-23T00:01:14.379Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
@@ -542,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 18:00",
+      "imo": "9355252",
+      "navio": "GRAND VEGA",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 18:00",
       "imo": "9358826",
       "navio": "SEVEN OCEANS",
       "tipo": "SAÍDA",
@@ -558,16 +568,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 18:00",
-      "imo": "9355252",
-      "navio": "GRAND VEGA",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -622,16 +622,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 20:00",
-      "imo": "9797254",
-      "navio": "ALTAIR",
-      "tipo": "MUDANÇA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 20:00",
       "imo": "9401075",
       "navio": "MELINA",
       "tipo": "SAÍDA",
@@ -648,6 +638,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 20:00",
+      "imo": "9797254",
+      "navio": "ALTAIR",
+      "tipo": "MUDANÇA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -672,6 +672,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 22:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 22:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "ENTRADA",
@@ -688,16 +698,6 @@
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 22:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -772,7 +772,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -782,7 +782,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -838,6 +838,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 12:00",
+      "imo": "0011444517",
+      "navio": "DONA ISA (EX SANTA BÁRBARA XV)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
