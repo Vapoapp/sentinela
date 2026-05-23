@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T11:38:12.967Z",
+  "updatedAt": "2026-05-23T11:39:14.735Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -271,6 +271,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 09:30",
+      "imo": "9797254",
+      "navio": "ALTAIR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 10:00",
       "imo": "9814961",
       "navio": "SEALOADER 1",
@@ -302,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 11:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 11:00",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 11:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
