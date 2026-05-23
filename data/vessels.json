@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T04:26:16.418Z",
+  "updatedAt": "2026-05-23T04:27:13.727Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -108,6 +108,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2N06 - Armazém 7",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 04:00",
+      "imo": "9530199",
+      "navio": "SANTOS SERVICE",
+      "tipo": "SAÍDA",
+      "de": "TPBL - BRICLOG",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 11:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 11:00",
       "imo": "9710880",
       "navio": "SEVEN CRUZEIRO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 11:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
