@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T18:24:14.597Z",
+  "updatedAt": "2026-05-23T18:25:14.644Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -718,6 +718,16 @@
       "de": "Fundeio - 5FB3 - Área de Fundeio B3",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/05/2026 19:30",
+      "imo": "9603219",
+      "navio": "PEDRO ÁLVARES CABRAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     }
   ]
 }
