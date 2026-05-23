@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T02:28:14.330Z",
+  "updatedAt": "2026-05-23T02:29:12.786Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 96
+      "count": 97
     },
     "niteroi": {
       "ok": true,
@@ -572,26 +572,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 19:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 19:00",
-      "imo": "9724348",
-      "navio": "PARTHENON TS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 19:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "MUDANÇA",
@@ -608,6 +588,26 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 19:00",
+      "imo": "9724348",
+      "navio": "PARTHENON TS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -822,16 +822,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 06:00",
-      "imo": "9706528",
-      "navio": "SKANDI BUZIOS",
-      "tipo": "MUDANÇA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 06:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
       "tipo": "ENTRADA",
@@ -841,8 +831,18 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 06:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -852,7 +852,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -898,6 +898,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 10:30",
+      "imo": "9656199",
+      "navio": "SAPURA TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
