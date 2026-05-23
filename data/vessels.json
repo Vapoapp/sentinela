@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T12:07:12.307Z",
+  "updatedAt": "2026-05-23T12:09:12.363Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -477,6 +477,16 @@
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/05/2026 14:00",
+      "imo": "9724659",
+      "navio": "MARAN LOYALTY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB3 - Área de Fundeio B3",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
