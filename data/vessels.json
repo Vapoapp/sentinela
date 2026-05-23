@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T02:54:12.365Z",
+  "updatedAt": "2026-05-23T02:55:14.027Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 97
+      "count": 98
     },
     "niteroi": {
       "ok": true,
@@ -632,22 +632,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/05/2026 20:00",
-      "imo": "9401075",
-      "navio": "MELINA",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/05/2026 20:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 20:00",
+      "imo": "9401075",
+      "navio": "MELINA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -742,22 +742,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 00:30",
-      "imo": "9401788",
-      "navio": "SAGA ODYSSEY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 00:30",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 00:30",
+      "imo": "9401788",
+      "navio": "SAGA ODYSSEY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -832,7 +832,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -842,7 +842,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -948,6 +948,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 14:30",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
