@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T04:18:13.548Z",
+  "updatedAt": "2026-05-23T04:19:25.645Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 09:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 09:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "SAÍDA",
@@ -202,12 +212,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 11:00",
-      "imo": "9710880",
-      "navio": "SEVEN CRUZEIRO",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,12 +232,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 11:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
+      "imo": "9710880",
+      "navio": "SEVEN CRUZEIRO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
