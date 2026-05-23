@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T04:30:17.432Z",
+  "updatedAt": "2026-05-23T04:31:16.469Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -131,6 +131,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 04:30",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 05:00",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
@@ -142,7 +152,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "9979022",
+      "imo": "8714205",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -152,7 +162,7 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 07:00",
-      "imo": "8714205",
+      "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
@@ -222,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/05/2026 11:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLSTAD SHIPPING LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 11:00",
       "imo": "9710880",
       "navio": "SEVEN CRUZEIRO",
       "tipo": "ENTRADA",
@@ -248,6 +248,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/05/2026 11:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,16 +308,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/05/2026 21:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
