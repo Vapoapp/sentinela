@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-23T01:11:13.490Z",
+  "updatedAt": "2026-05-23T01:12:18.532Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 91
+      "count": 92
     },
     "niteroi": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/05/2026 22:10",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
