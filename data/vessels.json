@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-24T23:08:13.275Z",
+  "updatedAt": "2026-05-24T23:09:13.558Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 00:00",
+      "imo": "9956422",
+      "navio": "BOCHEM SHANGHAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
