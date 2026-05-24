@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-24T19:45:16.287Z",
+  "updatedAt": "2026-05-24T19:46:13.686Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 16:30",
+      "imo": "9280627",
+      "navio": "CMA CGM PUCCINI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
