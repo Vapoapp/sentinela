@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-24T20:26:14.808Z",
+  "updatedAt": "2026-05-24T20:27:13.391Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -92,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 07:00",
-      "imo": "9547673",
-      "navio": "CASTRO ALVES",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 07:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
       "tipo": "SAÍDA",
@@ -111,13 +101,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 08:00",
-      "imo": "9273301",
-      "navio": "ASTRO CMT MATOS",
-      "tipo": "MUDANÇA",
-      "de": "TPUT - TPUT",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "24/05/2026 07:00",
+      "imo": "9547673",
+      "navio": "CASTRO ALVES",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,6 +118,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 08:00",
+      "imo": "9273301",
+      "navio": "ASTRO CMT MATOS",
+      "tipo": "MUDANÇA",
+      "de": "TPUT - TPUT",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 09:30",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 09:30",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 09:30",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 10:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 10:00",
       "imo": "8615540",
       "navio": "MIRZAN",
       "tipo": "SAÍDA",
@@ -201,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 12:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "inicio": "24/05/2026 10:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +208,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 12:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 18:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/05/2026 18:00",
       "imo": "9294082",
       "navio": "MAERSK VEGA",
       "tipo": "ENTRADA",
@@ -288,6 +278,36 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 18:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 18:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 19:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 22:00",
+      "imo": "9418377",
+      "navio": "CMA CGM VERACRUZ (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 22:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
@@ -328,6 +358,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 14:00",
+      "imo": "9326512",
+      "navio": "Aktea",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
