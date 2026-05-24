@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-24T04:06:12.900Z",
+  "updatedAt": "2026-05-24T04:07:15.116Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 00:00",
+      "imo": "9418377",
+      "navio": "CMA CGM VERACRUZ (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/05/2026 02:00",
