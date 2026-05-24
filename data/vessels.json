@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-24T15:00:22.092Z",
+  "updatedAt": "2026-05-24T15:01:13.889Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 16:00",
+      "imo": "9326512",
+      "navio": "Aktea",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
