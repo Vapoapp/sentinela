@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T01:09:12.657Z",
+  "updatedAt": "2026-05-25T01:10:15.947Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLSTAD NAVEGAÇÃO MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/05/2026 21:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
