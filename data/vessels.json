@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T10:39:12.935Z",
+  "updatedAt": "2026-05-25T10:40:19.444Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -132,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 08:00",
+      "imo": "9360910",
+      "navio": "SEATTLE C",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 08:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "MUDANÇA",
@@ -141,13 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 08:00",
-      "imo": "9360910",
-      "navio": "SEATTLE C",
+      "inicio": "25/05/2026 09:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +188,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 10:30",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
