@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T18:43:14.438Z",
+  "updatedAt": "2026-05-25T18:44:14.012Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 12:00",
-      "imo": "1019905",
-      "navio": "BRAM RIO",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 12:00",
       "imo": "3813885704",
       "navio": "EQUIP 220",
       "tipo": "MUDANÇA",
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 12:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -401,6 +401,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 16:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 16:30",
       "imo": "3810517208",
       "navio": "C TORMENTA",
@@ -422,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 17:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 17:00",
       "imo": "9724348",
       "navio": "PARTHENON TS",
       "tipo": "SAÍDA",
@@ -432,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 17:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
-      "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,8 +522,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 21:30",
-      "imo": "3810517208",
-      "navio": "C TORMENTA",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
@@ -512,8 +532,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 21:30",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
+      "imo": "3810517208",
+      "navio": "C TORMENTA",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
