@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T23:37:15.512Z",
+  "updatedAt": "2026-05-25T23:38:15.221Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -912,16 +912,6 @@
     {
       "porto": "Itaguaí",
       "inicio": "26/05/2026 03:00",
-      "imo": "9490662",
-      "navio": "GENCO BOURGOGNE",
-      "tipo": "SAÍDA",
-      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "26/05/2026 03:00",
       "imo": "9724659",
       "navio": "MARAN LOYALTY",
       "tipo": "SAÍDA",
@@ -931,7 +921,27 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "26/05/2026 04:00",
+      "imo": "9490662",
+      "navio": "GENCO BOURGOGNE",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "26/05/2026 05:30",
+      "imo": "9889306",
+      "navio": "AZUL TIERRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/05/2026 06:30",
       "imo": "9855654",
       "navio": "BETTY K",
       "tipo": "ENTRADA",
@@ -948,16 +958,6 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "26/05/2026 11:30",
-      "imo": "9889306",
-      "navio": "AZUL TIERRA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
