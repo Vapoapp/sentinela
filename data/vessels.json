@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T13:31:14.675Z",
+  "updatedAt": "2026-05-25T13:32:20.864Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -172,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 08:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 08:00",
       "imo": "9360910",
       "navio": "SEATTLE C",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 08:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -231,6 +231,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 11:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 12:00",
+      "imo": "3813885704",
+      "navio": "EQUIP 220",
+      "tipo": "MUDANÇA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/05/2026 12:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
@@ -251,13 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 12:00",
-      "imo": "3813885704",
-      "navio": "EQUIP 220",
-      "tipo": "MUDANÇA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "25/05/2026 13:00",
+      "imo": "3810513041",
+      "navio": "TEMPESTADE C",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
