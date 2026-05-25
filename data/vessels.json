@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T15:50:18.605Z",
+  "updatedAt": "2026-05-25T15:51:14.291Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 04:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +308,16 @@
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 12:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLSTAD SHIPPING LTDA."
     },
     {
       "porto": "Rio de Janeiro",
