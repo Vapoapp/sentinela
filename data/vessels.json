@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T15:38:13.860Z",
+  "updatedAt": "2026-05-25T15:39:14.277Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 17:30",
+      "imo": "9628154",
+      "navio": "VALOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
