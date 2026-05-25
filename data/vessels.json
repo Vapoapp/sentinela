@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-25T20:18:15.791Z",
+  "updatedAt": "2026-05-25T20:19:14.527Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -411,13 +411,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 16:30",
-      "imo": "3810517208",
-      "navio": "C TORMENTA",
-      "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "25/05/2026 16:20",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CMM OFFSHORE BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,13 +431,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/05/2026 17:00",
-      "imo": "9448528",
-      "navio": "CBO SUPPORTER (REB)",
+      "inicio": "25/05/2026 16:30",
+      "imo": "3810517208",
+      "navio": "C TORMENTA",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "TPCM - Estaleiro Camorim",
       "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +448,16 @@
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/05/2026 17:00",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
