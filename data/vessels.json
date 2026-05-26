@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-26T00:51:12.503Z",
+  "updatedAt": "2026-05-26T00:52:13.582Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 89
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -864,6 +864,16 @@
       "inicio": "26/05/2026 15:00",
       "imo": "3810517208",
       "navio": "C TORMENTA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/05/2026 16:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
