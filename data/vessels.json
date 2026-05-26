@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-26T01:53:12.599Z",
+  "updatedAt": "2026-05-26T01:54:12.926Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 95
+      "count": 96
     },
     "niteroi": {
       "ok": true,
@@ -948,6 +948,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/05/2026 19:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
