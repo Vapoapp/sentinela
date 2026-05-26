@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-26T03:30:19.747Z",
+  "updatedAt": "2026-05-26T03:31:12.145Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/05/2026 13:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
