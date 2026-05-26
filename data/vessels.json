@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T03:26:16.191Z",
+  "updatedAt": "2026-05-26T03:27:14.802Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -248,6 +248,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "26/05/2026 06:00",
+      "imo": "9559975",
+      "navio": "STIM STAR ARABIAN GULF (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
