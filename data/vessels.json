@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:29:14.853Z",
+  "updatedAt": "2026-08-25T23:30:28.483Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -858,6 +858,16 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 06:00",
+      "imo": "9473224",
+      "navio": "CONDOR VALPARAISO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     }
   ]
 }
