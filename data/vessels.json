@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T00:31:16.100Z",
+  "updatedAt": "2026-08-26T00:32:17.832Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -648,6 +648,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 12:00",
+      "imo": "9335886",
+      "navio": "PORT ALBERNI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "WORLD SHIPPING AGENCIAMENTOS"
     },
     {
       "porto": "Rio de Janeiro",
