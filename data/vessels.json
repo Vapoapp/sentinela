@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:41:19.385Z",
+  "updatedAt": "2026-08-26T12:42:19.070Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -471,16 +471,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "26/08/2026 06:00",
-      "imo": "9946312",
-      "navio": "NS EXPLORER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "26/08/2026 09:00",
       "imo": "9473224",
       "navio": "CONDOR VALPARAISO",
@@ -528,6 +518,16 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 16:30",
+      "imo": "9946312",
+      "navio": "NS EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     }
   ]
 }
