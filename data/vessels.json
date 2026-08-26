@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:35:24.866Z",
+  "updatedAt": "2026-08-26T12:36:19.205Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -498,6 +498,16 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 14:00",
+      "imo": "9712670",
+      "navio": "STAR LEO",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
