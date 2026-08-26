@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:39:17.435Z",
+  "updatedAt": "2026-08-26T12:40:22.989Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 06:00",
+      "imo": "9946312",
+      "navio": "NS EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     },
     {
       "porto": "Itaguaí",
