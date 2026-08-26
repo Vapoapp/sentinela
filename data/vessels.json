@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T02:21:17.381Z",
+  "updatedAt": "2026-08-26T02:22:19.290Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -222,36 +222,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/08/2026 09:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/08/2026 09:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/08/2026 09:00",
-      "imo": "9748978",
-      "navio": "EPIC BALUAN",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/08/2026 09:00",
       "imo": "9374301",
       "navio": "SEAWAYS MUSE",
       "tipo": "SAÍDA",
@@ -271,13 +241,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/08/2026 10:00",
-      "imo": "9723253",
-      "navio": "BREMERHAVEN EXPRESS",
+      "inicio": "25/08/2026 09:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/08/2026 09:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/08/2026 09:00",
+      "imo": "9748978",
+      "navio": "EPIC BALUAN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -288,6 +278,16 @@
       "de": "-",
       "para": "Fundeio - WPT 65 - 2F6A",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/08/2026 10:00",
+      "imo": "9723253",
+      "navio": "BREMERHAVEN EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +688,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 10:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
