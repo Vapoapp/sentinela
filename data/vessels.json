@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T20:22:18.166Z",
+  "updatedAt": "2026-08-26T20:23:17.067Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 10:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N16 - Armazém 16",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 10:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
@@ -382,16 +392,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 19:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 19:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
       "tipo": "ENTRADA",
@@ -408,6 +408,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 07:00",
-      "imo": "9902249",
-      "navio": "EAGLE COLOMBO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 07:00",
       "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 07:00",
+      "imo": "9902249",
+      "navio": "EAGLE COLOMBO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
