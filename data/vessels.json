@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:10:23.518Z",
+  "updatedAt": "2026-08-26T12:11:19.507Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "angra": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "301 - TECON - SEPETIBA TECON S.A.",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 11:30",
+      "imo": "9416848",
+      "navio": "ASL POLARIS",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
