@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:19:15.914Z",
+  "updatedAt": "2026-08-26T12:20:27.293Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -427,6 +427,26 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "26/08/2026 07:30",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMA - ESTALEIRO MAUÁ",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "26/08/2026 09:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
