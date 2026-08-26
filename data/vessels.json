@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T12:45:22.431Z",
+  "updatedAt": "2026-08-26T12:46:19.819Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 00:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 02:00",
@@ -527,6 +517,16 @@
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB5 - Área de Fundeio B5",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 16:30",
+      "imo": "9951965",
+      "navio": "BERGE HUALALAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
