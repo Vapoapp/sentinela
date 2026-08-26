@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:51:21.323Z",
+  "updatedAt": "2026-08-26T12:52:17.474Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -527,6 +527,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 23:30",
+      "imo": "9454151",
+      "navio": "CASANOVA",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
