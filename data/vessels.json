@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T18:50:23.661Z",
+  "updatedAt": "2026-08-26T18:51:17.023Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -161,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 09:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
-      "tipo": "SAÍDA",
-      "de": "ESCM - ESTALEIRO CAMORIM",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "26/08/2026 08:00",
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +178,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 09:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "SAÍDA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
