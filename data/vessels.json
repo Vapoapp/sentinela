@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T18:54:20.068Z",
+  "updatedAt": "2026-08-26T18:55:20.782Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -321,6 +321,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 17:30",
+      "imo": "9793844",
+      "navio": "BANGLAR ARJAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 18:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
@@ -372,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 19:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 19:00",
       "imo": "9612765",
       "navio": "NC BREDA (REB S/L)",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,16 +528,6 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 17:30",
-      "imo": "9793844",
-      "navio": "BANGLAR ARJAN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
