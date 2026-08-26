@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T08:02:18.191Z",
+  "updatedAt": "2026-08-26T08:03:15.991Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
