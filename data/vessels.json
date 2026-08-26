@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:04:18.054Z",
+  "updatedAt": "2026-08-26T13:05:21.335Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/08/2026 17:30",
+      "imo": "9928891",
+      "navio": "COSCO SHIPPING FOUNTAIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
