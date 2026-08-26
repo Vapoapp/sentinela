@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T13:53:18.676Z",
+  "updatedAt": "2026-08-26T13:54:20.034Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -211,6 +211,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 11:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 12:00",
       "imo": "9335886",
       "navio": "PORT ALBERNI",
@@ -262,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 16:00",
-      "imo": "9732606",
-      "navio": "CMA CGM YUKON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 16:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 16:00",
+      "imo": "9732606",
+      "navio": "CMA CGM YUKON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
