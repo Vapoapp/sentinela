@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T13:01:18.631Z",
+  "updatedAt": "2026-08-26T13:02:20.137Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -577,6 +577,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/08/2026 18:00",
+      "imo": "9473224",
+      "navio": "CONDOR VALPARAISO",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     }
   ]
