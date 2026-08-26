@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T21:42:20.124Z",
+  "updatedAt": "2026-08-26T21:43:15.632Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 10:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N16 - Armazém 16",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 10:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 10:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N16 - Armazém 16",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,36 +342,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 18:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 18:00",
-      "imo": "9636034",
-      "navio": "ORYX (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 18:00",
-      "imo": "9629885",
-      "navio": "RAMFORM TITAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 82 - 2F08",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 18:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
       "tipo": "SAÍDA",
@@ -401,13 +371,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 19:00",
-      "imo": "9612765",
-      "navio": "NC BREDA (REB S/L)",
+      "inicio": "26/08/2026 18:00",
+      "imo": "9629885",
+      "navio": "RAMFORM TITAN",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "Fundeio - WPT 82 - 2F08",
       "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 18:00",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 18:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -426,6 +416,26 @@
       "navio": "BJ BLUE MARLIN",
       "tipo": "ENTRADA",
       "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:00",
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:30",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -522,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 07:00",
-      "imo": "9902249",
-      "navio": "EAGLE COLOMBO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 07:00",
       "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 07:00",
+      "imo": "9902249",
+      "navio": "EAGLE COLOMBO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
