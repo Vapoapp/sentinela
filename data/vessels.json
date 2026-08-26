@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T00:32:17.832Z",
+  "updatedAt": "2026-08-26T00:33:19.272Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/08/2026 10:00",
-      "imo": "9776286",
-      "navio": "BIGROLL BISCAY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 65 - 2F6A",
-      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/08/2026 10:00",
       "imo": "9723253",
       "navio": "BREMERHAVEN EXPRESS",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/08/2026 10:00",
+      "imo": "9776286",
+      "navio": "BIGROLL BISCAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 65 - 2F6A",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -492,12 +492,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/08/2026 19:00",
-      "imo": "9859416",
-      "navio": "HANG JUN 6009",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/08/2026 19:00",
-      "imo": "9668752",
-      "navio": "STARNAV REGULUS",
+      "imo": "9859416",
+      "navio": "HANG JUN 6009",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +598,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 06:00",
+      "imo": "9339131",
+      "navio": "SKANDI BOTAFOGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
