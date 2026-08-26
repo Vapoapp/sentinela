@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-26T18:51:17.023Z",
+  "updatedAt": "2026-08-26T18:52:18.861Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -172,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 09:00",
-      "imo": "9612765",
-      "navio": "NC BREDA (REB S/L)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 09:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "SAÍDA",
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 09:00",
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 11:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 11:00",
       "imo": "9748978",
       "navio": "EPIC BALUAN",
       "tipo": "SAÍDA",
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 11:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 18:00",
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 18:00",
       "imo": "9460095",
       "navio": "ISLAND INTERVENTION (REB)",
       "tipo": "SAÍDA",
@@ -341,13 +351,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 19:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "inicio": "26/08/2026 18:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +368,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 19:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
