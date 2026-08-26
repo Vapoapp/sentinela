@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:35:20.170Z",
+  "updatedAt": "2026-08-26T11:36:26.706Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -281,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 17:00",
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/08/2026 19:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
@@ -298,16 +308,6 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/08/2026 23:00",
-      "imo": "9612765",
-      "navio": "NC BREDA (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
