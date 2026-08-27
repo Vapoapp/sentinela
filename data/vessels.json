@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T02:27:18.140Z",
+  "updatedAt": "2026-08-27T02:28:16.927Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -612,6 +612,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 02:00",
+      "imo": "9387231",
+      "navio": "SKANDI VITORIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 02:00",
       "imo": "9460095",
       "navio": "ISLAND INTERVENTION (REB)",
       "tipo": "SAÍDA",
@@ -702,22 +712,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 07:00",
-      "imo": "9902249",
-      "navio": "EAGLE COLOMBO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 07:00",
       "imo": "9979022",
       "navio": "MSC SABRINA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 07:00",
+      "imo": "9902249",
+      "navio": "EAGLE COLOMBO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
