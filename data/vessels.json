@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T19:14:17.844Z",
+  "updatedAt": "2026-08-27T19:15:22.730Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -432,22 +432,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 12:00",
-      "imo": "9249489",
-      "navio": "NORMAND FLOWER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 12:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 12:00",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,16 +468,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 14:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -511,13 +501,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 14:30",
-      "imo": "9979022",
-      "navio": "MSC SABRINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "27/08/2026 14:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -528,6 +518,16 @@
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 14:30",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -591,13 +591,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 18:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
+      "inicio": "27/08/2026 17:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -608,6 +608,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 18:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
