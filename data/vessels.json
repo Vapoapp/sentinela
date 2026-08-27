@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T00:31:20.216Z",
+  "updatedAt": "2026-08-27T00:32:18.090Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/08/2026 23:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
