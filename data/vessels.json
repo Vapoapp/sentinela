@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T02:55:20.085Z",
+  "updatedAt": "2026-08-27T02:56:16.247Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 03:00",
+      "imo": "9387231",
+      "navio": "SKANDI VITORIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
