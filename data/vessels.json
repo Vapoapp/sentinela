@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T11:49:18.407Z",
+  "updatedAt": "2026-08-27T11:50:25.939Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -21,16 +21,6 @@
   "vessels": [
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 00:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 00:10",
       "imo": "9659634",
       "navio": "BARU TESORO",
@@ -38,6 +28,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 01:00",
+      "imo": "9460095",
+      "navio": "ISLAND INTERVENTION (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -56,16 +56,6 @@
       "navio": "DEBORAH KAY",
       "tipo": "SAÍDA",
       "de": "TPBL - BRICLOG",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 02:00",
-      "imo": "9460095",
-      "navio": "ISLAND INTERVENTION (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -198,16 +188,6 @@
       "de": "-",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
