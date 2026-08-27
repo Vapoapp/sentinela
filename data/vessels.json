@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:18:19.045Z",
+  "updatedAt": "2026-08-27T14:19:17.169Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "-",
       "para": "Fundeio - 5FB1 - Área de Fundeio B1",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/08/2026 15:00",
+      "imo": "9581174",
+      "navio": "HL GLADSTONE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
