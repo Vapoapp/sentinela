@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T11:43:15.594Z",
+  "updatedAt": "2026-08-27T11:44:17.301Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 04:00",
-      "imo": "9715579",
-      "navio": "CBO ITAJAÍ",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 04:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "SAÍDA",
       "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 04:00",
+      "imo": "9715579",
+      "navio": "CBO ITAJAÍ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,62 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 06:00",
-      "imo": "9249489",
-      "navio": "NORMAND FLOWER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9324837",
-      "navio": "NAVIOS VERMILION",
-      "tipo": "MUDANÇA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9334179",
-      "navio": "CAPTAIN NICHOLAS Z",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +192,62 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 06:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9334179",
+      "navio": "CAPTAIN NICHOLAS Z",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9324837",
+      "navio": "NAVIOS VERMILION",
+      "tipo": "MUDANÇA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 07:00",
-      "imo": "9979022",
-      "navio": "MSC SABRINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 07:00",
       "imo": "9799070",
       "navio": "STARNAV SCORPIUS",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 07:00",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,16 +332,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 09:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 09:00",
       "imo": "9208447",
       "navio": "C-AMBASSADOR (REB)",
       "tipo": "MUDANÇA",
@@ -391,13 +381,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 10:00",
-      "imo": "9732606",
-      "navio": "CMA CGM YUKON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "inicio": "27/08/2026 09:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -408,6 +398,26 @@
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 10:00",
+      "imo": "9732606",
+      "navio": "CMA CGM YUKON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 12:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,16 +438,6 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 12:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,6 +522,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
       "imo": "9349370",
       "navio": "NORMAND COMMANDER (REB)",
       "tipo": "ENTRADA",
@@ -531,13 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
+      "inicio": "28/08/2026 14:00",
+      "imo": "9864564",
+      "navio": "YM CREDIBILITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
