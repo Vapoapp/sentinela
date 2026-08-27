@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T12:03:17.030Z",
+  "updatedAt": "2026-08-27T12:04:21.347Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -361,6 +361,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 09:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 09:30",
       "imo": "9442055",
       "navio": "TALHA-MAR",
@@ -391,13 +401,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 12:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
+      "inicio": "27/08/2026 11:30",
+      "imo": "9324837",
+      "navio": "NAVIOS VERMILION",
+      "tipo": "MUDANÇA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +428,16 @@
       "de": "ESLO - ESTALEIRO LOCAR",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 12:00",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,16 +538,6 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
-      "imo": "9324837",
-      "navio": "NAVIOS VERMILION",
-      "tipo": "MUDANÇA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
