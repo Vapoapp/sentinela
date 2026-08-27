@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T00:20:36.312Z",
+  "updatedAt": "2026-08-27T00:21:15.708Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -364,9 +364,9 @@
       "inicio": "26/08/2026 18:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "SAÍDA",
+      "tipo": "MUDANÇA",
       "de": "2N07 - Pátio 8/9",
-      "para": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
@@ -374,9 +374,9 @@
       "inicio": "26/08/2026 18:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "MUDANÇA",
+      "tipo": "SAÍDA",
       "de": "2N07 - Pátio 8/9",
-      "para": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
@@ -588,6 +588,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
