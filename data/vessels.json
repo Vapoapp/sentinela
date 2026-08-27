@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T02:37:17.608Z",
+  "updatedAt": "2026-08-27T02:38:19.109Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "itaguai": {
       "ok": true,
@@ -948,6 +948,16 @@
       "de": "ESWS - ESTALEIRO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/08/2026 01:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
