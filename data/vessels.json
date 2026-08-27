@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T12:21:21.577Z",
+  "updatedAt": "2026-08-27T12:22:19.698Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -402,16 +402,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 12:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 12:00",
       "imo": "3810514888",
       "navio": "LOCAR III",
       "tipo": "MUDANÇA",
@@ -498,6 +488,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "ESLO - ESTALEIRO LOCAR",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 20:30",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
