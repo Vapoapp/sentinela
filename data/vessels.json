@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T17:59:16.430Z",
+  "updatedAt": "2026-08-27T18:00:37.435Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -432,16 +432,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 12:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 12:00",
       "imo": "9249489",
       "navio": "NORMAND FLOWER (REB)",
       "tipo": "SAÍDA",
@@ -578,16 +568,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 18:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
