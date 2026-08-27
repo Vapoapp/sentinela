@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T19:23:16.161Z",
+  "updatedAt": "2026-08-27T19:24:18.359Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "itaguai": {
       "ok": true,
@@ -738,6 +738,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/08/2026 15:30",
+      "imo": "9270220",
+      "navio": "GEONISIO BARROSO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Itaguaí",
