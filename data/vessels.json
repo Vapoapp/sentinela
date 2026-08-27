@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-27T04:53:17.656Z",
+  "updatedAt": "2026-08-27T04:54:19.185Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 03:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 03:00",
       "imo": "9750464",
       "navio": "INDUSTRIAL SONG",
       "tipo": "SAÍDA",
@@ -98,6 +108,16 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 04:00",
+      "imo": "9715579",
+      "navio": "CBO ITAJAÍ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 06:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 06:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "ENTRADA",
@@ -142,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 06:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
+      "imo": "9334179",
+      "navio": "CAPTAIN NICHOLAS Z",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,16 +198,6 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 06:00",
-      "imo": "9334179",
-      "navio": "CAPTAIN NICHOLAS Z",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
