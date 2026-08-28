@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T17:40:21.936Z",
+  "updatedAt": "2026-08-28T17:41:19.910Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -462,6 +462,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 13:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 13:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "MUDANÇA",
@@ -532,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 15:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 15:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "ENTRADA",
@@ -572,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 19:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 19:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 19:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
