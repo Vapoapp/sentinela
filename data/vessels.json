@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T09:31:17.790Z",
+  "updatedAt": "2026-08-28T09:32:18.452Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 05:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 05:00",
       "imo": "9788552",
       "navio": "PACIFIC JASPER",
       "tipo": "MUDANÇA",
       "de": "TPP2 - PETROBRAS PP2",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -221,33 +221,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "inicio": "28/08/2026 07:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,8 +242,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9273349",
-      "navio": "MARLIN LEBLON",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -272,8 +252,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9271743",
-      "navio": "SINGRAR (EX DANKO TIDE)",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
@@ -288,6 +268,36 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 10:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 10:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2R12 - Terminal - MCAR 1",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
