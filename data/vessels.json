@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:18:15.654Z",
+  "updatedAt": "2026-08-28T01:19:16.611Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 92
+      "count": 93
     },
     "niteroi": {
       "ok": true,
@@ -652,12 +652,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 20:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -672,12 +672,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 20:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CAPITAL MARÍTIMA LTDA"
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -792,16 +792,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 03:00",
-      "imo": "9944417",
-      "navio": "BRAM SPIRIT",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 03:00",
       "imo": "9489900",
       "navio": "SERGIO BUARQUE DE HOLANDA",
       "tipo": "MUDANÇA",
@@ -821,6 +811,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 03:00",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 05:00",
       "imo": "9788552",
       "navio": "PACIFIC JASPER",
@@ -828,6 +828,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
