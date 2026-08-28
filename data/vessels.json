@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:43:20.256Z",
+  "updatedAt": "2026-08-28T01:45:24.414Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 99
+      "count": 101
     },
     "niteroi": {
       "ok": true,
@@ -472,16 +472,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 14:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 14:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "MUDANÇA",
@@ -492,12 +482,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 14:00",
-      "imo": "9417359",
-      "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "SAÍDA",
-      "de": "2N07 - Pátio 8/9",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +498,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 14:00",
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -882,42 +882,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9085211",
-      "navio": "OCEANIC CHAMPION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9271743",
-      "navio": "SINGRAR (EX DANKO TIDE)",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9273349",
-      "navio": "MARLIN LEBLON",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -932,12 +902,42 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
       "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
+      "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9085211",
+      "navio": "OCEANIC CHAMPION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -991,6 +991,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 13:00",
+      "imo": "9547702",
+      "navio": "GARRINCHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 15:30",
       "imo": "9712606",
       "navio": "MTM SANTOS",
@@ -998,6 +1008,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 15:30",
+      "imo": "9246592",
+      "navio": "GRANDE FRANCIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - Terminal - MCAR 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
