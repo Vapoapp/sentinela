@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T00:41:15.651Z",
+  "updatedAt": "2026-08-28T00:42:16.205Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 83
     },
     "niteroi": {
       "ok": true,
@@ -502,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 14:30",
-      "imo": "9979022",
-      "navio": "MSC SABRINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 14:30",
       "imo": "9656199",
       "navio": "SAPURA TOPAZIO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 14:30",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -742,6 +742,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 03:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 03:00",
       "imo": "9489900",
       "navio": "SERGIO BUARQUE DE HOLANDA",
       "tipo": "MUDANÇA",
@@ -751,13 +761,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 03:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "inicio": "28/08/2026 08:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
