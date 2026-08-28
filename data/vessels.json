@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T02:02:18.685Z",
+  "updatedAt": "2026-08-28T02:03:18.636Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -1058,6 +1058,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ASGAARD NAVEGACAO S/A"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/08/2026 22:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
