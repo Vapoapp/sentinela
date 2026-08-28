@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:02:19.837Z",
+  "updatedAt": "2026-08-28T01:03:15.062Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 15:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 15:00",
       "imo": "9715579",
       "navio": "CBO ITAJAÍ",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 15:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 20:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 20:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "SAÍDA",
@@ -664,16 +674,6 @@
       "inicio": "27/08/2026 20:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 20:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -708,6 +708,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 21:30",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -782,26 +792,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9271743",
       "navio": "SINGRAR (EX DANKO TIDE)",
       "tipo": "SAÍDA",
@@ -828,6 +818,26 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
