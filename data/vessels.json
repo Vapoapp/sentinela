@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T00:34:15.466Z",
+  "updatedAt": "2026-08-28T00:35:18.342Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -728,6 +728,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 03:00",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "tipo": "MUDANÇA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
