@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T00:46:20.667Z",
+  "updatedAt": "2026-08-28T00:47:16.092Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -732,6 +732,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 03:00",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "tipo": "MUDANÇA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 03:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "ENTRADA",
@@ -748,16 +758,6 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 03:00",
-      "imo": "9489900",
-      "navio": "SERGIO BUARQUE DE HOLANDA",
-      "tipo": "MUDANÇA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -798,6 +798,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
