@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T20:22:19.145Z",
+  "updatedAt": "2026-08-28T20:23:18.990Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 17
+      "count": 19
     },
     "angra": {
       "ok": true,
@@ -891,6 +891,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "29/08/2026 01:00",
+      "imo": "9738741",
+      "navio": "AFRICAN QUAIL",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "29/08/2026 06:00",
       "imo": "1077907",
       "navio": "GH PRIDE",
@@ -918,6 +928,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/08/2026 11:00",
+      "imo": "9847097",
+      "navio": "SU MAY",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
