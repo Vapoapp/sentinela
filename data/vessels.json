@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T13:23:17.162Z",
+  "updatedAt": "2026-08-28T13:24:17.067Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -478,6 +478,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 15:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
