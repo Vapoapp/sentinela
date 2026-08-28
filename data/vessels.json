@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:39:18.042Z",
+  "updatedAt": "2026-08-28T01:40:42.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 96
+      "count": 97
     },
     "niteroi": {
       "ok": true,
@@ -492,22 +492,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 14:00",
-      "imo": "9382229",
-      "navio": "NORTH OCEAN 102",
-      "tipo": "SAÍDA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 14:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
       "tipo": "SAÍDA",
       "de": "2N07 - Pátio 8/9",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 14:00",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -842,16 +842,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 07:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 07:00",
       "imo": "9371086",
       "navio": "POSIDANA",
       "tipo": "ENTRADA",
@@ -862,12 +852,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 07:00",
       "imo": "9249489",
       "navio": "NORMAND FLOWER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9085211",
+      "navio": "OCEANIC CHAMPION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
