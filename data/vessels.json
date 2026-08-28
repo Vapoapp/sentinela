@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T02:55:22.019Z",
+  "updatedAt": "2026-08-28T02:56:22.081Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 103
+      "count": 104
     },
     "niteroi": {
       "ok": true,
@@ -892,16 +892,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9271743",
-      "navio": "SINGRAR (EX DANKO TIDE)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9547685",
       "navio": "CARLOS DRUMMOND DE ANDRADE",
       "tipo": "SAÍDA",
@@ -922,12 +912,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9085211",
-      "navio": "OCEANIC CHAMPION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -942,12 +932,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9085211",
+      "navio": "OCEANIC CHAMPION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -988,6 +988,16 @@
       "de": "ESLO - ESTALEIRO LOCAR",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 10:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
