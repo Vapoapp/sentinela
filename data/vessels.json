@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T04:20:24.937Z",
+  "updatedAt": "2026-08-28T04:21:16.211Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "ESLO - ESTALEIRO LOCAR",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "28/08/2026 07:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
