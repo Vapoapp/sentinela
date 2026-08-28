@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T14:12:16.757Z",
+  "updatedAt": "2026-08-28T14:13:15.593Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 09:00",
-      "imo": "9561875",
-      "navio": "APOGEE SPIRIT",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 09:00",
       "imo": "9656199",
       "navio": "SAPURA TOPAZIO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 64 - 2F6A",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 09:00",
+      "imo": "9561875",
+      "navio": "APOGEE SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 11:30",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 15:30",
-      "imo": "9404223",
-      "navio": "HORIZON EKAVI",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 15:30",
       "imo": "9246592",
       "navio": "GRANDE FRANCIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 15:30",
+      "imo": "9404223",
+      "navio": "HORIZON EKAVI",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +542,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 20:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 20:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 20:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
