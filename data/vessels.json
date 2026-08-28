@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:37:17.005Z",
+  "updatedAt": "2026-08-28T01:38:16.283Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 95
+      "count": 96
     },
     "niteroi": {
       "ok": true,
@@ -838,6 +838,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
