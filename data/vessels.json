@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T01:21:18.068Z",
+  "updatedAt": "2026-08-28T01:22:18.300Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 94
+      "count": 95
     },
     "niteroi": {
       "ok": true,
@@ -848,6 +848,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 07:00",
+      "imo": "9249489",
+      "navio": "NORMAND FLOWER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
