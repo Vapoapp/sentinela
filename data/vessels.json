@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T13:42:20.688Z",
+  "updatedAt": "2026-08-28T13:43:19.934Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 07:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 07:00",
       "imo": "9182966",
       "navio": "STAR ISMENE",
       "tipo": "SAÍDA",
@@ -242,16 +252,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 07:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 07:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "MUDANÇA",
@@ -282,16 +282,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9324849",
       "navio": "NAVIOS AMARILLO",
       "tipo": "SAÍDA",
@@ -302,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +318,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 10:00",
-      "imo": "9492139",
-      "navio": "SAO LUIZ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 10:00",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +538,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 23:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
