@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T04:22:18.005Z",
+  "updatedAt": "2026-08-28T04:23:17.424Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -51,6 +51,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 02:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 03:00",
       "imo": "9489900",
       "navio": "SERGIO BUARQUE DE HOLANDA",
@@ -68,6 +78,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 03:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,16 +172,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9547685",
       "navio": "CARLOS DRUMMOND DE ANDRADE",
       "tipo": "SAÍDA",
@@ -172,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
       "imo": "9324849",
       "navio": "NAVIOS AMARILLO",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9273349",
-      "navio": "MARLIN LEBLON",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,6 +218,16 @@
       "de": "-",
       "para": "Fundeio - WPT 82 - 2F08",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 15:30",
-      "imo": "9246592",
-      "navio": "GRANDE FRANCIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 15:30",
       "imo": "9712606",
       "navio": "MTM SANTOS",
       "tipo": "SAÍDA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 15:30",
+      "imo": "9246592",
+      "navio": "GRANDE FRANCIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - Terminal - MCAR 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
