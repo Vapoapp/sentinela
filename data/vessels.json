@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T09:27:15.289Z",
+  "updatedAt": "2026-08-28T09:28:20.561Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 05:00",
-      "imo": "9788552",
-      "navio": "PACIFIC JASPER",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 05:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 05:00",
+      "imo": "9788552",
+      "navio": "PACIFIC JASPER",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -211,13 +211,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 07:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
       "imo": "9271743",
       "navio": "SINGRAR (EX DANKO TIDE)",
       "tipo": "SAÍDA",
@@ -262,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9273349",
-      "navio": "MARLIN LEBLON",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
