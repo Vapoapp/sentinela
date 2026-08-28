@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T08:26:18.172Z",
+  "updatedAt": "2026-08-28T08:27:17.954Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -161,6 +161,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 06:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 06:30",
       "imo": "9732606",
       "navio": "CMA CGM YUKON",
@@ -202,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9349370",
       "navio": "NORMAND COMMANDER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9271743",
-      "navio": "SINGRAR (EX DANKO TIDE)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
       "imo": "9085211",
       "navio": "OCEANIC CHAMPION",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 82 - 2F08",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 10:00",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 10:00",
       "imo": "3810514888",
       "navio": "LOCAR III",
       "tipo": "MUDANÇA",
@@ -308,16 +328,6 @@
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
-      "imo": "9492139",
-      "navio": "SAO LUIZ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
