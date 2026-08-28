@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T00:32:19.017Z",
+  "updatedAt": "2026-08-28T00:33:18.129Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -642,16 +642,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 20:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/08/2026 20:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "SAÍDA",
@@ -691,6 +681,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/08/2026 20:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/08/2026 20:30",
       "imo": "9324849",
       "navio": "NAVIOS AMARILLO",
@@ -708,6 +708,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 00:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
