@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T13:27:15.376Z",
+  "updatedAt": "2026-08-28T13:28:21.870Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -381,16 +381,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 11:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
@@ -518,16 +508,6 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 18:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
