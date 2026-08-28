@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T17:38:20.667Z",
+  "updatedAt": "2026-08-28T17:39:18.584Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "28/08/2026 13:15",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
