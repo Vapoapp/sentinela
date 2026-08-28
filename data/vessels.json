@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T16:44:16.376Z",
+  "updatedAt": "2026-08-28T16:45:28.105Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -391,6 +391,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 11:30",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 12:00",
       "imo": "7321324",
       "navio": "ATLANTICO",
@@ -442,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 12:30",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 12:30",
       "imo": "9547702",
       "navio": "GARRINCHA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 12:30",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -678,16 +688,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 11:30",
-      "imo": "9979022",
-      "navio": "MSC SABRINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
