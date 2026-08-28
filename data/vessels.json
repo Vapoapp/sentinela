@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-28T11:13:16.726Z",
+  "updatedAt": "2026-08-28T11:14:23.809Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -272,12 +272,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9085211",
-      "navio": "OCEANIC CHAMPION",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
+      "imo": "9085211",
+      "navio": "OCEANIC CHAMPION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -458,6 +458,76 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 06:00",
+      "imo": "9732606",
+      "navio": "CMA CGM YUKON",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 08:00",
+      "imo": "9864564",
+      "navio": "YM CREDIBILITY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 08:30",
+      "imo": "9480186",
+      "navio": "MSC BARCELONA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01N - Visita Norte",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 09:00",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 11:30",
+      "imo": "9979022",
+      "navio": "MSC SABRINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 15:30",
+      "imo": "9246592",
+      "navio": "GRANDE FRANCIA",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Niterói",
