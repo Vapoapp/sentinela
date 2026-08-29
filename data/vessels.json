@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T16:56:19.257Z",
+  "updatedAt": "2026-08-29T16:57:17.645Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -517,16 +517,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "29/08/2026 18:00",
-      "imo": "9847097",
-      "navio": "SU MAY",
-      "tipo": "SAÍDA",
-      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
