@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T13:41:40.777Z",
+  "updatedAt": "2026-08-29T13:42:22.196Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 23:50",
+      "imo": "9423231",
+      "navio": "CAMPOS CHALLENGER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
