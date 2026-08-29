@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T22:17:20.331Z",
+  "updatedAt": "2026-08-29T22:18:22.292Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 16:10",
+      "imo": "3810263427",
+      "navio": "TMJ 2",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
