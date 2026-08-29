@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T02:50:23.020Z",
+  "updatedAt": "2026-08-29T02:51:16.711Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 97
+      "count": 98
     },
     "niteroi": {
       "ok": true,
@@ -591,6 +591,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 16:30",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 17:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
@@ -742,22 +752,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 21:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 21:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 21:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -842,22 +852,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 07:00",
-      "imo": "9371086",
-      "navio": "POSIDANA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 07:00",
       "imo": "9618305",
       "navio": "MSC ATHENS",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9404223",
+      "navio": "HORIZON EKAVI",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -872,12 +882,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 07:00",
-      "imo": "9404223",
-      "navio": "HORIZON EKAVI",
+      "imo": "9371086",
+      "navio": "POSIDANA",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
+      "de": "Fundeio - 2F01 - Visita",
       "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
