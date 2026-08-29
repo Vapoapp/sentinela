@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:41:19.673Z",
+  "updatedAt": "2026-08-29T05:42:16.183Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,6 +341,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "29/08/2026 13:30",
+      "imo": "9423944",
+      "navio": "GREAT EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "29/08/2026 16:00",
       "imo": "9872183",
       "navio": "COSCO SHIPPING XING WANG",
@@ -357,16 +367,6 @@
       "tipo": "SAÍDA",
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "29/08/2026 22:00",
-      "imo": "9423944",
-      "navio": "GREAT EXPLORER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
