@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T00:02:23.522Z",
+  "updatedAt": "2026-08-29T00:03:16.767Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 20:20",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
