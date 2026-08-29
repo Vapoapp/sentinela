@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T13:48:18.968Z",
+  "updatedAt": "2026-08-29T13:49:20.127Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 14:00",
+      "imo": "9550280",
+      "navio": "Lardos",
+      "tipo": "SAÍDA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
