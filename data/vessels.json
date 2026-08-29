@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T03:17:15.574Z",
+  "updatedAt": "2026-08-29T03:18:19.893Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -47,6 +47,16 @@
       "tipo": "MUDANÇA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 02:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
