@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T14:46:20.950Z",
+  "updatedAt": "2026-08-29T14:47:16.202Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -501,16 +501,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "29/08/2026 16:30",
-      "imo": "9872183",
-      "navio": "COSCO SHIPPING XING WANG",
-      "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "29/08/2026 18:00",
       "imo": "9847097",
       "navio": "SU MAY",
@@ -518,6 +508,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/08/2026 19:00",
+      "imo": "9872183",
+      "navio": "COSCO SHIPPING XING WANG",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
