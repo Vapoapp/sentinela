@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T05:39:16.568Z",
+  "updatedAt": "2026-08-29T05:40:21.870Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -357,6 +357,16 @@
       "tipo": "SAÍDA",
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/08/2026 22:00",
+      "imo": "9423944",
+      "navio": "GREAT EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
