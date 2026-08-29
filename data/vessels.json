@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T09:25:22.650Z",
+  "updatedAt": "2026-08-29T09:26:22.309Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -101,23 +101,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 07:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
+      "inicio": "29/08/2026 06:30",
+      "imo": "9636034",
+      "navio": "ORYX (REB)",
       "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2R12 - Terminal - MCAR 1",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 07:00",
-      "imo": "9371086",
-      "navio": "POSIDANA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -138,6 +128,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2R12 - Terminal - MCAR 1",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9371086",
+      "navio": "POSIDANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
