@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T07:59:20.191Z",
+  "updatedAt": "2026-08-29T08:00:37.801Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -144,6 +144,16 @@
       "inicio": "29/08/2026 07:00",
       "imo": "9371086",
       "navio": "POSIDANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:30",
+      "imo": "9798856",
+      "navio": "PYXIS OCEAN",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
