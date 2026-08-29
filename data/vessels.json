@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T08:02:18.471Z",
+  "updatedAt": "2026-08-29T08:03:18.027Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -112,26 +112,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 07:00",
-      "imo": "9404223",
-      "navio": "HORIZON EKAVI",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 07:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/08/2026 07:00",
       "imo": "3810514888",
       "navio": "LOCAR III",
       "tipo": "MUDANÇA",
@@ -148,6 +128,26 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9404223",
+      "navio": "HORIZON EKAVI",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,6 +188,16 @@
       "de": "Fundeio - 2F01N - Visita Norte",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 10:00",
+      "imo": "9424039",
+      "navio": "CASTILLO DE HERRERA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
