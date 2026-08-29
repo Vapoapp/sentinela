@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T01:57:16.596Z",
+  "updatedAt": "2026-08-29T01:58:17.764Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 93
+      "count": 94
     },
     "niteroi": {
       "ok": true,
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 06:00",
-      "imo": "9644158",
-      "navio": "ZARAPITO",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F11 - AF Boa Viagem",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 06:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "Fundeio - 2F11 - AF Boa Viagem",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,6 +272,36 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 08:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9547685",
+      "navio": "CARLOS DRUMMOND DE ANDRADE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 08:00",
       "imo": "9085211",
       "navio": "OCEANIC CHAMPION",
       "tipo": "ENTRADA",
@@ -288,36 +318,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9547685",
-      "navio": "CARLOS DRUMMOND DE ANDRADE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 08:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 10:00",
-      "imo": "9492139",
-      "navio": "SAO LUIZ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 10:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 10:00",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,16 +442,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 12:30",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 12:30",
       "imo": "9547702",
       "navio": "GARRINCHA",
       "tipo": "ENTRADA",
@@ -461,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 13:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
+      "inicio": "28/08/2026 12:30",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "para": "TPBL - BRICLOG",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -491,13 +481,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 13:30",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "inicio": "28/08/2026 13:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
       "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +498,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 13:30",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -592,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 17:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 17:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 17:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,16 +692,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/08/2026 20:00",
-      "imo": "9710878",
-      "navio": "SEVEN RIO",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/08/2026 20:00",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
       "tipo": "ENTRADA",
@@ -718,6 +708,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 20:00",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -818,6 +818,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 07:00",
+      "imo": "9404223",
+      "navio": "HORIZON EKAVI",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
