@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T00:23:24.987Z",
+  "updatedAt": "2026-08-29T00:24:20.717Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 90
+      "count": 91
     },
     "niteroi": {
       "ok": true,
@@ -918,6 +918,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/08/2026 20:00",
+      "imo": "9407160",
+      "navio": "SEASPAN EMPIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
