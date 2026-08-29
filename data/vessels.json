@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T02:42:17.217Z",
+  "updatedAt": "2026-08-29T02:43:18.137Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 95
+      "count": 96
     },
     "niteroi": {
       "ok": true,
@@ -791,6 +791,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/08/2026 23:40",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 01:00",
       "imo": "9349370",
       "navio": "NORMAND COMMANDER (REB)",
@@ -822,12 +832,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 07:00",
-      "imo": "9404223",
-      "navio": "HORIZON EKAVI",
+      "imo": "9371086",
+      "navio": "POSIDANA",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
+      "de": "Fundeio - 2F01 - Visita",
       "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -852,12 +862,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/08/2026 07:00",
-      "imo": "9371086",
-      "navio": "POSIDANA",
+      "imo": "9404223",
+      "navio": "HORIZON EKAVI",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
+      "de": "Fundeio - WPT 61 - 2F6A",
       "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
