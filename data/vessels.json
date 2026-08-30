@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T09:06:18.271Z",
+  "updatedAt": "2026-08-30T09:07:17.541Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -101,6 +101,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 05:30",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 06:00",
       "imo": "9423231",
       "navio": "CAMPOS CHALLENGER",
@@ -122,22 +132,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 07:00",
-      "imo": "9271743",
-      "navio": "SINGRAR (EX DANKO TIDE)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/08/2026 07:00",
       "imo": "9292072",
       "navio": "ILHA DO CABO FRIO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 07:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 07:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
