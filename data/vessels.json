@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:39:18.158Z",
+  "updatedAt": "2026-08-30T13:40:26.985Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "Fundeio - 5FB5 - Área de Fundeio B5",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/08/2026 19:00",
+      "imo": "9573115",
+      "navio": "CANAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
