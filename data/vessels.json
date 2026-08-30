@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T04:24:16.033Z",
+  "updatedAt": "2026-08-30T04:25:24.356Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/08/2026 00:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 07:00",
