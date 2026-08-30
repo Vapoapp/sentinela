@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T06:22:16.409Z",
+  "updatedAt": "2026-08-30T06:23:17.360Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 02:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
