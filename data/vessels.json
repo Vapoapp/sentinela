@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:21:15.948Z",
+  "updatedAt": "2026-08-30T13:22:18.309Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/08/2026 10:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
