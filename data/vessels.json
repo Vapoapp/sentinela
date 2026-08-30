@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T12:53:22.840Z",
+  "updatedAt": "2026-08-30T12:54:16.645Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -361,16 +361,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "30/08/2026 16:30",
-      "imo": "9976496",
-      "navio": "GREEN MUNGUBA",
-      "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "30/08/2026 18:00",
       "imo": "9592434",
       "navio": "CHINA PROSPERITY",
@@ -381,12 +371,12 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "30/08/2026 19:30",
-      "imo": "1051109",
-      "navio": "COSCO SHIPPING JIXIANG",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "inicio": "30/08/2026 19:00",
+      "imo": "9976496",
+      "navio": "GREEN MUNGUBA",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
