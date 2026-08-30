@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T22:22:20.021Z",
+  "updatedAt": "2026-08-30T22:23:15.736Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 20:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
