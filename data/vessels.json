@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T06:23:17.360Z",
+  "updatedAt": "2026-08-30T06:24:19.036Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 00:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 01:00",
@@ -38,6 +48,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 02:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
