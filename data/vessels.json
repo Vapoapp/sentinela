@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T06:24:19.036Z",
+  "updatedAt": "2026-08-30T06:25:19.307Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 04:00",
+      "imo": "9407160",
+      "navio": "SEASPAN EMPIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
