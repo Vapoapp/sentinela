@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T17:56:19.615Z",
+  "updatedAt": "2026-08-30T17:57:15.985Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 15:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "SAÍDA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
