@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-30T06:19:25.259Z",
+  "updatedAt": "2026-08-30T06:20:25.734Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -42,12 +42,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 06:00",
+      "imo": "9423231",
+      "navio": "CAMPOS CHALLENGER",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 06:00",
       "imo": "9785457",
       "navio": "MSC RAYSHMI",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 07:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
