@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T04:03:16.805Z",
+  "updatedAt": "2026-08-31T04:04:19.000Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/08/2026 00:00",
-      "imo": "9325752",
-      "navio": "ASSO VENTISEI",
-      "tipo": "SAÍDA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/08/2026 00:00",
