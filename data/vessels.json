@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T09:14:17.388Z",
+  "updatedAt": "2026-08-31T09:15:25.907Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2P14 - Terminal Petrobrás (Armazém 14)",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 04:30",
+      "imo": "9286762",
+      "navio": "SEVEN SABIÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
