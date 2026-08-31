@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T02:54:19.674Z",
+  "updatedAt": "2026-08-31T02:55:23.052Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 22:30",
+      "imo": "9320324",
+      "navio": "F LINE",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
