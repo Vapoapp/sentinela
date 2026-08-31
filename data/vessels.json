@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T13:54:19.937Z",
+  "updatedAt": "2026-08-31T13:55:21.687Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -258,6 +258,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 06:30",
+      "imo": "9654464",
+      "navio": "WIELAND",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
