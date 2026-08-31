@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T23:16:24.336Z",
+  "updatedAt": "2026-08-31T23:17:23.648Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -578,6 +578,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/09/2026 06:00",
+      "imo": "9270244",
+      "navio": "HAROLDO RAMOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - FUNDEIO - FUNDEIO",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Itaguaí",
