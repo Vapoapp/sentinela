@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T23:15:27.855Z",
+  "updatedAt": "2026-08-31T23:16:24.336Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -332,26 +332,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/08/2026 21:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/08/2026 21:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/08/2026 21:00",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
       "tipo": "SAÍDA",
@@ -367,6 +347,26 @@
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 21:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 21:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
@@ -471,6 +471,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 12:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 13:00",
       "imo": "9968449",
       "navio": "ITHACA",
@@ -478,6 +488,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 15:00",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 16:00",
+      "imo": "9702417",
+      "navio": "GLOVIS SUMMIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - Terminal - MCAR 1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
