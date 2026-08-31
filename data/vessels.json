@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T20:38:21.808Z",
+  "updatedAt": "2026-08-31T20:39:20.531Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -388,6 +388,26 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/08/2026 16:00",
+      "imo": "4030219411",
+      "navio": "OCEAN DREAM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/08/2026 18:00",
+      "imo": "9559975",
+      "navio": "STIM STAR ARABIAN GULF (REB)",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
