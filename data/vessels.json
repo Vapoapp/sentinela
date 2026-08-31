@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T02:09:21.236Z",
+  "updatedAt": "2026-08-31T02:10:28.519Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 14:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
