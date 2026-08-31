@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T01:03:20.295Z",
+  "updatedAt": "2026-08-31T01:04:17.085Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/08/2026 16:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/08/2026 16:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "SAÍDA",
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/08/2026 16:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +418,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 00:00",
+      "imo": "9325752",
+      "navio": "ASSO VENTISEI",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
