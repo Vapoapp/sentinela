@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:07:17.838Z",
+  "updatedAt": "2026-08-31T03:08:20.161Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -198,6 +198,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/08/2026 16:30",
+      "imo": "1051109",
+      "navio": "COSCO SHIPPING JIXIANG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
