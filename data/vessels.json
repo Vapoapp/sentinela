@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-31T13:53:16.720Z",
+  "updatedAt": "2026-08-31T13:54:19.937Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -248,6 +248,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 05:30",
+      "imo": "9388352",
+      "navio": "ONE CONTINUITY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
