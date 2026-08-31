@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T19:24:17.285Z",
+  "updatedAt": "2026-08-31T19:25:22.188Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/09/2026 18:30",
+      "imo": "9855214",
+      "navio": "BERGE MERU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FE1 - Área de Fundeio E1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
