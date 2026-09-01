@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T05:35:00.480Z",
+  "updatedAt": "2026-09-01T05:37:36.657Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 09:30",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
