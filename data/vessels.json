@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:44:19.058Z",
+  "updatedAt": "2026-09-01T11:45:25.123Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -381,16 +381,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/09/2026 06:00",
-      "imo": "9731444",
-      "navio": "STAR LIBRA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "01/09/2026 10:00",
       "imo": "9752412",
       "navio": "DARYA JAYA",
@@ -458,6 +448,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/09/2026 19:00",
+      "imo": "9731444",
+      "navio": "STAR LIBRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
