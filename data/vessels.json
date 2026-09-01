@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:17:22.187Z",
+  "updatedAt": "2026-09-01T12:18:21.198Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -202,16 +202,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 10:00",
-      "imo": "9492062",
-      "navio": "RIO GRANDE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 10:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
       "tipo": "ENTRADA",
@@ -257,6 +247,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 12:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -478,6 +478,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/09/2026 19:00",
+      "imo": "9735177",
+      "navio": "STAR GINA 2GR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
