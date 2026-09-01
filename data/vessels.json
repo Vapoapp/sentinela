@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T14:25:24.356Z",
+  "updatedAt": "2026-09-01T14:26:24.311Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -272,16 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 12:00",
-      "imo": "9492050",
-      "navio": "MADRE DE DEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 12:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
       "tipo": "ENTRADA",
@@ -328,6 +318,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 16:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
