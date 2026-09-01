@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T00:30:31.845Z",
+  "updatedAt": "2026-09-01T00:31:16.660Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 18:00",
+      "imo": "9685396",
+      "navio": "RAQUEL KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
