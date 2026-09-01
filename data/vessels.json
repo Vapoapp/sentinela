@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T19:00:36.591Z",
+  "updatedAt": "2026-09-01T19:01:22.630Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -778,6 +778,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "02/09/2026 14:00",
+      "imo": "9522635",
+      "navio": "CAPTAIN J.PAPADAKIS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
