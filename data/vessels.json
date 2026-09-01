@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T11:58:17.706Z",
+  "updatedAt": "2026-09-01T11:59:15.282Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 07:30",
+      "imo": "9246607",
+      "navio": "GRANDE AMBURGO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 07:30",
       "imo": "9358826",
       "navio": "SEVEN OCEANS",
       "tipo": "ENTRADA",
@@ -128,16 +138,6 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 08:30",
-      "imo": "9246607",
-      "navio": "GRANDE AMBURGO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -301,16 +301,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 16:00",
-      "imo": "9786097",
-      "navio": "MAERSK PANGANI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 16:30",
       "imo": "9968449",
       "navio": "ITHACA",
@@ -318,16 +308,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 01:00",
-      "imo": "9786097",
-      "navio": "MAERSK PANGANI",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
