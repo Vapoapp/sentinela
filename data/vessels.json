@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T05:37:36.657Z",
+  "updatedAt": "2026-09-01T05:40:04.431Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -277,6 +277,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/09/2026 02:30",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
