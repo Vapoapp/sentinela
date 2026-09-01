@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T14:08:17.581Z",
+  "updatedAt": "2026-09-01T14:09:19.378Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 06:00",
+      "imo": "9453638",
+      "navio": "MARLIN",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
