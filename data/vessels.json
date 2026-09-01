@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T03:32:18.939Z",
+  "updatedAt": "2026-09-01T03:33:14.893Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 10:00",
+      "imo": "9610602",
+      "navio": "BRAM BRASIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 10:00",
       "imo": "9492062",
       "navio": "RIO GRANDE",
       "tipo": "SAÍDA",
@@ -124,16 +134,6 @@
       "inicio": "01/09/2026 10:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 10:00",
-      "imo": "9610602",
-      "navio": "BRAM BRASIL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 12:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
