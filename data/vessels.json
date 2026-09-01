@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T04:22:20.358Z",
+  "updatedAt": "2026-09-01T04:23:17.324Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 01:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -112,16 +122,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 10:00",
-      "imo": "9610602",
-      "navio": "BRAM BRASIL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 10:00",
       "imo": "9492062",
       "navio": "RIO GRANDE",
       "tipo": "SAÍDA",
@@ -134,6 +134,16 @@
       "inicio": "01/09/2026 10:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 10:00",
+      "imo": "9610602",
+      "navio": "BRAM BRASIL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -212,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 16:00",
-      "imo": "9786097",
-      "navio": "MAERSK PANGANI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 16:00",
       "imo": "9702417",
       "navio": "GLOVIS SUMMIT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - Terminal - MCAR 1",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 16:00",
+      "imo": "9786097",
+      "navio": "MAERSK PANGANI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
