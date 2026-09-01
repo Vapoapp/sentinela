@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T21:27:25.299Z",
+  "updatedAt": "2026-09-01T21:28:22.795Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -501,6 +501,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 19:30",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 20:00",
       "imo": "9440679",
       "navio": "PETREL",
@@ -508,6 +518,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 22:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
