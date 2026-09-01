@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:29:21.151Z",
+  "updatedAt": "2026-09-01T18:30:27.162Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "-",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "02/09/2026 16:00",
+      "imo": "9609524",
+      "navio": "SANTA EMILIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
