@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-01T00:55:19.282Z",
+  "updatedAt": "2026-09-01T00:56:16.379Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/08/2026 23:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
