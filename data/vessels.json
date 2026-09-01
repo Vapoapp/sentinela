@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T14:20:26.076Z",
+  "updatedAt": "2026-09-01T14:21:16.828Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -272,16 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 12:00",
-      "imo": "9715567",
-      "navio": "CBO OCEANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/09/2026 12:00",
       "imo": "9492050",
       "navio": "MADRE DE DEUS",
       "tipo": "ENTRADA",
@@ -292,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 12:00",
-      "imo": "9492062",
-      "navio": "RIO GRANDE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +308,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/09/2026 14:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
