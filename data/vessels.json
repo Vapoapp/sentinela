@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T11:43:16.895Z",
+  "updatedAt": "2026-09-01T11:44:19.058Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -401,16 +401,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/09/2026 11:00",
-      "imo": "9735177",
-      "navio": "STAR GINA 2GR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "01/09/2026 12:00",
       "imo": "9534470",
       "navio": "INDUSTRIAL MERCHANT",
@@ -422,12 +412,32 @@
     {
       "porto": "Itaguaí",
       "inicio": "01/09/2026 13:00",
+      "imo": "9735177",
+      "navio": "STAR GINA 2GR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/09/2026 13:00",
       "imo": "9928865",
       "navio": "COSCO SHIPPING GRACE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/09/2026 14:00",
+      "imo": "9855214",
+      "navio": "BERGE MERU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FE1 - Área de Fundeio E1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
@@ -448,16 +458,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "01/09/2026 18:30",
-      "imo": "9855214",
-      "navio": "BERGE MERU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 5FE1 - Área de Fundeio E1",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
