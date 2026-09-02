@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T00:42:22.978Z",
+  "updatedAt": "2026-09-02T00:43:17.497Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -598,6 +598,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 01:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
