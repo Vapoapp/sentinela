@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T12:32:18.862Z",
+  "updatedAt": "2026-09-02T12:33:21.499Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9424039",
-      "navio": "CASTILLO DE HERRERA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 06:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 06:00",
+      "imo": "9424039",
+      "navio": "CASTILLO DE HERRERA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -301,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 15:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 17:00",
       "imo": "9664885",
       "navio": "YM MODESTY",
@@ -308,6 +318,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 01:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
