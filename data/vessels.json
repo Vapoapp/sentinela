@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T14:08:18.609Z",
+  "updatedAt": "2026-09-02T14:09:18.591Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 12:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
