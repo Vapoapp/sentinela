@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T11:14:21.046Z",
+  "updatedAt": "2026-09-02T11:15:22.990Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 00:00",
+      "imo": "9685396",
+      "navio": "RAQUEL KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +308,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 16:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
