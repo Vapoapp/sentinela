@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T12:33:21.499Z",
+  "updatedAt": "2026-09-02T12:34:16.982Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 06:30",
+      "imo": "9600621",
+      "navio": "FALKONERA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
