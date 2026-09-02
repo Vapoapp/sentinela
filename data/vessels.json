@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T21:18:19.165Z",
+  "updatedAt": "2026-09-02T21:19:21.455Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 12:00",
-      "imo": "9324849",
-      "navio": "NAVIOS AMARILLO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 12:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS (REB)",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico 2",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 12:00",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 19:00",
+      "imo": "9271743",
+      "navio": "SINGRAR (EX DANKO TIDE)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 19:00",
       "imo": "9339832",
       "navio": "MICHIGAN HIGHWAY",
       "tipo": "ENTRADA",
@@ -392,12 +402,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 21:00",
+      "imo": "9358826",
+      "navio": "SEVEN OCEANS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 21:00",
       "imo": "9212034",
       "navio": "MSC RUTH F",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 22:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
