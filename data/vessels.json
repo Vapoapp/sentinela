@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T00:18:18.278Z",
+  "updatedAt": "2026-09-02T00:19:17.473Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -212,8 +212,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 10:00",
-      "imo": "9610602",
-      "navio": "BRAM BRASIL",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -232,8 +232,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/09/2026 10:00",
-      "imo": "9514092",
-      "navio": "BJ BLUE MARLIN",
+      "imo": "9610602",
+      "navio": "BRAM BRASIL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -618,6 +618,16 @@
       "de": "-",
       "para": "ESSM - SÃO MIGUEL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 04:30",
+      "imo": "9364253",
+      "navio": "THESEUS Z (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
