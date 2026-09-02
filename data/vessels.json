@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T11:17:17.672Z",
+  "updatedAt": "2026-09-02T11:18:18.083Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9424039",
-      "navio": "CASTILLO DE HERRERA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 06:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 06:00",
+      "imo": "9424039",
+      "navio": "CASTILLO DE HERRERA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 11:00",
+      "imo": "9654971",
+      "navio": "BESIKTAS GH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
