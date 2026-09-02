@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T01:27:15.305Z",
+  "updatedAt": "2026-09-02T01:28:18.081Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -611,16 +611,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 03:00",
-      "imo": "9702417",
-      "navio": "GLOVIS SUMMIT",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 04:00",
       "imo": "9559975",
       "navio": "STIM STAR ARABIAN GULF (REB)",
@@ -708,6 +698,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 14:00",
+      "imo": "9702417",
+      "navio": "GLOVIS SUMMIT",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
