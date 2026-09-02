@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T13:35:22.377Z",
+  "updatedAt": "2026-09-02T13:36:17.766Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9678147",
-      "navio": "BRAVANTE II",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2N11 - Armazém 13",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "2N11 - Armazém 13",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 12:00",
-      "imo": "9423437",
-      "navio": "AKOFS SANTOS (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 12:00",
       "imo": "9324849",
       "navio": "NAVIOS AMARILLO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 12:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -351,6 +351,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 06:00",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 08:30",
       "imo": "9945863",
       "navio": "COSCO SHIPPING MEXICO",
@@ -368,6 +378,16 @@
       "de": "-",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 13:00",
+      "imo": "9664885",
+      "navio": "YM MODESTY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
