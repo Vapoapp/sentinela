@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:12:16.323Z",
+  "updatedAt": "2026-09-02T11:13:17.477Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "02/09/2026 00:10",
+      "imo": "9575620",
+      "navio": "TANTALUS TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
