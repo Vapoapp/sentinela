@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T07:38:20.166Z",
+  "updatedAt": "2026-09-02T07:39:19.950Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -96,6 +96,16 @@
       "navio": "SAVEIROS FRAGATA",
       "tipo": "MUDANÇA",
       "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 03:30",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
