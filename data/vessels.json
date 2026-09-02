@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T07:36:18.661Z",
+  "updatedAt": "2026-09-02T07:37:16.210Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 03:15",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
