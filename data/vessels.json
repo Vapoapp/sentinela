@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T13:19:17.045Z",
+  "updatedAt": "2026-09-02T13:20:28.000Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -291,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 14:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
+      "inicio": "02/09/2026 12:00",
+      "imo": "9324849",
+      "navio": "NAVIOS AMARILLO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -311,13 +311,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 15:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "inicio": "02/09/2026 14:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,16 +328,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 01:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "2TS2 - Terminal Siderúrgico 2",
-      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
