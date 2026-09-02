@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:28:16.954Z",
+  "updatedAt": "2026-09-02T21:29:18.883Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -598,6 +598,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "02/09/2026 14:15",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
