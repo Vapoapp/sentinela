@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T13:34:18.228Z",
+  "updatedAt": "2026-09-02T13:35:22.377Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 06:00",
       "imo": "9453638",
       "navio": "MARLIN",
       "tipo": "SAÍDA",
@@ -202,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 06:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +208,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 06:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 14:00",
-      "imo": "9702417",
-      "navio": "GLOVIS SUMMIT",
-      "tipo": "SAÍDA",
-      "de": "2R12 - Terminal - MCAR 1",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 14:00",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 14:00",
+      "imo": "9702417",
+      "navio": "GLOVIS SUMMIT",
+      "tipo": "SAÍDA",
+      "de": "2R12 - Terminal - MCAR 1",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 23:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 01:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "Fundeio - WPT 65 - 2F6A",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
