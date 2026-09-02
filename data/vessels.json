@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T16:25:21.890Z",
+  "updatedAt": "2026-09-02T16:26:20.361Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "2R12 - Terminal - MCAR 1",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 14:00",
+      "imo": "9936666",
+      "navio": "UBUNTU HARMONY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
