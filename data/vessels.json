@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T03:53:15.294Z",
+  "updatedAt": "2026-09-02T03:54:21.612Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 03:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
