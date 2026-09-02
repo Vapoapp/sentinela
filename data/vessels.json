@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-02T11:13:17.477Z",
+  "updatedAt": "2026-09-02T11:14:21.046Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -287,6 +287,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 11:00",
+      "imo": "9664885",
+      "navio": "YM MODESTY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
