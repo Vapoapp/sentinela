@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T15:47:20.879Z",
+  "updatedAt": "2026-09-03T15:48:17.181Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 14:00",
+      "imo": "9273301",
+      "navio": "SEASTAR VIRTUS (EX ASTRO CMT MATOS)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
