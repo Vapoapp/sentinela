@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:10:24.952Z",
+  "updatedAt": "2026-09-03T12:11:25.958Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -292,16 +292,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 11:00",
-      "imo": "9605279",
-      "navio": "MSC AMALFI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 11:00",
       "imo": "9654971",
       "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
@@ -318,6 +308,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 12:00",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
