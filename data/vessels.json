@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T07:43:17.278Z",
+  "updatedAt": "2026-09-03T07:45:24.796Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -161,6 +161,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 07:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 08:00",
       "imo": "9388663",
       "navio": "MAERSK TRAVELLER (REB)",
@@ -212,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 11:00",
-      "imo": "9654971",
-      "navio": "BESIKTAS GH",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 11:00",
-      "imo": "9605279",
-      "navio": "MSC AMALFI",
+      "imo": "9654971",
+      "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
