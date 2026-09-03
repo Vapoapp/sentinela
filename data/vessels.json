@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T04:44:16.633Z",
+  "updatedAt": "2026-09-03T04:45:21.538Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 08:00",
+      "imo": "9945863",
+      "navio": "COSCO SHIPPING MEXICO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 08:00",
       "imo": "9388663",
       "navio": "MAERSK TRAVELLER (REB)",
       "tipo": "ENTRADA",
@@ -161,13 +171,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 08:00",
-      "imo": "9945863",
-      "navio": "COSCO SHIPPING MEXICO",
+      "inicio": "03/09/2026 09:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
