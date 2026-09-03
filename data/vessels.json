@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T01:05:19.493Z",
+  "updatedAt": "2026-09-03T01:06:20.023Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -371,6 +371,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 16:00",
+      "imo": "9434527",
+      "navio": "KIWI ARROW",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 17:00",
       "imo": "9605279",
       "navio": "MSC AMALFI",
@@ -602,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 06:30",
-      "imo": "9600621",
-      "navio": "FALKONERA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 06:30",
       "imo": "9424039",
       "navio": "CASTILLO DE HERRERA (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 06:30",
+      "imo": "9600621",
+      "navio": "FALKONERA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
