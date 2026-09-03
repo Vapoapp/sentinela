@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T00:16:16.901Z",
+  "updatedAt": "2026-09-03T00:17:16.928Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -502,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/09/2026 22:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/09/2026 22:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "SAÍDA",
       "de": "2P14 - Terminal Petrobrás (Armazém 14)",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/09/2026 22:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,22 +562,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 06:30",
-      "imo": "9424039",
-      "navio": "CASTILLO DE HERRERA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 06:30",
       "imo": "9600621",
       "navio": "FALKONERA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 06:30",
+      "imo": "9424039",
+      "navio": "CASTILLO DE HERRERA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -638,6 +638,16 @@
       "de": "2R11 - Terminal - MCAR 2 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 21:30",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Niterói",
