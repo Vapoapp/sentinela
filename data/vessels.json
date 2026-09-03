@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T17:43:16.808Z",
+  "updatedAt": "2026-09-03T17:44:27.527Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -242,21 +242,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 09:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 09:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 09:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
@@ -322,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 11:00",
-      "imo": "9654971",
-      "navio": "BESIKTAS GH",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 11:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
       "tipo": "SAÍDA",
@@ -341,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 11:30",
-      "imo": "9453822",
-      "navio": "DRAGÃO DO MAR",
+      "inicio": "03/09/2026 11:00",
+      "imo": "9654971",
+      "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - WPT 64 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +348,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 11:30",
+      "imo": "9453822",
+      "navio": "DRAGÃO DO MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,6 +392,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 14:00",
+      "imo": "9273301",
+      "navio": "SEASTAR VIRTUS (EX ASTRO CMT MATOS)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 14:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "SAÍDA",
@@ -411,13 +421,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 14:00",
-      "imo": "9273301",
-      "navio": "SEASTAR VIRTUS (EX ASTRO CMT MATOS)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "03/09/2026 15:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,13 +441,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 15:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "inicio": "03/09/2026 15:30",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
