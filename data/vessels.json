@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T04:08:17.303Z",
+  "updatedAt": "2026-09-03T04:09:20.188Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 00:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
