@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T15:17:22.521Z",
+  "updatedAt": "2026-09-03T15:18:21.826Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "03/09/2026 13:00",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
