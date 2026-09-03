@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T13:54:19.795Z",
+  "updatedAt": "2026-09-03T13:55:19.190Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -237,6 +237,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 09:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
