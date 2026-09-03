@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T04:20:28.652Z",
+  "updatedAt": "2026-09-03T04:21:21.122Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 11:00",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
