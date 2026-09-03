@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T19:32:22.031Z",
+  "updatedAt": "2026-09-03T19:33:22.175Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 08:00",
-      "imo": "9945863",
-      "navio": "COSCO SHIPPING MEXICO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 08:00",
       "imo": "9529891",
       "navio": "JOE GRIFFIN (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 08:00",
+      "imo": "9945863",
+      "navio": "COSCO SHIPPING MEXICO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -264,6 +264,16 @@
       "inicio": "03/09/2026 09:00",
       "imo": "3810289680",
       "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 09:00",
+      "imo": "3813889688",
+      "navio": "TS 8",
       "tipo": "MUDANÇA",
       "de": "2N16 - Armazém 16",
       "para": "2N07 - Pátio 8/9",
@@ -528,6 +538,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 21:30",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
