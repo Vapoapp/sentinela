@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:21:18.612Z",
+  "updatedAt": "2026-09-04T13:22:16.159Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "Fundeio - 5FC1 - Área de Fundeio C1",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "04/09/2026 13:30",
+      "imo": "9855214",
+      "navio": "BERGE MERU",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
