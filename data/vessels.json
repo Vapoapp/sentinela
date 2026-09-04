@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T12:59:21.854Z",
+  "updatedAt": "2026-09-04T13:00:31.777Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 13:00",
-      "imo": "9453834",
-      "navio": "HENRIQUE DIAS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 13:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 13:00",
+      "imo": "9453834",
+      "navio": "HENRIQUE DIAS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +268,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 17:00",
+      "imo": "1020930",
+      "navio": "ATLANTIC PEARL",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
