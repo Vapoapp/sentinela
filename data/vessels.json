@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T16:36:18.055Z",
+  "updatedAt": "2026-09-04T16:37:16.411Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 16:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
