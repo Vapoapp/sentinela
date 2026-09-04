@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T12:13:18.652Z",
+  "updatedAt": "2026-09-04T12:14:54.755Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -221,6 +221,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 10:00",
+      "imo": "9273301",
+      "navio": "SEASTAR VIRTUS (EX ASTRO CMT MATOS)",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico 2",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 12:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
@@ -298,6 +308,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 13:00",
+      "imo": "9952141",
+      "navio": "BOW CHEETAH",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Niterói",
