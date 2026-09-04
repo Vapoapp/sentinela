@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T13:49:18.989Z",
+  "updatedAt": "2026-09-04T13:50:26.437Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 09:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 09:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 09:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 13:00",
-      "imo": "9664885",
-      "navio": "YM MODESTY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 13:00",
       "imo": "9453834",
       "navio": "HENRIQUE DIAS",
       "tipo": "SAÍDA",
@@ -258,6 +248,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 13:00",
+      "imo": "9664885",
+      "navio": "YM MODESTY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +358,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 13:30",
+      "imo": "9424039",
+      "navio": "CASTILLO DE HERRERA (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Niterói",
