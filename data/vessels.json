@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T05:21:24.714Z",
+  "updatedAt": "2026-09-04T05:22:17.230Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -118,6 +118,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 06:30",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N11 - Armazém 13",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
