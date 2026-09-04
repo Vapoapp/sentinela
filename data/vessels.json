@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T01:41:19.973Z",
+  "updatedAt": "2026-09-04T01:42:17.893Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -252,12 +252,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 09:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9307621",
+      "navio": "ILHA DO MARAJÓ",
+      "tipo": "MUDANÇA",
+      "de": "DOCKBRASIL - DOCKBRASIL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 09:00",
-      "imo": "9307621",
-      "navio": "ILHA DO MARAJÓ",
-      "tipo": "MUDANÇA",
-      "de": "DOCKBRASIL - DOCKBRASIL",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 10:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 10:00",
       "imo": "9212034",
       "navio": "MSC RUTH F",
       "tipo": "SAÍDA",
@@ -337,16 +347,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 10:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
@@ -472,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/09/2026 15:30",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/09/2026 15:30",
       "imo": "9310513",
       "navio": "STAR JAVA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/09/2026 15:30",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -648,6 +648,16 @@
       "de": "2R11 - Terminal - MCAR 2 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 03:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
