@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:35:21.314Z",
+  "updatedAt": "2026-09-04T13:36:20.292Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -408,26 +408,6 @@
       "de": "-",
       "para": "301 - TECON - SEPETIBA TECON S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "04/09/2026 17:30",
-      "imo": "9731444",
-      "navio": "STAR LIBRA",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "04/09/2026 19:00",
-      "imo": "9492098",
-      "navio": "AVILA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FC2 - Área de Fundeio C2",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
