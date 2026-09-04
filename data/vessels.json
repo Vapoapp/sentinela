@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T17:21:19.087Z",
+  "updatedAt": "2026-09-04T17:22:20.832Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -331,16 +331,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 14:00",
-      "imo": "9605279",
-      "navio": "MSC AMALFI",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 16:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
@@ -348,6 +338,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 16:00",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
