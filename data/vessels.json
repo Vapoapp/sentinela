@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:58:17.209Z",
+  "updatedAt": "2026-09-04T11:59:15.899Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 08:00",
-      "imo": "9605279",
-      "navio": "MSC AMALFI",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 08:00",
       "imo": "9680774",
       "navio": "VEGA CHASER (REB)",
       "tipo": "SAÍDA",
@@ -267,6 +257,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 14:00",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
