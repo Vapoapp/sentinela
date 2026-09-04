@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:05:23.154Z",
+  "updatedAt": "2026-09-04T15:06:20.263Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -427,16 +427,6 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Niterói",
-      "inicio": "04/09/2026 13:00",
-      "imo": "9575620",
-      "navio": "TANTALUS TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
