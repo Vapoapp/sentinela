@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T13:59:15.388Z",
+  "updatedAt": "2026-09-04T14:00:34.676Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 00:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 01:00",
