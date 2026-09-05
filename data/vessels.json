@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T00:22:18.377Z",
+  "updatedAt": "2026-09-05T00:23:17.234Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -148,6 +148,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N11 - Armazém 13",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 06:40",
+      "imo": "9447641",
+      "navio": "ROCHEDO DE SÃO PAULO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
