@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:19:15.996Z",
+  "updatedAt": "2026-09-05T18:20:22.701Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -511,16 +511,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "06/09/2026 12:30",
-      "imo": "9715490",
-      "navio": "STAR ASIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "06/09/2026 14:00",
       "imo": "9855214",
       "navio": "BERGE MERU",
@@ -531,13 +521,23 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "06/09/2026 14:30",
+      "inicio": "06/09/2026 15:00",
       "imo": "9528562",
       "navio": "ALAN",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FC1 - Área de Fundeio C1",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/09/2026 16:30",
+      "imo": "9715490",
+      "navio": "STAR ASIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Itaguaí",
