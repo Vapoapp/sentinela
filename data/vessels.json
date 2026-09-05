@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T01:22:16.033Z",
+  "updatedAt": "2026-09-05T01:23:14.704Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -412,21 +412,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 17:00",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 17:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 17:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
@@ -482,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 20:00",
-      "imo": "9680774",
-      "navio": "VEGA CHASER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 20:00",
       "imo": "9664885",
       "navio": "YM MODESTY",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 20:00",
+      "imo": "9680774",
+      "navio": "VEGA CHASER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -698,6 +698,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 18:00",
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Niterói",
