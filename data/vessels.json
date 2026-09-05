@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T13:18:16.387Z",
+  "updatedAt": "2026-09-05T13:19:17.182Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -161,6 +161,36 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 09:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 09:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 12:00",
+      "imo": "9656199",
+      "navio": "SAPURA TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 65 - 2F6A",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 12:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
@@ -177,16 +207,6 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/09/2026 12:00",
-      "imo": "9656199",
-      "navio": "SAPURA TOPAZIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 65 - 2F6A",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
@@ -227,7 +247,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -237,7 +257,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
