@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T00:35:17.804Z",
+  "updatedAt": "2026-09-05T00:36:19.568Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 22:00",
+      "imo": "9650494",
+      "navio": "COMMANDER K",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "SUL TRADE AGENCIAMENTOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
