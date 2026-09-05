@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T19:58:19.146Z",
+  "updatedAt": "2026-09-05T19:59:16.770Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -221,6 +221,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 12:15",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 12:30",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
@@ -292,16 +302,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 14:00",
-      "imo": "9571416",
-      "navio": "LADY KATERINA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/09/2026 14:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "MUDANÇA",
@@ -318,6 +318,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 14:00",
+      "imo": "9571416",
+      "navio": "LADY KATERINA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,12 +372,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 18:00",
-      "imo": "1015375",
-      "navio": "SINAR SUMATERA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 18:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +408,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 21:00",
+      "imo": "8717465",
+      "navio": "ROBIN M LEE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
