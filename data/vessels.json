@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:36:19.343Z",
+  "updatedAt": "2026-09-05T18:37:51.686Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -478,6 +478,16 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/09/2026 09:30",
+      "imo": "9731432",
+      "navio": "STAR VIRGO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
