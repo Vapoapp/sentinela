@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T15:38:19.460Z",
+  "updatedAt": "2026-09-05T15:39:36.764Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -211,13 +211,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/09/2026 13:00",
-      "imo": "9952141",
-      "navio": "BOW CHEETAH",
+      "inicio": "05/09/2026 12:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
       "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
+      "de": "2NTO - Terminal de Óleo",
       "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 13:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 13:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "imo": "9952141",
+      "navio": "BOW CHEETAH",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -277,7 +287,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -287,7 +297,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
