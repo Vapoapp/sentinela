@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T00:17:16.341Z",
+  "updatedAt": "2026-09-05T00:18:17.543Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/09/2026 18:00",
-      "imo": "9143556",
-      "navio": "DUSSELDORF EXPRESS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/09/2026 18:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/09/2026 18:00",
+      "imo": "9143556",
+      "navio": "DUSSELDORF EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -588,6 +588,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 16:00",
+      "imo": "9695028",
+      "navio": "MSC SOFIA PAZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
