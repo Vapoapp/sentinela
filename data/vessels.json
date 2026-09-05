@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T20:33:17.465Z",
+  "updatedAt": "2026-09-05T20:34:15.958Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -192,6 +192,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 12:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 12:00",
       "imo": "9656199",
       "navio": "SAPURA TOPAZIO",
       "tipo": "ENTRADA",
@@ -208,16 +218,6 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/09/2026 12:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,16 +302,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/09/2026 14:00",
-      "imo": "9571416",
-      "navio": "LADY KATERINA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/09/2026 14:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "SAÍDA",
@@ -328,6 +318,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 14:00",
+      "imo": "9571416",
+      "navio": "LADY KATERINA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2TS1 - Terminal Siderúrgico",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/09/2026 16:50",
+      "imo": "3810263427",
+      "navio": "TMJ 2",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
