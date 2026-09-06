@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:50:26.559Z",
+  "updatedAt": "2026-09-06T06:51:15.310Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/09/2026 11:00",
+      "imo": "9979137",
+      "navio": "LOWLANDS PATRASCHE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Itaguaí",
