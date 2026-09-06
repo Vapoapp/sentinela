@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T15:57:16.788Z",
+  "updatedAt": "2026-09-06T15:58:15.938Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -192,6 +192,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 13:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 13:00",
       "imo": "9787405",
       "navio": "PARDELA (REB)",
       "tipo": "SAÍDA",
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:30",
-      "imo": "9695028",
-      "navio": "MSC SOFIA PAZ",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/09/2026 16:30",
       "imo": "9629469",
       "navio": "SWANSEA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:30",
+      "imo": "9695028",
+      "navio": "MSC SOFIA PAZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
