@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T20:57:18.979Z",
+  "updatedAt": "2026-09-06T20:58:16.337Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:30",
+      "imo": "9629469",
+      "navio": "SWANSEA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:30",
       "imo": "9695028",
       "navio": "MSC SOFIA PAZ",
       "tipo": "SAÍDA",
@@ -291,13 +301,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/09/2026 16:30",
-      "imo": "9629469",
-      "navio": "SWANSEA",
+      "inicio": "06/09/2026 17:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
       "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "de": "TPBR - BRASCO",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 10:00",
-      "imo": "9656199",
-      "navio": "SAPURA TOPAZIO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 10:00",
       "imo": "1031159",
       "navio": "MSC MARIA LAURA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 10:00",
+      "imo": "9656199",
+      "navio": "SAPURA TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
