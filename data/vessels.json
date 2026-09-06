@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T19:30:26.002Z",
+  "updatedAt": "2026-09-06T19:31:18.661Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:30",
+      "imo": "9695028",
+      "navio": "MSC SOFIA PAZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:30",
       "imo": "9629469",
       "navio": "SWANSEA",
       "tipo": "SAÍDA",
@@ -251,13 +261,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/09/2026 16:30",
-      "imo": "9695028",
-      "navio": "MSC SOFIA PAZ",
+      "inicio": "06/09/2026 17:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
