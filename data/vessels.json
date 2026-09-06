@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T07:43:16.415Z",
+  "updatedAt": "2026-09-06T07:44:16.662Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 05:30",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
