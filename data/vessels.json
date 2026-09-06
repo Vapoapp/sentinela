@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T07:44:16.662Z",
+  "updatedAt": "2026-09-06T07:45:26.159Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 08:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
