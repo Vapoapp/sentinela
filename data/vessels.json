@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T19:29:18.013Z",
+  "updatedAt": "2026-09-06T19:30:26.002Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -271,6 +271,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 18:00",
+      "imo": "9641259",
+      "navio": "MAR LIMPO IV",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 04:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
@@ -302,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 10:00",
-      "imo": "1031159",
-      "navio": "MSC MARIA LAURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 10:00",
       "imo": "9656199",
       "navio": "SAPURA TOPAZIO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 10:00",
+      "imo": "1031159",
+      "navio": "MSC MARIA LAURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
