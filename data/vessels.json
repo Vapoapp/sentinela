@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T19:38:19.913Z",
+  "updatedAt": "2026-09-06T19:39:15.939Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 13:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/09/2026 13:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 13:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "3813885305",
+      "navio": "C NITERÓI",
+      "tipo": "SAÍDA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -277,6 +277,16 @@
       "tipo": "MUDANÇA",
       "de": "NIT - ATRACADO NITERÓI",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "NIT - ATRACADO NITERÓI",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -362,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 10:00",
-      "imo": "9656199",
-      "navio": "SAPURA TOPAZIO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 10:00",
       "imo": "1031159",
       "navio": "MSC MARIA LAURA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 10:00",
+      "imo": "9656199",
+      "navio": "SAPURA TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
