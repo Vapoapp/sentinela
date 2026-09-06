@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-06T10:49:18.276Z",
+  "updatedAt": "2026-09-06T10:50:21.831Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -172,12 +172,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:30",
+      "imo": "9695028",
+      "navio": "MSC SOFIA PAZ",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:30",
       "imo": "9629469",
       "navio": "SWANSEA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 17:30",
+      "imo": "9720512",
+      "navio": "MSC MICHELA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
