@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T09:02:20.844Z",
+  "updatedAt": "2026-09-07T09:03:18.498Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -148,6 +148,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 07:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
