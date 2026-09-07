@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T02:30:28.857Z",
+  "updatedAt": "2026-09-07T02:31:16.226Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 00:00",
+      "imo": "9255892",
+      "navio": "ATLANTIC KINGFISHER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
