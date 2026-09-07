@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:09:16.246Z",
+  "updatedAt": "2026-09-07T18:11:16.782Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -448,6 +448,96 @@
       "de": "Fundeio - 5FA2 - Área de Fundeio A2",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 01:00",
+      "imo": "9872171",
+      "navio": "COSCO SHIPPING CHANG QING",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 03:00",
+      "imo": "9731432",
+      "navio": "STAR VIRGO",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 04:30",
+      "imo": "9862827",
+      "navio": "AN MAY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 06:30",
+      "imo": "1094993",
+      "navio": "GREEN SHANGHAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 09:30",
+      "imo": "9534470",
+      "navio": "INDUSTRIAL MERCHANT",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 13:30",
+      "imo": "9528562",
+      "navio": "ALAN",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 15:00",
+      "imo": "9718208",
+      "navio": "VITTORIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 16:00",
+      "imo": "9107318",
+      "navio": "CANELO ARROW",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 18:30",
+      "imo": "1094993",
+      "navio": "GREEN SHANGHAI",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
