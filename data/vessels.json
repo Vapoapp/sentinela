@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:05:23.736Z",
+  "updatedAt": "2026-09-07T14:06:17.983Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "Fundeio - 5FB2 - Área de Fundeio B2",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/09/2026 14:00",
+      "imo": "9855214",
+      "navio": "BERGE MERU",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
