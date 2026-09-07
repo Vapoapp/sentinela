@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T14:09:18.252Z",
+  "updatedAt": "2026-09-07T14:10:25.572Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/09/2026 15:00",
+      "imo": "9528562",
+      "navio": "ALAN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FC1 - Área de Fundeio C1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
