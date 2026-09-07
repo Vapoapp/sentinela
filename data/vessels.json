@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T22:22:18.475Z",
+  "updatedAt": "2026-09-07T22:23:15.433Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -252,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 14:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 82 - 2F08",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 14:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 14:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +398,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 23:30",
+      "imo": "9165970",
+      "navio": "MARLIN STOLMEN (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
