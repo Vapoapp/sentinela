@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:32:19.163Z",
+  "updatedAt": "2026-09-07T18:33:17.140Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "angra": {
       "ok": true,
@@ -446,6 +446,16 @@
       "navio": "AFRICAN QUAIL",
       "tipo": "SAÍDA",
       "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/09/2026 00:00",
+      "imo": "9609524",
+      "navio": "SANTA EMILIA",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
