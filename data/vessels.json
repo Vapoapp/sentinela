@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T22:10:26.943Z",
+  "updatedAt": "2026-09-07T22:11:14.871Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 13:30",
+      "imo": "9737565",
+      "navio": "BOCHEM LUXEMBOURG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 17:00",
+      "imo": "9656187",
+      "navio": "SAPURA DIAMANTE (BAND. GREYLIST PARIS MOU)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Niterói",
