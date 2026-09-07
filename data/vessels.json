@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T01:08:16.482Z",
+  "updatedAt": "2026-09-07T01:09:17.818Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/09/2026 16:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 16:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "ENTRADA",
@@ -368,6 +378,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/09/2026 22:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
