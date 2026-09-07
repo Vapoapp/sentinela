@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T20:22:17.145Z",
+  "updatedAt": "2026-09-07T20:23:16.085Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -302,12 +302,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 16:30",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 16:30",
       "imo": "9492050",
       "navio": "MADRE DE DEUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 17:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
