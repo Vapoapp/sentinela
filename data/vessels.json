@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T08:57:20.463Z",
+  "updatedAt": "2026-09-07T08:58:18.800Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,26 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 12:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 21:00",
+      "imo": "9656199",
+      "navio": "SAPURA TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
