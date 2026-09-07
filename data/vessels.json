@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-07T08:56:16.695Z",
+  "updatedAt": "2026-09-07T08:57:20.463Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 22:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
