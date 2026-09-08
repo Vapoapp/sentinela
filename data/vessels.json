@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T01:42:20.742Z",
+  "updatedAt": "2026-09-08T01:43:17.461Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -92,22 +92,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 05:00",
-      "imo": "9492062",
-      "navio": "RIO GRANDE",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 05:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 05:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 09:00",
-      "imo": "1019773",
-      "navio": "AEGEAN C",
+      "imo": "9462689",
+      "navio": "SARONIC BAY",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 09:00",
-      "imo": "9462689",
-      "navio": "SARONIC BAY",
+      "imo": "1019773",
+      "navio": "AEGEAN C",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 11:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 11:00",
       "imo": "1015375",
       "navio": "SINAR SUMATERA",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 11:00",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 16:30",
-      "imo": "9492050",
-      "navio": "MADRE DE DEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 16:30",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 16:30",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,6 +392,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 19:30",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 19:30",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "ENTRADA",
@@ -401,13 +411,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 19:30",
-      "imo": "9098309",
-      "navio": "LH COMANDANTE",
+      "inicio": "07/09/2026 21:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 21:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,26 +451,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 21:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/09/2026 21:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "07/09/2026 22:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
@@ -468,6 +468,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/09/2026 22:40",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,21 +582,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 11:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 11:00",
       "imo": "9283435",
       "navio": "MARLIN COPACABANA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 11:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS1 - Terminal Siderúrgico",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
