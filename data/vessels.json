@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T13:11:17.082Z",
+  "updatedAt": "2026-09-08T13:12:17.314Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 16:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
