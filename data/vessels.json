@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T13:47:16.234Z",
+  "updatedAt": "2026-09-08T13:48:18.389Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 06:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 06:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "MUDANÇA",
@@ -122,12 +132,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 06:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "1070662",
+      "navio": "STAR NORDKAPP",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 09:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 09:00",
       "imo": "2412230048",
       "navio": "SÃO TOMÉ",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 09:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +308,26 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 11:40",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 12:00",
+      "imo": "1070662",
+      "navio": "STAR NORDKAPP",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - WPT 63 - 2F6A",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
