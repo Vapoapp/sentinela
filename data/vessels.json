@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T11:25:19.232Z",
+  "updatedAt": "2026-09-08T11:26:16.384Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 06:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 06:00",
       "imo": "1070662",
       "navio": "STAR NORDKAPP",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 06:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -201,13 +201,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 09:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "08/09/2026 08:30",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 09:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -311,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 13:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
+      "inicio": "08/09/2026 12:30",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
       "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "2N17 - Armazém 17",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "DOCKBRASIL - DOCKBRASIL",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +338,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 13:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
