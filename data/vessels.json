@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T10:12:18.432Z",
+  "updatedAt": "2026-09-08T10:13:22.086Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 05:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 05:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "ENTRADA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 05:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "inicio": "08/09/2026 06:00",
+      "imo": "1070662",
+      "navio": "STAR NORDKAPP",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +158,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 07:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
