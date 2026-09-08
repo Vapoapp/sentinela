@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:35:22.328Z",
+  "updatedAt": "2026-09-08T16:36:19.667Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -382,16 +382,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 12:30",
-      "imo": "9369734",
-      "navio": "MSC BREMEN",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 12:30",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "MUDANÇA",
@@ -438,6 +428,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 13:30",
+      "imo": "9369734",
+      "navio": "MSC BREMEN",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
