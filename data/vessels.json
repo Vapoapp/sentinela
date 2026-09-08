@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-08T13:46:20.136Z",
+  "updatedAt": "2026-09-08T13:47:16.234Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 09:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 09:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 09:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -311,6 +311,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 12:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 12:30",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
@@ -358,6 +368,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 14:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
