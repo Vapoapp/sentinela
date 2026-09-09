@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T19:59:18.433Z",
+  "updatedAt": "2026-09-09T20:00:34.378Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -352,16 +352,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 14:00",
-      "imo": "9492050",
-      "navio": "MADRE DE DEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 14:00",
       "imo": "9672636",
       "navio": "HOS BRASS RING",
       "tipo": "MUDANÇA",
@@ -381,23 +371,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 15:00",
-      "imo": "9528562",
-      "navio": "ALAN",
+      "inicio": "09/09/2026 14:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 15:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -421,6 +401,36 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 15:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 15:00",
+      "imo": "9528562",
+      "navio": "ALAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 16:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 16:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
@@ -441,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 16:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "09/09/2026 17:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,16 +542,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 06:00",
-      "imo": "9528562",
-      "navio": "ALAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 06:00",
       "imo": "9687526",
       "navio": "COPIAPO",
       "tipo": "SAÍDA",
@@ -551,13 +551,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 07:00",
-      "imo": "9456965",
-      "navio": "MSC ODESSA V",
+      "inicio": "10/09/2026 06:00",
+      "imo": "9528562",
+      "navio": "ALAN",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,6 +568,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 07:00",
+      "imo": "9456965",
+      "navio": "MSC ODESSA V",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
