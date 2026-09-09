@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T14:29:21.744Z",
+  "updatedAt": "2026-09-09T14:30:29.569Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -487,6 +487,16 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 09:00",
+      "imo": "1031159",
+      "navio": "MSC MARIA LAURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
