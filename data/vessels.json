@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T08:32:17.380Z",
+  "updatedAt": "2026-09-09T08:33:16.482Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -108,6 +108,16 @@
       "de": "ESLO - ESTALEIRO LOCAR",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 07:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
