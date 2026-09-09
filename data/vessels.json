@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T16:22:20.699Z",
+  "updatedAt": "2026-09-09T16:23:18.015Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 15:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESLO - ESTALEIRO LOCAR",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 15:00",
       "imo": "3813869946",
       "navio": "DRATEC XXI",
       "tipo": "SAÍDA",
       "de": "TPBS - TPBS",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 15:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESLO - ESTALEIRO LOCAR",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -478,6 +478,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 19:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
