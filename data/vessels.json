@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T00:21:18.656Z",
+  "updatedAt": "2026-09-09T00:22:20.238Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "09/09/2026 09:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
