@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T16:59:19.581Z",
+  "updatedAt": "2026-09-09T17:00:29.529Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 14:00",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
