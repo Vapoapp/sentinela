@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T17:06:20.216Z",
+  "updatedAt": "2026-09-09T17:07:17.183Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "09/09/2026 19:00",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "SAÍDA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
