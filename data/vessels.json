@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:50:29.149Z",
+  "updatedAt": "2026-09-09T22:51:18.939Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -878,6 +878,16 @@
       "de": "Fundeio - 5FB3 - Área de Fundeio B3",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/09/2026 14:00",
+      "imo": "9456680",
+      "navio": "PRINCESS LORA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
