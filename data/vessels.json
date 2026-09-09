@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T23:10:23.174Z",
+  "updatedAt": "2026-09-09T23:11:16.261Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 16:00",
-      "imo": "9730830",
-      "navio": "RB LEAH",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 16:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "MUDANÇA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 16:00",
+      "imo": "9730830",
+      "navio": "RB LEAH",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 19:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 19:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 19:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,6 +568,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 21:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -608,6 +618,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 23:00",
+      "imo": "9692791",
+      "navio": "WILDEBEEST (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,22 +672,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 06:00",
-      "imo": "9687526",
-      "navio": "COPIAPO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 06:00",
       "imo": "9528562",
       "navio": "ALAN",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 06:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
