@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T04:51:16.903Z",
+  "updatedAt": "2026-09-09T04:52:19.607Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2TS1 - Terminal Siderúrgico",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 02:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
