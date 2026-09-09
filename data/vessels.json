@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T18:22:18.485Z",
+  "updatedAt": "2026-09-09T18:23:19.793Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 11:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 11:00",
       "imo": "9656204",
       "navio": "SAPURA ESMERALDA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 11:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,16 +392,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 15:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 15:00",
       "imo": "3810514888",
       "navio": "LOCAR III",
       "tipo": "MUDANÇA",
@@ -418,6 +408,26 @@
       "de": "TPBS - TPBS",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 15:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 16:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,16 +448,6 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 16:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,16 +472,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 18:00",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 18:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
       "tipo": "SAÍDA",
@@ -491,12 +481,42 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 18:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 18:30",
+      "imo": "9692791",
+      "navio": "WILDEBEEST (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 19:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 04:00",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
