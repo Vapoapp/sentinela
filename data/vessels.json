@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T22:39:17.614Z",
+  "updatedAt": "2026-09-09T22:40:22.298Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 02:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
