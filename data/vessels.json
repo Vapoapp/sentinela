@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T22:32:18.548Z",
+  "updatedAt": "2026-09-09T22:33:18.833Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -542,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 19:00",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 19:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "ENTRADA",
@@ -551,13 +561,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 19:00",
-      "imo": "9659634",
-      "navio": "BARU TESORO",
+      "inicio": "09/09/2026 20:30",
+      "imo": "9387243",
+      "navio": "SKANDI NITEROI",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
