@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T15:08:17.863Z",
+  "updatedAt": "2026-09-09T15:09:17.232Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 09:30",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
