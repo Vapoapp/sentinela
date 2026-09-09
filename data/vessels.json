@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T12:09:16.928Z",
+  "updatedAt": "2026-09-09T12:10:23.885Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 14:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 14:00",
       "imo": "9687526",
       "navio": "COPIAPO",
       "tipo": "ENTRADA",
@@ -378,16 +388,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 19:00",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
