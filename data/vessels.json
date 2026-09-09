@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-09T00:59:16.314Z",
+  "updatedAt": "2026-09-09T01:00:32.154Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -512,22 +512,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/09/2026 16:30",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/09/2026 16:30",
       "imo": "9492050",
       "navio": "MADRE DE DEUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/09/2026 16:30",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -708,6 +708,16 @@
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/09/2026 06:00",
+      "imo": "9562582",
+      "navio": "CAROLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F11 - AF Boa Viagem",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
