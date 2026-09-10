@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T23:42:17.373Z",
+  "updatedAt": "2026-09-10T23:43:16.935Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -778,6 +778,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "11/09/2026 00:30",
+      "imo": "9575620",
+      "navio": "TANTALUS TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
