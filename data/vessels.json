@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T04:04:22.182Z",
+  "updatedAt": "2026-09-10T04:05:20.339Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -131,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 06:00",
-      "imo": "9687526",
-      "navio": "COPIAPO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "inicio": "10/09/2026 05:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +148,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 06:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
