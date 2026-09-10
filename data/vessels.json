@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:11:16.599Z",
+  "updatedAt": "2026-09-10T11:12:17.207Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "10/09/2026 15:30",
+      "imo": "9490894",
+      "navio": "SM GLADSTONE",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "10/09/2026 17:00",
       "imo": "9979137",
       "navio": "LOWLANDS PATRASCHE",
@@ -388,16 +398,6 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "10/09/2026 18:30",
-      "imo": "9490894",
-      "navio": "SM GLADSTONE",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
