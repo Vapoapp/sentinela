@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T11:51:17.309Z",
+  "updatedAt": "2026-09-10T11:52:19.646Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS2 - Terminal Siderúrgico 2",
       "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 09:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
