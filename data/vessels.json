@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:26:19.337Z",
+  "updatedAt": "2026-09-10T12:27:16.523Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 09:00",
-      "imo": "1031159",
-      "navio": "MSC MARIA LAURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 09:00",
       "imo": "9273301",
       "navio": "SEASTAR VIRTUS",
       "tipo": "MUDANÇA",
@@ -288,6 +278,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 09:30",
+      "imo": "1031159",
+      "navio": "MSC MARIA LAURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,7 +441,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "10/09/2026 08:00",
+      "inicio": "10/09/2026 12:30",
       "imo": "9862827",
       "navio": "AN MAY",
       "tipo": "MUDANÇA",
