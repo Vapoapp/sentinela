@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T00:23:17.858Z",
+  "updatedAt": "2026-09-10T00:24:18.610Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -611,16 +611,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/09/2026 22:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "09/09/2026 23:00",
       "imo": "9692791",
       "navio": "WILDEBEEST (REB)",
@@ -638,6 +628,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 01:00",
+      "imo": "9377016",
+      "navio": "REM SALTIRE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
