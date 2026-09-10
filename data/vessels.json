@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T07:20:27.457Z",
+  "updatedAt": "2026-09-10T07:21:18.457Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -101,6 +101,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 02:15",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 03:00",
       "imo": "9456965",
       "navio": "MSC ODESSA V",
@@ -142,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 06:00",
-      "imo": "9687526",
-      "navio": "COPIAPO",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "TPBR - BRASCO",
       "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 06:00",
-      "imo": "9944417",
-      "navio": "BRAM SPIRIT",
+      "imo": "9687526",
+      "navio": "COPIAPO",
       "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
+      "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 09:00",
-      "imo": "9273301",
-      "navio": "SEASTAR VIRTUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS2 - Terminal Siderúrgico 2",
-      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 09:00",
       "imo": "1031159",
       "navio": "MSC MARIA LAURA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 09:00",
+      "imo": "9273301",
+      "navio": "SEASTAR VIRTUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
