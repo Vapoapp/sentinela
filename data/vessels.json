@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T13:19:18.909Z",
+  "updatedAt": "2026-09-10T13:21:02.488Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 08:00",
+      "imo": "9737565",
+      "navio": "BOCHEM LUXEMBOURG",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 08:00",
       "imo": "9388352",
       "navio": "ONE CONTINUITY",
       "tipo": "ENTRADA",
@@ -342,6 +352,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 11:00",
+      "imo": "9632480",
+      "navio": "MAERSK RUBICON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 11:00",
       "imo": "9739446",
       "navio": "BGP DRAGON",
       "tipo": "SAÍDA",
@@ -358,6 +378,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 12:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 13:00",
+      "imo": "9324837",
+      "navio": "NAVIOS VERMILION",
+      "tipo": "MUDANÇA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +508,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 14:00",
+      "imo": "9632480",
+      "navio": "MAERSK RUBICON",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Itaguaí",
