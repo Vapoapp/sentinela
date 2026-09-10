@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T21:05:22.807Z",
+  "updatedAt": "2026-09-10T21:06:21.857Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -532,6 +532,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 17:00",
+      "imo": "9996769",
+      "navio": "CMA CGM SILVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 17:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "SAÍDA",
@@ -541,13 +551,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 17:00",
-      "imo": "9996769",
-      "navio": "CMA CGM SILVER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "inicio": "10/09/2026 18:00",
+      "imo": "9379428",
+      "navio": "ASSO VENTINOVE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
