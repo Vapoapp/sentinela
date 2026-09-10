@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T23:07:17.475Z",
+  "updatedAt": "2026-09-10T23:08:17.485Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 11:00",
-      "imo": "9632480",
-      "navio": "MAERSK RUBICON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 11:00",
       "imo": "9739446",
       "navio": "BGP DRAGON",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 11:00",
+      "imo": "9632480",
+      "navio": "MAERSK RUBICON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 14:00",
-      "imo": "9401075",
-      "navio": "MELINA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 14:00",
       "imo": "9692791",
       "navio": "WILDEBEEST (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 14:00",
+      "imo": "9401075",
+      "navio": "MELINA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 16:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 16:00",
       "imo": "9494618",
       "navio": "A.H. VALLETTA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 16:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -647,6 +647,26 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 08:00",
+      "imo": "9361770",
+      "navio": "NORMAND FERKING (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 08:00",
+      "imo": "9388584",
+      "navio": "MAERSK TOPPER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
