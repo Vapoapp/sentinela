@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T13:09:16.978Z",
+  "updatedAt": "2026-09-10T13:10:25.076Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -56,7 +56,7 @@
       "navio": "MELINA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "ZIM DO BRASIL LTDA"
     },
     {
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 13:00",
-      "imo": "9401075",
-      "navio": "MELINA",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 13:00",
       "imo": "9528562",
       "navio": "ALAN",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 14:00",
+      "imo": "9401075",
+      "navio": "MELINA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
