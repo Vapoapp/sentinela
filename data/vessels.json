@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-10T05:29:23.057Z",
+  "updatedAt": "2026-09-10T05:30:25.503Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 09:00",
+      "imo": "9273301",
+      "navio": "SEASTAR VIRTUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS2 - Terminal Siderúrgico 2",
+      "agente": "SEASTAR BRASIL SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
