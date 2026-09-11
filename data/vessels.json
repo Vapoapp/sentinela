@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T18:28:23.243Z",
+  "updatedAt": "2026-09-11T18:29:15.888Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 20:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
