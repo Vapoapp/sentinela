@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T21:03:17.627Z",
+  "updatedAt": "2026-09-11T21:04:18.821Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 13:00",
-      "imo": "9388584",
-      "navio": "MAERSK TOPPER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/09/2026 13:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 13:00",
+      "imo": "9388584",
+      "navio": "MAERSK TOPPER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,6 +441,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 19:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 20:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
@@ -502,6 +512,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 08:00",
+      "imo": "8707032",
+      "navio": "SERENA 11",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 08:00",
       "imo": "9641261",
       "navio": "MAR LIMPO V",
       "tipo": "SAÍDA",
@@ -512,21 +532,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 09:00",
-      "imo": "9407380",
-      "navio": "HORIZON THETIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/09/2026 09:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "SAÍDA",
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 09:00",
+      "imo": "9407380",
+      "navio": "HORIZON THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
