@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T01:52:16.323Z",
+  "updatedAt": "2026-09-11T01:53:16.670Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -778,6 +778,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 18:30",
+      "imo": "1019773",
+      "navio": "AEGEAN C",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Niterói",
