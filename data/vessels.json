@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T11:18:19.938Z",
+  "updatedAt": "2026-09-11T11:19:20.396Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 22:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Niterói",
