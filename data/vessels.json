@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T17:03:18.837Z",
+  "updatedAt": "2026-09-11T17:04:19.732Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -431,16 +431,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/09/2026 11:00",
-      "imo": "9631125",
-      "navio": "LORI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 12:00",
       "imo": "9995997",
       "navio": "ATHENIAN STAR",
@@ -478,16 +468,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/09/2026 22:00",
-      "imo": "9631125",
-      "navio": "LORI",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
