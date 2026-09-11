@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T12:28:17.030Z",
+  "updatedAt": "2026-09-11T12:29:15.919Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 08:00",
+      "imo": "9776286",
+      "navio": "BIGROLL BISCAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
