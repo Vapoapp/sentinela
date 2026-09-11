@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T11:39:17.845Z",
+  "updatedAt": "2026-09-11T11:40:24.532Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -292,12 +292,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 09:00",
+      "imo": "9407380",
+      "navio": "HORIZON THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 09:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "SAÍDA",
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 11:00",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
