@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T11:40:24.532Z",
+  "updatedAt": "2026-09-11T11:41:21.260Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -321,6 +321,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 12:00",
+      "imo": "9995997",
+      "navio": "ATHENIAN STAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 15:00",
       "imo": "1031159",
       "navio": "MSC MARIA LAURA",
@@ -338,6 +348,26 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 18:00",
+      "imo": "9407407",
+      "navio": "HORIZON THEONI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 22:00",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
