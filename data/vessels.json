@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T20:59:19.094Z",
+  "updatedAt": "2026-09-11T21:00:33.434Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 12:30",
+      "imo": "9605267",
+      "navio": "MSC AJACCIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
