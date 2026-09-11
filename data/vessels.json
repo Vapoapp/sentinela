@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T11:20:25.409Z",
+  "updatedAt": "2026-09-11T11:21:17.182Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 10:30",
+      "imo": "9945875",
+      "navio": "COSCO SHIPPING PERU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
