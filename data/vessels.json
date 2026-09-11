@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T01:55:20.192Z",
+  "updatedAt": "2026-09-11T01:56:18.720Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -292,16 +292,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 10:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 10:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
@@ -321,6 +311,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 10:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 10:20",
       "imo": "9703667",
       "navio": "BRAM HERO",
@@ -328,26 +328,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 11:00",
-      "imo": "9632480",
-      "navio": "MAERSK RUBICON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 11:00",
-      "imo": "9739446",
-      "navio": "BGP DRAGON",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +348,26 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 11:00",
+      "imo": "9632480",
+      "navio": "MAERSK RUBICON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 11:00",
+      "imo": "9739446",
+      "navio": "BGP DRAGON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,16 +542,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/09/2026 17:00",
-      "imo": "9996769",
-      "navio": "CMA CGM SILVER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/09/2026 17:00",
       "imo": "9703667",
       "navio": "BRAM HERO",
       "tipo": "ENTRADA",
@@ -568,6 +558,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/09/2026 17:00",
+      "imo": "9996769",
+      "navio": "CMA CGM SILVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -768,6 +768,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 15:30",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
