@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T07:48:21.613Z",
+  "updatedAt": "2026-09-11T07:49:18.974Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -137,16 +137,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/09/2026 08:00",
-      "imo": "9361770",
-      "navio": "NORMAND FERKING (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
