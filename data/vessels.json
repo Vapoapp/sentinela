@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-11T19:37:19.717Z",
+  "updatedAt": "2026-09-11T19:38:19.599Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -162,12 +162,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 08:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9776286",
+      "navio": "BIGROLL BISCAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,12 +182,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 08:00",
-      "imo": "9776286",
-      "navio": "BIGROLL BISCAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -401,6 +401,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 17:00",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 18:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
@@ -458,6 +468,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 04:30",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
