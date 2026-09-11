@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:54:22.878Z",
+  "updatedAt": "2026-09-11T11:55:22.294Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -131,16 +131,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/09/2026 07:00",
-      "imo": "9996769",
-      "navio": "CMA CGM SILVER",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 07:30",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
@@ -168,6 +158,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 08:30",
+      "imo": "9996769",
+      "navio": "CMA CGM SILVER",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
