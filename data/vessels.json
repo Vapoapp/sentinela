@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:37:17.110Z",
+  "updatedAt": "2026-09-11T11:38:17.942Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -191,6 +191,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 11:00",
+      "imo": "9859416",
+      "navio": "HANG JUN 6009",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 14:00",
       "imo": "9632480",
       "navio": "MAERSK RUBICON",
@@ -228,16 +238,6 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/09/2026 16:00",
-      "imo": "9388352",
-      "navio": "ONE CONTINUITY",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
