@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-12T01:23:16.321Z",
+  "updatedAt": "2026-09-12T01:24:16.167Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -392,6 +392,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 16:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 16:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "SAÍDA",
@@ -452,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/09/2026 19:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/09/2026 19:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/09/2026 19:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
