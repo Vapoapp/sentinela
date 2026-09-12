@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-12T01:15:24.453Z",
+  "updatedAt": "2026-09-12T01:16:18.096Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -531,6 +531,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 04:00",
+      "imo": "9125956",
+      "navio": "UTRECHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 04:30",
       "imo": "9631125",
       "navio": "LORI",
@@ -582,11 +592,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 09:00",
-      "imo": "9458157",
-      "navio": "GAZ SYNERGY",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
+      "imo": "9407380",
+      "navio": "HORIZON THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -602,11 +612,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 09:00",
-      "imo": "9407380",
-      "navio": "HORIZON THETIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
