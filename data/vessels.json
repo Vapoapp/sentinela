@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:45:21.740Z",
+  "updatedAt": "2026-09-12T19:46:17.354Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/09/2026 19:30",
+      "imo": "9446453",
+      "navio": "CAPE HORN",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
