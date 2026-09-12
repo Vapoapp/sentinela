@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-12T08:54:17.530Z",
+  "updatedAt": "2026-09-12T08:55:18.500Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -111,6 +111,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 06:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 07:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
@@ -172,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/09/2026 09:00",
-      "imo": "9407380",
-      "navio": "HORIZON THETIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/09/2026 09:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/09/2026 09:00",
+      "imo": "9407380",
+      "navio": "HORIZON THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
