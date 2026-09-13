@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T21:56:15.392Z",
+  "updatedAt": "2026-09-13T21:57:14.732Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -282,21 +282,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/09/2026 16:00",
-      "imo": "9312559",
-      "navio": "XIN CHANG SHA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/09/2026 16:00",
       "imo": "9400069",
       "navio": "CMA CGM XIAMEN",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/09/2026 16:00",
+      "imo": "9312559",
+      "navio": "XIN CHANG SHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
@@ -328,6 +328,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/09/2026 19:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
