@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T19:53:16.950Z",
+  "updatedAt": "2026-09-13T19:54:18.205Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/09/2026 17:30",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
