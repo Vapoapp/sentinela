@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T14:43:17.605Z",
+  "updatedAt": "2026-09-13T14:44:18.819Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/09/2026 02:30",
+      "imo": "9561875",
+      "navio": "APOGEE SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
