@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T03:22:19.513Z",
+  "updatedAt": "2026-09-13T03:23:14.412Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -97,16 +97,6 @@
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/09/2026 16:00",
-      "imo": "9418377",
-      "navio": "CMA CGM VERACRUZ (REB S/L)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
