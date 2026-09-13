@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-13T03:31:16.160Z",
+  "updatedAt": "2026-09-13T03:32:51.746Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/09/2026 02:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
