@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T11:27:19.363Z",
+  "updatedAt": "2026-09-14T11:28:22.556Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:00",
+      "imo": "9197002",
+      "navio": "SAGA ANDORINHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
