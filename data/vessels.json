@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T06:58:19.557Z",
+  "updatedAt": "2026-09-14T06:59:15.830Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 10
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -118,6 +118,26 @@
       "de": "TPBK - BRASKEM",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 20:00",
+      "imo": "9418377",
+      "navio": "CMA CGM VERACRUZ (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
