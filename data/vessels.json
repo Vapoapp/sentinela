@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T12:01:17.291Z",
+  "updatedAt": "2026-09-14T12:02:19.977Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 07:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
       "tipo": "MUDANÇA",
@@ -158,16 +168,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 07:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -201,6 +201,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 10:00",
+      "imo": "9977830",
+      "navio": "YM DELIGHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 11:00",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
@@ -228,6 +238,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:30",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
