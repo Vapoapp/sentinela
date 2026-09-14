@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T13:15:25.702Z",
+  "updatedAt": "2026-09-14T13:17:18.121Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -182,6 +182,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 10:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 10:00",
       "imo": "9768007",
       "navio": "LAEM CHABANG EXPRESS",
       "tipo": "ENTRADA",
@@ -228,6 +238,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
