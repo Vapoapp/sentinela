@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:00:32.070Z",
+  "updatedAt": "2026-09-14T01:01:17.897Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -491,6 +491,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "14/09/2026 03:00",
+      "imo": "9919216",
+      "navio": "ALPHA TREASURE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - F1 - FUNDEIO F1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "14/09/2026 15:00",
       "imo": "9446453",
       "navio": "CAPE HORN",
@@ -508,16 +518,6 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "14/09/2026 19:00",
-      "imo": "9919216",
-      "navio": "ALPHA TREASURE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - F1 - FUNDEIO F1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
