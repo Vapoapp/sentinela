@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T06:57:15.473Z",
+  "updatedAt": "2026-09-14T06:58:19.557Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBK - BRASKEM",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Niterói",
