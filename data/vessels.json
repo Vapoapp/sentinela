@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T19:19:18.398Z",
+  "updatedAt": "2026-09-14T19:20:26.969Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "2N06 - Armazém 7",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 16:00",
+      "imo": "9294082",
+      "navio": "MAERSK VEGA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
