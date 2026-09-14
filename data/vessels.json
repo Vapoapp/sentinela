@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:38:18.555Z",
+  "updatedAt": "2026-09-14T18:39:16.840Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -571,16 +571,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "15/09/2026 15:00",
-      "imo": "9919216",
-      "navio": "ALPHA TREASURE",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "15/09/2026 15:30",
       "imo": "9757838",
       "navio": "GH HOPPER",
@@ -608,6 +598,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/09/2026 18:00",
+      "imo": "9919216",
+      "navio": "ALPHA TREASURE",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
