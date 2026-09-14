@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T06:56:42.614Z",
+  "updatedAt": "2026-09-14T06:57:15.473Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 07:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
