@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T18:32:18.808Z",
+  "updatedAt": "2026-09-14T18:33:18.545Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 12:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -248,26 +268,6 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 12:00",
-      "imo": "9702077",
-      "navio": "MSC MELINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 12:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,6 +352,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 16:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 16:00",
       "imo": "9423231",
       "navio": "CAMPOS CHALLENGER",
       "tipo": "MUDANÇA",
@@ -371,13 +381,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 16:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "14/09/2026 21:00",
+      "imo": "9753301",
+      "navio": "BEIRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F03 - Feiticeira",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
