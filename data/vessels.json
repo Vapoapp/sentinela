@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:12:17.285Z",
+  "updatedAt": "2026-09-14T01:13:15.065Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -488,6 +488,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "Fundeio - 5FB4 - Área de Fundeio B4",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/09/2026 02:00",
+      "imo": "9862827",
+      "navio": "AN MAY",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
