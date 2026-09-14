@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T07:04:18.312Z",
+  "updatedAt": "2026-09-14T07:05:19.939Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "niteroi": {
       "ok": true,
@@ -118,6 +118,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 05:30",
+      "imo": "9753301",
+      "navio": "BEIRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
