@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T06:59:15.830Z",
+  "updatedAt": "2026-09-14T07:00:34.236Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 04:30",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
