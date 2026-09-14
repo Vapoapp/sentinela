@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T14:22:21.796Z",
+  "updatedAt": "2026-09-14T14:23:16.922Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 04:30",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 04:30",
       "imo": "9706528",
       "navio": "SKANDI BUZIOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 04:30",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,12 +182,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 10:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
+      "imo": "9977830",
+      "navio": "YM DELIGHT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 10:00",
-      "imo": "9977830",
-      "navio": "YM DELIGHT",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 11:20",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 15:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:00",
       "imo": "9197002",
       "navio": "SAGA ANDORINHA",
       "tipo": "ENTRADA",
@@ -298,6 +318,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 16:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
