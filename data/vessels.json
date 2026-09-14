@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T07:40:24.088Z",
+  "updatedAt": "2026-09-14T07:41:16.418Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "TPBK - BRASKEM",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
