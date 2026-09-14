@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:54:18.787Z",
+  "updatedAt": "2026-09-14T19:55:19.902Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "15/09/2026 07:30",
+      "imo": "9462689",
+      "navio": "SARONIC BAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMA - ESTALEIRO MAUÁ",
+      "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
     },
     {
       "porto": "Itaguaí",
