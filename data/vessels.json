@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T17:12:17.748Z",
+  "updatedAt": "2026-09-14T17:13:18.586Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 11:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
