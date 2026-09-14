@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T16:05:21.167Z",
+  "updatedAt": "2026-09-14T16:06:18.452Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 04:30",
-      "imo": "9706528",
-      "navio": "SKANDI BUZIOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 04:30",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 04:30",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,6 +182,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 10:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 10:00",
       "imo": "9768007",
       "navio": "LAEM CHABANG EXPRESS",
       "tipo": "ENTRADA",
@@ -198,16 +208,6 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 10:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,6 +292,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 15:00",
+      "imo": "9197002",
+      "navio": "SAGA ANDORINHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "MUDANÇA",
@@ -308,16 +318,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 15:00",
-      "imo": "9197002",
-      "navio": "SAGA ANDORINHA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 00:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
