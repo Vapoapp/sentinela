@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T11:15:24.318Z",
+  "updatedAt": "2026-09-14T11:16:17.821Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 07:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 07:00",
       "imo": "9506394",
       "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "SAÍDA",
@@ -228,6 +238,36 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 06:00",
+      "imo": "9768007",
+      "navio": "LAEM CHABANG EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 10:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 18:30",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Niterói",
