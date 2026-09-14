@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-14T11:59:17.236Z",
+  "updatedAt": "2026-09-14T12:00:37.792Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -144,9 +144,9 @@
       "inicio": "14/09/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
-      "tipo": "SAÍDA",
+      "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
+      "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -154,9 +154,9 @@
       "inicio": "14/09/2026 07:00",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
+      "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
+      "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -248,6 +248,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 16:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
