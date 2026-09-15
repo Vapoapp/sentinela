@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T22:19:18.023Z",
+  "updatedAt": "2026-09-15T22:20:24.422Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -788,6 +788,16 @@
       "de": "-",
       "para": "ESMA - ESTALEIRO MAUÁ",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/09/2026 09:00",
+      "imo": "9575620",
+      "navio": "TANTALUS TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Itaguaí",
