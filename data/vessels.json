@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T18:45:24.764Z",
+  "updatedAt": "2026-09-15T18:46:16.482Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -552,16 +552,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 06:00",
-      "imo": "9348053",
-      "navio": "MAERSK MONTE AZUL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 06:00",
       "imo": "9528249",
       "navio": "SKANDI IPANEMA",
       "tipo": "ENTRADA",
@@ -616,16 +606,6 @@
       "navio": "GRANDE MIRAFIORI",
       "tipo": "SAÍDA",
       "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 17:00",
-      "imo": "9348053",
-      "navio": "MAERSK MONTE AZUL",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
