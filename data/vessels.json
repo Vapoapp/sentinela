@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T09:16:17.662Z",
+  "updatedAt": "2026-09-15T09:17:18.017Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 07:00",
-      "imo": "9977830",
-      "navio": "YM DELIGHT",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 07:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 07:00",
+      "imo": "9977830",
+      "navio": "YM DELIGHT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +178,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 08:00",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 11:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N04 - Armazém 4 e 5",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 11:00",
       "imo": "9814961",
       "navio": "SEALOADER 1",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 11:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
