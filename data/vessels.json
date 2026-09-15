@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T14:19:20.542Z",
+  "updatedAt": "2026-09-15T14:20:26.373Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 08:30",
+      "imo": "9471616",
+      "navio": "LUISA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F08 - NW DO TPP1",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
