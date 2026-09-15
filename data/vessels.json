@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T12:05:20.062Z",
+  "updatedAt": "2026-09-15T12:06:17.415Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "Fundeio - 5FB3 - Área de Fundeio B3",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/09/2026 15:30",
+      "imo": "9439797",
+      "navio": "ST MARY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Itaguaí",
