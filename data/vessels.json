@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T23:51:14.918Z",
+  "updatedAt": "2026-09-15T23:52:19.253Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -681,6 +681,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 07:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:30",
       "imo": "9288409",
       "navio": "MSC YAMUNA VI",
@@ -722,22 +732,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 14:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "SAÍDA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "-",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 14:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 63 - 2F6A",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 14:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
