@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T09:12:18.398Z",
+  "updatedAt": "2026-09-15T09:13:16.798Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 08:30",
+      "imo": "9579509",
+      "navio": "Almi Galaxy",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
