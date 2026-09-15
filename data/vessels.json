@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T12:20:26.662Z",
+  "updatedAt": "2026-09-15T12:21:16.188Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -231,6 +231,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 09:30",
+      "imo": "9648154",
+      "navio": "MAR LIMPO VII",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 10:00",
       "imo": "9492139",
       "navio": "SAO LUIZ",
@@ -252,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 14:00",
-      "imo": "9702077",
-      "navio": "MSC MELINE",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 14:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 63 - 2F6A",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 14:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
