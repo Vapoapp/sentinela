@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T13:33:17.691Z",
+  "updatedAt": "2026-09-15T13:34:18.160Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 19:30",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
