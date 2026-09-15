@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T12:22:19.559Z",
+  "updatedAt": "2026-09-15T12:23:16.936Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -221,6 +221,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 09:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 09:30",
       "imo": "9610717",
       "navio": "JAMAICA BAY",
@@ -262,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 14:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 14:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "ENTRADA",
@@ -271,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 14:00",
-      "imo": "9702077",
-      "navio": "MSC MELINE",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "15/09/2026 15:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,13 +311,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 15:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
+      "inicio": "15/09/2026 16:30",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
       "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
