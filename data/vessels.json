@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T12:07:18.420Z",
+  "updatedAt": "2026-09-15T12:09:17.296Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -196,7 +196,7 @@
       "navio": "Almi Galaxy",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
+      "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
@@ -278,6 +278,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 15:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
