@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T05:15:21.349Z",
+  "updatedAt": "2026-09-15T05:16:52.459Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -111,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 06:00",
-      "imo": "9768007",
-      "navio": "LAEM CHABANG EXPRESS",
+      "inicio": "15/09/2026 07:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,16 +128,6 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 07:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -221,6 +211,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 18:00",
+      "imo": "9768007",
+      "navio": "LAEM CHABANG EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 18:30",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 11:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 11:00",
       "imo": "1094979",
       "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N04 - Armazém 4 e 5",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 11:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
