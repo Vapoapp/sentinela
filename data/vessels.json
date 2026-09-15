@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T01:08:16.951Z",
+  "updatedAt": "2026-09-15T01:09:16.258Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 04:30",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 04:30",
       "imo": "9706528",
       "navio": "SKANDI BUZIOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 04:30",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,6 +232,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 12:00",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
+      "imo": "9702077",
+      "navio": "MSC MELINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 12:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -248,26 +268,6 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 12:00",
-      "imo": "9702077",
-      "navio": "MSC MELINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 12:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 15:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 15:00",
       "imo": "9197002",
       "navio": "SAGA ANDORINHA",
       "tipo": "ENTRADA",
@@ -331,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 15:30",
-      "imo": "9493145",
-      "navio": "GOLDENGATE PARK",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "inicio": "14/09/2026 15:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +338,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:30",
+      "imo": "9493145",
+      "navio": "GOLDENGATE PARK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -491,6 +491,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 03:30",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 06:00",
       "imo": "9768007",
       "navio": "LAEM CHABANG EXPRESS",
@@ -502,22 +512,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 07:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/09/2026 07:00",
       "imo": "9977830",
       "navio": "YM DELIGHT",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 07:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
