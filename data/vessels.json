@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T00:34:17.103Z",
+  "updatedAt": "2026-09-15T00:35:56.617Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -312,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/09/2026 15:00",
-      "imo": "9197002",
-      "navio": "SAGA ANDORINHA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/09/2026 15:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/09/2026 15:00",
+      "imo": "9197002",
+      "navio": "SAGA ANDORINHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -501,6 +501,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 07:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/09/2026 09:30",
       "imo": "9702077",
       "navio": "MSC MELINE",
@@ -538,6 +548,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 20:00",
+      "imo": "9702766",
+      "navio": "SEAGEMS RUBI",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
