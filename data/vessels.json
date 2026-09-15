@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-15T01:03:18.058Z",
+  "updatedAt": "2026-09-15T01:04:18.642Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/09/2026 10:00",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
