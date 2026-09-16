@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:46:17.033Z",
+  "updatedAt": "2026-09-16T17:48:27.212Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -421,6 +421,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 08:00",
+      "imo": "9471616",
+      "navio": "LUISA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 09:00",
       "imo": "9293789",
       "navio": "CONTI COURAGE",
@@ -428,16 +438,6 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 17:00",
-      "imo": "9471616",
-      "navio": "LUISA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Niterói",
