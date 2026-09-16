@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-16T21:37:15.635Z",
+  "updatedAt": "2026-09-16T21:39:15.902Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -92,12 +92,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 06:00",
-      "imo": "9642588",
-      "navio": "LARUS",
+      "imo": "9788552",
+      "navio": "PACIFIC JASPER",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 06:00",
-      "imo": "9788552",
-      "navio": "PACIFIC JASPER",
+      "imo": "9642588",
+      "navio": "LARUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 07:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 07:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 18:00",
+      "imo": "9648154",
+      "navio": "MAR LIMPO VII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 18:00",
       "imo": "9644160",
       "navio": "BRAM BELEM",
       "tipo": "MUDANÇA",
@@ -442,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 18:00",
-      "imo": "9648154",
-      "navio": "MAR LIMPO VII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -558,6 +568,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 23:00",
+      "imo": "9953561",
+      "navio": "IRENES RULE",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
