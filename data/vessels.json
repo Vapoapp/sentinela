@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-16T18:43:15.832Z",
+  "updatedAt": "2026-09-16T18:44:18.901Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -342,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 14:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 14:00",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 14:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 21:00",
+      "imo": "9782687",
+      "navio": "GRANDE MIRAFIORI",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
