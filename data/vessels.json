@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-16T20:14:18.748Z",
+  "updatedAt": "2026-09-16T20:15:42.643Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 03:00",
+      "imo": "9782687",
+      "navio": "GRANDE MIRAFIORI",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
