@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:44:18.887Z",
+  "updatedAt": "2026-09-16T17:45:22.191Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -371,16 +371,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 16:00",
-      "imo": "9705005",
-      "navio": "MSC CATERINA",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 17:00",
       "imo": "9782687",
       "navio": "GRANDE MIRAFIORI",
@@ -406,6 +396,16 @@
       "navio": "MSC YAMUNA VI",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 05:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
