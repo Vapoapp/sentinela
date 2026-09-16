@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:58:18.374Z",
+  "updatedAt": "2026-09-16T01:59:17.126Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 9
+      "count": 12
     },
     "itaguai": {
       "ok": true,
@@ -891,6 +891,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "15/09/2026 07:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
       "inicio": "15/09/2026 09:00",
       "imo": "9575620",
       "navio": "TANTALUS TIDE (REB)",
@@ -938,6 +948,26 @@
       "de": "-",
       "para": "ESMA - ESTALEIRO MAUÁ",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/09/2026 02:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII (REB)",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/09/2026 06:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
