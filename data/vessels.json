@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-16T14:05:21.389Z",
+  "updatedAt": "2026-09-16T14:06:17.922Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
-      "imo": "9880295",
-      "navio": "CL QINGSHUI HE",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F03 - Feiticeira",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
+      "imo": "9880295",
+      "navio": "CL QINGSHUI HE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +378,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 17:00",
+      "imo": "9782687",
+      "navio": "GRANDE MIRAFIORI",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
