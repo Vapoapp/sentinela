@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-16T04:18:17.862Z",
+  "updatedAt": "2026-09-16T04:19:17.758Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 05:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 05:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "MUDANÇA",
@@ -122,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 07:00",
       "imo": "9179751",
       "navio": "NORMAND PIONEER",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 07:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
