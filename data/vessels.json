@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:47:22.567Z",
+  "updatedAt": "2026-09-16T23:48:51.467Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "-",
       "para": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "18/09/2026 07:00",
+      "imo": "4030219411",
+      "navio": "OCEAN DREAM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESCD - ESTALEIRO CODEPE",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
