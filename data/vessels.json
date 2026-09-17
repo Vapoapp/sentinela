@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:21:17.523Z",
+  "updatedAt": "2026-09-17T18:22:18.667Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -671,6 +671,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "18/09/2026 02:30",
+      "imo": "9612430",
+      "navio": "CAPE LILY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "18/09/2026 04:00",
       "imo": "9729362",
       "navio": "DSI AQUILA",
@@ -708,6 +718,46 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/09/2026 11:00",
+      "imo": "9603221",
+      "navio": "FERNÃO DE MAGALHÃES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/09/2026 13:00",
+      "imo": "9439797",
+      "navio": "ST MARY",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/09/2026 16:30",
+      "imo": "9484077",
+      "navio": "SELETAR SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/09/2026 19:00",
+      "imo": "9711731",
+      "navio": "TOMINI SOLANO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
