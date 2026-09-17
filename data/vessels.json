@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T13:49:18.674Z",
+  "updatedAt": "2026-09-17T13:51:01.398Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -262,6 +262,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 07:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 07:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 07:00",
       "imo": "9530199",
       "navio": "SANTOS SERVICE",
       "tipo": "ENTRADA",
@@ -278,16 +298,6 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 07:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 09:00",
-      "imo": "9492062",
-      "navio": "RIO GRANDE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 09:00",
       "imo": "9702742",
       "navio": "SAPURA ONIX",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 09:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,12 +402,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
-      "imo": "9521021",
-      "navio": "CBO WAVE (REB)",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N05 - Armazém 6",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,12 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
+      "imo": "9654971",
+      "navio": "BESIKTAS GH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 10:00",
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
       "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N05 - Armazém 6",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 10:00",
-      "imo": "9654971",
-      "navio": "BESIKTAS GH",
+      "inicio": "17/09/2026 11:00",
+      "imo": "9880295",
+      "navio": "CL QINGSHUI HE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +538,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 06:00",
+      "imo": "9573103",
+      "navio": "P.S. PALIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
