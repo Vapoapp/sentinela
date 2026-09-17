@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T04:16:17.954Z",
+  "updatedAt": "2026-09-17T04:17:16.779Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -157,6 +157,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 08:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
