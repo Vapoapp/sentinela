@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T04:19:18.439Z",
+  "updatedAt": "2026-09-17T04:20:25.551Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -61,6 +61,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 00:30",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 01:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
@@ -92,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 03:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 03:00",
       "imo": "9782687",
       "navio": "GRANDE MIRAFIORI",
       "tipo": "MUDANÇA",
       "de": "2R12 - TECON 4 - MCAR",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 03:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +158,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 06:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
