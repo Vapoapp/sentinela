@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T17:12:20.167Z",
+  "updatedAt": "2026-09-17T17:14:17.663Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -332,16 +332,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 08:00",
-      "imo": "9422330",
-      "navio": "NORMAND POSEIDON (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 08:00",
       "imo": "9471616",
       "navio": "LUISA",
       "tipo": "SAÍDA",
@@ -358,6 +348,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 08:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 10:00",
       "imo": "9654971",
       "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 10:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 12:30",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
