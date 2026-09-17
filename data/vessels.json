@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T12:06:20.141Z",
+  "updatedAt": "2026-09-17T12:07:19.845Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -411,6 +411,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 12:00",
+      "imo": "9995997",
+      "navio": "ATHENIAN STAR",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 13:00",
       "imo": "9438535",
       "navio": "YM MATURITY",
@@ -428,16 +438,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 15:30",
-      "imo": "9995997",
-      "navio": "ATHENIAN STAR",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
