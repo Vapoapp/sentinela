@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T00:51:14.832Z",
+  "updatedAt": "2026-09-17T00:52:25.191Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 07:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 07:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,6 +292,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 11:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 11:00",
+      "imo": "9610717",
+      "navio": "JAMAICA BAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 11:00",
       "imo": "1094979",
       "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
       "tipo": "MUDANÇA",
@@ -308,26 +328,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 11:00",
-      "imo": "9610717",
-      "navio": "JAMAICA BAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 11:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 18:00",
+      "imo": "9648154",
+      "navio": "MAR LIMPO VII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 18:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 18:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -482,12 +482,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 18:00",
-      "imo": "9648154",
-      "navio": "MAR LIMPO VII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,6 +522,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 20:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 20:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
@@ -531,13 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 20:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
+      "inicio": "16/09/2026 21:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
