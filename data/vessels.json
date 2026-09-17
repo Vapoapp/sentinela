@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T19:06:17.960Z",
+  "updatedAt": "2026-09-17T19:07:17.566Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "2N06 - Armazém 7",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 15:00",
+      "imo": "9786736",
+      "navio": "SAO PAULO EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
