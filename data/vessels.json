@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T04:17:16.779Z",
+  "updatedAt": "2026-09-17T04:18:17.604Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 07:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 07:00",
       "imo": "9395953",
       "navio": "ZIM BALTIMORE",
       "tipo": "SAÍDA",
@@ -151,12 +161,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 07:00",
-      "imo": "9417828",
-      "navio": "NORMAND SAGARIS (REB)",
+      "inicio": "17/09/2026 07:30",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
