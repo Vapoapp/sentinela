@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T20:36:19.989Z",
+  "updatedAt": "2026-09-17T20:37:16.923Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -541,13 +541,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 17:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "inicio": "17/09/2026 16:30",
+      "imo": "9493145",
+      "navio": "GOLDENGATE PARK",
+      "tipo": "MUDANÇA",
+      "de": "TPPT - NEOLUBES",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -558,6 +558,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 17:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
