@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T00:32:17.283Z",
+  "updatedAt": "2026-09-17T00:33:16.879Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -182,6 +182,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 07:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 07:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "ENTRADA",
@@ -198,16 +208,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 07:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 14:00",
-      "imo": "9702754",
-      "navio": "SAPURA JADE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 14:00",
       "imo": "1025124",
       "navio": "WINDEA CURIE",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 14:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,22 +522,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/09/2026 20:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/09/2026 20:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/09/2026 20:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +578,26 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 03:00",
+      "imo": "9782687",
+      "navio": "GRANDE MIRAFIORI",
+      "tipo": "MUDANÇA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 04:00",
+      "imo": "9407380",
+      "navio": "HORIZON THETIS",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
