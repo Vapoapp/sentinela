@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T11:32:20.833Z",
+  "updatedAt": "2026-09-17T11:33:16.500Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -261,6 +261,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 06:30",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 07:00",
       "imo": "9395953",
       "navio": "ZIM BALTIMORE",
@@ -338,16 +348,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 08:00",
-      "imo": "9705005",
-      "navio": "MSC CATERINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
