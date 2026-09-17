@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T23:20:27.994Z",
+  "updatedAt": "2026-09-17T23:21:15.893Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -688,6 +688,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 01:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
