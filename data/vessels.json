@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T08:25:19.693Z",
+  "updatedAt": "2026-09-17T08:26:36.397Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -162,6 +162,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 05:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 05:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "MUDANÇA",
@@ -191,6 +201,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 05:30",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 06:00",
       "imo": "9789726",
       "navio": "MANTA BEYOGLU",
@@ -212,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 06:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 06:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 06:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 09:00",
-      "imo": "9702742",
-      "navio": "SAPURA ONIX",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 09:00",
       "imo": "9492062",
       "navio": "RIO GRANDE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 09:00",
+      "imo": "9702742",
+      "navio": "SAPURA ONIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
