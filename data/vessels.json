@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-17T01:08:16.215Z",
+  "updatedAt": "2026-09-17T01:09:18.587Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 09:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
