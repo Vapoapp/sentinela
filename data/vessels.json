@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T02:41:21.043Z",
+  "updatedAt": "2026-09-18T02:42:20.087Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 92
+      "count": 93
     },
     "niteroi": {
       "ok": true,
@@ -602,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 18:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 18:00",
       "imo": "9528249",
       "navio": "SKANDI IPANEMA",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 18:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,22 +692,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 23:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 23:00",
       "imo": "9953561",
       "navio": "IRENES RULE",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 23:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -848,6 +848,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 08:30",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
