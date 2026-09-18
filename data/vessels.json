@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T01:19:15.090Z",
+  "updatedAt": "2026-09-18T01:20:24.474Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
@@ -412,22 +412,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 10:00",
       "imo": "9654971",
       "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 10:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 04:30",
+      "imo": "9423231",
+      "navio": "CAMPOS CHALLENGER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
