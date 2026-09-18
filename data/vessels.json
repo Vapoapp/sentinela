@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T17:26:19.066Z",
+  "updatedAt": "2026-09-18T17:27:19.116Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 16:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 16:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "SAÍDA",
@@ -454,16 +464,6 @@
       "inicio": "18/09/2026 16:30",
       "imo": "9727625",
       "navio": "CAPE SOUNIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 19:30",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
