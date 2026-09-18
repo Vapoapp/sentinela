@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T12:37:19.602Z",
+  "updatedAt": "2026-09-18T12:38:19.373Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 07:00",
-      "imo": "9604586",
-      "navio": "SKANDI PARATY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 07:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 07:00",
+      "imo": "9604586",
+      "navio": "SKANDI PARATY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +298,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 10:00",
+      "imo": "9561875",
+      "navio": "APOGEE SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
