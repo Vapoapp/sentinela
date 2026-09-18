@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T12:55:20.098Z",
+  "updatedAt": "2026-09-18T12:56:18.641Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 10:00",
-      "imo": "9561875",
-      "navio": "APOGEE SPIRIT",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 10:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 10:00",
+      "imo": "9561875",
+      "navio": "APOGEE SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 11:30",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "MUDANÇA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
