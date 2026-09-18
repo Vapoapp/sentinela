@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T11:26:19.467Z",
+  "updatedAt": "2026-09-18T11:27:16.540Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 13:30",
+      "imo": "9877626",
+      "navio": "SOLAR NESRIN",
+      "tipo": "MUDANÇA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
