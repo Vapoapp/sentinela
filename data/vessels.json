@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:59:17.630Z",
+  "updatedAt": "2026-09-18T20:00:36.420Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -831,6 +831,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "18/09/2026 22:00",
+      "imo": "9659866",
+      "navio": "WINNING NATURE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "19/09/2026 07:00",
       "imo": "9612430",
       "navio": "CAPE LILY",
@@ -908,16 +918,6 @@
       "de": "Fundeio - 5FA2 - Área de Fundeio A2",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "19/09/2026 19:00",
-      "imo": "9659866",
-      "navio": "WINNING NATURE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
