@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:36:19.209Z",
+  "updatedAt": "2026-09-18T08:37:16.849Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESCD - ESTALEIRO CODEPE",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "18/09/2026 08:30",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
