@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:19:19.955Z",
+  "updatedAt": "2026-09-18T18:21:01.964Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -422,16 +422,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 14:30",
-      "imo": "9438535",
-      "navio": "YM MATURITY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 14:30",
       "imo": "9867619",
       "navio": "AITOLOS",
       "tipo": "ENTRADA",
@@ -506,6 +496,16 @@
       "navio": "CMA CGM RABELAIS",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 07:00",
+      "imo": "9438535",
+      "navio": "YM MATURITY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
