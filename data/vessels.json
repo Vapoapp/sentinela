@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T18:27:16.988Z",
+  "updatedAt": "2026-09-18T18:28:20.382Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -302,16 +302,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 10:00",
-      "imo": "9188130",
-      "navio": "BRAM NATAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 10:00",
       "imo": "9561875",
       "navio": "APOGEE SPIRIT",
       "tipo": "SAÍDA",
@@ -328,6 +318,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 10:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,16 +508,6 @@
       "de": "TPBK - BRASKEM",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 08:00",
-      "imo": "9727625",
-      "navio": "CAPE SOUNIO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
