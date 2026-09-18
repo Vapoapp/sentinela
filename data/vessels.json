@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T02:55:19.102Z",
+  "updatedAt": "2026-09-18T02:56:17.442Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 95
+      "count": 96
     },
     "niteroi": {
       "ok": true,
@@ -472,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 12:00",
-      "imo": "9995997",
-      "navio": "ATHENIAN STAR",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 12:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 12:00",
+      "imo": "9995997",
+      "navio": "ATHENIAN STAR",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -761,6 +761,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 03:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 04:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
@@ -922,22 +932,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 14:30",
-      "imo": "9438535",
-      "navio": "YM MATURITY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 14:30",
       "imo": "9867619",
       "navio": "AITOLOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 14:30",
+      "imo": "9438535",
+      "navio": "YM MATURITY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
