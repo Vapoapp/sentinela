@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:22:18.126Z",
+  "updatedAt": "2026-09-18T18:23:16.609Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -471,16 +471,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "18/09/2026 16:30",
-      "imo": "9727625",
-      "navio": "CAPE SOUNIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "18/09/2026 17:30",
       "imo": "9246607",
       "navio": "GRANDE AMBURGO",
@@ -537,6 +527,16 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 09:00",
+      "imo": "9727625",
+      "navio": "CAPE SOUNIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
