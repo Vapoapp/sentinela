@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T04:21:19.703Z",
+  "updatedAt": "2026-09-18T04:22:22.305Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 01:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
