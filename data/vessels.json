@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-18T02:32:16.568Z",
+  "updatedAt": "2026-09-18T02:33:18.064Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 89
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -402,6 +402,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/09/2026 10:00",
       "imo": "9654971",
       "navio": "BESIKTAS GH",
       "tipo": "ENTRADA",
@@ -412,12 +422,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/09/2026 10:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "imo": "9957000",
+      "navio": "UBUNTU EMPATHY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01N - Visita Norte",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,16 +448,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N05 - Armazém 6",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/09/2026 10:00",
-      "imo": "9957000",
-      "navio": "UBUNTU EMPATHY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01N - Visita Norte",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -798,6 +798,16 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/09/2026 06:30",
+      "imo": "9293789",
+      "navio": "CONTI COURAGE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
