@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T17:59:18.410Z",
+  "updatedAt": "2026-09-18T18:00:35.661Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 20
     },
     "angra": {
       "ok": true,
@@ -688,6 +688,106 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/09/2026 21:00",
+      "imo": "9838228",
+      "navio": "BANIYAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 07:00",
+      "imo": "9612430",
+      "navio": "CAPE LILY",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 08:30",
+      "imo": "9651072",
+      "navio": "CAPE GREEN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 09:30",
+      "imo": "9447768",
+      "navio": "MAERSK MALAGA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 12:00",
+      "imo": "9402079",
+      "navio": "UAL FORTITUDE",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 14:30",
+      "imo": "9620669",
+      "navio": "SLOMAN DISCOVERER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 15:30",
+      "imo": "9613068",
+      "navio": "TAI SHAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 16:30",
+      "imo": "9603221",
+      "navio": "FERNÃO DE MAGALHÃES",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 18:00",
+      "imo": "9734173",
+      "navio": "CHIPOL TAIHU",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 19:00",
+      "imo": "9659866",
+      "navio": "WINNING NATURE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
