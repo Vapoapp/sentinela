@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:52:18.296Z",
+  "updatedAt": "2026-09-19T08:53:15.743Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 12:00",
+      "imo": "9612430",
+      "navio": "CAPE LILY",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
