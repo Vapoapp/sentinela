@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T21:42:18.087Z",
+  "updatedAt": "2026-09-19T21:43:15.290Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -451,13 +451,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 17:00",
-      "imo": "9943085",
-      "navio": "MAERSK REDWOOD",
+      "inicio": "19/09/2026 15:30",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 17:00",
+      "imo": "9943085",
+      "navio": "MAERSK REDWOOD",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
