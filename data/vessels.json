@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T08:53:15.743Z",
+  "updatedAt": "2026-09-19T08:54:15.904Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -102,36 +102,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 06:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
-      "imo": "9484780",
-      "navio": "ISLAND ENFORCER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
-      "imo": "9410882",
-      "navio": "KALAHARI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
@@ -161,6 +131,46 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9410882",
+      "navio": "KALAHARI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9484780",
+      "navio": "ISLAND ENFORCER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 07:00",
       "imo": "9763772",
       "navio": "STIM STAR BRASIL",
@@ -172,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 07:00",
-      "imo": "9438535",
-      "navio": "YM MATURITY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 07:00",
       "imo": "9880295",
       "navio": "CL QINGSHUI HE",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01N - Visita Norte",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 07:00",
+      "imo": "9438535",
+      "navio": "YM MATURITY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +428,16 @@
       "de": "Fundeio - 5FB3 - Área de Fundeio B3",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/09/2026 14:30",
+      "imo": "9651072",
+      "navio": "CAPE GREEN",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Itaguaí",
