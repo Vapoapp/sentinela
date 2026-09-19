@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-19T00:41:18.403Z",
+  "updatedAt": "2026-09-19T00:42:18.056Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -561,6 +561,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 03:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 06:00",
       "imo": "9406635",
       "navio": "CMA CGM RABELAIS",
@@ -612,22 +622,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 08:00",
-      "imo": "9188130",
-      "navio": "BRAM NATAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 08:00",
       "imo": "1031783",
       "navio": "BURAN",
       "tipo": "SAÍDA",
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 08:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
