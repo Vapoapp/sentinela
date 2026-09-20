@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:36:16.324Z",
+  "updatedAt": "2026-09-20T00:37:15.141Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "ESCD - ESTALEIRO CODEPE",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "19/09/2026 20:58",
+      "imo": "9687368",
+      "navio": "BRAM BOA VISTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
