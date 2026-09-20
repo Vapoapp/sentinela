@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T14:42:19.903Z",
+  "updatedAt": "2026-09-20T14:43:17.674Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -252,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 09:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 09:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
@@ -268,16 +278,6 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 09:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,6 +362,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 14:00",
+      "imo": "9972804",
+      "navio": "GLBS MIGHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 14:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 14:00",
       "imo": "9789726",
       "navio": "MANTA BEYOGLU",
       "tipo": "ENTRADA",
@@ -371,13 +391,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 14:00",
-      "imo": "9972804",
-      "navio": "GLBS MIGHT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "inicio": "20/09/2026 15:00",
+      "imo": "9246607",
+      "navio": "GRANDE AMBURGO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
