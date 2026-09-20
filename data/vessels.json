@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:20:22.304Z",
+  "updatedAt": "2026-09-20T03:21:15.797Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -281,16 +281,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "20/09/2026 06:00",
-      "imo": "9402079",
-      "navio": "UAL FORTITUDE",
-      "tipo": "SAÍDA",
-      "de": "301 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "20/09/2026 08:30",
       "imo": "9620669",
       "navio": "SLOMAN DISCOVERER",
@@ -308,6 +298,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/09/2026 17:00",
+      "imo": "9402079",
+      "navio": "UAL FORTITUDE",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     }
   ]
 }
