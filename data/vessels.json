@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T08:24:17.683Z",
+  "updatedAt": "2026-09-20T08:25:24.625Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 11:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
