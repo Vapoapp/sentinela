@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T21:05:19.498Z",
+  "updatedAt": "2026-09-20T21:06:52.239Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 15:30",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
