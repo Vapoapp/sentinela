@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T16:21:18.013Z",
+  "updatedAt": "2026-09-20T16:22:18.619Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -437,6 +437,16 @@
       "tipo": "SAÍDA",
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 18:00",
+      "imo": "9253208",
+      "navio": "GRANDE SAN PAOLO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - TECON 4 - MCAR",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
