@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T11:30:27.014Z",
+  "updatedAt": "2026-09-20T11:31:18.106Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -161,6 +161,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 07:00",
+      "imo": "9439620",
+      "navio": "RICHLAND NEWCASTLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 08:00",
       "imo": "1047512",
       "navio": "PACIFIC VIRTUE",
@@ -212,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 12:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
-      "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 12:00",
       "imo": "9410882",
       "navio": "KALAHARI",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 12:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
