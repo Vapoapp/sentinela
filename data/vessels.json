@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T02:17:16.130Z",
+  "updatedAt": "2026-09-20T02:18:17.669Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 07:00",
-      "imo": "9438535",
-      "navio": "YM MATURITY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 07:00",
       "imo": "9763772",
       "navio": "STIM STAR BRASIL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 07:00",
+      "imo": "9438535",
+      "navio": "YM MATURITY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 11:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 11:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "ENTRADA",
@@ -341,13 +351,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 11:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
+      "inicio": "19/09/2026 12:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,16 +378,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 12:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -658,6 +658,26 @@
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 07:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 08:00",
+      "imo": "1047512",
+      "navio": "PACIFIC VIRTUE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
