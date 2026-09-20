@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T02:24:16.065Z",
+  "updatedAt": "2026-09-20T02:25:21.584Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -112,11 +112,31 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 06:00",
-      "imo": "1019905",
-      "navio": "BRAM RIO",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
+      "imo": "9484780",
+      "navio": "ISLAND ENFORCER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -142,42 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 06:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 06:00",
       "imo": "9410882",
       "navio": "KALAHARI",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
-      "imo": "9484780",
-      "navio": "ISLAND ENFORCER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 06:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,16 +188,6 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 07:00",
-      "imo": "9763772",
-      "navio": "STIM STAR BRASIL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -221,13 +211,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 07:30",
-      "imo": "9654971",
-      "navio": "BESIKTAS GH",
-      "tipo": "SAÍDA",
-      "de": "TPBK - BRASKEM",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "inicio": "19/09/2026 07:00",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +228,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 07:30",
+      "imo": "9654971",
+      "navio": "BESIKTAS GH",
+      "tipo": "SAÍDA",
+      "de": "TPBK - BRASKEM",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,6 +292,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 09:00",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 09:00",
       "imo": "9727625",
       "navio": "CAPE SOUNIO",
       "tipo": "ENTRADA",
@@ -301,9 +311,9 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 09:00",
-      "imo": "9703631",
-      "navio": "BRAM TITAN",
+      "inicio": "19/09/2026 10:00",
+      "imo": "9530199",
+      "navio": "SANTOS SERVICE",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -318,16 +328,6 @@
       "de": "-",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 10:00",
-      "imo": "9530199",
-      "navio": "SANTOS SERVICE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,16 +392,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 13:00",
-      "imo": "9687368",
-      "navio": "BRAM BOA VISTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 13:00",
       "imo": "9814961",
       "navio": "SEALOADER 1",
       "tipo": "ENTRADA",
@@ -421,13 +411,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 14:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "2N07 - Pátio 8/9",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "19/09/2026 13:00",
+      "imo": "9687368",
+      "navio": "BRAM BOA VISTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,6 +428,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 14:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -492,6 +492,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 18:00",
+      "imo": "9618305",
+      "navio": "MSC ATHENS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 18:00",
       "imo": "9683996",
       "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
       "tipo": "MUDANÇA",
@@ -508,16 +518,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 18:00",
-      "imo": "9618305",
-      "navio": "MSC ATHENS",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,16 +572,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/09/2026 22:00",
-      "imo": "9729362",
-      "navio": "DSI AQUILA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 22:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
@@ -591,13 +581,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/09/2026 23:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "19/09/2026 22:00",
+      "imo": "9729362",
+      "navio": "DSI AQUILA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -611,6 +601,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/09/2026 23:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 00:00",
       "imo": "9768083",
       "navio": "MARINA I",
@@ -618,6 +618,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 01:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,22 +652,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 06:00",
-      "imo": "9573103",
-      "navio": "P.S. PALIOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 06:00",
       "imo": "9484780",
       "navio": "ISLAND ENFORCER (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 06:00",
+      "imo": "9573103",
+      "navio": "P.S. PALIOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -758,6 +768,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 18:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
