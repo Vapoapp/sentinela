@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:05:22.200Z",
+  "updatedAt": "2026-09-20T19:06:19.456Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "-",
       "para": "301 - TECON - SEPETIBA TECON S.A.",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/09/2026 07:00",
+      "imo": "9614892",
+      "navio": "CHENG FENG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
