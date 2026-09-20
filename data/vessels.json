@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-20T02:33:17.256Z",
+  "updatedAt": "2026-09-20T02:34:18.404Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -662,22 +662,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 06:00",
-      "imo": "9644158",
-      "navio": "ZARAPITO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 06:00",
       "imo": "9573103",
       "navio": "P.S. PALIOS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 06:00",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 09:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
