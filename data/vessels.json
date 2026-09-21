@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T00:16:15.826Z",
+  "updatedAt": "2026-09-21T00:17:19.323Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/09/2026 16:00",
+      "imo": "9253208",
+      "navio": "GRANDE SAN PAOLO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/09/2026 16:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "ENTRADA",
@@ -458,16 +468,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/09/2026 16:00",
-      "imo": "9253208",
-      "navio": "GRANDE SAN PAOLO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,16 +612,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 10:00",
-      "imo": "9731951",
-      "navio": "COSCO SHIPPING RHINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 10:00",
       "imo": "9529994",
       "navio": "ROGER WHITE",
       "tipo": "SAÍDA",
@@ -631,12 +621,42 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 10:00",
+      "imo": "9731951",
+      "navio": "COSCO SHIPPING RHINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 13:00",
       "imo": "9867619",
       "navio": "AITOLOS",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 17:00",
+      "imo": "9529994",
+      "navio": "ROGER WHITE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 20:00",
+      "imo": "1019773",
+      "navio": "AEGEAN C",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
