@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T11:57:16.516Z",
+  "updatedAt": "2026-09-21T11:58:54.194Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 10:00",
+      "imo": "9529994",
+      "navio": "ROGER WHITE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 10:00",
       "imo": "9703667",
       "navio": "BRAM HERO",
       "tipo": "ENTRADA",
@@ -241,23 +251,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 10:00",
+      "inicio": "21/09/2026 10:30",
       "imo": "9731951",
       "navio": "COSCO SHIPPING RHINE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 10:00",
-      "imo": "9529994",
-      "navio": "ROGER WHITE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
