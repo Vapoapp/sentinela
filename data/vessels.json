@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T20:49:18.538Z",
+  "updatedAt": "2026-09-21T20:50:25.474Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -542,22 +542,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 19:00",
-      "imo": "9329801",
-      "navio": "SSI BRAVE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "GL7 SHIPPING AG. MAR. E REPR. INTERNACIONAIS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 19:00",
       "imo": "9484780",
       "navio": "ISLAND ENFORCER (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 19:00",
+      "imo": "9329801",
+      "navio": "SSI BRAVE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "GL7 SHIPPING AG. MAR. E REPR. INTERNACIONAIS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -602,16 +602,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 06:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 06:00",
       "imo": "9274329",
       "navio": "STOLT VISION",
       "tipo": "ENTRADA",
@@ -628,6 +618,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 06:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -708,6 +708,16 @@
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 18:00",
+      "imo": "9372810",
+      "navio": "POLARIS LEADER",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Niterói",
