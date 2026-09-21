@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T19:39:19.518Z",
+  "updatedAt": "2026-09-21T19:40:25.166Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -372,16 +372,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 14:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
-      "tipo": "MUDANÇA",
-      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 14:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "ENTRADA",
@@ -398,6 +388,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 14:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,8 +452,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 17:00",
-      "imo": "9529994",
-      "navio": "ROGER WHITE",
+      "imo": "9484780",
+      "navio": "ISLAND ENFORCER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -462,8 +462,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 17:00",
-      "imo": "9484780",
-      "navio": "ISLAND ENFORCER (REB)",
+      "imo": "9529994",
+      "navio": "ROGER WHITE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -598,6 +598,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 10:30",
+      "imo": "9624299",
+      "navio": "MAERSK KARUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
