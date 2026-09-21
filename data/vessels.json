@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T00:53:16.237Z",
+  "updatedAt": "2026-09-21T00:54:15.999Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -711,16 +711,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "21/09/2026 06:30",
-      "imo": "9620669",
-      "navio": "SLOMAN DISCOVERER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "301 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "21/09/2026 07:00",
       "imo": "9614892",
       "navio": "CHENG FENG",
@@ -778,6 +768,16 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/09/2026 19:00",
+      "imo": "9620669",
+      "navio": "SLOMAN DISCOVERER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     }
   ]
 }
