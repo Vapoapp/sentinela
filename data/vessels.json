@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T13:26:15.947Z",
+  "updatedAt": "2026-09-21T13:27:18.574Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 08:30",
-      "imo": "9572240",
-      "navio": "NORSUL RIO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 08:30",
       "imo": "9610602",
       "navio": "BRAM BRASIL",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 08:30",
+      "imo": "9572240",
+      "navio": "NORSUL RIO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 12:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "21/09/2026 11:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +308,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 12:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
