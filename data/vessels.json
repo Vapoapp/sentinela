@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T12:55:22.579Z",
+  "updatedAt": "2026-09-21T12:56:17.242Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -82,21 +82,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 06:00",
-      "imo": "9439620",
-      "navio": "RICHLAND NEWCASTLE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 06:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 06:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 06:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9439620",
+      "navio": "RICHLAND NEWCASTLE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +178,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 08:30",
+      "imo": "9572240",
+      "navio": "NORSUL RIO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
