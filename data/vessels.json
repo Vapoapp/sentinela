@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T20:47:19.241Z",
+  "updatedAt": "2026-09-21T20:48:19.435Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -608,6 +608,16 @@
       "de": "-",
       "para": "TPPT - NEOLUBES",
       "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 06:00",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "SAÍDA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
