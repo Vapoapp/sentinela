@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T17:12:19.319Z",
+  "updatedAt": "2026-09-21T17:14:22.123Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -461,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 18:30",
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 20:00",
       "imo": "1019773",
       "navio": "AEGEAN C",
@@ -478,16 +488,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 04:00",
-      "imo": "1015375",
-      "navio": "SINAR SUMATERA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
