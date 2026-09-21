@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T16:38:19.248Z",
+  "updatedAt": "2026-09-21T16:39:18.695Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -82,36 +82,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 06:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 06:00",
-      "imo": "9763772",
-      "navio": "STIM STAR BRASIL",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 06:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 06:00",
       "imo": "9439620",
       "navio": "RICHLAND NEWCASTLE",
       "tipo": "SAÍDA",
@@ -131,13 +101,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 07:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "21/09/2026 06:00",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 06:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 06:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +138,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 07:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 08:30",
-      "imo": "9784661",
-      "navio": "MERCOSUL FORTALEZA (CNC LION) (REB)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 08:30",
       "imo": "9572240",
       "navio": "NORSUL RIO (REB)",
       "tipo": "ENTRADA",
@@ -211,22 +201,22 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 08:30",
+      "imo": "9784661",
+      "navio": "MERCOSUL FORTALEZA (CNC LION) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 09:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "MUDANÇA",
       "de": "2PAL - Terminal Petrobras AL",
       "para": "NIT - ATRACADO NITERÓI",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 09:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -247,6 +237,16 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 09:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -308,6 +308,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 11:30",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +388,16 @@
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "2N16 - Armazém 16",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 15:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
