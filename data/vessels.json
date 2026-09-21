@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T19:31:16.849Z",
+  "updatedAt": "2026-09-21T19:32:21.911Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 10:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 10:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "MUDANÇA",
@@ -291,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 10:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 10:30",
       "imo": "9731951",
       "navio": "COSCO SHIPPING RHINE",
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 11:30",
-      "imo": "9382229",
-      "navio": "NORTH OCEAN 102",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 11:30",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 11:30",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 14:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 14:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
@@ -408,6 +418,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 15:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
