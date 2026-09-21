@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-21T18:27:22.750Z",
+  "updatedAt": "2026-09-21T18:28:17.017Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -402,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/09/2026 16:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/09/2026 16:00",
       "imo": "9789726",
       "navio": "MANTA BEYOGLU",
       "tipo": "SAÍDA",
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 16:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -458,6 +458,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 18:00",
+      "imo": "9680774",
+      "navio": "VEGA CHASER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
