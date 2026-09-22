@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T13:52:18.219Z",
+  "updatedAt": "2026-09-22T13:53:20.295Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -151,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 07:30",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N05 - Armazém 6",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 08:00",
       "imo": "9423229",
       "navio": "ELIZABETH C",
@@ -278,6 +288,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 11:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESAL - ESTALEIRO ALIANÇA",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
