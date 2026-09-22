@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T21:25:22.129Z",
+  "updatedAt": "2026-09-22T21:26:16.310Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 19:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
