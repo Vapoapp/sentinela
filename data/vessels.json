@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:12:20.595Z",
+  "updatedAt": "2026-09-22T17:13:19.522Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -461,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 00:00",
+      "imo": "9313931",
+      "navio": "MSC INIYA V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 06:00",
       "imo": "9624299",
       "navio": "MAERSK KARUN",
@@ -478,16 +488,6 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 09:00",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
