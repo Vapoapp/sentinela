@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T22:02:18.928Z",
+  "updatedAt": "2026-09-22T22:03:16.317Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -312,12 +312,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 12:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 12:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 15:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 15:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
@@ -421,12 +431,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 15:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS2 - PETROBRAS PS2",
+      "inicio": "22/09/2026 15:30",
+      "imo": "9865740",
+      "navio": "TWEED",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -438,16 +448,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 15:30",
-      "imo": "9865740",
-      "navio": "TWEED",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,6 +502,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 18:00",
+      "imo": "9372810",
+      "navio": "POLARIS LEADER",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 18:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "MUDANÇA",
@@ -521,13 +531,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 18:00",
-      "imo": "9372810",
-      "navio": "POLARIS LEADER",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "inicio": "22/09/2026 19:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,16 +548,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 19:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -622,22 +622,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 06:00",
-      "imo": "9624299",
-      "navio": "MAERSK KARUN",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 06:00",
       "imo": "9672636",
       "navio": "HOS BRASS RING",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 06:00",
+      "imo": "9624299",
+      "navio": "MAERSK KARUN",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -668,6 +668,16 @@
       "de": "-",
       "para": "2N06 - Armazém 7",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 12:00",
+      "imo": "9418042",
+      "navio": "SKANDI JUPITER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
