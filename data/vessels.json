@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:04:19.358Z",
+  "updatedAt": "2026-09-22T05:05:23.303Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "ESCD - ESTALEIRO CODEPE",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "22/09/2026 08:00",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Itaguaí",
