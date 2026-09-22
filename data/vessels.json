@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T22:03:16.317Z",
+  "updatedAt": "2026-09-22T22:04:20.329Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 06:00",
+      "imo": "9630705",
+      "navio": "ATLAS Z",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
