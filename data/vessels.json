@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T08:14:19.074Z",
+  "updatedAt": "2026-09-22T08:15:23.986Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -327,6 +327,16 @@
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 07:00",
+      "imo": "9348065",
+      "navio": "MAERSK MONTE ALEGRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
