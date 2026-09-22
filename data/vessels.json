@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:13:18.146Z",
+  "updatedAt": "2026-09-22T04:14:16.754Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,16 +341,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "22/09/2026 08:30",
-      "imo": "1032347",
-      "navio": "MOUNT KITA",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "22/09/2026 11:30",
       "imo": "9660358",
       "navio": "AMAZON VICTORY",
@@ -388,6 +378,16 @@
       "de": "Fundeio - 5FB1 - Área de Fundeio B1",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "22/09/2026 18:00",
+      "imo": "1032347",
+      "navio": "MOUNT KITA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
