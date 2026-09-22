@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T13:15:24.162Z",
+  "updatedAt": "2026-09-22T13:16:19.424Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 05:00",
-      "imo": "9788459",
-      "navio": "MR ALDO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 05:00",
       "imo": "9680786",
       "navio": "VEGA CHALLENGER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 05:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,26 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 09:00",
-      "imo": "9578880",
-      "navio": "CBO FLAMENGO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 09:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 09:00",
       "imo": "9423231",
       "navio": "CAMPOS CHALLENGER",
       "tipo": "SAÍDA",
@@ -218,6 +198,26 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 09:00",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 09:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +238,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 10:30",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
