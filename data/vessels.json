@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T12:03:21.525Z",
+  "updatedAt": "2026-09-22T12:04:17.710Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -258,6 +258,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 11:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
