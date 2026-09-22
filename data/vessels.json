@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T00:43:16.595Z",
+  "updatedAt": "2026-09-22T00:44:23.014Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/09/2026 22:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
