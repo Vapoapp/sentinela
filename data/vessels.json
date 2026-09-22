@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T18:17:21.399Z",
+  "updatedAt": "2026-09-22T18:18:20.305Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 15:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 15:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
@@ -421,12 +431,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 15:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS2 - PETROBRAS PS2",
+      "inicio": "22/09/2026 15:30",
+      "imo": "9865740",
+      "navio": "TWEED",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -438,16 +448,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 15:30",
-      "imo": "9865740",
-      "navio": "TWEED",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 05:30",
+      "imo": "9706956",
+      "navio": "SKANDI OLINDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
