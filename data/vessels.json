@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T18:42:20.535Z",
+  "updatedAt": "2026-09-22T18:43:17.206Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 06:00",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
