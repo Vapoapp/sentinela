@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T18:38:19.081Z",
+  "updatedAt": "2026-09-22T18:39:17.687Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 08:00",
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
