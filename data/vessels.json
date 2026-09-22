@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T12:43:17.201Z",
+  "updatedAt": "2026-09-22T12:44:20.305Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 09:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 09:00",
       "imo": "9578880",
       "navio": "CBO FLAMENGO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 09:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 16:30",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
