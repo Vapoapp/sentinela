@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-22T01:18:21.618Z",
+  "updatedAt": "2026-09-22T01:19:18.887Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 05:00",
+      "imo": "9680786",
+      "navio": "VEGA CHALLENGER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
     },
     {
       "porto": "Rio de Janeiro",
