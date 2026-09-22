@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:48:20.242Z",
+  "updatedAt": "2026-09-22T16:51:00.459Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -391,6 +391,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 14:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 15:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
@@ -428,16 +438,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 16:30",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
