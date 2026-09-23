@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T01:47:15.824Z",
+  "updatedAt": "2026-09-23T01:48:17.986Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "itaguai": {
       "ok": true,
@@ -898,6 +898,16 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/09/2026 08:00",
+      "imo": "9237955",
+      "navio": "OCEANICASUB VI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Itaguaí",
