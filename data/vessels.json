@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T13:15:25.714Z",
+  "updatedAt": "2026-09-23T13:16:17.624Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 06:00",
+      "imo": "9274329",
+      "navio": "STOLT VISION",
+      "tipo": "MUDANÇA",
+      "de": "TPPT - NEOLUBES",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
