@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T19:34:17.650Z",
+  "updatedAt": "2026-09-23T19:35:20.677Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -498,6 +498,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 15:30",
+      "imo": "9493145",
+      "navio": "GOLDENGATE PARK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
