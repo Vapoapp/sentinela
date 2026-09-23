@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:19:18.057Z",
+  "updatedAt": "2026-09-23T18:20:27.030Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -557,6 +557,16 @@
       "tipo": "SAÍDA",
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/09/2026 03:00",
+      "imo": "9437696",
+      "navio": "CAPE PYLOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB2 - Área de Fundeio B2",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
