@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T13:12:19.015Z",
+  "updatedAt": "2026-09-23T13:13:19.184Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 13:00",
+      "imo": "9463322",
+      "navio": "JULIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 13:00",
       "imo": "9098309",
       "navio": "LH COMANDANTE",
       "tipo": "SAÍDA",
@@ -282,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 13:00",
-      "imo": "9463322",
-      "navio": "JULIUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
