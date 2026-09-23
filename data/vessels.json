@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:04:22.620Z",
+  "updatedAt": "2026-09-23T18:05:25.745Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/09/2026 13:30",
+      "imo": "3840167159",
+      "navio": "OCEAN ROUTE",
+      "tipo": "MUDANÇA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
