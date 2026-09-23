@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T20:28:18.825Z",
+  "updatedAt": "2026-09-23T20:29:17.776Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -321,13 +321,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 17:00",
-      "imo": "9672636",
-      "navio": "HOS BRASS RING",
-      "tipo": "SAÍDA",
-      "de": "ESPR - MacLaren Ilha da Conceição",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "inicio": "23/09/2026 16:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +348,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 17:00",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "SAÍDA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,16 +442,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
-      "imo": "9232890",
-      "navio": "MSC ENGLAND",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 08:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 08:00",
+      "imo": "9232890",
+      "navio": "MSC ENGLAND",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
