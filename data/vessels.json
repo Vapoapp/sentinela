@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T20:08:17.387Z",
+  "updatedAt": "2026-09-23T20:09:20.627Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -641,22 +641,22 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "24/09/2026 16:00",
-      "imo": "9951953",
-      "navio": "BERGE HALEAKALA",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "24/09/2026 17:30",
       "imo": "9420564",
       "navio": "JOHN JUNIOR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB1 - Área de Fundeio B1",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/09/2026 18:00",
+      "imo": "9951953",
+      "navio": "BERGE HALEAKALA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
