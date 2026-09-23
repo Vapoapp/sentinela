@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-23T02:47:18.067Z",
+  "updatedAt": "2026-09-23T02:48:17.022Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -82,22 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 05:00",
-      "imo": "9788459",
-      "navio": "MR ALDO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 05:00",
       "imo": "9680786",
       "navio": "VEGA CHALLENGER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 05:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,10 +162,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 08:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "imo": "9423229",
+      "navio": "ELIZABETH C",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -182,12 +182,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 08:00",
-      "imo": "9423229",
-      "navio": "ELIZABETH C",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 09:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 09:00",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -211,26 +231,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 09:00",
-      "imo": "9578880",
-      "navio": "CBO FLAMENGO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 09:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 09:30",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
@@ -248,6 +248,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 10:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,10 +382,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 14:00",
-      "imo": "9763772",
-      "navio": "STIM STAR BRASIL",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
       "tipo": "SAÍDA",
-      "de": "NIT - ATRACADO NITERÓI",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -392,10 +402,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 14:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -502,16 +512,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/09/2026 18:00",
-      "imo": "9372810",
-      "navio": "POLARIS LEADER",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/09/2026 18:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "MUDANÇA",
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 18:00",
+      "imo": "9372810",
+      "navio": "POLARIS LEADER",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -651,6 +661,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/09/2026 23:30",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 00:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
@@ -681,6 +701,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 01:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 05:30",
       "imo": "9706956",
       "navio": "SKANDI OLINDA",
@@ -688,6 +718,16 @@
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 06:00",
+      "imo": "9624299",
+      "navio": "MAERSK KARUN",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -711,16 +751,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 06:00",
-      "imo": "9624299",
-      "navio": "MAERSK KARUN",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 07:00",
       "imo": "9348065",
       "navio": "MAERSK MONTE ALEGRE",
@@ -737,6 +767,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 07:30",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
