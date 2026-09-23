@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:41:16.234Z",
+  "updatedAt": "2026-09-23T11:42:18.143Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -171,16 +171,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 07:00",
-      "imo": "9348065",
-      "navio": "MAERSK MONTE ALEGRE",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 07:15",
       "imo": "9208447",
       "navio": "C-AMBASSADOR (REB)",
@@ -228,6 +218,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "COASTAL OFFSHORE LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 08:30",
+      "imo": "9348065",
+      "navio": "MAERSK MONTE ALEGRE",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
