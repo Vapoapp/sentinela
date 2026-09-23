@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:42:18.143Z",
+  "updatedAt": "2026-09-23T11:43:15.937Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -271,6 +271,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 12:00",
+      "imo": "9484998",
+      "navio": "YM MILESTONE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 13:00",
       "imo": "9463322",
       "navio": "JULIUS",
@@ -288,16 +298,6 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/09/2026 14:00",
-      "imo": "9484998",
-      "navio": "YM MILESTONE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
