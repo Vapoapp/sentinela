@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:19:19.807Z",
+  "updatedAt": "2026-09-24T17:20:26.066Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -362,16 +362,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 13:30",
-      "imo": "9232890",
-      "navio": "MSC ENGLAND",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 13:30",
       "imo": "9706956",
       "navio": "SKANDI OLINDA",
       "tipo": "SAÍDA",
@@ -382,12 +372,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "imo": "9463322",
+      "navio": "JULIUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01N - Visita Norte",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
-      "imo": "9463322",
-      "navio": "JULIUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01N - Visita Norte",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +438,16 @@
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 16:00",
+      "imo": "9232890",
+      "navio": "MSC ENGLAND",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
