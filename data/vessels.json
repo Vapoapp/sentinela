@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:50:29.308Z",
+  "updatedAt": "2026-09-24T17:51:18.893Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -431,16 +431,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 16:30",
-      "imo": "9778088",
-      "navio": "MSC MADHU B",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 17:00",
       "imo": "9230830",
       "navio": "C-ATLAS (REB)",
@@ -562,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
+      "imo": "9361770",
+      "navio": "NORMAND FERKING (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 08:00",
       "imo": "9778088",
       "navio": "MSC MADHU B",
       "tipo": "SAÍDA",
@@ -571,13 +571,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 08:00",
-      "imo": "9361770",
-      "navio": "NORMAND FERKING (REB)",
+      "inicio": "25/09/2026 09:00",
+      "imo": "9778088",
+      "navio": "MSC MADHU B",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
