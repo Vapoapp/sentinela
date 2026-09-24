@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T11:36:19.045Z",
+  "updatedAt": "2026-09-24T11:37:19.521Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 08:00",
       "imo": "9639452",
       "navio": "ZHI YUAN KOU",
       "tipo": "ENTRADA",
@@ -162,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
+      "imo": "9232890",
+      "navio": "MSC ENGLAND",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 08:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
@@ -171,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 08:00",
-      "imo": "9232890",
-      "navio": "MSC ENGLAND",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "24/09/2026 09:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +258,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 12:30",
+      "imo": "9440978",
+      "navio": "THOR COURAGE",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
