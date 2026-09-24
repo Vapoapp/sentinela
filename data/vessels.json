@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T23:56:16.944Z",
+  "updatedAt": "2026-09-24T23:57:17.172Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 13:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 13:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 13:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 22:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
@@ -582,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 23:00",
-      "imo": "9459981",
-      "navio": "RUDDY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N09 - Armazém 10",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 23:00",
       "imo": "9797266",
       "navio": "ATLANTIC PRIDE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 23:00",
+      "imo": "9459981",
+      "navio": "RUDDY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
