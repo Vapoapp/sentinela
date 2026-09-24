@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T00:42:17.720Z",
+  "updatedAt": "2026-09-24T00:43:17.320Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -421,6 +421,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 21:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/09/2026 21:30",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
@@ -492,12 +502,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
-      "imo": "9232890",
-      "navio": "MSC ENGLAND",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "imo": "9639452",
+      "navio": "ZHI YUAN KOU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,12 +522,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
-      "imo": "9639452",
-      "navio": "ZHI YUAN KOU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9232890",
+      "navio": "MSC ENGLAND",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
