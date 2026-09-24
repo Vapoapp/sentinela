@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:04:21.091Z",
+  "updatedAt": "2026-09-24T19:05:24.842Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "-",
       "para": "Fundeio - 5FB4 - Área de Fundeio B4",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/09/2026 08:00",
+      "imo": "9966245",
+      "navio": "CAPT G",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
