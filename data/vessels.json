@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T08:30:29.561Z",
+  "updatedAt": "2026-09-24T08:31:17.413Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -61,6 +61,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 05:30",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 06:00",
       "imo": "9466099",
       "navio": "PARCEL DO BADEJO (REB)",
@@ -112,16 +122,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 07:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 07:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS",
       "tipo": "SAÍDA",
@@ -138,6 +138,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "TPBR - BRASCO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 07:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 13:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 13:00",
       "imo": "9440978",
       "navio": "THOR COURAGE",
       "tipo": "MUDANÇA",
       "de": "2N08 - Pátio 9",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 13:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
