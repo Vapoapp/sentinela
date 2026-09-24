@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T22:24:19.414Z",
+  "updatedAt": "2026-09-24T22:25:21.914Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 67
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -488,6 +488,16 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 19:00",
+      "imo": "9230830",
+      "navio": "C-ATLAS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
