@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:51:18.893Z",
+  "updatedAt": "2026-09-24T17:52:22.175Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -561,16 +561,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 08:00",
-      "imo": "9778088",
-      "navio": "MSC MADHU B",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 09:00",
       "imo": "9778088",
       "navio": "MSC MADHU B",
@@ -588,6 +578,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 04:30",
+      "imo": "9778088",
+      "navio": "MSC MADHU B",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
