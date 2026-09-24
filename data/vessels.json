@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T22:11:15.798Z",
+  "updatedAt": "2026-09-24T22:12:16.717Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 14:00",
       "imo": "9463322",
       "navio": "JULIUS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01N - Visita Norte",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 14:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,8 +452,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 18:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -462,8 +462,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 18:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -498,6 +498,16 @@
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
