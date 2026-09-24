@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T18:47:25.322Z",
+  "updatedAt": "2026-09-24T18:48:20.640Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -788,6 +788,16 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/09/2026 19:00",
+      "imo": "9614892",
+      "navio": "CHENG FENG",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
