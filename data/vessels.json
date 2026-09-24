@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-24T00:56:17.799Z",
+  "updatedAt": "2026-09-24T00:57:14.971Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/09/2026 22:30",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
