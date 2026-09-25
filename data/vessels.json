@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:05:22.449Z",
+  "updatedAt": "2026-09-25T12:06:20.358Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "-",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/09/2026 19:00",
+      "imo": "9463322",
+      "navio": "JULIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
