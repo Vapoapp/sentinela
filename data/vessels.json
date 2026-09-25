@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T18:50:24.424Z",
+  "updatedAt": "2026-09-25T18:51:18.697Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -362,16 +362,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "1081843",
-      "navio": "KOTA ELAN",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 12:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
@@ -388,6 +378,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 12:00",
+      "imo": "1081843",
+      "navio": "KOTA ELAN",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -488,6 +488,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 18:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
