@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T13:32:18.213Z",
+  "updatedAt": "2026-09-25T13:33:16.766Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -448,6 +448,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 13:00",
+      "imo": "9729362",
+      "navio": "DSI AQUILA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
