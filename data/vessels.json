@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:58:19.390Z",
+  "updatedAt": "2026-09-25T12:59:20.036Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/09/2026 16:00",
+      "imo": "9875331",
+      "navio": "DRAFTZILLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     },
     {
       "porto": "Itaguaí",
