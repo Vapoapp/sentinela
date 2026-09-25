@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T13:33:16.766Z",
+  "updatedAt": "2026-09-25T13:34:17.798Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -102,16 +102,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 04:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 04:00",
       "imo": "9440679",
       "navio": "PETREL",
       "tipo": "SAÍDA",
@@ -127,6 +117,16 @@
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 04:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 07:30",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 07:30",
       "imo": "9670262",
       "navio": "C CABEDELO",
       "tipo": "SAÍDA",
@@ -251,23 +261,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 07:30",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
-      "imo": "9361770",
-      "navio": "NORMAND FERKING (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
-      "imo": "9417359",
-      "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9361770",
+      "navio": "NORMAND FERKING (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "9413810",
-      "navio": "SKANDI ACHIEVER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 12:00",
       "imo": "1081843",
       "navio": "KOTA ELAN",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 12:00",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +448,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 13:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
