@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T17:10:23.761Z",
+  "updatedAt": "2026-09-25T17:11:19.919Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
-      "imo": "9417359",
-      "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 08:00",
       "imo": "9387231",
       "navio": "SKANDI VITORIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N10 - Terminal de Trigo",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 08:00",
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -431,6 +431,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 14:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 14:30",
       "imo": "9492127",
       "navio": "SAO SEBASTIAO",
@@ -468,6 +478,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 01:00",
+      "imo": "9928188",
+      "navio": "MAERSK ACADIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
