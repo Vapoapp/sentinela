@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T18:17:18.736Z",
+  "updatedAt": "2026-09-25T18:18:17.631Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -302,21 +302,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 10:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 10:00",
       "imo": "9756951",
       "navio": "BS UBATUBA",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 10:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
@@ -498,6 +498,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 04:30",
+      "imo": "9355252",
+      "navio": "GRAND VEGA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
