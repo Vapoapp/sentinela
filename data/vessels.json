@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T23:47:16.843Z",
+  "updatedAt": "2026-09-25T23:48:16.565Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -588,6 +588,16 @@
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 01:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
