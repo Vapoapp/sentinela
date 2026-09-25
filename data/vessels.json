@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:02:19.784Z",
+  "updatedAt": "2026-09-25T12:03:17.107Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 18:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 04:30",
       "imo": "9778088",
       "navio": "MSC MADHU B",
@@ -428,16 +438,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/09/2026 18:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
