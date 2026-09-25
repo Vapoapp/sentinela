@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T01:45:23.521Z",
+  "updatedAt": "2026-09-25T01:46:18.550Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 83
     },
     "niteroi": {
       "ok": true,
@@ -62,22 +62,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 06:00",
-      "imo": "9466099",
-      "navio": "PARCEL DO BADEJO (REB)",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 06:00",
-      "imo": "9334179",
-      "navio": "CAPTAIN NICHOLAS Z",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "PATRIA NAVAL OPERACOES LTDA"
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -92,12 +82,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 06:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
+      "imo": "9334179",
+      "navio": "CAPTAIN NICHOLAS Z",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 06:00",
+      "imo": "9466099",
+      "navio": "PARCEL DO BADEJO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 08:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 08:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "MUDANÇA",
@@ -181,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 08:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "24/09/2026 09:00",
+      "imo": "9639452",
+      "navio": "ZHI YUAN KOU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,16 +218,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 09:00",
-      "imo": "9639452",
-      "navio": "ZHI YUAN KOU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 14:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 14:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,16 +552,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 22:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
       "tipo": "ENTRADA",
@@ -591,13 +581,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 23:00",
-      "imo": "9459981",
-      "navio": "RUDDY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N09 - Armazém 10",
-      "agente": "GEM SHIPPING LTDA"
+      "inicio": "24/09/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -608,6 +598,16 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 23:00",
+      "imo": "9459981",
+      "navio": "RUDDY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -808,6 +808,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 15:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
