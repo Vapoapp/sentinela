@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T00:47:18.256Z",
+  "updatedAt": "2026-09-25T00:48:17.636Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 21:00",
-      "imo": "1019773",
-      "navio": "AEGEAN C",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 21:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
       "tipo": "MUDANÇA",
       "de": "2N09 - Armazém 10",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 21:00",
+      "imo": "1019773",
+      "navio": "AEGEAN C",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 14:30",
+      "imo": "9492127",
+      "navio": "SAO SEBASTIAO",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
