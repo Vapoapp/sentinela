@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T22:29:18.763Z",
+  "updatedAt": "2026-09-25T22:30:29.074Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "1081843",
-      "navio": "KOTA ELAN",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 12:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 12:00",
+      "imo": "1081843",
+      "navio": "KOTA ELAN",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,12 +502,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 18:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,12 +522,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 18:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -601,6 +601,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 02:00",
+      "imo": "9326512",
+      "navio": "Aktea",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 04:30",
       "imo": "9355252",
       "navio": "GRAND VEGA",
@@ -668,6 +678,16 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 18:00",
+      "imo": "9928188",
+      "navio": "MAERSK ACADIA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
