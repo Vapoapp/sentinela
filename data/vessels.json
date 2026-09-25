@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:35:22.638Z",
+  "updatedAt": "2026-09-25T11:36:18.622Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -222,16 +222,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 07:00",
-      "imo": "1081843",
-      "navio": "KOTA ELAN",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 07:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "MUDANÇA",
@@ -318,6 +308,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 12:00",
+      "imo": "1081843",
+      "navio": "KOTA ELAN",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
