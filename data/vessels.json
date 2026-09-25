@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T01:26:19.081Z",
+  "updatedAt": "2026-09-25T01:27:18.861Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 14:00",
       "imo": "9463322",
       "navio": "JULIUS",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01N - Visita Norte",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 14:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 21:00",
-      "imo": "1019773",
-      "navio": "AEGEAN C",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 21:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
       "tipo": "MUDANÇA",
       "de": "2N09 - Armazém 10",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 21:00",
+      "imo": "1019773",
+      "navio": "AEGEAN C",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -611,6 +611,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 23:30",
+      "imo": "9263760",
+      "navio": "ABK TIGER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 00:00",
       "imo": "9418042",
       "navio": "SKANDI JUPITER",
@@ -662,20 +672,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 03:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
+      "imo": "3810289680",
+      "navio": "BS-8",
       "tipo": "MUDANÇA",
-      "de": "2N17 - Armazém 17",
+      "de": "2N16 - Armazém 16",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 03:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
       "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
+      "de": "2N17 - Armazém 17",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
