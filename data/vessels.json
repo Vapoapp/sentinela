@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T04:35:20.397Z",
+  "updatedAt": "2026-09-25T04:36:16.799Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -151,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 06:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 06:30",
       "imo": "9349370",
       "navio": "NORMAND COMMANDER (REB)",
@@ -258,6 +268,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 16:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
