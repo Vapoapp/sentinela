@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T01:57:24.989Z",
+  "updatedAt": "2026-09-25T01:58:16.727Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 85
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -552,16 +552,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 22:00",
       "imo": "8637926",
       "navio": "RIOPORT II",
       "tipo": "MUDANÇA",
@@ -582,6 +572,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 22:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
       "tipo": "ENTRADA",
@@ -592,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 23:00",
-      "imo": "9797266",
-      "navio": "ATLANTIC PRIDE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 23:00",
       "imo": "9459981",
       "navio": "RUDDY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N09 - Armazém 10",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 23:00",
+      "imo": "9797266",
+      "navio": "ATLANTIC PRIDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -728,6 +728,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 06:30",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
