@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T20:15:26.462Z",
+  "updatedAt": "2026-09-25T20:16:20.958Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -182,20 +182,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 06:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
       "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
+      "de": "2N17 - Armazém 17",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 06:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
+      "imo": "3810289680",
+      "navio": "BS-8",
       "tipo": "MUDANÇA",
-      "de": "2N17 - Armazém 17",
+      "de": "2N16 - Armazém 16",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 14:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 14:00",
       "imo": "9605231",
       "navio": "MSC DAKAR X",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 14:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +518,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 20:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
