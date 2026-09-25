@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-25T01:56:18.717Z",
+  "updatedAt": "2026-09-25T01:57:24.989Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 12:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 12:00",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 12:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,6 +362,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 14:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/09/2026 14:00",
       "imo": "9463322",
       "navio": "JULIUS",
       "tipo": "SAÍDA",
@@ -378,16 +388,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N03 - Terminal de Passageiros 2 - PIER MAUÁ S/A",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/09/2026 14:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,12 +552,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
-      "imo": "9710878",
-      "navio": "SEVEN RIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N09 - Armazém 10",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,12 +582,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/09/2026 22:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -748,6 +748,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 07:30",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
