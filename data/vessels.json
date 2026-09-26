@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T02:17:16.442Z",
+  "updatedAt": "2026-09-26T02:18:16.456Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -612,21 +612,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 22:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 22:00",
       "imo": "3813903095",
       "navio": "MARTIN LEME XXIX (EX-DOCKSHORE IV)",
       "tipo": "MUDANÇA",
       "de": "2N07 - Pátio 8/9",
       "para": "2N10 - Terminal de Trigo",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -722,6 +722,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 05:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 05:00",
       "imo": "9834624",
       "navio": "BLUE KRAKEN",
       "tipo": "ENTRADA",
@@ -731,13 +741,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/09/2026 05:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
+      "inicio": "26/09/2026 07:00",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
