@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T00:57:15.796Z",
+  "updatedAt": "2026-09-26T00:58:18.740Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -372,12 +372,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "9413810",
-      "navio": "SKANDI ACHIEVER (REB)",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 62 - 2F6A",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -611,6 +611,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 23:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
@@ -668,6 +678,16 @@
       "de": "-",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 09:30",
+      "imo": "9834636",
+      "navio": "BLUE PENGLAI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N11 - Armazém 13",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
