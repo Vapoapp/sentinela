@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T01:55:20.160Z",
+  "updatedAt": "2026-09-26T01:56:17.434Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -701,6 +701,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 04:00",
+      "imo": "9334179",
+      "navio": "CAPTAIN NICHOLAS Z",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "PATRIA NAVAL OPERACOES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 04:30",
       "imo": "9355252",
       "navio": "GRAND VEGA",
@@ -712,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 05:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/09/2026 05:00",
       "imo": "9834624",
       "navio": "BLUE KRAKEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N11 - Armazém 13",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 05:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
