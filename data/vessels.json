@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T00:20:25.304Z",
+  "updatedAt": "2026-09-26T00:21:52.257Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -162,12 +162,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 06:00",
-      "imo": "9440978",
-      "navio": "THOR COURAGE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,12 +182,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 06:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9440978",
+      "navio": "THOR COURAGE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,12 +262,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
-      "imo": "9361770",
-      "navio": "NORMAND FERKING (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9417359",
+      "navio": "SKANDI OLYMPIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 08:00",
-      "imo": "9417359",
-      "navio": "SKANDI OLYMPIA (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9361770",
+      "navio": "NORMAND FERKING (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 11:00",
-      "imo": "2412230048",
-      "navio": "SÃO TOMÉ",
-      "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 11:00",
       "imo": "9484998",
       "navio": "YM MILESTONE",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 11:00",
+      "imo": "2412230048",
+      "navio": "SÃO TOMÉ",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/09/2026 12:00",
-      "imo": "1081843",
-      "navio": "KOTA ELAN",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/09/2026 12:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/09/2026 12:00",
+      "imo": "1081843",
+      "navio": "KOTA ELAN",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +688,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 14:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
