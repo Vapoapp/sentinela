@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-26T23:22:21.734Z",
+  "updatedAt": "2026-09-26T23:23:16.595Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -392,26 +392,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 16:00",
-      "imo": "9596832",
-      "navio": "DARCY RIBEIRO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/09/2026 16:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/09/2026 16:00",
       "imo": "9098309",
       "navio": "LH COMANDANTE",
       "tipo": "SAÍDA",
@@ -428,6 +408,26 @@
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 16:00",
+      "imo": "9596832",
+      "navio": "DARCY RIBEIRO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 16:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -511,6 +511,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 21:30",
+      "imo": "9232852",
+      "navio": "S.ARAS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/09/2026 23:50",
       "imo": "3813885305",
       "navio": "C NITERÓI",
@@ -522,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 00:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 00:00",
       "imo": "9644146",
       "navio": "ALCATRAZ",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 00:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
