@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T10:31:16.014Z",
+  "updatedAt": "2026-09-27T10:32:17.739Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 07:00",
+      "imo": "9729362",
+      "navio": "DSI AQUILA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 07:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "ENTRADA",
@@ -161,13 +171,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 07:00",
-      "imo": "9729362",
-      "navio": "DSI AQUILA",
+      "inicio": "27/09/2026 07:20",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
