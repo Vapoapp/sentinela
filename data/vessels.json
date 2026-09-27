@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T22:11:18.107Z",
+  "updatedAt": "2026-09-27T22:12:17.722Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "NIT - ATRACADO NITERÓI",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 22:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
