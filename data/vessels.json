@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T03:10:22.952Z",
+  "updatedAt": "2026-09-27T03:11:16.171Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 12:00",
+      "imo": "9785457",
+      "navio": "MSC RAYSHMI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
