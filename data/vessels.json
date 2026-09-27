@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T09:11:16.965Z",
+  "updatedAt": "2026-09-27T09:12:17.828Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -111,6 +111,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 03:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 04:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 04:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
@@ -132,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 07:00",
-      "imo": "9729362",
-      "navio": "DSI AQUILA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 07:00",
       "imo": "9702754",
       "navio": "SAPURA JADE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 07:00",
+      "imo": "9729362",
+      "navio": "DSI AQUILA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
