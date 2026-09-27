@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T22:10:23.801Z",
+  "updatedAt": "2026-09-27T22:11:18.107Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -252,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 12:00",
-      "imo": "9605231",
-      "navio": "MSC DAKAR X",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 12:00",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 12:00",
+      "imo": "9605231",
+      "navio": "MSC DAKAR X",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,16 +362,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 16:00",
-      "imo": "9618757",
-      "navio": "MAR LIMPO II",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 16:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
@@ -388,6 +378,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 16:00",
+      "imo": "9618757",
+      "navio": "MAR LIMPO II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -408,6 +408,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 17:30",
+      "imo": "9639452",
+      "navio": "ZHI YUAN KOU",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F11 - AF Boa Viagem",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
