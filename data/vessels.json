@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T17:43:16.486Z",
+  "updatedAt": "2026-09-27T17:44:56.228Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 13:00",
+      "imo": "9797266",
+      "navio": "ATLANTIC PRIDE",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 13:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "SAÍDA",
@@ -292,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 13:00",
-      "imo": "9797266",
-      "navio": "ATLANTIC PRIDE",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
