@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T13:48:18.688Z",
+  "updatedAt": "2026-09-27T13:49:17.024Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -242,6 +242,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 12:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 12:00",
       "imo": "9605231",
       "navio": "MSC DAKAR X",
       "tipo": "SAÍDA",
@@ -262,16 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 13:00",
-      "imo": "9797266",
-      "navio": "ATLANTIC PRIDE",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 13:00",
       "imo": "9387231",
       "navio": "SKANDI VITORIA",
       "tipo": "SAÍDA",
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 13:00",
+      "imo": "9797266",
+      "navio": "ATLANTIC PRIDE",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
