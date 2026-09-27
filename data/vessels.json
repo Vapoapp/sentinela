@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T12:38:18.672Z",
+  "updatedAt": "2026-09-27T12:39:19.371Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -201,6 +201,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 09:30",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 10:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 11:00",
       "imo": "9715737",
       "navio": "STARNAV ANDROMEDA",
@@ -242,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 13:00",
+      "imo": "9797266",
+      "navio": "ATLANTIC PRIDE",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 13:00",
       "imo": "9387231",
       "navio": "SKANDI VITORIA",
       "tipo": "SAÍDA",
@@ -258,16 +288,6 @@
       "de": "-",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 13:00",
-      "imo": "9797266",
-      "navio": "ATLANTIC PRIDE",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 16:00",
-      "imo": "9519119",
-      "navio": "BRASILIA HIGHWAY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 16:00",
       "imo": "9630420",
       "navio": "XIAMEN EXPRESS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 16:00",
+      "imo": "9519119",
+      "navio": "BRASILIA HIGHWAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
