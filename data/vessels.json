@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T03:12:18.467Z",
+  "updatedAt": "2026-09-27T03:13:18.465Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 07:00",
+      "imo": "9702754",
+      "navio": "SAPURA JADE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 07:00",
       "imo": "9729362",
       "navio": "DSI AQUILA",
       "tipo": "SAÍDA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 12:00",
-      "imo": "9785457",
-      "navio": "MSC RAYSHMI",
+      "inicio": "27/09/2026 07:30",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -118,6 +128,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 12:00",
+      "imo": "9785457",
+      "navio": "MSC RAYSHMI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
