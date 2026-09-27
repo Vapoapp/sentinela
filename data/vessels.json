@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T00:25:20.025Z",
+  "updatedAt": "2026-09-27T00:26:17.507Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/09/2026 01:00",
+      "imo": "9232852",
+      "navio": "S.ARAS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Rio de Janeiro",
