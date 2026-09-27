@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T03:08:17.175Z",
+  "updatedAt": "2026-09-27T03:09:17.388Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 16:00",
+      "imo": "9519119",
+      "navio": "BRASILIA HIGHWAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
