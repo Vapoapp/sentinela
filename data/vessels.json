@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T03:05:20.076Z",
+  "updatedAt": "2026-09-27T03:06:16.973Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 5
+      "count": 8
     },
     "niteroi": {
       "ok": true,
@@ -61,6 +61,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 13:00",
+      "imo": "9797266",
+      "navio": "ATLANTIC PRIDE",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 14:00",
       "imo": "9539494",
       "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
@@ -68,6 +78,26 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 15:30",
+      "imo": "9493145",
+      "navio": "GOLDENGATE PARK",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 17:30",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Niterói",
