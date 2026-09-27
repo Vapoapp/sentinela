@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-27T03:09:17.388Z",
+  "updatedAt": "2026-09-27T03:10:22.952Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -107,6 +107,16 @@
       "tipo": "SAÍDA",
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 13:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
