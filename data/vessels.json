@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T00:09:15.525Z",
+  "updatedAt": "2026-09-28T00:10:20.793Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 16:00",
-      "imo": "9630420",
-      "navio": "XIAMEN EXPRESS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 16:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 16:00",
+      "imo": "9630420",
+      "navio": "XIAMEN EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 21:30",
-      "imo": "9355252",
-      "navio": "GRAND VEGA",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 21:30",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 21:30",
+      "imo": "9355252",
+      "navio": "GRAND VEGA",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,6 +542,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 07:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 07:00",
       "imo": "9788409",
       "navio": "BRAM FORCE",
       "tipo": "MUDANÇA",
@@ -551,13 +561,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 07:00",
-      "imo": "9188130",
-      "navio": "BRAM NATAL (REB)",
+      "inicio": "28/09/2026 07:30",
+      "imo": "9655494",
+      "navio": "ILHA DO MOSQUEIRO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
