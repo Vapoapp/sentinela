@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T22:37:19.612Z",
+  "updatedAt": "2026-09-28T22:38:19.507Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 14:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 14:00",
       "imo": "9686144",
       "navio": "HOS REMINGTON",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 14:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,6 +441,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 21:30",
+      "imo": "9459981",
+      "navio": "RUDDY",
+      "tipo": "SAÍDA",
+      "de": "2N09 - Armazém 10",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 22:00",
       "imo": "9806512",
       "navio": "STARNAV DELPHINUS",
@@ -462,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 04:00",
-      "imo": "9437919",
-      "navio": "GRANDE GUINEA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R12 - TECON 4 - MCAR",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 04:00",
       "imo": "9081320",
       "navio": "HEIDRUN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N09 - Armazém 10",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 04:00",
+      "imo": "9437919",
+      "navio": "GRANDE GUINEA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - TECON 4 - MCAR",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
