@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T00:12:18.876Z",
+  "updatedAt": "2026-09-28T00:13:19.752Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -597,6 +597,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 10:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
