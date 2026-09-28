@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T01:57:17.686Z",
+  "updatedAt": "2026-09-28T01:58:21.757Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -372,16 +372,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 16:00",
-      "imo": "9630420",
-      "navio": "XIAMEN EXPRESS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 16:00",
       "imo": "9659634",
       "navio": "BARU TESORO",
       "tipo": "MUDANÇA",
@@ -648,16 +638,6 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 15:30",
-      "imo": "9630420",
-      "navio": "XIAMEN EXPRESS",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
