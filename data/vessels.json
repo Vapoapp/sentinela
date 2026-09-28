@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T21:35:21.893Z",
+  "updatedAt": "2026-09-28T21:36:51.340Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 22:00",
+      "imo": "9806512",
+      "navio": "STARNAV DELPHINUS",
+      "tipo": "MUDANÇA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 02:00",
       "imo": "9519119",
       "navio": "BRASILIA HIGHWAY",
@@ -462,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 04:00",
-      "imo": "9081320",
-      "navio": "HEIDRUN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N09 - Armazém 10",
-      "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 04:00",
       "imo": "9437919",
       "navio": "GRANDE GUINEA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 04:00",
+      "imo": "9081320",
+      "navio": "HEIDRUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Rio de Janeiro",
