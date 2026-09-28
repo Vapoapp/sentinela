@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T03:14:18.541Z",
+  "updatedAt": "2026-09-28T03:15:25.425Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 09:00",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
