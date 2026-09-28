@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T00:13:19.752Z",
+  "updatedAt": "2026-09-28T00:14:19.522Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -242,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 12:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "CAPITAL MARÍTIMA LTDA"
+      "imo": "9605231",
+      "navio": "MSC DAKAR X",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,12 +262,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 12:00",
-      "imo": "9605231",
-      "navio": "MSC DAKAR X",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/09/2026 17:30",
-      "imo": "9492139",
-      "navio": "SAO LUIZ",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/09/2026 17:30",
       "imo": "9639452",
       "navio": "ZHI YUAN KOU",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F11 - AF Boa Viagem",
       "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/09/2026 17:30",
+      "imo": "9492139",
+      "navio": "SAO LUIZ",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +598,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 10:00",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
