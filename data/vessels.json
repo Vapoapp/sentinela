@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T19:30:29.126Z",
+  "updatedAt": "2026-09-28T19:32:21.457Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 08:00",
-      "imo": "9692210",
-      "navio": "SEVEN MERLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2NTO - Terminal de Óleo",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 08:00",
       "imo": "9639452",
       "navio": "ZHI YUAN KOU",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 08:00",
+      "imo": "9692210",
+      "navio": "SEVEN MERLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 12:00",
-      "imo": "9655494",
-      "navio": "ILHA DO MOSQUEIRO (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 12:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "SAÍDA",
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 12:00",
+      "imo": "9655494",
+      "navio": "ILHA DO MOSQUEIRO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 14:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 14:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "ENTRADA",
@@ -278,16 +288,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 14:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -371,13 +371,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 18:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
+      "inicio": "28/09/2026 17:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 18:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -648,6 +658,16 @@
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/09/2026 14:30",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
