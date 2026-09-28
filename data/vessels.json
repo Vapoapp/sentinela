@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T20:02:20.925Z",
+  "updatedAt": "2026-09-28T20:03:17.991Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -472,16 +472,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 06:00",
-      "imo": "9630420",
-      "navio": "XIAMEN EXPRESS",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 06:00",
       "imo": "9694531",
       "navio": "STEPHANIE C",
       "tipo": "ENTRADA",
@@ -498,6 +488,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 10:00",
+      "imo": "9630420",
+      "navio": "XIAMEN EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
