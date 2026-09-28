@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T13:31:20.447Z",
+  "updatedAt": "2026-09-28T13:32:20.559Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -72,22 +72,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 07:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 07:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 07:00",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,6 +182,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 10:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 10:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 10:00",
       "imo": "9368194",
       "navio": "KAMILLA KOSAN",
       "tipo": "ENTRADA",
@@ -198,26 +218,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 10:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 10:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +268,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 15:30",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
