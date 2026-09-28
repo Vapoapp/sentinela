@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T11:32:21.014Z",
+  "updatedAt": "2026-09-28T11:33:22.104Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 18:00",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
