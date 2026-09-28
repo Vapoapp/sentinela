@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T22:38:19.507Z",
+  "updatedAt": "2026-09-28T22:39:17.041Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -428,6 +428,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 19:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
