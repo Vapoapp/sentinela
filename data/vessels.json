@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-28T11:21:17.865Z",
+  "updatedAt": "2026-09-28T11:22:20.849Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -132,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 09:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/09/2026 09:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "SAÍDA",
@@ -151,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/09/2026 09:00",
-      "imo": "9686144",
-      "navio": "HOS REMINGTON",
+      "inicio": "28/09/2026 09:30",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
