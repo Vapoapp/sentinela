@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T13:24:20.506Z",
+  "updatedAt": "2026-09-29T13:25:23.777Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -341,6 +341,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 15:00",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 16:00",
       "imo": "8707032",
       "navio": "SERENA 11",
@@ -372,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 18:00",
-      "imo": "9694531",
-      "navio": "STEPHANIE C",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 18:00",
       "imo": "9649029",
       "navio": "SEVEN WAVES",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 18:00",
+      "imo": "9694531",
+      "navio": "STEPHANIE C",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
