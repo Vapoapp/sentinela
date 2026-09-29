@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T05:23:18.503Z",
+  "updatedAt": "2026-09-29T05:24:17.254Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -301,12 +301,22 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "29/09/2026 10:00",
+      "inicio": "29/09/2026 09:30",
       "imo": "9872195",
       "navio": "COSCO SHIPPING PENG CHENG",
       "tipo": "SAÍDA",
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/09/2026 12:00",
+      "imo": "9881641",
+      "navio": "COSCO SHIPPING GLORY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
     },
     {
@@ -318,16 +328,6 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "29/09/2026 12:30",
-      "imo": "9881641",
-      "navio": "COSCO SHIPPING GLORY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "303 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
