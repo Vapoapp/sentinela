@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:11:18.366Z",
+  "updatedAt": "2026-09-29T12:12:20.189Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -48,16 +48,6 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 02:00",
-      "imo": "9519119",
-      "navio": "BRASILIA HIGHWAY",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 07:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 07:00",
       "imo": "9767821",
       "navio": "CBO BOSSA NOVA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 07:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 16:00",
-      "imo": "8707032",
-      "navio": "SERENA 11",
-      "tipo": "SAÍDA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 16:00",
       "imo": "9605267",
       "navio": "MSC AJACCIO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 16:00",
+      "imo": "8707032",
+      "navio": "SERENA 11",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +328,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9519119",
+      "navio": "BRASILIA HIGHWAY",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
