@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T15:59:19.520Z",
+  "updatedAt": "2026-09-29T16:00:33.536Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 11:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 11:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 11:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 18:00",
+      "imo": "9694531",
+      "navio": "STEPHANIE C",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 18:00",
       "imo": "9333503",
       "navio": "Z MAX XXIX",
       "tipo": "ENTRADA",
@@ -398,16 +408,6 @@
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 18:00",
-      "imo": "9694531",
-      "navio": "STEPHANIE C",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -548,6 +548,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 13:00",
+      "imo": "1031173",
+      "navio": "MSC MARIA MARILYN X",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
