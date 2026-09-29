@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:22:20.296Z",
+  "updatedAt": "2026-09-29T10:23:16.398Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/09/2026 17:00",
+      "imo": "9638056",
+      "navio": "MAY OLDENDORFF",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
