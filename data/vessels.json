@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T17:10:23.824Z",
+  "updatedAt": "2026-09-29T17:11:19.903Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -412,12 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 19:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,6 +438,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
