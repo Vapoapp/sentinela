@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T14:49:17.455Z",
+  "updatedAt": "2026-09-29T14:50:34.688Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 11:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 11:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 11:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -411,6 +411,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 21:00",
       "imo": "9324837",
       "navio": "NAVIOS VERMILION",
@@ -478,6 +498,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 12:00",
+      "imo": "9455870",
+      "navio": "YM MUTUALITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
