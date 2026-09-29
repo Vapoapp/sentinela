@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T09:16:18.844Z",
+  "updatedAt": "2026-09-29T09:17:17.627Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 06:00",
-      "imo": "9694531",
-      "navio": "STEPHANIE C",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 06:00",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 06:00",
+      "imo": "9694531",
+      "navio": "STEPHANIE C",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +268,36 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 06:00",
+      "imo": "9525376",
+      "navio": "MAERSK CHAMBAL",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 08:00",
+      "imo": "9945887",
+      "navio": "COSCO SHIPPING CHILE",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 09:00",
+      "imo": "9605267",
+      "navio": "MSC AJACCIO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
