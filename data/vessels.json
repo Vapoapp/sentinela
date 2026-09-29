@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T20:00:35.740Z",
+  "updatedAt": "2026-09-29T20:01:21.473Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -432,22 +432,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 19:00",
-      "imo": "9377016",
-      "navio": "REM SALTIRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 19:00",
       "imo": "9519119",
       "navio": "BRASILIA HIGHWAY",
       "tipo": "SAÍDA",
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9377016",
+      "navio": "REM SALTIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
