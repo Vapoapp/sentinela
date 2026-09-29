@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T18:43:16.560Z",
+  "updatedAt": "2026-09-29T18:44:19.815Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -358,6 +358,16 @@
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 15:45",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
