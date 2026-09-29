@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T12:17:19.037Z",
+  "updatedAt": "2026-09-29T12:18:20.787Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -241,6 +241,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 10:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 11:00",
       "imo": "9423437",
       "navio": "AKOFS SANTOS (REB)",
@@ -312,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 19:00",
-      "imo": "9437919",
-      "navio": "GRANDE GUINEA",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 19:00",
       "imo": "9519119",
       "navio": "BRASILIA HIGHWAY",
       "tipo": "SAÍDA",
@@ -347,6 +347,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 05:00",
+      "imo": "9437919",
+      "navio": "GRANDE GUINEA",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
