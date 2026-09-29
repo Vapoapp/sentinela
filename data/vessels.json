@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T00:39:17.545Z",
+  "updatedAt": "2026-09-29T00:40:25.897Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -272,12 +272,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 14:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/09/2026 14:00",
-      "imo": "9686144",
-      "navio": "HOS REMINGTON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,22 +502,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 04:00",
-      "imo": "9437919",
-      "navio": "GRANDE GUINEA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R12 - TECON 4 - MCAR",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 04:00",
       "imo": "9081320",
       "navio": "HEIDRUN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N09 - Armazém 10",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 04:00",
+      "imo": "9437919",
+      "navio": "GRANDE GUINEA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - TECON 4 - MCAR",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -581,6 +581,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 16:00",
+      "imo": "8707032",
+      "navio": "SERENA 11",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 18:00",
       "imo": "9694531",
       "navio": "STEPHANIE C",
@@ -598,6 +608,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 21:00",
+      "imo": "9324837",
+      "navio": "NAVIOS VERMILION",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
