@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T12:20:27.118Z",
+  "updatedAt": "2026-09-29T12:21:17.129Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 10:00",
-      "imo": "9207053",
-      "navio": "CS RECORDER",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 10:00",
       "imo": "9630420",
       "navio": "XIAMEN EXPRESS",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 10:00",
+      "imo": "9207053",
+      "navio": "CS RECORDER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 18:00",
+      "imo": "9694531",
+      "navio": "STEPHANIE C",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 18:00",
       "imo": "9649029",
       "navio": "SEVEN WAVES",
       "tipo": "SAÍDA",
@@ -332,12 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 18:00",
-      "imo": "9694531",
-      "navio": "STEPHANIE C",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9333503",
+      "navio": "Z MAX XXIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 19:00",
+      "imo": "9377016",
+      "navio": "REM SALTIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
