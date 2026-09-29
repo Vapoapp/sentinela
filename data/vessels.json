@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-29T10:47:18.529Z",
+  "updatedAt": "2026-09-29T10:48:19.004Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 06:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 06:00",
       "imo": "9694531",
       "navio": "STEPHANIE C",
       "tipo": "ENTRADA",
@@ -188,6 +198,16 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 07:45",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
