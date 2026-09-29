@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T03:20:25.095Z",
+  "updatedAt": "2026-09-29T03:21:19.209Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/09/2026 19:30",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
