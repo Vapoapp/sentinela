@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T18:08:17.301Z",
+  "updatedAt": "2026-09-30T18:09:19.905Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 12:00",
+      "imo": "9953482",
+      "navio": "CHIOS DF",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
