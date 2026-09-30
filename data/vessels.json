@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T06:52:17.428Z",
+  "updatedAt": "2026-09-30T06:53:18.189Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 06:00",
+      "imo": "9629885",
+      "navio": "RAMFORM TITAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
