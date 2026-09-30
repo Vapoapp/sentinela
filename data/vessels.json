@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:42:19.010Z",
+  "updatedAt": "2026-09-30T09:43:19.855Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -357,16 +357,6 @@
       "tipo": "SAÍDA",
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "30/09/2026 11:00",
-      "imo": "9752199",
-      "navio": "STELLA TESS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FE2 - Área de Fundeio E2",
-      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ISS MARINE SERVICES LTDA"
     },
     {
