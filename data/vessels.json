@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T19:18:18.878Z",
+  "updatedAt": "2026-09-30T19:19:20.581Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 08:00",
       "imo": "9417830",
       "navio": "CBO ENDEAVOUR (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 08:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 11:00",
-      "imo": "9455870",
-      "navio": "YM MUTUALITY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 11:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
@@ -258,6 +248,16 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 11:00",
+      "imo": "9455870",
+      "navio": "YM MUTUALITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,6 +292,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 13:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 13:00",
       "imo": "9605267",
       "navio": "MSC AJACCIO",
       "tipo": "SAÍDA",
@@ -308,16 +318,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 13:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 18:00",
+      "imo": "9377016",
+      "navio": "REM SALTIRE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 18:00",
       "imo": "9806483",
       "navio": "STARNAV LIBRA",
       "tipo": "SAÍDA",
@@ -391,13 +401,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 18:00",
-      "imo": "9377016",
-      "navio": "REM SALTIRE",
+      "inicio": "30/09/2026 18:30",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2N07 - Pátio 8/9",
       "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
