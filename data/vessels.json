@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T06:47:17.918Z",
+  "updatedAt": "2026-09-30T06:48:19.663Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 07:00",
+      "imo": "9147306",
+      "navio": "AQUARIUS BRASIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 07:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "ENTRADA",
@@ -142,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 08:00",
       "imo": "3813887740",
       "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 08:00",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
