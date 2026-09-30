@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:59:20.630Z",
+  "updatedAt": "2026-09-30T19:00:35.771Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 18:00",
+      "imo": "9377016",
+      "navio": "REM SALTIRE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 19:00",
       "imo": "9598256",
       "navio": "EAGLE PARAIBA",
@@ -418,16 +428,6 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 22:00",
-      "imo": "9377016",
-      "navio": "REM SALTIRE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
