@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T18:10:25.112Z",
+  "updatedAt": "2026-09-30T18:11:20.044Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -371,16 +371,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 17:30",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 18:00",
       "imo": "9806483",
       "navio": "STARNAV LIBRA",
@@ -605,7 +595,7 @@
       "imo": "9620669",
       "navio": "SLOMAN DISCOVERER",
       "tipo": "SAÍDA",
-      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
