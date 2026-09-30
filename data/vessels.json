@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T11:57:17.421Z",
+  "updatedAt": "2026-09-30T11:58:20.680Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "9945887",
-      "navio": "COSCO SHIPPING CHILE",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 08:00",
       "imo": "9670365",
       "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
       "tipo": "SAÍDA",
@@ -182,16 +172,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "9525376",
-      "navio": "MAERSK CHAMBAL",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 08:00",
       "imo": "9417830",
       "navio": "CBO ENDEAVOUR (REB)",
       "tipo": "ENTRADA",
@@ -211,6 +191,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 08:00",
+      "imo": "9525376",
+      "navio": "MAERSK CHAMBAL",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 09:00",
       "imo": "9605267",
       "navio": "MSC AJACCIO",
@@ -218,6 +208,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 09:00",
+      "imo": "9945887",
+      "navio": "COSCO SHIPPING CHILE",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
