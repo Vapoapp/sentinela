@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T00:06:19.092Z",
+  "updatedAt": "2026-09-30T00:07:17.046Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -502,6 +502,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 20:00",
+      "imo": "9081320",
+      "navio": "HEIDRUN",
+      "tipo": "SAÍDA",
+      "de": "2N09 - Armazém 10",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 20:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
       "tipo": "MUDANÇA",
@@ -522,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/09/2026 21:00",
-      "imo": "9655494",
-      "navio": "ILHA DO MOSQUEIRO (REB)",
-      "tipo": "SAÍDA",
-      "de": "ESPR - MacLaren Ilha da Conceição",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/09/2026 21:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/09/2026 21:00",
+      "imo": "9655494",
+      "navio": "ILHA DO MOSQUEIRO (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,6 +622,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 06:00",
+      "imo": "9525376",
+      "navio": "MAERSK CHAMBAL",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 06:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "ENTRADA",
@@ -628,16 +648,6 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 06:00",
-      "imo": "9525376",
-      "navio": "MAERSK CHAMBAL",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
