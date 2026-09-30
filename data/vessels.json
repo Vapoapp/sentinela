@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T13:46:22.872Z",
+  "updatedAt": "2026-09-30T13:47:20.259Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -132,8 +132,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "9529994",
-      "navio": "ROGER WHITE (REB)",
+      "imo": "9670365",
+      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -182,8 +182,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 08:00",
-      "imo": "9670365",
-      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
+      "imo": "9529994",
+      "navio": "ROGER WHITE (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 13:00",
+      "imo": "9605267",
+      "navio": "MSC AJACCIO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 13:00",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "SAÍDA",
@@ -291,13 +301,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 13:00",
-      "imo": "9605267",
-      "navio": "MSC AJACCIO",
+      "inicio": "30/09/2026 14:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -478,6 +488,16 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "30/09/2026 15:00",
+      "imo": "9849318",
+      "navio": "ASTERIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
