@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T14:37:17.016Z",
+  "updatedAt": "2026-09-30T14:38:19.790Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -341,6 +341,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/09/2026 16:30",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/09/2026 17:30",
       "imo": "9598256",
       "navio": "EAGLE PARAIBA",
@@ -398,6 +408,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 12:00",
+      "imo": "9437385",
+      "navio": "LONCOMILLA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
