@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-30T23:49:17.287Z",
+  "updatedAt": "2026-09-30T23:50:22.278Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -541,16 +541,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/09/2026 23:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 01:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
@@ -851,16 +841,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/10/2026 06:30",
-      "imo": "9896921",
-      "navio": "BW ENN SNOW LOTUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
-      "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "01/10/2026 07:30",
       "imo": "9623635",
       "navio": "CARMEN KNUTSEN",
@@ -868,6 +848,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/10/2026 11:30",
+      "imo": "9896921",
+      "navio": "BW ENN SNOW LOTUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
+      "para": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Itaguaí",
