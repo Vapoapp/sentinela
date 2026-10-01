@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:06:24.320Z",
+  "updatedAt": "2026-10-01T18:07:17.506Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -701,6 +701,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "02/10/2026 09:00",
+      "imo": "9896921",
+      "navio": "BW ENN SNOW LOTUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "02/10/2026 10:00",
       "imo": "9435648",
       "navio": "CAPE ASTRA",
@@ -748,16 +758,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "02/10/2026 19:00",
-      "imo": "9896921",
-      "navio": "BW ENN SNOW LOTUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     }
   ]
 }
