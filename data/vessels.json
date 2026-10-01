@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T09:41:18.653Z",
+  "updatedAt": "2026-10-01T09:42:17.182Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -324,6 +324,16 @@
       "inicio": "01/10/2026 13:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 14:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
