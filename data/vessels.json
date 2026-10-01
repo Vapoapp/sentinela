@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-01T14:41:19.345Z",
+  "updatedAt": "2026-10-01T14:42:21.890Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -331,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 12:00",
-      "imo": "9683996",
-      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "inicio": "01/10/2026 11:30",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -361,13 +361,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 12:30",
-      "imo": "9866770",
-      "navio": "BOW PROSPER",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "inicio": "01/10/2026 12:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +378,16 @@
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 12:30",
+      "imo": "9866770",
+      "navio": "BOW PROSPER",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +508,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/10/2026 16:00",
+      "imo": "9670341",
+      "navio": "BLUE ORCA",
+      "tipo": "SAÍDA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
