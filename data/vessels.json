@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T11:20:24.414Z",
+  "updatedAt": "2026-10-01T11:21:18.105Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -211,6 +211,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 07:30",
+      "imo": "9758038",
+      "navio": "BOW GLORY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 08:00",
       "imo": "9521021",
       "navio": "CBO WAVE (REB)",
@@ -222,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 08:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 08:00",
       "imo": "9315549",
       "navio": "LAKE ST. CLAIR",
       "tipo": "SAÍDA",
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WORLD SHIPPING AGENCIAMENTOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 08:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 13:00",
+      "imo": "9902225",
+      "navio": "EAGLE CAMPOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 13:00",
       "imo": "1031173",
       "navio": "MSC MARIA MARILYN X",
       "tipo": "SAÍDA",
@@ -388,16 +408,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 13:00",
-      "imo": "9902225",
-      "navio": "EAGLE CAMPOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
