@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T00:54:31.072Z",
+  "updatedAt": "2026-10-01T00:55:21.175Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 71
     },
     "niteroi": {
       "ok": true,
@@ -538,6 +538,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 00:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
