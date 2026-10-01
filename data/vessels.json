@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T11:37:15.973Z",
+  "updatedAt": "2026-10-01T11:38:20.459Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -141,16 +141,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 05:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 05:30",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
@@ -158,6 +148,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
