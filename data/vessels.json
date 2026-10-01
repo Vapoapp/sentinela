@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T19:04:20.615Z",
+  "updatedAt": "2026-10-01T19:05:25.780Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 02:00",
-      "imo": "9333503",
-      "navio": "Z MAX XXIX",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 02:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 02:00",
+      "imo": "9333503",
+      "navio": "Z MAX XXIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 06:00",
       "imo": "9453315",
       "navio": "JOÃO CÂNDIDO",
       "tipo": "ENTRADA",
@@ -161,13 +171,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 06:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "inicio": "01/10/2026 07:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 07:00",
+      "imo": "9530216",
+      "navio": "OLIN CONQUEROR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,26 +208,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 07:00",
-      "imo": "9530216",
-      "navio": "OLIN CONQUEROR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 07:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 08:30",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 08:30",
       "imo": "9620669",
       "navio": "SLOMAN DISCOVERER",
       "tipo": "ENTRADA",
@@ -282,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 10:00",
-      "imo": "9670365",
-      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 10:00",
       "imo": "9521021",
       "navio": "CBO WAVE (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 10:00",
+      "imo": "9670365",
+      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 12:30",
-      "imo": "9866770",
-      "navio": "BOW PROSPER",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 12:30",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 12:30",
+      "imo": "9866770",
+      "navio": "BOW PROSPER",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
