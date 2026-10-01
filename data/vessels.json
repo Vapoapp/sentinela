@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:46:19.969Z",
+  "updatedAt": "2026-10-01T14:47:18.483Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -568,6 +568,16 @@
       "de": "-",
       "para": "Fundeio - 5FB3 - Área de Fundeio B3",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/10/2026 15:30",
+      "imo": "9434369",
+      "navio": "MARAN GUARDIAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
