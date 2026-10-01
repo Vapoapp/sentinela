@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:51:17.760Z",
+  "updatedAt": "2026-10-01T19:52:18.639Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "ESWS - ESTALEIRO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/10/2026 15:00",
+      "imo": "3813884236",
+      "navio": "OCEANICASUB II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
