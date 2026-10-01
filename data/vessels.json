@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:36:21.880Z",
+  "updatedAt": "2026-10-01T18:37:18.324Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -758,6 +758,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "02/10/2026 19:30",
+      "imo": "9602875",
+      "navio": "SEBASTIÃO CABOTO",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     }
   ]
 }
