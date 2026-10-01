@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T08:46:19.352Z",
+  "updatedAt": "2026-10-01T08:47:16.295Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -141,6 +141,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 05:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 06:00",
       "imo": "9453315",
       "navio": "JOÃO CÂNDIDO",
@@ -178,6 +188,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 08:00",
+      "imo": "9315549",
+      "navio": "LAKE ST. CLAIR",
+      "tipo": "SAÍDA",
+      "de": "2N09 - Armazém 10",
+      "para": "-",
+      "agente": "WORLD SHIPPING AGENCIAMENTOS"
     },
     {
       "porto": "Rio de Janeiro",
