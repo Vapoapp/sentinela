@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T19:11:16.994Z",
+  "updatedAt": "2026-10-01T19:12:19.756Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -482,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 15:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N05 - Armazém 6",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 15:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "MUDANÇA",
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 15:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N05 - Armazém 6",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +598,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 07:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
