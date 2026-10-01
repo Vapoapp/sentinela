@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T09:00:51.218Z",
+  "updatedAt": "2026-10-01T09:01:18.207Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 07:00",
-      "imo": "9437385",
-      "navio": "LONCOMILLA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 07:00",
       "imo": "9381495",
       "navio": "A.H. LIGURIA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 07:00",
+      "imo": "9437385",
+      "navio": "LONCOMILLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +318,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 13:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
