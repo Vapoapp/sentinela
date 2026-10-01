@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T16:55:21.027Z",
+  "updatedAt": "2026-10-01T16:56:21.143Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -281,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 10:00",
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 10:30",
       "imo": "9530216",
       "navio": "OLIN CONQUEROR",
@@ -382,16 +392,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 13:00",
-      "imo": "9902225",
-      "navio": "EAGLE CAMPOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 62 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 13:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "MUDANÇA",
@@ -408,6 +408,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 13:00",
+      "imo": "9902225",
+      "navio": "EAGLE CAMPOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 14:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
