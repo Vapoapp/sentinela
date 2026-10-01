@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-01T20:09:17.104Z",
+  "updatedAt": "2026-10-01T20:10:22.756Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -322,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 10:30",
-      "imo": "9530216",
-      "navio": "OLIN CONQUEROR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 10:30",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
       "tipo": "SAÍDA",
@@ -342,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 10:30",
-      "imo": "9331402",
-      "navio": "TARUCA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 82 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9530216",
+      "navio": "OLIN CONQUEROR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +348,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 10:30",
+      "imo": "9331402",
+      "navio": "TARUCA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -482,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/10/2026 15:00",
-      "imo": "9492270",
-      "navio": "ANITA GARIBALDI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/10/2026 15:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "MUDANÇA",
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/10/2026 15:00",
+      "imo": "9492270",
+      "navio": "ANITA GARIBALDI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -588,6 +588,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 00:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
