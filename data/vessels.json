@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T11:21:18.795Z",
+  "updatedAt": "2026-10-02T11:22:19.294Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -171,13 +171,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 07:30",
-      "imo": "9179751",
-      "navio": "NORMAND PIONEER",
+      "inicio": "02/10/2026 07:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -191,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 08:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "02/10/2026 07:30",
+      "imo": "9179751",
+      "navio": "NORMAND PIONEER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,6 +208,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 08:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
