@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:36:19.259Z",
+  "updatedAt": "2026-10-02T20:37:19.385Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -652,16 +652,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 21:00",
-      "imo": "9326512",
-      "navio": "Aktea",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 21:00",
       "imo": "9870513",
       "navio": "IRENE A",
       "tipo": "ENTRADA",
@@ -688,6 +678,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 01:00",
+      "imo": "9326512",
+      "navio": "Aktea",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
