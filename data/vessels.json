@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T23:49:18.224Z",
+  "updatedAt": "2026-10-02T23:50:30.544Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 93
+      "count": 94
     },
     "niteroi": {
       "ok": true,
@@ -672,22 +672,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 19:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 19:00",
       "imo": "9788409",
       "navio": "BRAM FORCE",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 19:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -906,6 +906,16 @@
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "SAÍDA",
       "de": "TPBK - BRASKEM",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 14:30",
+      "imo": "9758038",
+      "navio": "BOW GLORY",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
