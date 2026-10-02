@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T23:14:18.513Z",
+  "updatedAt": "2026-10-02T23:15:24.705Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 89
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -232,22 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 08:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 08:00",
       "imo": "9422330",
       "navio": "NORMAND POSEIDON (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 08:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 11:00",
+      "imo": "9598268",
+      "navio": "EAGLE PARANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 11:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 11:00",
-      "imo": "9636022",
-      "navio": "SABLE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,12 +352,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 11:00",
-      "imo": "9598268",
-      "navio": "EAGLE PARANA",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,22 +652,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 18:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 18:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 18:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -762,22 +762,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/10/2026 00:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/10/2026 00:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 00:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -827,6 +827,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 06:00",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
