@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T17:36:23.505Z",
+  "updatedAt": "2026-10-02T17:37:18.075Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -561,6 +561,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 16:30",
+      "imo": "9612791",
+      "navio": "NC BRAVO (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/10/2026 17:00",
       "imo": "9670365",
       "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
@@ -578,16 +588,6 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/10/2026 18:30",
-      "imo": "9612791",
-      "navio": "NC BRAVO (REB S/L)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
