@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T23:11:17.325Z",
+  "updatedAt": "2026-10-02T23:12:19.282Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 86
+      "count": 87
     },
     "niteroi": {
       "ok": true,
@@ -858,6 +858,16 @@
       "de": "TPBK - BRASKEM",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 15:30",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
