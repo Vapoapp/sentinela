@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-02T13:53:53.434Z",
+  "updatedAt": "2026-10-02T13:54:17.971Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/10/2026 12:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
