@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T20:57:15.387Z",
+  "updatedAt": "2026-10-03T20:58:22.040Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "03/10/2026 19:00",
+      "imo": "9976410",
+      "navio": "GREEN ITAQUI",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
