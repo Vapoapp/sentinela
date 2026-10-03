@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T19:28:18.056Z",
+  "updatedAt": "2026-10-03T19:29:16.201Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -462,12 +462,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/10/2026 19:00",
+      "imo": "9683996",
+      "navio": "SPRINGBOK (BAND. GREYLIST PARIS MOU) (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 19:00",
       "imo": "9968449",
       "navio": "ITHACA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 20:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -478,6 +498,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 00:00",
+      "imo": "9331402",
+      "navio": "TARUCA (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
