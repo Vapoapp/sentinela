@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T05:54:19.624Z",
+  "updatedAt": "2026-10-03T05:55:19.413Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -317,6 +317,26 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 10:00",
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 11:30",
+      "imo": "9193290",
+      "navio": "TOKYO EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
