@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:27:15.346Z",
+  "updatedAt": "2026-10-03T18:28:18.884Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "ESCS - CASTRO SILVA",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "03/10/2026 15:00",
+      "imo": "0011466537",
+      "navio": "BONO II",
+      "tipo": "MUDANÇA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "TPIM - Mocanguê",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Itaguaí",
