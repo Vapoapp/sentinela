@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-03T22:54:17.655Z",
+  "updatedAt": "2026-10-03T22:55:22.200Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -332,20 +332,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/10/2026 12:00",
-      "imo": "9670365",
-      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/10/2026 12:00",
-      "imo": "9763760",
-      "navio": "BRAM BUCK",
+      "imo": "9670365",
+      "navio": "JUAN C (BAND. GREYLIST TOKYO MOU)",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -458,6 +458,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/10/2026 19:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
