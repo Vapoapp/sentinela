@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:08:21.003Z",
+  "updatedAt": "2026-10-04T12:09:18.478Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 12:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
