@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:30:28.886Z",
+  "updatedAt": "2026-10-04T12:31:16.166Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "-",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 10:00",
+      "imo": "9708928",
+      "navio": "ES VANQUISH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
