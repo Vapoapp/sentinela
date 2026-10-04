@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T04:36:21.770Z",
+  "updatedAt": "2026-10-04T04:37:18.877Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -198,6 +198,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 13:30",
+      "imo": "9701140",
+      "navio": "GOODWOOD",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
