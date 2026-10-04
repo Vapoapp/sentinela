@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:01:53.521Z",
+  "updatedAt": "2026-10-04T12:02:20.960Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -187,7 +187,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -197,7 +197,7 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +328,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 03:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Niterói",
