@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:45:24.441Z",
+  "updatedAt": "2026-10-04T11:46:16.546Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/10/2026 10:00",
+      "imo": "9701140",
+      "navio": "GOODWOOD",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 10:00",
       "imo": "9945849",
       "navio": "COSCO SHIPPING ARGENTINA",
       "tipo": "SAÍDA",
@@ -238,16 +248,6 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/10/2026 13:30",
-      "imo": "9701140",
-      "navio": "GOODWOOD",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
