@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:29:14.868Z",
+  "updatedAt": "2026-10-04T12:30:28.886Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/10/2026 10:00",
-      "imo": "9686144",
-      "navio": "HOS REMINGTON",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/10/2026 10:00",
       "imo": "9701140",
       "navio": "GOODWOOD",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 10:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -287,6 +287,16 @@
       "tipo": "SAÍDA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 14:00",
+      "imo": "9994840",
+      "navio": "APPIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
