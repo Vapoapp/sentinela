@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T12:18:18.013Z",
+  "updatedAt": "2026-10-04T12:19:15.843Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 09:30",
+      "imo": "9707003",
+      "navio": "GLOVIS CRYSTAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R12 - TECON 4 - MCAR",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
