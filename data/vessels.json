@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T04:27:14.709Z",
+  "updatedAt": "2026-10-04T04:28:18.953Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 7
+      "count": 11
     },
     "niteroi": {
       "ok": true,
@@ -42,12 +42,52 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/10/2026 01:00",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 01:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 01:00",
+      "imo": "9782699",
+      "navio": "GRANDE HOUSTON",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 01:00",
       "imo": "9787405",
       "navio": "PARDELA (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 04:00",
+      "imo": "9339131",
+      "navio": "SKANDI BOTAFOGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
