@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T04:33:15.479Z",
+  "updatedAt": "2026-10-04T04:34:17.087Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -122,22 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/10/2026 06:30",
-      "imo": "9770749",
-      "navio": "MSC BIANCA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/10/2026 06:30",
       "imo": "9870513",
       "navio": "IRENE A",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 06:30",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -198,6 +198,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 16:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
