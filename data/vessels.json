@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T04:29:17.628Z",
+  "updatedAt": "2026-10-04T04:30:29.317Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -91,6 +91,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 05:00",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 05:30",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/10/2026 06:00",
       "imo": "9280627",
       "navio": "CMA CGM PUCCINI",
@@ -108,6 +128,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 06:30",
+      "imo": "9870513",
+      "navio": "IRENE A",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
