@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-04T16:24:19.402Z",
+  "updatedAt": "2026-10-04T16:25:20.271Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -328,6 +328,16 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/10/2026 15:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
