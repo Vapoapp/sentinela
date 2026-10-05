@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T12:08:19.296Z",
+  "updatedAt": "2026-10-05T12:09:18.641Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -201,16 +201,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 07:30",
-      "imo": "9701140",
-      "navio": "GOODWOOD",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 08:00",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
@@ -322,6 +312,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 16:00",
+      "imo": "9768083",
+      "navio": "MARINA I",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 16:00",
       "imo": "9945849",
       "navio": "COSCO SHIPPING ARGENTINA",
       "tipo": "SAÍDA",
@@ -331,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 16:00",
-      "imo": "9768083",
-      "navio": "MARINA I",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+      "inicio": "05/10/2026 17:00",
+      "imo": "9701140",
+      "navio": "GOODWOOD",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
