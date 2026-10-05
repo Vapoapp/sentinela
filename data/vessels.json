@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T09:24:19.949Z",
+  "updatedAt": "2026-10-05T09:25:21.820Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -181,6 +181,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 07:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:30",
       "imo": "9701140",
       "navio": "GOODWOOD",
@@ -228,6 +238,16 @@
       "de": "-",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 10:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 16:00",
-      "imo": "9768083",
-      "navio": "MARINA I",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 16:00",
       "imo": "9945849",
       "navio": "COSCO SHIPPING ARGENTINA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 16:00",
+      "imo": "9768083",
+      "navio": "MARINA I",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +418,16 @@
       "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "05/10/2026 12:30",
+      "imo": "9605645",
+      "navio": "W-SAPPHIRE",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
