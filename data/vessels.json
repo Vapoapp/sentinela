@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T20:14:54.783Z",
+  "updatedAt": "2026-10-05T20:19:54.788Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -402,16 +402,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 16:00",
-      "imo": "9945849",
-      "navio": "COSCO SHIPPING ARGENTINA",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 16:00",
       "imo": "9768083",
       "navio": "MARINA I",
       "tipo": "ENTRADA",
@@ -492,22 +482,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 18:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 18:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 18:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -561,6 +551,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 03:00",
+      "imo": "9945849",
+      "navio": "COSCO SHIPPING ARGENTINA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 03:30",
       "imo": "9979278",
       "navio": "MAERSK FORTALEZA",
@@ -608,16 +608,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 14:30",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
