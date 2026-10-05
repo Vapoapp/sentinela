@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:03:18.537Z",
+  "updatedAt": "2026-10-05T18:04:20.761Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 18
     },
     "angra": {
       "ok": true,
@@ -627,6 +627,86 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 02:00",
+      "imo": "9327815",
+      "navio": "JADE LUCK",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 05:00",
+      "imo": "9907952",
+      "navio": "SHANDONG DREAM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 09:00",
+      "imo": "9844576",
+      "navio": "CL YELLOW RIVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 13:00",
+      "imo": "1051939",
+      "navio": "CSPC GEMINI",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 14:30",
+      "imo": "9625724",
+      "navio": "ELKA PARANA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 16:00",
+      "imo": "9796315",
+      "navio": "STAR AYESHA",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 17:30",
+      "imo": "9853723",
+      "navio": "EMPRESS MISTRAL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "06/10/2026 18:30",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
