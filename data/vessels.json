@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T02:23:52.179Z",
+  "updatedAt": "2026-10-05T02:24:19.536Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 13:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
