@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T12:51:17.705Z",
+  "updatedAt": "2026-10-05T12:52:20.167Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -377,6 +377,16 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "05/10/2026 08:30",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
