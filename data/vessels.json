@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T03:17:16.784Z",
+  "updatedAt": "2026-10-05T03:18:18.895Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "-",
       "para": "2N10 - Terminal de Trigo",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 10:00",
+      "imo": "9770749",
+      "navio": "MSC BIANCA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
