@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T19:30:58.309Z",
+  "updatedAt": "2026-10-05T19:32:25.750Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 13:30",
+      "imo": "9605279",
+      "navio": "MSC AMALFI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
