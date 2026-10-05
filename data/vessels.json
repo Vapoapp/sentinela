@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T14:50:26.688Z",
+  "updatedAt": "2026-10-05T14:51:19.547Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -142,12 +142,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:00",
-      "imo": "9497127",
-      "navio": "CAMPOS CONTENDER",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 13:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
