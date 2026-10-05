@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:37:16.440Z",
+  "updatedAt": "2026-10-05T00:38:19.239Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "05/10/2026 06:00",
+      "imo": "9668726",
+      "navio": "STARNAV PERSEUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
