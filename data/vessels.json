@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T17:35:22.232Z",
+  "updatedAt": "2026-10-05T17:36:21.941Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 10:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 10:00",
       "imo": "9644146",
       "navio": "ALCATRAZ",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 10:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 15:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 15:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 15:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +448,16 @@
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 23:00",
+      "imo": "9435129",
+      "navio": "INDUSTRIAL KATHARINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
