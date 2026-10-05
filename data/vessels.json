@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:22:42.072Z",
+  "updatedAt": "2026-10-05T17:23:17.041Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -451,16 +451,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 00:00",
-      "imo": "9968449",
-      "navio": "ITHACA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 05:00",
       "imo": "9626443",
       "navio": "BONGO (REB)",
@@ -468,6 +458,16 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 21:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
