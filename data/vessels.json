@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T11:38:18.266Z",
+  "updatedAt": "2026-10-05T11:39:19.365Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 07:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "SAÍDA",
@@ -172,12 +162,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,6 +178,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 07:30",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
