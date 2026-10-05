@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-05T23:18:16.973Z",
+  "updatedAt": "2026-10-05T23:19:17.676Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -611,13 +611,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 05:00",
-      "imo": "9188130",
-      "navio": "BRAM NATAL (REB)",
+      "inicio": "06/10/2026 03:30",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -638,6 +638,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 05:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
