@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T01:12:21.235Z",
+  "updatedAt": "2026-10-06T01:13:18.853Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "2N16 - Armazém 16",
       "para": "2N08 - Pátio 9",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 08:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
