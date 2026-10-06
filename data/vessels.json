@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T19:59:17.252Z",
+  "updatedAt": "2026-10-06T20:00:33.997Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 70
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -412,12 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 12:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,12 +432,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 12:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,6 +562,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 18:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 18:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 18:00",
       "imo": "9600578",
       "navio": "SKANDI URCA",
       "tipo": "SAÍDA",
@@ -578,16 +598,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 18:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "2N06 - Armazém 7",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,6 +652,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 05:00",
+      "imo": "9729685",
+      "navio": "LU QING YUAN YU 205",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 05:00",
       "imo": "9435129",
       "navio": "INDUSTRIAL KATHARINA",
       "tipo": "MUDANÇA",
@@ -651,13 +671,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 05:00",
-      "imo": "9729685",
-      "navio": "LU QING YUAN YU 205",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+      "inicio": "07/10/2026 06:00",
+      "imo": "3813898512",
+      "navio": "TS METIDO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "BOIA TSHP - Boia Tranship",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
