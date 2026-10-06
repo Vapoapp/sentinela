@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T20:48:19.279Z",
+  "updatedAt": "2026-10-06T20:49:19.374Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -572,22 +572,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 18:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
-      "tipo": "SAÍDA",
-      "de": "2N05 - Armazém 6",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 18:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 18:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "SAÍDA",
+      "de": "2N05 - Armazém 6",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 20:00",
+      "imo": "9629885",
+      "navio": "RAMFORM TITAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
