@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T01:48:17.600Z",
+  "updatedAt": "2026-10-06T01:49:18.145Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 07:30",
-      "imo": "9806512",
-      "navio": "STARNAV DELPHINUS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 07:30",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 07:30",
+      "imo": "9806512",
+      "navio": "STARNAV DELPHINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 13:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 13:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 13:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/10/2026 17:00",
+      "imo": "9701140",
+      "navio": "GOODWOOD",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/10/2026 17:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
@@ -448,16 +458,6 @@
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/10/2026 17:00",
-      "imo": "9701140",
-      "navio": "GOODWOOD",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,6 +652,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 05:00",
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 05:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
       "tipo": "ENTRADA",
@@ -671,13 +681,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 05:00",
-      "imo": "9979278",
-      "navio": "MAERSK FORTALEZA",
+      "inicio": "06/10/2026 06:00",
+      "imo": "9379428",
+      "navio": "ASSO VENTINOVE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -742,22 +752,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 08:00",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 08:00",
       "imo": "9600578",
       "navio": "SKANDI URCA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 08:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
