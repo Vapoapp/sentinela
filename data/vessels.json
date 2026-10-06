@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T11:23:18.190Z",
+  "updatedAt": "2026-10-06T11:24:19.707Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -371,16 +371,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 14:00",
-      "imo": "9492127",
-      "navio": "SAO SEBASTIAO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 15:00",
       "imo": "9979278",
       "navio": "MAERSK FORTALEZA",
@@ -388,6 +378,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 16:30",
+      "imo": "9492127",
+      "navio": "SAO SEBASTIAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
