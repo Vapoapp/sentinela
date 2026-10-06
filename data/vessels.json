@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-06T08:45:27.697Z",
+  "updatedAt": "2026-10-06T08:46:20.084Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 05:00",
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 05:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
       "tipo": "ENTRADA",
@@ -128,16 +138,6 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 05:00",
-      "imo": "9979278",
-      "navio": "MAERSK FORTALEZA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,6 +188,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 06:10",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
