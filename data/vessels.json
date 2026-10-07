@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T00:37:18.928Z",
+  "updatedAt": "2026-10-07T00:38:17.860Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -612,22 +612,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 20:00",
-      "imo": "9629885",
-      "navio": "RAMFORM TITAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/10/2026 20:00",
       "imo": "9612765",
       "navio": "NC BREDA (REB S/L)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 20:00",
+      "imo": "9629885",
+      "navio": "RAMFORM TITAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -722,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 05:00",
-      "imo": "9435129",
-      "navio": "INDUSTRIAL KATHARINA",
-      "tipo": "MUDANÇA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "2N06 - Armazém 7",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 05:00",
       "imo": "9729685",
       "navio": "LU QING YUAN YU 205",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 05:00",
+      "imo": "9435129",
+      "navio": "INDUSTRIAL KATHARINA",
+      "tipo": "MUDANÇA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "2N06 - Armazém 7",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -748,6 +748,16 @@
       "de": "Fundeio - 2F01N - Visita Norte",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 06:00",
+      "imo": "9295397",
+      "navio": "MSC CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
