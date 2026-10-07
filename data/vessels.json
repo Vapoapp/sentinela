@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T14:20:27.935Z",
+  "updatedAt": "2026-10-07T14:21:17.016Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -217,16 +217,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 08:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
