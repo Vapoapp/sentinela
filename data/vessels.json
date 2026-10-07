@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-07T01:04:18.003Z",
+  "updatedAt": "2026-10-07T01:05:21.702Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
-      "count": 9
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -890,6 +890,16 @@
       "agente": "GAC DO BRASIL LTDA."
     },
     {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 16:00",
+      "imo": "9294094",
+      "navio": "MAERSK VENTURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
       "porto": "Niterói",
       "inicio": "06/10/2026 00:00",
       "imo": "9514092",
@@ -928,16 +938,6 @@
       "de": "-",
       "para": "ESMC - MacLaren Ponta da Areia",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Niterói",
-      "inicio": "06/10/2026 23:00",
-      "imo": "9575620",
-      "navio": "TANTALUS TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
