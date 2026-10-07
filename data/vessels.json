@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T01:13:16.181Z",
+  "updatedAt": "2026-10-07T01:14:18.314Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 89
     },
     "niteroi": {
       "ok": true,
@@ -872,6 +872,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 12:00",
+      "imo": "9250983",
+      "navio": "MSC DAMLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 12:00",
       "imo": "9786712",
       "navio": "KOTA PAHLAWAN",
       "tipo": "ENTRADA",
@@ -1061,16 +1071,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "07/10/2026 04:00",
-      "imo": "9435105",
-      "navio": "EVA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "303 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "07/10/2026 06:00",
       "imo": "9682978",
       "navio": "EFFIE MAERSK",
@@ -1082,6 +1082,16 @@
     {
       "porto": "Itaguaí",
       "inicio": "07/10/2026 08:30",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "07/10/2026 09:30",
       "imo": "9640059",
       "navio": "TEXEL ISLAND",
       "tipo": "ENTRADA",
