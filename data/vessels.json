@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T03:32:17.772Z",
+  "updatedAt": "2026-10-07T03:33:16.700Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 00:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 05:00",
