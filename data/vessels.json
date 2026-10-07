@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T13:59:24.385Z",
+  "updatedAt": "2026-10-07T14:00:34.634Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -132,6 +132,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 06:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 06:00",
       "imo": "9295397",
       "navio": "MSC CAROLINA",
       "tipo": "SAÍDA",
@@ -158,16 +168,6 @@
       "de": "-",
       "para": "BOIA TSHP - Boia Tranship",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 06:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 08:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 08:00",
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "ENTRADA",
@@ -238,6 +228,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 08:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,6 +342,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 13:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 13:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
@@ -352,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 14:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 14:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 14:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -387,6 +397,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 15:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
