@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T12:51:18.113Z",
+  "updatedAt": "2026-10-07T12:52:21.627Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -232,21 +232,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 08:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 08:00",
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 08:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -292,16 +292,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 12:00",
-      "imo": "9692210",
-      "navio": "SEVEN MERLIN",
-      "tipo": "SAÍDA",
-      "de": "2NTO - Terminal de Óleo",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 12:00",
       "imo": "9786712",
       "navio": "KOTA PAHLAWAN",
       "tipo": "ENTRADA",
@@ -318,6 +308,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 12:00",
+      "imo": "9692210",
+      "navio": "SEVEN MERLIN",
+      "tipo": "SAÍDA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -408,6 +408,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:00",
+      "imo": "9530216",
+      "navio": "OLIN CONQUEROR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
