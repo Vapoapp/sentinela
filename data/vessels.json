@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T13:58:19.690Z",
+  "updatedAt": "2026-10-07T13:59:24.385Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 10:30",
+      "imo": "3810513695",
+      "navio": "TS VALENTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "BOIA TSHP - Boia Tranship",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
