@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T01:14:18.314Z",
+  "updatedAt": "2026-10-07T01:15:24.798Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 89
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -731,6 +731,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/10/2026 22:30",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "06/10/2026 23:00",
       "imo": "9620669",
       "navio": "SLOMAN DISCOVERER",
@@ -762,12 +772,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 06:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9295397",
+      "navio": "MSC CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -782,12 +792,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 06:00",
-      "imo": "9295397",
-      "navio": "MSC CAROLINA",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -1061,7 +1071,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "07/10/2026 01:30",
+      "inicio": "07/10/2026 03:00",
       "imo": "1051939",
       "navio": "CSPC GEMINI",
       "tipo": "SAÍDA",
