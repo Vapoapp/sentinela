@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:08:19.368Z",
+  "updatedAt": "2026-10-07T00:09:15.939Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -828,6 +828,16 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "07/10/2026 05:00",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
