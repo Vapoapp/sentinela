@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:14:20.450Z",
+  "updatedAt": "2026-10-07T20:15:29.985Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -591,6 +591,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:30",
+      "imo": "9250983",
+      "navio": "MSC DAMLA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 08:00",
       "imo": "9463566",
       "navio": "LOA JADE",
@@ -608,16 +618,6 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 12:00",
-      "imo": "9250983",
-      "navio": "MSC DAMLA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
