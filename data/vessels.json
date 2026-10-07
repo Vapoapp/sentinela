@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-07T14:02:21.656Z",
+  "updatedAt": "2026-10-07T14:03:20.336Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 14:00",
-      "imo": "9413810",
-      "navio": "SKANDI ACHIEVER (REB)",
-      "tipo": "SAÍDA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 14:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 14:00",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -528,6 +528,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 20:00",
+      "imo": "9786152",
+      "navio": "MAERSK CALLAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Niterói",
