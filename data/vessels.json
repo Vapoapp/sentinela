@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T02:12:21.282Z",
+  "updatedAt": "2026-10-08T02:13:17.797Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 89
     },
     "niteroi": {
       "ok": true,
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 16:00",
-      "imo": "9294094",
-      "navio": "MAERSK VENTURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/10/2026 16:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/10/2026 16:00",
+      "imo": "9294094",
+      "navio": "MAERSK VENTURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -697,6 +697,16 @@
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 05:30",
+      "imo": "9649562",
+      "navio": "EVITA II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
