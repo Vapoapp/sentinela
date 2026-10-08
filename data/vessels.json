@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:55:19.227Z",
+  "updatedAt": "2026-10-08T19:56:16.038Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -871,6 +871,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "09/10/2026 11:30",
+      "imo": "9855654",
+      "navio": "BETTY K",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "09/10/2026 12:00",
       "imo": "9479242",
       "navio": "HYUNDAI ATLANTIC",
@@ -888,16 +898,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "09/10/2026 18:00",
-      "imo": "9855654",
-      "navio": "BETTY K",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
