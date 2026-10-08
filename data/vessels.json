@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T01:12:16.512Z",
+  "updatedAt": "2026-10-08T01:13:19.153Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -572,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 21:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -592,12 +592,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 21:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,8 +692,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
+      "imo": "9827281",
+      "navio": "CBO TERRA BRASILIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -708,6 +708,16 @@
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
