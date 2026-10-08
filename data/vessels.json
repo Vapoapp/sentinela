@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T03:26:16.792Z",
+  "updatedAt": "2026-10-08T03:27:18.115Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -201,16 +201,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 09:30",
-      "imo": "9227039",
-      "navio": "FELIXSTOWE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 10:00",
       "imo": "9708928",
       "navio": "ES VANQUISH",
@@ -288,16 +278,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 23:00",
-      "imo": "9227039",
-      "navio": "FELIXSTOWE",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
