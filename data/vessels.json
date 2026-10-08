@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T03:04:20.422Z",
+  "updatedAt": "2026-10-08T03:05:25.130Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 00:30",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -112,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,8 +142,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
+      "imo": "9827281",
+      "navio": "CBO TERRA BRASILIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -142,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9827281",
-      "navio": "CBO TERRA BRASILIS",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 10:00",
-      "imo": "3813883612",
-      "navio": "C MACAÉ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 10:00",
       "imo": "9708928",
       "navio": "ES VANQUISH",
       "tipo": "SAÍDA",
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 10:00",
+      "imo": "3813883612",
+      "navio": "C MACAÉ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
