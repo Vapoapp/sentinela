@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:18:17.982Z",
+  "updatedAt": "2026-10-08T17:19:17.168Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -581,22 +581,22 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 19:00",
+      "imo": "9786152",
+      "navio": "MAERSK CALLAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 19:30",
       "imo": "9492127",
       "navio": "SAO SEBASTIAO",
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 20:00",
-      "imo": "9786152",
-      "navio": "MAERSK CALLAO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
