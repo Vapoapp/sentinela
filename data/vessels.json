@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T01:11:15.488Z",
+  "updatedAt": "2026-10-08T01:12:16.512Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -692,22 +692,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9667722",
-      "navio": "CHISE BULKER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 07:00",
       "imo": "9767807",
       "navio": "CBO IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:00",
+      "imo": "9667722",
+      "navio": "CHISE BULKER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -738,6 +738,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "RELIANCE AGENCIAMENTO E SERVIÇOS PORTUÁRIOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 08:30",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
