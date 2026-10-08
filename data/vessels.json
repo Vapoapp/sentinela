@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T17:09:17.910Z",
+  "updatedAt": "2026-10-08T17:10:23.129Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -322,21 +322,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 09:00",
-      "imo": "9165970",
-      "navio": "MARLIN STOLMEN (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 09:00",
       "imo": "9559975",
       "navio": "STIM STAR ARABIAN GULF (REB)",
       "tipo": "MUDANÇA",
       "de": "ESSM - SÃO MIGUEL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 09:00",
+      "imo": "9165970",
+      "navio": "MARLIN STOLMEN (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -382,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 11:00",
+      "imo": "9789726",
+      "navio": "MANTA BEYOGLU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 11:00",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "MUDANÇA",
@@ -391,13 +401,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 11:00",
-      "imo": "9789726",
-      "navio": "MANTA BEYOGLU",
+      "inicio": "08/10/2026 11:30",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
