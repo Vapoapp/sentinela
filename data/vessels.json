@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T20:43:16.430Z",
+  "updatedAt": "2026-10-08T20:44:52.079Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 19:00",
+      "imo": "9385257",
+      "navio": "HOS MAVERICK",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
