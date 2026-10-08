@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T10:06:21.648Z",
+  "updatedAt": "2026-10-08T10:07:45.885Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9667722",
-      "navio": "CHISE BULKER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 07:00",
       "imo": "9584035",
       "navio": "ATHOS M",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:00",
+      "imo": "9667722",
+      "navio": "CHISE BULKER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,13 +291,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 10:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
+      "inicio": "08/10/2026 09:00",
+      "imo": "9165970",
+      "navio": "MARLIN STOLMEN (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 09:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
+      "de": "2N08 - Pátio 9",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +328,16 @@
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 10:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,6 +461,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "08/10/2026 12:30",
+      "imo": "9907952",
+      "navio": "SHANDONG DREAM",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "08/10/2026 14:00",
       "imo": "9853723",
       "navio": "EMPRESS MISTRAL",
@@ -468,16 +498,6 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "08/10/2026 19:30",
-      "imo": "9907952",
-      "navio": "SHANDONG DREAM",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
