@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T02:15:23.141Z",
+  "updatedAt": "2026-10-08T02:16:18.824Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 90
+      "count": 91
     },
     "niteroi": {
       "ok": true,
@@ -372,12 +372,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 15:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
       "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,12 +402,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/10/2026 15:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -668,6 +668,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 00:30",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
