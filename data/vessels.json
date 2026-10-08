@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T02:14:19.062Z",
+  "updatedAt": "2026-10-08T02:15:23.141Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 89
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -798,6 +798,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "RELIANCE AGENCIAMENTO E SERVIÇOS PORTUÁRIOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 08:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
