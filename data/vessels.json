@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T14:18:17.200Z",
+  "updatedAt": "2026-10-08T14:19:16.211Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -578,6 +578,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 10:30",
+      "imo": "9303508",
+      "navio": "ILHA DE SÃO SEBASTIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
