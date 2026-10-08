@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T12:02:16.360Z",
+  "updatedAt": "2026-10-08T12:03:17.144Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -215,7 +215,7 @@
       "imo": "9584035",
       "navio": "ATHOS M",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
+      "de": "Fundeio - 2F01S - Visita Sul",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
@@ -317,6 +317,16 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 09:00",
+      "imo": "9559975",
+      "navio": "STIM STAR ARABIAN GULF (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESSM - SÃO MIGUEL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
