@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T03:33:18.313Z",
+  "updatedAt": "2026-10-08T03:34:17.901Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -121,9 +121,19 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 06:30",
+      "imo": "9613862",
+      "navio": "SAGA FJORD",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
+      "imo": "9827281",
+      "navio": "CBO TERRA BRASILIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -142,8 +152,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9827281",
-      "navio": "CBO TERRA BRASILIS",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
