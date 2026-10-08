@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-08T04:26:16.455Z",
+  "updatedAt": "2026-10-08T04:27:16.056Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
+      "imo": "9584035",
+      "navio": "ATHOS M",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 07:00",
       "imo": "9667722",
       "navio": "CHISE BULKER",
       "tipo": "ENTRADA",
@@ -192,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 07:00",
-      "imo": "9584035",
-      "navio": "ATHOS M",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "imo": "9530216",
+      "navio": "OLIN CONQUEROR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
