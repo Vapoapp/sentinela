@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:18:15.072Z",
+  "updatedAt": "2026-10-09T22:19:17.276Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 16
+      "count": 18
     },
     "angra": {
       "ok": true,
@@ -801,6 +801,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "10/10/2026 02:00",
+      "imo": "1067029",
+      "navio": "VILLA GERMANA",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FB3 - Área de Fundeio B3",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "10/10/2026 05:30",
       "imo": "9818216",
       "navio": "NORDIC AQUARIUS",
@@ -808,6 +818,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 07:00",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Itaguaí",
