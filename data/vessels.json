@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T05:57:21.740Z",
+  "updatedAt": "2026-10-09T05:58:17.828Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,16 +341,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/10/2026 05:00",
-      "imo": "9853723",
-      "navio": "EMPRESS MISTRAL",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "09/10/2026 06:30",
       "imo": "9844576",
       "navio": "CL YELLOW RIVER",
@@ -408,6 +398,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "09/10/2026 15:30",
+      "imo": "9853723",
+      "navio": "EMPRESS MISTRAL",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
