@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:20:23.153Z",
+  "updatedAt": "2026-10-09T02:21:15.948Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 92
+      "count": 93
     },
     "niteroi": {
       "ok": true,
@@ -432,22 +432,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 13:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "CAPITAL MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 13:00",
       "imo": "9680774",
       "navio": "VEGA CHASER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 13:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,16 +562,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 17:00",
-      "imo": "9612765",
-      "navio": "NC BREDA (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 17:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS (REB)",
       "tipo": "SAÍDA",
@@ -582,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 17:00",
-      "imo": "9379014",
-      "navio": "A.H. GIORGIO P.",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "FINARGE APOIO MARITIMO LTDA"
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +588,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 17:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -692,6 +692,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 21:00",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 21:00",
       "imo": "9767807",
       "navio": "CBO IGUAÇU",
       "tipo": "SAÍDA",
@@ -718,16 +728,6 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 21:00",
-      "imo": "9413810",
-      "navio": "SKANDI ACHIEVER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 62 - 2F6A",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -858,6 +858,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 07:30",
+      "imo": "9768007",
+      "navio": "LAEM CHABANG EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
