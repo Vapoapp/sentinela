@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:07:17.866Z",
+  "updatedAt": "2026-10-09T02:08:17.976Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 87
+      "count": 88
     },
     "niteroi": {
       "ok": true,
@@ -768,6 +768,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 23:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
