@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T13:53:17.251Z",
+  "updatedAt": "2026-10-09T13:54:20.130Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -192,6 +192,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 08:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 08:00",
       "imo": "9476886",
       "navio": "REEDBUCK (REB)",
       "tipo": "SAÍDA",
@@ -338,6 +348,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 12:30",
+      "imo": "9855692",
+      "navio": "RUKAI BENEFIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
