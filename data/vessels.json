@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T00:35:20.428Z",
+  "updatedAt": "2026-10-09T00:36:18.782Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -532,21 +532,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 16:00",
-      "imo": "9762742",
-      "navio": "POSIDONIA LEOPARD (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 16:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "SAÍDA",
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 16:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -642,22 +642,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 19:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 19:00",
       "imo": "9385257",
       "navio": "HOS MAVERICK",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 19:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -722,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 22:00",
-      "imo": "9098309",
-      "navio": "LH COMANDANTE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 22:00",
       "imo": "9741279",
       "navio": "ACE DEFENDER (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 22:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -848,6 +848,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 21:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Niterói",
