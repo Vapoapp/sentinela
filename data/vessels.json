@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T19:09:15.247Z",
+  "updatedAt": "2026-10-09T19:10:20.959Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -738,6 +738,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 09:00",
+      "imo": "9493872",
+      "navio": "ELOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
