@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:46:16.094Z",
+  "updatedAt": "2026-10-09T11:47:16.841Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -106,7 +106,7 @@
       "navio": "SEATTLE BRIDGE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
+      "para": "2C22 - TECON 2 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
@@ -341,6 +341,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 16:00",
+      "imo": "9560352",
+      "navio": "SEATTLE BRIDGE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 17:00",
       "imo": "9788459",
       "navio": "MR ALDO",
@@ -388,16 +398,6 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 08:30",
-      "imo": "9560352",
-      "navio": "SEATTLE BRIDGE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
