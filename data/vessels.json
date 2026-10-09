@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:03:15.544Z",
+  "updatedAt": "2026-10-09T18:04:21.622Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -568,6 +568,76 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "09/10/2026 22:00",
+      "imo": "9928906",
+      "navio": "COSCO SHIPPING FAN RONG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 05:00",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 05:30",
+      "imo": "9818216",
+      "navio": "NORDIC AQUARIUS",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 08:00",
+      "imo": "9837597",
+      "navio": "UNIVERSAL LEADER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 13:00",
+      "imo": "9928906",
+      "navio": "COSCO SHIPPING FAN RONG",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 15:30",
+      "imo": "9976410",
+      "navio": "GREEN ITAQUI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 19:00",
+      "imo": "9844576",
+      "navio": "CL YELLOW RIVER",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     }
   ]
 }
