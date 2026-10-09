@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T19:43:15.479Z",
+  "updatedAt": "2026-10-09T19:44:17.471Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 19:30",
+      "imo": "9786152",
+      "navio": "MAERSK CALLAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
