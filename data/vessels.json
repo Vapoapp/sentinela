@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:43:17.599Z",
+  "updatedAt": "2026-10-09T02:44:19.308Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 95
+      "count": 96
     },
     "niteroi": {
       "ok": true,
@@ -692,22 +692,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/10/2026 21:00",
-      "imo": "9767807",
-      "navio": "CBO IGUAÇU",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/10/2026 21:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 21:00",
+      "imo": "9767807",
+      "navio": "CBO IGUAÇU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -878,6 +878,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 08:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
