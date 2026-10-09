@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:18:20.869Z",
+  "updatedAt": "2026-10-09T17:19:17.135Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -371,16 +371,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 16:00",
-      "imo": "9560352",
-      "navio": "SEATTLE BRIDGE",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 17:00",
       "imo": "9227039",
       "navio": "FELIXSTOWE",
@@ -428,6 +418,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9560352",
+      "navio": "SEATTLE BRIDGE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
