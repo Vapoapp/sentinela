@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T06:52:19.189Z",
+  "updatedAt": "2026-10-09T06:53:15.242Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 04:09",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
