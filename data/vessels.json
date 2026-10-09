@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:22:20.450Z",
+  "updatedAt": "2026-10-09T02:23:16.145Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 93
+      "count": 94
     },
     "niteroi": {
       "ok": true,
@@ -878,6 +878,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 08:00",
+      "imo": "9478638",
+      "navio": "SEAWAYS SKOPELOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
