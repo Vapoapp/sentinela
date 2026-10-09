@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T01:14:18.032Z",
+  "updatedAt": "2026-10-09T01:15:24.592Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 85
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/10/2026 21:00",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
