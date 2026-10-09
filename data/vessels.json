@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T18:11:15.142Z",
+  "updatedAt": "2026-10-09T18:12:15.668Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -347,16 +347,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 14:00",
-      "imo": "1031783",
-      "navio": "BURAN",
-      "tipo": "MUDANÇA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
