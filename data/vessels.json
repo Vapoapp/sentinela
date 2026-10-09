@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:17:16.902Z",
+  "updatedAt": "2026-10-09T02:18:18.052Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 91
+      "count": 92
     },
     "niteroi": {
       "ok": true,
@@ -848,6 +848,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 06:30",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
