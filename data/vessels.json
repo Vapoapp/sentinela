@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T02:53:16.143Z",
+  "updatedAt": "2026-10-09T02:54:19.898Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 99
+      "count": 100
     },
     "niteroi": {
       "ok": true,
@@ -868,6 +868,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 07:00",
+      "imo": "9711420",
+      "navio": "PMS ENZIAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
