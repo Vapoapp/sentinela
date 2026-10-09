@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-09T18:31:16.136Z",
+  "updatedAt": "2026-10-09T18:32:15.160Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 08:30",
+      "imo": "9225653",
+      "navio": "ALESSIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
