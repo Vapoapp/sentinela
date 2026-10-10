@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T20:16:16.701Z",
+  "updatedAt": "2026-10-10T20:17:17.739Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -382,16 +382,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 13:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 13:00",
       "imo": "9514092",
       "navio": "BJ BLUE MARLIN",
       "tipo": "SAÍDA",
@@ -408,6 +398,16 @@
       "de": "-",
       "para": "Fundeio - WPT 65 - 2F6A",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 13:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -526,6 +526,16 @@
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 18:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
