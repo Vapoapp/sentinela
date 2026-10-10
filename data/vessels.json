@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T00:37:14.663Z",
+  "updatedAt": "2026-10-10T00:38:17.394Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 07:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
