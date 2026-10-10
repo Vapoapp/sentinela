@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T02:44:16.302Z",
+  "updatedAt": "2026-10-10T02:45:25.536Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -402,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 16:00",
-      "imo": "9098309",
-      "navio": "LH COMANDANTE",
-      "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 16:00",
       "imo": "9165970",
       "navio": "MARLIN STOLMEN (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 16:00",
+      "imo": "9098309",
+      "navio": "LH COMANDANTE",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,22 +572,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 23:00",
       "imo": "9596868",
       "navio": "GILBERTO FREYRE",
       "tipo": "SAÍDA",
       "de": "Fundeio - WPT 65 - 2F6A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -602,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9424962",
-      "navio": "SAVEIROS PELICANO",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 23:00",
       "imo": "9560352",
       "navio": "SEATTLE BRIDGE",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9424962",
+      "navio": "SAVEIROS PELICANO",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -638,6 +638,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 00:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
