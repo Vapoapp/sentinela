@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:22:16.804Z",
+  "updatedAt": "2026-10-10T11:23:14.454Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,16 +341,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 17:30",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 19:30",
       "imo": "9786152",
       "navio": "MAERSK CALLAO",
@@ -368,6 +358,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 22:30",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
