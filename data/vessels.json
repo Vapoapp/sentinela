@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T08:28:16.397Z",
+  "updatedAt": "2026-10-10T08:29:14.573Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -348,6 +348,26 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 08:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 08:30",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
