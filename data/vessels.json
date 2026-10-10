@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T18:05:17.668Z",
+  "updatedAt": "2026-10-10T18:06:17.888Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -422,16 +422,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 14:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 14:00",
       "imo": "1094979",
       "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
       "tipo": "SAÍDA",
@@ -441,13 +431,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 14:30",
-      "imo": "1031783",
-      "navio": "BURAN",
-      "tipo": "MUDANÇA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "Fundeio - WPT 62 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
+      "inicio": "10/10/2026 14:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -461,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 14:30",
+      "imo": "1031783",
+      "navio": "BURAN",
+      "tipo": "MUDANÇA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 15:30",
       "imo": "9253208",
       "navio": "GRANDE SAN PAOLO",
@@ -468,6 +468,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 15:30",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
