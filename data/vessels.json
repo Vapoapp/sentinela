@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:27:16.281Z",
+  "updatedAt": "2026-10-10T11:28:15.961Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 02:00",
+      "imo": "9619438",
+      "navio": "MSC ALBANY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 02:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "MUDANÇA",
@@ -158,16 +168,6 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 05:00",
-      "imo": "9619438",
-      "navio": "MSC ALBANY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -371,7 +371,7 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 08:00",
+      "inicio": "11/10/2026 05:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
