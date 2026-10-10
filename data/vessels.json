@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T11:19:13.824Z",
+  "updatedAt": "2026-10-10T11:20:22.256Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -72,16 +72,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 01:00",
-      "imo": "9514092",
-      "navio": "BJ BLUE MARLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 01:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "ENTRADA",
@@ -97,6 +87,16 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 01:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -188,16 +188,6 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/10/2026 06:30",
-      "imo": "9253208",
-      "navio": "GRANDE SAN PAOLO",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +308,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 15:30",
+      "imo": "9253208",
+      "navio": "GRANDE SAN PAOLO",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
