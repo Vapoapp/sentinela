@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T02:55:18.021Z",
+  "updatedAt": "2026-10-10T02:56:15.331Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -562,12 +562,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
+      "imo": "9642590",
+      "navio": "PINGUIM",
       "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,12 +582,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -602,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9560352",
-      "navio": "SEATTLE BRIDGE",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 23:00",
       "imo": "9424962",
       "navio": "SAVEIROS PELICANO",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9560352",
+      "navio": "SEATTLE BRIDGE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -648,6 +648,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 00:30",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
