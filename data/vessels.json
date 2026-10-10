@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T13:07:15.453Z",
+  "updatedAt": "2026-10-10T13:08:15.999Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -551,16 +551,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "10/10/2026 15:30",
-      "imo": "9976410",
-      "navio": "GREEN ITAQUI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "302 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "10/10/2026 16:00",
       "imo": "9928906",
       "navio": "COSCO SHIPPING FAN RONG",
@@ -568,6 +558,16 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "10/10/2026 18:30",
+      "imo": "9976410",
+      "navio": "GREEN ITAQUI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
