@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:06:16.246Z",
+  "updatedAt": "2026-10-10T02:07:15.532Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -562,16 +562,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 23:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "MUDANÇA",
@@ -582,12 +572,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9478638",
-      "navio": "SEAWAYS SKOPELOS",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F03 - Feiticeira",
+      "de": "Fundeio - WPT 65 - 2F6A",
       "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +588,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9478638",
+      "navio": "SEAWAYS SKOPELOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F03 - Feiticeira",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
