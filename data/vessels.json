@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T21:00:27.647Z",
+  "updatedAt": "2026-10-10T21:01:16.282Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/10/2026 06:00",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
