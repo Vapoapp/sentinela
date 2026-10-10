@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-10T02:03:16.618Z",
+  "updatedAt": "2026-10-10T02:04:16.011Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -551,6 +551,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 22:30",
+      "imo": "9424962",
+      "navio": "SAVEIROS PELICANO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
@@ -558,16 +568,6 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/10/2026 23:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,12 +582,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/10/2026 23:00",
-      "imo": "9478638",
-      "navio": "SEAWAYS SKOPELOS",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F03 - Feiticeira",
+      "de": "Fundeio - WPT 65 - 2F6A",
       "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -598,6 +598,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/10/2026 23:00",
+      "imo": "9478638",
+      "navio": "SEAWAYS SKOPELOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F03 - Feiticeira",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
