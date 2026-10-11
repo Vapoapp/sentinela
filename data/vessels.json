@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T22:16:17.624Z",
+  "updatedAt": "2026-10-11T22:17:15.457Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 12:00",
-      "imo": "9368194",
-      "navio": "KAMILLA KOSAN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 12:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 12:00",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 21:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
