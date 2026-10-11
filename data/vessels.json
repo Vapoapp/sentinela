@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:08:14.161Z",
+  "updatedAt": "2026-10-11T03:09:15.996Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "11/10/2026 03:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
