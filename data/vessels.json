@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T01:41:16.236Z",
+  "updatedAt": "2026-10-11T01:42:17.237Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -522,20 +522,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 18:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/10/2026 18:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
@@ -608,6 +608,16 @@
       "de": "-",
       "para": "2NTO - Terminal de Óleo",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/10/2026 21:00",
+      "imo": "9668752",
+      "navio": "STARNAV REGULUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
