@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T11:40:21.125Z",
+  "updatedAt": "2026-10-11T11:41:15.007Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 13:00",
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Niterói",
