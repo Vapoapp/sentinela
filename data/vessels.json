@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T14:11:15.080Z",
+  "updatedAt": "2026-10-11T14:12:15.663Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -72,16 +72,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 05:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 05:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
@@ -97,6 +87,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 05:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 08:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 08:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "ENTRADA",
@@ -161,13 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 08:30",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "inicio": "11/10/2026 08:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -181,13 +171,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 09:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
+      "inicio": "11/10/2026 08:30",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -198,6 +188,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 09:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 09:30",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 12:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 12:00",
       "imo": "9368194",
       "navio": "KAMILLA KOSAN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 12:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
