@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T20:03:15.287Z",
+  "updatedAt": "2026-10-11T20:04:18.799Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 06:30",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 06:30",
       "imo": "9530216",
       "navio": "OLIN CONQUEROR",
       "tipo": "SAÍDA",
@@ -202,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 09:30",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 09:30",
       "imo": "9426972",
       "navio": "CBO BIANCA",
       "tipo": "SAÍDA",
@@ -228,6 +228,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 09:30",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
