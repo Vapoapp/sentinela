@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T20:05:19.205Z",
+  "updatedAt": "2026-10-11T20:06:15.601Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/10/2026 11:00",
-      "imo": "1042354",
-      "navio": "SEAWAYS BALBOA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01 - Visita",
-      "agente": "AMART SERVICES CONSULTORIA, AGENCIAMENTO MARITIMO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/10/2026 11:00",
       "imo": "9696802",
       "navio": "STARNAV AQUARIUS (REB)",
       "tipo": "MUDANÇA",
       "de": "2P14 - Terminal Petrobrás (Armazém 14)",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 11:00",
+      "imo": "1042354",
+      "navio": "SEAWAYS BALBOA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01 - Visita",
+      "agente": "AMART SERVICES CONSULTORIA, AGENCIAMENTO MARITIMO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,6 +378,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/10/2026 17:30",
+      "imo": "9710880",
+      "navio": "SEVEN CRUZEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
