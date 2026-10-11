@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T19:49:16.363Z",
+  "updatedAt": "2026-10-11T19:50:19.245Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 09:00",
+      "imo": "9723253",
+      "navio": "BREMERHAVEN EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
