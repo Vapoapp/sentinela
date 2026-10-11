@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T19:47:14.798Z",
+  "updatedAt": "2026-10-11T19:48:15.723Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 13:30",
+      "imo": "9179751",
+      "navio": "NORMAND PIONEER",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
