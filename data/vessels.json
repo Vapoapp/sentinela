@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T04:54:18.282Z",
+  "updatedAt": "2026-10-12T04:55:18.496Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 06:00",
+      "imo": "9928918",
+      "navio": "COSCO SHIPPING CHANG SHENG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
