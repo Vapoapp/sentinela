@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T22:17:16.474Z",
+  "updatedAt": "2026-10-12T22:18:15.340Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 12:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 12:00",
       "imo": "9686144",
       "navio": "HOS REMINGTON",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 12:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,6 +532,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 22:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 22:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "SAÍDA",
@@ -551,16 +561,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 22:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
       "imo": "9595503",
       "navio": "EVER LEADER",
@@ -568,6 +568,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9757723",
+      "navio": "AMETISTA BRASIL (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
