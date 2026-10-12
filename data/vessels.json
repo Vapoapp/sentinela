@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T14:41:18.207Z",
+  "updatedAt": "2026-10-12T14:42:20.886Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -72,22 +72,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 02:00",
-      "imo": "9763760",
-      "navio": "BRAM BUCK",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 02:00",
       "imo": "9477397",
       "navio": "CBO CAROLINA",
       "tipo": "MUDANÇA",
       "de": "NIT - ATRACADO NITERÓI",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 02:00",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 06:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 06:00",
       "imo": "9492050",
       "navio": "MADRE DE DEUS",
       "tipo": "SAÍDA",
@@ -182,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 06:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 06:00",
       "imo": "9928918",
       "navio": "COSCO SHIPPING CHANG SHENG",
       "tipo": "ENTRADA",
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 08:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 08:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 08:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,16 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 11:00",
-      "imo": "9855692",
-      "navio": "RUKAI BENEFIT",
-      "tipo": "SAÍDA",
-      "de": "2N09 - Armazém 10",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 11:00",
       "imo": "1031185",
       "navio": "MSC STELLA M X",
       "tipo": "ENTRADA",
@@ -301,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 12:00",
-      "imo": "9806483",
-      "navio": "STARNAV LIBRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "12/10/2026 11:00",
+      "imo": "9855692",
+      "navio": "RUKAI BENEFIT",
+      "tipo": "SAÍDA",
+      "de": "2N09 - Armazém 10",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +308,26 @@
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 12:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 12:00",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +382,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/10/2026 15:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 15:00",
       "imo": "9723253",
       "navio": "BREMERHAVEN EXPRESS",
       "tipo": "SAÍDA",
@@ -381,13 +401,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/10/2026 15:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
+      "inicio": "12/10/2026 16:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
