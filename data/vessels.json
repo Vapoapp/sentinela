@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:33:16.889Z",
+  "updatedAt": "2026-10-12T09:34:17.081Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -331,16 +331,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "12/10/2026 11:00",
-      "imo": "9435105",
-      "navio": "EVA",
-      "tipo": "SAÍDA",
-      "de": "303 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "12/10/2026 13:30",
       "imo": "9437696",
       "navio": "CAPE PYLOS",
@@ -368,6 +358,16 @@
       "de": "Fundeio - 5FB1 - Área de Fundeio B1",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "12/10/2026 19:00",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
