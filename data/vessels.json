@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T09:49:14.822Z",
+  "updatedAt": "2026-10-12T09:50:21.168Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "-",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 15:00",
+      "imo": "9723253",
+      "navio": "BREMERHAVEN EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
