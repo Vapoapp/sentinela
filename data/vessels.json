@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T17:59:15.702Z",
+  "updatedAt": "2026-10-12T18:00:27.046Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 3
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -518,6 +518,46 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "12/10/2026 23:00",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/10/2026 04:00",
+      "imo": "9928918",
+      "navio": "COSCO SHIPPING CHANG SHENG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/10/2026 09:30",
+      "imo": "9837597",
+      "navio": "UNIVERSAL LEADER",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/10/2026 15:30",
+      "imo": "1018585",
+      "navio": "XH ATOP",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
