@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T04:44:15.579Z",
+  "updatedAt": "2026-10-12T04:45:22.418Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/10/2026 01:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
