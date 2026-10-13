@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:23:21.587Z",
+  "updatedAt": "2026-10-13T11:24:19.580Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -171,16 +171,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 07:00",
       "imo": "9788409",
       "navio": "BRAM FORCE",
@@ -202,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 07:00",
-      "imo": "9186223",
-      "navio": "SAGA INVENTANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 07:00",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 07:00",
+      "imo": "9186223",
+      "navio": "SAGA INVENTANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -288,6 +278,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 14:30",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
