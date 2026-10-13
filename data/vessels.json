@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T17:44:16.632Z",
+  "updatedAt": "2026-10-13T17:45:26.471Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -398,6 +398,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 18:30",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
