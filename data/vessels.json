@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T08:11:17.129Z",
+  "updatedAt": "2026-10-13T08:12:16.408Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -51,6 +51,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 04:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 05:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS (REB)",
@@ -72,12 +82,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9595503",
-      "navio": "EVER LEADER",
+      "imo": "9757723",
+      "navio": "AMETISTA BRASIL (REB)",
       "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -92,12 +102,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9757723",
-      "navio": "AMETISTA BRASIL (REB)",
+      "imo": "9595503",
+      "navio": "EVER LEADER",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
