@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T16:03:16.332Z",
+  "updatedAt": "2026-10-13T16:04:18.655Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -326,6 +326,16 @@
       "navio": "SKANDI ANGRA",
       "tipo": "SAÍDA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 15:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
