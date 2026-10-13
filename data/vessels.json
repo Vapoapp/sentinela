@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T10:17:15.829Z",
+  "updatedAt": "2026-10-13T10:18:19.043Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 00:00",
+      "imo": "9612284",
+      "navio": "PRIME STAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 00:00",
@@ -112,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9595503",
-      "navio": "EVER LEADER",
+      "imo": "9757723",
+      "navio": "AMETISTA BRASIL (REB)",
       "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,12 +142,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9757723",
-      "navio": "AMETISTA BRASIL (REB)",
+      "imo": "9595503",
+      "navio": "EVER LEADER",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
