@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T10:27:15.483Z",
+  "updatedAt": "2026-10-13T10:28:16.515Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -162,6 +162,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
       "imo": "4410455991",
       "navio": "PEDRA DO SAL",
       "tipo": "ENTRADA",
@@ -178,16 +188,6 @@
       "de": "2N18 - Armazém 18",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9368194",
-      "navio": "KAMILLA KOSAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 08:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 08:00",
       "imo": "9165970",
       "navio": "MARLIN STOLMEN (REB)",
       "tipo": "SAÍDA",
@@ -231,13 +241,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 08:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "inicio": "13/10/2026 12:50",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
