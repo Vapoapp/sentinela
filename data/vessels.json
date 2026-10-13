@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T03:39:16.864Z",
+  "updatedAt": "2026-10-13T03:40:22.078Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -31,6 +31,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 00:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 02:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
@@ -38,6 +48,46 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9595503",
+      "navio": "EVER LEADER",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9757723",
+      "navio": "AMETISTA BRASIL (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N18 - Armazém 18",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -54,60 +104,10 @@
       "inicio": "13/10/2026 06:00",
       "imo": "4410455991",
       "navio": "PEDRA DO SAL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N18 - Armazém 18",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
       "tipo": "MUDANÇA",
       "de": "2N18 - Armazém 18",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9368194",
-      "navio": "KAMILLA KOSAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9595503",
-      "navio": "EVER LEADER",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9757723",
-      "navio": "AMETISTA BRASIL (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 07:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 07:00",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
