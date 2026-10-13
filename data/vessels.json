@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T10:20:25.434Z",
+  "updatedAt": "2026-10-13T10:21:15.222Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -112,12 +112,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
       "imo": "9787405",
       "navio": "PARDELA (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9595503",
+      "navio": "EVER LEADER",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,22 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9368194",
-      "navio": "KAMILLA KOSAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9595503",
-      "navio": "EVER LEADER",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
+      "tipo": "MUDANÇA",
+      "de": "2N18 - Armazém 18",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,12 +182,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
-      "tipo": "MUDANÇA",
-      "de": "2N18 - Armazém 18",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
