@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T12:57:15.654Z",
+  "updatedAt": "2026-10-13T12:58:18.109Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 05:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 05:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS (REB)",
       "tipo": "MUDANÇA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 05:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "13/10/2026 06:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
       "imo": "9757723",
       "navio": "AMETISTA BRASIL (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
