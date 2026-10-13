@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-13T03:35:17.266Z",
+  "updatedAt": "2026-10-13T03:36:17.368Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 13
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -38,6 +38,16 @@
       "de": "2N18 - Armazém 18",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 65 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
