@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T17:59:21.272Z",
+  "updatedAt": "2026-10-13T18:00:30.381Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 3
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -518,6 +518,86 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 04:00",
+      "imo": "9374832",
+      "navio": "BERGE BROAD PEAK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - F2 - FUNDEIO F2",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 05:00",
+      "imo": "9708928",
+      "navio": "ES VANQUISH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 06:00",
+      "imo": "9719939",
+      "navio": "MINERAL NACER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 07:00",
+      "imo": "9654804",
+      "navio": "CAPE INDIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 08:00",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 09:00",
+      "imo": "9928918",
+      "navio": "COSCO SHIPPING CHANG SHENG",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 17:00",
+      "imo": "9855654",
+      "navio": "BETTY K",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 19:00",
+      "imo": "9849241",
+      "navio": "China Steel Prestige",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
