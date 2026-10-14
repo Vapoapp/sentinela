@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T08:44:18.637Z",
+  "updatedAt": "2026-10-14T08:45:21.955Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -141,13 +141,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 07:00",
-      "imo": "9919773",
-      "navio": "SFL BONAIRE",
+      "inicio": "14/10/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,6 +168,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 07:00",
+      "imo": "9919773",
+      "navio": "SFL BONAIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
