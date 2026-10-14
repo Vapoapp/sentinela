@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T18:41:22.070Z",
+  "updatedAt": "2026-10-14T18:43:15.022Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 14:00",
+      "imo": "9702065",
+      "navio": "MSC LETIZIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 14:00",
       "imo": "9834624",
       "navio": "BLUE KRAKEN",
       "tipo": "SAÍDA",
@@ -421,13 +431,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 14:00",
-      "imo": "9702065",
-      "navio": "MSC LETIZIA",
+      "inicio": "14/10/2026 15:00",
+      "imo": "9960239",
+      "navio": "SSI AURORA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "Fundeio - 2F01N - Visita Norte",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 15:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,26 +468,6 @@
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WORLD SHIPPING AGENCIAMENTOS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 15:00",
-      "imo": "9453810",
-      "navio": "ZUMBI DOS PALMARES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 64 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 15:00",
-      "imo": "9960239",
-      "navio": "SSI AURORA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 17:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
