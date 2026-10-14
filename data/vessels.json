@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T03:40:19.990Z",
+  "updatedAt": "2026-10-14T03:41:16.693Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 05:00",
+      "imo": "9364253",
+      "navio": "THESEUS Z (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
