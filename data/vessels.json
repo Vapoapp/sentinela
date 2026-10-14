@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T02:15:23.545Z",
+  "updatedAt": "2026-10-14T02:16:16.726Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "2N09 - Armazém 10",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 21:00",
+      "imo": "9511636",
+      "navio": "UAL BRAZIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 65 - 2F6A",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
