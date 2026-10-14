@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T19:17:17.643Z",
+  "updatedAt": "2026-10-14T19:18:19.544Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 14:00",
+      "imo": "9612155",
+      "navio": "NAVA SOCRATES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 14:00",
       "imo": "9702065",
       "navio": "MSC LETIZIA",
       "tipo": "ENTRADA",
@@ -452,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 15:00",
-      "imo": "9165970",
-      "navio": "MARLIN STOLMEN (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 15:00",
       "imo": "9335886",
       "navio": "PORT ALBERNI",
       "tipo": "SAÍDA",
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WORLD SHIPPING AGENCIAMENTOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 15:00",
+      "imo": "9165970",
+      "navio": "MARLIN STOLMEN (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,22 +582,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 06:00",
-      "imo": "9453365",
-      "navio": "SPYROS V",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 06:00",
       "imo": "9382229",
       "navio": "NORTH OCEAN 102",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 06:00",
+      "imo": "9453365",
+      "navio": "SPYROS V",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
