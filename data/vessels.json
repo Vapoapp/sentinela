@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T02:16:16.726Z",
+  "updatedAt": "2026-10-14T02:17:18.380Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -92,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 05:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 05:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS (REB)",
       "tipo": "MUDANÇA",
@@ -111,41 +101,21 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
-      "tipo": "MUDANÇA",
-      "de": "2N18 - Armazém 18",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N18 - Armazém 18",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
-      "tipo": "MUDANÇA",
-      "de": "2N18 - Armazém 18",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 06:00",
-      "imo": "9368194",
-      "navio": "KAMILLA KOSAN",
+      "inicio": "13/10/2026 05:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 65 - 2F6A",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "9757723",
+      "navio": "AMETISTA BRASIL (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
@@ -162,10 +132,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 06:00",
-      "imo": "9757723",
-      "navio": "AMETISTA BRASIL (REB)",
+      "imo": "9368194",
+      "navio": "KAMILLA KOSAN",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - WPT 65 - 2F6A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
@@ -181,23 +151,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 07:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
+      "inicio": "13/10/2026 06:00",
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "2N18 - Armazém 18",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 07:00",
-      "imo": "9484845",
-      "navio": "STRIL EXPLORER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIM - MOCANGUE",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "inicio": "13/10/2026 06:00",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N18 - Armazém 18",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 06:00",
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
+      "tipo": "MUDANÇA",
+      "de": "2N18 - Armazém 18",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +198,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 07:00",
+      "imo": "9484845",
+      "navio": "STRIL EXPLORER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIM - MOCANGUE",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 07:00",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 14:30",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/10/2026 14:30",
       "imo": "9814973",
       "navio": "SEALOADER 2",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/10/2026 14:30",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -528,6 +528,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 04:00",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
