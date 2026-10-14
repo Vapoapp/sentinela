@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T05:35:18.023Z",
+  "updatedAt": "2026-10-14T05:36:18.085Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 07:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
