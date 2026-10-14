@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:41:17.298Z",
+  "updatedAt": "2026-10-14T11:42:16.054Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -221,6 +221,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 08:30",
+      "imo": "9416991",
+      "navio": "NYK RUMINA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 10:00",
       "imo": "1042354",
       "navio": "SEAWAYS BALBOA",
@@ -258,16 +268,6 @@
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 12:00",
-      "imo": "9416991",
-      "navio": "NYK RUMINA",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
