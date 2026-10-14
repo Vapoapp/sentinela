@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T03:35:20.498Z",
+  "updatedAt": "2026-10-14T03:36:20.377Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -31,6 +31,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 00:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 01:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
@@ -38,6 +48,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 02:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
