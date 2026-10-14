@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:26:18.615Z",
+  "updatedAt": "2026-10-14T18:27:16.348Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "angra": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "301 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ATLANTIC OCEAN COMERCIAL EXP E IMPORT SERV E CONSULT EIRELI"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/10/2026 03:30",
+      "imo": "9508419",
+      "navio": "BBC FUJI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Itaguaí",
