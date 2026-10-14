@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-14T01:35:18.653Z",
+  "updatedAt": "2026-10-14T01:36:22.613Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -432,20 +432,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 19:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/10/2026 19:00",
-      "imo": "9703631",
-      "navio": "BRAM TITAN",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -582,6 +582,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 12:00",
+      "imo": "9416991",
+      "navio": "NYK RUMINA",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 12:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "ENTRADA",
@@ -591,13 +601,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 12:00",
-      "imo": "9416991",
-      "navio": "NYK RUMINA",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "inicio": "14/10/2026 14:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
