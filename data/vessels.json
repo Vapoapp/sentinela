@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:18:19.544Z",
+  "updatedAt": "2026-10-14T19:19:15.645Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -741,6 +741,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "14/10/2026 23:00",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "15/10/2026 01:00",
       "imo": "9640059",
       "navio": "TEXEL ISLAND",
@@ -758,6 +768,16 @@
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "15/10/2026 04:30",
+      "imo": "9593361",
+      "navio": "SC MADISON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
