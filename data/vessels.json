@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:37:17.250Z",
+  "updatedAt": "2026-10-14T12:38:16.875Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "14/10/2026 19:00",
+      "imo": "9493872",
+      "navio": "ELOS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
