@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:32:20.278Z",
+  "updatedAt": "2026-10-15T17:33:17.029Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -472,6 +472,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 15:00",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 15:00",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "SAÍDA",
@@ -498,16 +508,6 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 17:00",
-      "imo": "9435105",
-      "navio": "EVA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
