@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T03:49:16.444Z",
+  "updatedAt": "2026-10-15T03:50:20.462Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -47,6 +47,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 03:00",
+      "imo": "3813885305",
+      "navio": "C NITERÓI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
