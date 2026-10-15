@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T11:18:18.040Z",
+  "updatedAt": "2026-10-15T11:19:16.299Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 07:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 07:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "ENTRADA",
@@ -256,7 +246,7 @@
       "navio": "NC BRISA (REB S/L)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
@@ -385,7 +375,7 @@
       "imo": "9612789",
       "navio": "NC BRISA (REB S/L)",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
