@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:29:18.069Z",
+  "updatedAt": "2026-10-15T11:30:25.457Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -291,6 +291,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 12:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 14:00",
       "imo": "9703667",
       "navio": "BRAM HERO",
@@ -312,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 17:00",
-      "imo": "9919773",
-      "navio": "SFL BONAIRE",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 17:00",
       "imo": "9435105",
       "navio": "EVA",
       "tipo": "SAÍDA",
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 17:00",
+      "imo": "9919773",
+      "navio": "SFL BONAIRE",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,16 +398,6 @@
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 05:00",
-      "imo": "9289087",
-      "navio": "MSC BUSAN VIII",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
