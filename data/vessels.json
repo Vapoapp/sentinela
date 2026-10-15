@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:14:17.664Z",
+  "updatedAt": "2026-10-15T20:15:25.638Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -892,6 +892,16 @@
     {
       "porto": "Itaguaí",
       "inicio": "16/10/2026 04:00",
+      "imo": "9493872",
+      "navio": "ELOS",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "16/10/2026 04:00",
       "imo": "9902275",
       "navio": "VITA UNITY",
       "tipo": "SAÍDA",
@@ -902,16 +912,6 @@
     {
       "porto": "Itaguaí",
       "inicio": "16/10/2026 05:30",
-      "imo": "9493872",
-      "navio": "ELOS",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "16/10/2026 06:30",
       "imo": "9719939",
       "navio": "MINERAL NACER",
       "tipo": "MUDANÇA",
