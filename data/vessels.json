@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:35:24.774Z",
+  "updatedAt": "2026-10-15T17:36:20.459Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -541,6 +541,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 18:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 18:30",
       "imo": "9641807",
       "navio": "EKATERINA",
@@ -558,16 +568,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 20:00",
-      "imo": "9598256",
-      "navio": "EAGLE PARAIBA",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
