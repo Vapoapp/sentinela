@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T13:02:17.147Z",
+  "updatedAt": "2026-10-15T13:03:17.618Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -192,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 08:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
+      "imo": "9637777",
+      "navio": "BRASIL KNUTSEN",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "Fundeio - WPT 61 - 2F6A",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 08:00",
-      "imo": "9637777",
-      "navio": "BRASIL KNUTSEN",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - WPT 61 - 2F6A",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,11 +342,31 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 12:00",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 12:00",
       "imo": "9289087",
       "navio": "MSC BUSAN VIII",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 14:00",
+      "imo": "9181651",
+      "navio": "MSC INGRID",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
@@ -358,16 +378,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 14:00",
-      "imo": "9181651",
-      "navio": "MSC INGRID",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
