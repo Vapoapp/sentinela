@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T01:26:17.574Z",
+  "updatedAt": "2026-10-15T01:27:14.198Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 08:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 08:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "MUDANÇA",
@@ -222,32 +232,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 08:00",
-      "imo": "9379014",
-      "navio": "A.H. GIORGIO P.",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "FINARGE APOIO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 08:00",
-      "imo": "9379014",
-      "navio": "A.H. GIORGIO P.",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "FINARGE APOIO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 08:00",
       "imo": "9165970",
       "navio": "MARLIN STOLMEN (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 08:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -342,12 +342,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 12:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9594731",
+      "navio": "SEAWAYS BRAZOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 12:00",
-      "imo": "9594731",
-      "navio": "SEAWAYS BRAZOS",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -378,16 +378,6 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 13:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2N09 - Armazém 10",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -411,6 +401,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 13:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2N09 - Armazém 10",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 14:00",
+      "imo": "9612155",
+      "navio": "NAVA SOCRATES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 14:00",
       "imo": "9702065",
       "navio": "MSC LETIZIA",
@@ -431,13 +441,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 14:00",
-      "imo": "9612155",
-      "navio": "NAVA SOCRATES",
+      "inicio": "14/10/2026 15:00",
+      "imo": "9960239",
+      "navio": "SSI AURORA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F03 - Feiticeira",
+      "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 15:00",
+      "imo": "9453810",
+      "navio": "ZUMBI DOS PALMARES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -458,26 +478,6 @@
       "de": "2N09 - Armazém 10",
       "para": "-",
       "agente": "WORLD SHIPPING AGENCIAMENTOS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 15:00",
-      "imo": "9453810",
-      "navio": "ZUMBI DOS PALMARES",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 64 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 15:00",
-      "imo": "9960239",
-      "navio": "SSI AURORA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01N - Visita Norte",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,16 +532,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 17:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 17:00",
       "imo": "9435105",
       "navio": "EVA",
       "tipo": "ENTRADA",
@@ -561,6 +551,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 17:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 17:30",
       "imo": "9644213",
       "navio": "BRAM BUZIOS",
@@ -572,22 +572,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 18:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 18:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 18:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,16 +632,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 21:00",
-      "imo": "9612155",
-      "navio": "NAVA SOCRATES",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 21:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "ENTRADA",
@@ -661,13 +651,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 22:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
+      "inicio": "14/10/2026 21:00",
+      "imo": "9612155",
+      "navio": "NAVA SOCRATES",
       "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "de": "Fundeio - 2F01 - Visita",
       "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
@@ -678,6 +668,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 22:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -731,13 +731,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 05:30",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
+      "inicio": "15/10/2026 05:00",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
       "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -748,6 +748,26 @@
       "de": "-",
       "para": "Fundeio - WPT 65 - 2F6A",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 05:30",
+      "imo": "9960239",
+      "navio": "SSI AURORA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01N - Visita Norte",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 05:30",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
