@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T00:31:17.516Z",
+  "updatedAt": "2026-10-15T00:32:16.876Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 13:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "MUDANÇA",
-      "de": "2N09 - Armazém 10",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/10/2026 13:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 13:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2N09 - Armazém 10",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/10/2026 22:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/10/2026 22:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "MUDANÇA",
@@ -662,22 +672,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 00:00",
-      "imo": "9600578",
-      "navio": "SKANDI URCA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 00:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 00:00",
+      "imo": "9600578",
+      "navio": "SKANDI URCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
