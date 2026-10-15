@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:35:20.409Z",
+  "updatedAt": "2026-10-15T11:36:19.714Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -311,6 +311,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 14:00",
+      "imo": "9181651",
+      "navio": "MSC INGRID",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 16:00",
       "imo": "9458157",
       "navio": "GAZ SYNERGY",
@@ -407,16 +417,6 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 08:00",
-      "imo": "9181651",
-      "navio": "MSC INGRID",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
