@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:11:18.514Z",
+  "updatedAt": "2026-10-15T15:12:20.004Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "ESMA - ESTALEIRO MAUÁ",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "15/10/2026 12:00",
+      "imo": "9466099",
+      "navio": "PARCEL DO BADEJO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
