@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T11:08:17.661Z",
+  "updatedAt": "2026-10-15T11:09:17.879Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 17:00",
+      "imo": "9919773",
+      "navio": "SFL BONAIRE",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 17:00",
       "imo": "9435105",
       "navio": "EVA",
       "tipo": "SAÍDA",
@@ -338,16 +348,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 17:00",
-      "imo": "9919773",
-      "navio": "SFL BONAIRE",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -417,6 +417,16 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 08:00",
+      "imo": "9181651",
+      "navio": "MSC INGRID",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
