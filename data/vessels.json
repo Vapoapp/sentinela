@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T01:33:15.427Z",
+  "updatedAt": "2026-10-15T01:34:18.180Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 86
+      "count": 87
     },
     "niteroi": {
       "ok": true,
@@ -728,6 +728,16 @@
       "de": "2N16 - Armazém 16",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 05:00",
+      "imo": "9423437",
+      "navio": "AKOFS SANTOS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "Fundeio - WPT 92 - AF Preferencial Gusa",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
