@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-15T08:59:16.940Z",
+  "updatedAt": "2026-10-15T09:00:30.543Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 07:00",
-      "imo": "9600580",
-      "navio": "SKANDI ANGRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 07:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 07:00",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +308,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 18:30",
+      "imo": "9641807",
+      "navio": "EKATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N08 - Pátio 9",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
