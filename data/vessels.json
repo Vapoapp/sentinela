@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T20:53:16.493Z",
+  "updatedAt": "2026-10-16T20:54:15.953Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -521,6 +521,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 18:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 19:00",
       "imo": "9687368",
       "navio": "BRAM BOA VISTA",
@@ -562,22 +572,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 23:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "2R12 - TECON 4 - MCAR",
-      "agente": "MSC MEDITERRANEAN"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 23:00",
       "imo": "9389576",
       "navio": "SKANDI SALVADOR",
       "tipo": "MUDANÇA",
       "de": "2N05 - Armazém 6",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 23:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2R12 - TECON 4 - MCAR",
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
