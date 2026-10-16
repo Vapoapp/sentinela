@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:00:35.809Z",
+  "updatedAt": "2026-10-16T13:01:15.325Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -601,23 +601,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "16/10/2026 16:00",
+      "inicio": "16/10/2026 17:00",
       "imo": "9976501",
       "navio": "GREEN SUAPE",
       "tipo": "SAÍDA",
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "16/10/2026 18:00",
-      "imo": "9508419",
-      "navio": "BBC FUJI",
-      "tipo": "SAÍDA",
-      "de": "303 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "BRAZILIAN PORT AGENTS"
     }
   ]
 }
