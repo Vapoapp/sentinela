@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T02:24:18.166Z",
+  "updatedAt": "2026-10-16T02:25:18.400Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 99
+      "count": 100
     },
     "niteroi": {
       "ok": true,
@@ -462,16 +462,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 15:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/10/2026 15:00",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "SAÍDA",
@@ -482,12 +472,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/10/2026 15:00",
-      "imo": "9435105",
-      "navio": "EVA",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +488,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 15:00",
+      "imo": "9435105",
+      "navio": "EVA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -778,6 +778,16 @@
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 23:50",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
