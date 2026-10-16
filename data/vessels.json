@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T11:43:14.910Z",
+  "updatedAt": "2026-10-16T11:44:17.429Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 15:00",
+      "imo": "9181651",
+      "navio": "MSC INGRID",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 15:00",
       "imo": "9545857",
       "navio": "COXON TIDE (REB)",
       "tipo": "SAÍDA",
@@ -368,16 +378,6 @@
       "de": "2N05 - Armazém 6",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 06:00",
-      "imo": "9181651",
-      "navio": "MSC INGRID",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
