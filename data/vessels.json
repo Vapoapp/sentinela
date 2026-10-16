@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:51:16.118Z",
+  "updatedAt": "2026-10-16T22:52:17.194Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -731,6 +731,26 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "16/10/2026 05:00",
+      "imo": "9995650",
+      "navio": "SUR ESTE 701",
+      "tipo": "SAÍDA",
+      "de": "ESMA - ESTALEIRO MAUÁ",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/10/2026 05:30",
+      "imo": "9995648",
+      "navio": "SUR ESTE 703",
+      "tipo": "SAÍDA",
+      "de": "ESMA - ESTALEIRO MAUÁ",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
       "inicio": "16/10/2026 07:00",
       "imo": "9440708",
       "navio": "FULMAR",
@@ -758,6 +778,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "16/10/2026 16:00",
+      "imo": "3810194913",
+      "navio": "ANKH",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "OCEANICA ENGENHARIA E CONSULTORIA S.A."
     },
     {
       "porto": "Niterói",
