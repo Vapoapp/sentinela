@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T13:36:17.001Z",
+  "updatedAt": "2026-10-16T13:37:15.306Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 09:50",
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
