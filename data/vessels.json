@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:59:16.595Z",
+  "updatedAt": "2026-10-16T18:00:29.440Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -698,6 +698,76 @@
       "de": "-",
       "para": "Fundeio - 5FB1 - Área de Fundeio B1",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 01:00",
+      "imo": "9508419",
+      "navio": "BBC FUJI",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 05:00",
+      "imo": "9603221",
+      "navio": "FERNÃO DE MAGALHÃES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 11:00",
+      "imo": "9719939",
+      "navio": "MINERAL NACER",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 12:30",
+      "imo": "9849241",
+      "navio": "China Steel Prestige",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 14:30",
+      "imo": "9701358",
+      "navio": "MINERAL SUMIRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 15:30",
+      "imo": "9946300",
+      "navio": "NS PIONEER",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 17:00",
+      "imo": "9516492",
+      "navio": "HENG MAO",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
