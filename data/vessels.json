@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T02:26:17.811Z",
+  "updatedAt": "2026-10-16T02:27:15.684Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 102
+      "count": 103
     },
     "niteroi": {
       "ok": true,
@@ -801,6 +801,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "15/10/2026 23:50",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 01:00",
       "imo": "9534470",
       "navio": "INDUSTRIAL MERCHANT",
@@ -882,22 +892,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 06:00",
-      "imo": "9702065",
-      "navio": "MSC LETIZIA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 06:00",
       "imo": "9300491",
       "navio": "AQUITANIA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 06:00",
+      "imo": "9702065",
+      "navio": "MSC LETIZIA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
