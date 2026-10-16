@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T14:40:26.120Z",
+  "updatedAt": "2026-10-16T14:41:18.409Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "16/10/2026 19:30",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
