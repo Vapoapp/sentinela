@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T20:09:15.877Z",
+  "updatedAt": "2026-10-16T20:10:23.927Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 06:00",
-      "imo": "9300491",
-      "navio": "AQUITANIA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 06:00",
       "imo": "9179751",
       "navio": "NORMAND PIONEER",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 06:00",
+      "imo": "9300491",
+      "navio": "AQUITANIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,11 +332,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 11:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
-      "tipo": "SAÍDA",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
@@ -352,11 +352,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 11:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 15:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 15:00",
       "imo": "9575632",
       "navio": "TITUS TIDE (REB)",
       "tipo": "SAÍDA",
@@ -431,13 +441,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 15:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
+      "inicio": "16/10/2026 16:30",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,16 +532,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 07:00",
-      "imo": "9711420",
-      "navio": "PMS ENZIAN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 07:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
@@ -548,6 +548,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 07:00",
+      "imo": "9711420",
+      "navio": "PMS ENZIAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
