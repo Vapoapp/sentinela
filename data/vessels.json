@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-16T20:51:16.108Z",
+  "updatedAt": "2026-10-16T20:52:15.615Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -521,6 +521,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 19:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 21:00",
       "imo": "9407160",
       "navio": "SEASPAN EMPIRE",
@@ -542,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/10/2026 23:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "MUDANÇA",
-      "de": "2N05 - Armazém 6",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/10/2026 23:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "MUDANÇA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/10/2026 23:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "2N05 - Armazém 6",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
