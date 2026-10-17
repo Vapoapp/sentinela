@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T23:50:21.063Z",
+  "updatedAt": "2026-10-17T23:51:18.551Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 07:30",
+      "imo": "9798868",
+      "navio": "NICOPOLIS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "AMART SERVICES CONSULTORIA, AGENCIAMENTO MARITIMO"
     },
     {
       "porto": "Rio de Janeiro",
