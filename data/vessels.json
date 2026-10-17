@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T09:03:14.839Z",
+  "updatedAt": "2026-10-17T09:04:15.311Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -107,16 +107,6 @@
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 05:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
