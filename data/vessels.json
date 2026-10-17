@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T13:21:16.498Z",
+  "updatedAt": "2026-10-17T13:22:15.855Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -271,13 +271,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 12:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "inicio": "17/10/2026 11:30",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
       "tipo": "MUDANÇA",
-      "de": "DOCKBRASIL - DOCKBRASIL",
-      "para": "Fundeio - 2F6A - LARGO",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 12:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 12:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "DOCKBRASIL - DOCKBRASIL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
