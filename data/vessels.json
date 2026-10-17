@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T23:47:14.359Z",
+  "updatedAt": "2026-10-17T23:48:18.076Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -542,22 +542,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 20:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 20:00",
-      "imo": "9560352",
-      "navio": "SEATTLE BRIDGE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,12 +562,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 20:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9560352",
+      "navio": "SEATTLE BRIDGE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 20:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 10:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
