@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:40:24.362Z",
+  "updatedAt": "2026-10-17T19:41:14.870Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -616,6 +616,16 @@
       "navio": "MINERAL TOBY",
       "tipo": "MUDANÇA",
       "de": "Fundeio - F1 - FUNDEIO F1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/10/2026 13:30",
+      "imo": "9723502",
+      "navio": "MINERAL TOBY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FA2 - Área de Fundeio A2",
       "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
