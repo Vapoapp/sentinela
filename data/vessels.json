@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-17T03:06:16.126Z",
+  "updatedAt": "2026-10-17T03:07:16.820Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 08:00",
+      "imo": "9407160",
+      "navio": "SEASPAN EMPIRE",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 08:00",
       "imo": "8637926",
       "navio": "RIOPORT II",
       "tipo": "MUDANÇA",
@@ -131,13 +141,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 08:00",
-      "imo": "9407160",
-      "navio": "SEASPAN EMPIRE",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "inicio": "17/10/2026 12:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
