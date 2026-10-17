@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T08:46:15.047Z",
+  "updatedAt": "2026-10-17T08:47:15.065Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -371,16 +371,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "17/10/2026 12:30",
-      "imo": "9849241",
-      "navio": "China Steel Prestige",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "17/10/2026 14:00",
       "imo": "9719939",
       "navio": "MINERAL NACER",
@@ -408,6 +398,16 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "17/10/2026 18:30",
+      "imo": "9849241",
+      "navio": "China Steel Prestige",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
