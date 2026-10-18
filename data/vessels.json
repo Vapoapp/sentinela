@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T02:41:14.243Z",
+  "updatedAt": "2026-10-18T02:42:20.048Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -602,6 +602,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 22:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 22:00",
       "imo": "9770737",
       "navio": "MSC GIULIA",
       "tipo": "ENTRADA",
@@ -611,13 +621,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 22:00",
-      "imo": "9385271",
-      "navio": "HOS TAURUS (REB)",
+      "inicio": "17/10/2026 23:00",
+      "imo": "9665566",
+      "navio": "A.H. VARAZZE (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
