@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:26:15.869Z",
+  "updatedAt": "2026-10-18T11:27:16.440Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -411,16 +411,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "18/10/2026 12:00",
-      "imo": "9479242",
-      "navio": "HYUNDAI ATLANTIC",
-      "tipo": "SAÍDA",
-      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "18/10/2026 13:30",
       "imo": "9723502",
       "navio": "MINERAL TOBY",
@@ -438,6 +428,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/10/2026 18:00",
+      "imo": "9479242",
+      "navio": "HYUNDAI ATLANTIC",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
