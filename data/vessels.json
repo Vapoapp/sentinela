@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T18:42:18.405Z",
+  "updatedAt": "2026-10-18T18:43:14.397Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -428,6 +428,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2NTO - Terminal de Óleo",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 14:00",
+      "imo": "9648154",
+      "navio": "MAR LIMPO VII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
