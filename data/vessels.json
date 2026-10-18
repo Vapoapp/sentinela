@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T08:48:16.812Z",
+  "updatedAt": "2026-10-18T08:50:23.044Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -148,6 +148,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 02:30",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
