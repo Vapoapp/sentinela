@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T03:16:16.411Z",
+  "updatedAt": "2026-10-18T03:17:16.163Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 01:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
