@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T02:40:23.204Z",
+  "updatedAt": "2026-10-18T02:41:14.243Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 07:00",
+      "imo": "9711420",
+      "navio": "PMS ENZIAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 07:00",
       "imo": "9506394",
       "navio": "LOG-IN DISCOVERY (REB S/L)",
       "tipo": "ENTRADA",
@@ -171,13 +181,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 07:00",
-      "imo": "9711420",
-      "navio": "PMS ENZIAN",
+      "inicio": "17/10/2026 08:00",
+      "imo": "9651321",
+      "navio": "AEGIS (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 08:00",
-      "imo": "9651321",
-      "navio": "AEGIS (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "TPBR - BRASCO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,16 +218,6 @@
       "de": "2N16 - Armazém 16",
       "para": "2N07 - Pátio 8/9",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 08:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "TPBR - BRASCO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,12 +272,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 12:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,12 +292,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 12:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
       "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +372,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 15:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 15:00",
       "imo": "9642590",
       "navio": "PINGUIM",
       "tipo": "MUDANÇA",
@@ -391,13 +401,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 15:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
+      "inicio": "17/10/2026 16:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 16:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,26 +448,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 16:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 16:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,16 +502,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 19:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 19:00",
       "imo": "9423566",
       "navio": "ASPEN ARROW",
       "tipo": "SAÍDA",
@@ -521,13 +511,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 19:30",
-      "imo": "9448528",
-      "navio": "CBO SUPPORTER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "inicio": "17/10/2026 19:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +528,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 19:30",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -592,6 +592,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/10/2026 22:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/10/2026 22:00",
       "imo": "9770737",
       "navio": "MSC GIULIA",
       "tipo": "ENTRADA",
@@ -608,16 +618,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/10/2026 22:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -658,6 +658,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 01:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
