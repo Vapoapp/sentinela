@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T13:59:15.666Z",
+  "updatedAt": "2026-10-18T14:00:28.337Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/10/2026 08:00",
-      "imo": "9437919",
-      "navio": "GRANDE GUINEA",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/10/2026 08:00",
       "imo": "9468205",
       "navio": "SEVEN OCEANIC",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 08:00",
+      "imo": "9437919",
+      "navio": "GRANDE GUINEA",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 12:30",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
