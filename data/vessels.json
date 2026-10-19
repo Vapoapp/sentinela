@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T08:15:23.181Z",
+  "updatedAt": "2026-10-19T08:16:18.185Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 0
+      "count": 6
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,66 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 02:00",
+      "imo": "9179751",
+      "navio": "NORMAND PIONEER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 05:30",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 08:00",
+      "imo": "9399595",
+      "navio": "OLIVIA (REB)",
+      "tipo": "SAÍDA",
+      "de": "ESSM - SÃO MIGUEL",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 10:00",
+      "imo": "9850795",
+      "navio": "EVER FIT",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 11:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 12:00",
+      "imo": "9770737",
+      "navio": "MSC GIULIA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
     {
       "porto": "Itaguaí",
       "inicio": "19/10/2026 05:30",
