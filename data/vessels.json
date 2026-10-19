@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T19:05:19.865Z",
+  "updatedAt": "2026-10-19T19:06:17.650Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -332,16 +332,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 17:00",
-      "imo": "9628154",
-      "navio": "VALOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 17:00",
       "imo": "9385257",
       "navio": "HOS MAVERICK",
       "tipo": "ENTRADA",
@@ -428,16 +418,6 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 05:30",
-      "imo": "9628154",
-      "navio": "VALOR",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
