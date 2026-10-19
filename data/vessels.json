@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T12:50:27.931Z",
+  "updatedAt": "2026-10-19T12:51:15.273Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -242,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 13:00",
-      "imo": "9687526",
-      "navio": "COPIAPO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 13:00",
       "imo": "9596868",
       "navio": "GILBERTO FREYRE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 13:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +318,16 @@
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 04:00",
+      "imo": "9784661",
+      "navio": "MERCOSUL FORTALEZA (CNC LION) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
