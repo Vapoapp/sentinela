@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T08:20:21.061Z",
+  "updatedAt": "2026-10-19T08:21:15.939Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 14
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,26 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 04:30",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 05:30",
+      "imo": "7351783",
+      "navio": "FPSO PETROBRAS 35",
+      "tipo": "MUDANÇA",
+      "de": "TPAM - ARSENAL DA MARINHA",
+      "para": "CLIP - CLIP - Centro Logístico Industrial e Portuário",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
