@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T08:36:18.503Z",
+  "updatedAt": "2026-10-19T08:37:15.167Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 01:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 02:00",
