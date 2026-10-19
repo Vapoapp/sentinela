@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:56:16.267Z",
+  "updatedAt": "2026-10-19T02:57:17.697Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -657,16 +657,6 @@
       "tipo": "SAÍDA",
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "19/10/2026 17:00",
-      "imo": "9726047",
-      "navio": "UNITY DISCOVERY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "agente": "GEM SHIPPING LTDA"
     },
     {
