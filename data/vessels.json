@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T08:18:16.396Z",
+  "updatedAt": "2026-10-19T08:19:14.879Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -42,6 +42,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 08:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 08:00",
       "imo": "9399595",
       "navio": "OLIVIA (REB)",
       "tipo": "SAÍDA",
@@ -68,6 +78,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 12:00",
+      "imo": "9758090",
+      "navio": "BOW SUCCESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
