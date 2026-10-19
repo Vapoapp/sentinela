@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T08:17:15.803Z",
+  "updatedAt": "2026-10-19T08:18:16.396Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 6
+      "count": 8
     },
     "niteroi": {
       "ok": true,
@@ -77,6 +77,26 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 13:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 17:00",
+      "imo": "9628154",
+      "navio": "VALOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
