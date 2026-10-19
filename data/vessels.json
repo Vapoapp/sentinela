@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T22:43:16.358Z",
+  "updatedAt": "2026-10-19T22:44:17.493Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -461,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 20:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 21:00",
       "imo": "9476886",
       "navio": "REEDBUCK (REB)",
@@ -582,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 15:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 15:00",
       "imo": "9785445",
       "navio": "MSC CAROLE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 15:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
