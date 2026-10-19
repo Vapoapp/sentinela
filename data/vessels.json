@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T02:35:19.647Z",
+  "updatedAt": "2026-10-19T02:36:17.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/10/2026 23:00",
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
