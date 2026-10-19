@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T04:32:16.576Z",
+  "updatedAt": "2026-10-19T04:33:15.204Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 1
+      "count": 0
     },
     "niteroi": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 00:00",
-      "imo": "9690432",
-      "navio": "BRAM BUCCANEER",
-      "tipo": "SAÍDA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
     {
       "porto": "Itaguaí",
       "inicio": "19/10/2026 05:30",
