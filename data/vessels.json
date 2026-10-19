@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T13:57:16.993Z",
+  "updatedAt": "2026-10-19T13:58:16.998Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -201,6 +201,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 10:30",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 12:00",
       "imo": "9382229",
       "navio": "NORTH OCEAN 102",
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 13:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 13:00",
       "imo": "9687526",
       "navio": "COPIAPO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 13:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
