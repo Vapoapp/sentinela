@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-19T12:20:22.793Z",
+  "updatedAt": "2026-10-19T12:21:18.064Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 08:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 08:00",
       "imo": "9399595",
       "navio": "OLIVIA (REB)",
       "tipo": "SAÍDA",
@@ -141,13 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 08:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "19/10/2026 09:00",
+      "imo": "9770737",
+      "navio": "MSC GIULIA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -158,16 +168,6 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 09:00",
-      "imo": "9770737",
-      "navio": "MSC GIULIA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,6 +228,26 @@
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 13:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 14:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
