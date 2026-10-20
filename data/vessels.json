@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T05:49:15.021Z",
+  "updatedAt": "2026-10-20T05:50:21.867Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 03:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -102,16 +112,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 08:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 08:00",
       "imo": "9626443",
       "navio": "BONGO (REB)",
       "tipo": "ENTRADA",
@@ -131,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 09:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "2N18 - Armazém 18",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "20/10/2026 08:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -147,6 +147,16 @@
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 09:00",
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "2N18 - Armazém 18",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 15:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 15:00",
       "imo": "9785445",
       "navio": "MSC CAROLE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 15:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
