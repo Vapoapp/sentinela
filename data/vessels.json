@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:46:18.816Z",
+  "updatedAt": "2026-10-20T11:47:17.145Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -291,16 +291,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 15:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 15:30",
       "imo": "3813884350",
       "navio": "C RIO",
@@ -308,6 +298,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 16:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
