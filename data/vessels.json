@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T00:26:17.045Z",
+  "updatedAt": "2026-10-20T00:27:14.451Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -72,22 +72,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 05:30",
-      "imo": "7351783",
-      "navio": "FPSO PETROBRAS 35",
-      "tipo": "MUDANÇA",
-      "de": "TPAM - ARSENAL DA MARINHA",
-      "para": "CLIP - CLIP - Centro Logístico Industrial e Portuário",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 05:30",
       "imo": "9644158",
       "navio": "ZARAPITO",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 05:30",
+      "imo": "7351783",
+      "navio": "FPSO PETROBRAS 35",
+      "tipo": "MUDANÇA",
+      "de": "TPAM - ARSENAL DA MARINHA",
+      "para": "CLIP - CLIP - Centro Logístico Industrial e Portuário",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 09:00",
-      "imo": "9770737",
-      "navio": "MSC GIULIA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 09:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 09:00",
+      "imo": "9770737",
+      "navio": "MSC GIULIA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,32 +212,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 12:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 12:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 12:00",
-      "imo": "9382229",
-      "navio": "NORTH OCEAN 102",
-      "tipo": "SAÍDA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9758090",
+      "navio": "BOW SUCCESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,12 +232,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 12:00",
-      "imo": "9758090",
-      "navio": "BOW SUCCESS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 12:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 12:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 14:00",
-      "imo": "9680774",
-      "navio": "VEGA CHASER (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 14:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 14:00",
+      "imo": "9680774",
+      "navio": "VEGA CHASER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +372,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 18:00",
+      "imo": "9656204",
+      "navio": "SAPURA ESMERALDA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/10/2026 18:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "ENTRADA",
@@ -388,16 +398,6 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/10/2026 18:00",
-      "imo": "9656204",
-      "navio": "SAPURA ESMERALDA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,12 +442,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 20:00",
-      "imo": "9799070",
-      "navio": "STARNAV SCORPIUS",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9360960",
+      "navio": "CITY ISLAND",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,12 +462,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/10/2026 20:00",
-      "imo": "9360960",
-      "navio": "CITY ISLAND",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
-      "para": "-",
-      "agente": "NORTH STAR SUDESTE SERVICOS MARITIMOS LTDA"
+      "imo": "9799070",
+      "navio": "STARNAV SCORPIUS",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -542,21 +542,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 09:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 09:00",
       "imo": "4410455991",
       "navio": "PEDRA DO SAL",
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2N18 - Armazém 18",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 09:00",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "2N16 - Armazém 16",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -578,6 +578,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 12:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
