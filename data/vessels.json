@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:26:20.990Z",
+  "updatedAt": "2026-10-20T12:27:15.217Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 4
     },
     "angra": {
       "ok": true,
@@ -418,26 +418,6 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "20/10/2026 17:30",
-      "imo": "9654804",
-      "navio": "CAPE INDIA",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "20/10/2026 19:00",
-      "imo": "9701358",
-      "navio": "MINERAL SUMIRE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
