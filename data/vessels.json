@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T18:51:16.619Z",
+  "updatedAt": "2026-10-20T18:52:17.897Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -222,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 10:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 10:00",
       "imo": "9407407",
       "navio": "HORIZON THEONI",
       "tipo": "ENTRADA",
@@ -248,16 +258,6 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 10:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,12 +382,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 15:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +398,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 15:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
