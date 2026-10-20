@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:31:14.874Z",
+  "updatedAt": "2026-10-20T16:32:20.970Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -521,6 +521,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "20/10/2026 16:30",
+      "imo": "9593361",
+      "navio": "SC MADISON",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FC1 - Área de Fundeio C1",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "20/10/2026 18:00",
       "imo": "9508304",
       "navio": "BBC GANGES",
@@ -528,16 +538,6 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "20/10/2026 19:00",
-      "imo": "9593361",
-      "navio": "SC MADISON",
-      "tipo": "MUDANÇA",
-      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "Fundeio - 5FC1 - Área de Fundeio C1",
-      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
