@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T00:57:15.770Z",
+  "updatedAt": "2026-10-20T00:58:16.233Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -488,6 +488,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 04:00",
+      "imo": "9687526",
+      "navio": "COPIAPO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
