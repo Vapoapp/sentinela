@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T20:30:26.807Z",
+  "updatedAt": "2026-10-20T20:31:15.141Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -312,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 12:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 12:00",
       "imo": "2412230323",
       "navio": "SÃO LUIS",
       "tipo": "MUDANÇA",
       "de": "2N16 - Armazém 16",
       "para": "2N17 - Armazém 17",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 12:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 18:00",
+      "imo": "9644158",
+      "navio": "ZARAPITO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 19:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
