@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T14:46:17.764Z",
+  "updatedAt": "2026-10-20T14:47:16.042Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 10:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 10:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 10:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -292,16 +292,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 12:00",
-      "imo": "9696802",
-      "navio": "STARNAV AQUARIUS (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 12:00",
       "imo": "1040849",
       "navio": "PONT-ROUGE",
       "tipo": "ENTRADA",
@@ -351,13 +341,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 13:00",
-      "imo": "9345893",
-      "navio": "FLUMAR MACEIO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "inicio": "20/10/2026 12:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +358,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 13:00",
+      "imo": "9345893",
+      "navio": "FLUMAR MACEIO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -468,6 +468,16 @@
       "de": "TPEX - EXXON SOLUTEC",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 14:30",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
