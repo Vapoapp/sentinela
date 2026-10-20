@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T17:59:17.823Z",
+  "updatedAt": "2026-10-20T18:00:31.172Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -568,6 +568,106 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/10/2026 20:00",
+      "imo": "9654804",
+      "navio": "CAPE INDIA",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/10/2026 21:00",
+      "imo": "9701358",
+      "navio": "MINERAL SUMIRE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/10/2026 21:30",
+      "imo": "9448451",
+      "navio": "UNISUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 01:00",
+      "imo": "9654804",
+      "navio": "CAPE INDIA",
+      "tipo": "SAÍDA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 08:00",
+      "imo": "9723502",
+      "navio": "MINERAL TOBY",
+      "tipo": "SAÍDA",
+      "de": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 09:30",
+      "imo": "9434383",
+      "navio": "MARAN GLORY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - F1 - FUNDEIO F1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 12:00",
+      "imo": "9593361",
+      "navio": "SC MADISON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FC1 - Área de Fundeio C1",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 12:30",
+      "imo": "1095002",
+      "navio": "GREEN TAICANG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 16:00",
+      "imo": "9946312",
+      "navio": "NS EXPLORER",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/10/2026 19:00",
+      "imo": "9911240",
+      "navio": "SHANDONG DEVELOPMENT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
