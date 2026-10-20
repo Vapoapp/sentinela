@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T04:39:16.991Z",
+  "updatedAt": "2026-10-20T04:40:21.493Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 08:00",
+      "imo": "1025124",
+      "navio": "WINDEA CURIE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 08:00",
       "imo": "9626443",
       "navio": "BONGO (REB)",
       "tipo": "ENTRADA",
@@ -121,13 +131,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 08:00",
-      "imo": "1025124",
-      "navio": "WINDEA CURIE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+      "inicio": "20/10/2026 09:00",
+      "imo": "4410455991",
+      "navio": "PEDRA DO SAL",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "2N18 - Armazém 18",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -141,16 +151,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 09:00",
-      "imo": "4410455991",
-      "navio": "PEDRA DO SAL",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "2N18 - Armazém 18",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 10:00",
       "imo": "9407407",
       "navio": "HORIZON THEONI",
@@ -158,6 +158,26 @@
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 10:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 10:00",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +242,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/10/2026 15:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/10/2026 15:00",
       "imo": "9596868",
       "navio": "GILBERTO FREYRE",
       "tipo": "SAÍDA",
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/10/2026 15:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
