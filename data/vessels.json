@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:59:15.953Z",
+  "updatedAt": "2026-10-21T12:00:29.838Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 11:00",
+      "imo": "9252541",
+      "navio": "MSC MAGNUM VII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 11:00",
       "imo": "9785445",
       "navio": "MSC CAROLE",
       "tipo": "SAÍDA",
@@ -278,16 +288,6 @@
       "de": "2N08 - Pátio 9",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 12:00",
-      "imo": "9252541",
-      "navio": "MSC MAGNUM VII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
