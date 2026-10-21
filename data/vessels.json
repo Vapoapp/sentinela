@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T15:15:23.105Z",
+  "updatedAt": "2026-10-21T15:16:17.134Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -418,6 +418,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 15:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
