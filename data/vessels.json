@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T14:24:20.707Z",
+  "updatedAt": "2026-10-21T14:25:18.816Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 07:00",
+      "imo": "9945837",
+      "navio": "COSCO SHIPPING BRAZIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +428,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 20:00",
+      "imo": "9639452",
+      "navio": "ZHI YUAN KOU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Rio de Janeiro",
