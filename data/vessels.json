@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T02:42:17.778Z",
+  "updatedAt": "2026-10-21T02:43:16.481Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -668,6 +668,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 11:00",
+      "imo": "1037701",
+      "navio": "GOLDEN THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
