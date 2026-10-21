@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T08:33:15.228Z",
+  "updatedAt": "2026-10-21T08:34:19.197Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -211,6 +211,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 08:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 09:00",
       "imo": "9476886",
       "navio": "REEDBUCK (REB)",
@@ -338,6 +348,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9329966",
+      "navio": "NORMAND TURQUESA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
