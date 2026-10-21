@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T08:25:18.521Z",
+  "updatedAt": "2026-10-21T08:26:18.599Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 04:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 13:00",
+      "imo": "9758090",
+      "navio": "BOW SUCCESS",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 13:00",
       "imo": "9331402",
       "navio": "TARUCA (REB)",
       "tipo": "MUDANÇA",
@@ -268,16 +288,6 @@
       "de": "-",
       "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 13:00",
-      "imo": "9758090",
-      "navio": "BOW SUCCESS",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
