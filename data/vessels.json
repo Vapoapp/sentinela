@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T07:01:16.382Z",
+  "updatedAt": "2026-10-21T07:02:17.139Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 12:00",
+      "imo": "9641807",
+      "navio": "EKATERINA",
+      "tipo": "SAÍDA",
+      "de": "2N08 - Pátio 9",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
