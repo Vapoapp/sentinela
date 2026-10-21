@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:57:16.729Z",
+  "updatedAt": "2026-10-21T11:58:17.228Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -122,16 +122,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 05:00",
-      "imo": "9628154",
-      "navio": "VALOR",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 05:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "MUDANÇA",
@@ -202,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 08:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 08:00",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 08:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +228,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 09:00",
+      "imo": "9628154",
+      "navio": "VALOR",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 12:00",
-      "imo": "9252541",
-      "navio": "MSC MAGNUM VII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 12:00",
       "imo": "9641807",
       "navio": "EKATERINA",
       "tipo": "SAÍDA",
       "de": "2N08 - Pátio 9",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 12:00",
+      "imo": "9252541",
+      "navio": "MSC MAGNUM VII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 13:00",
-      "imo": "9514092",
-      "navio": "BJ BLUE MARLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 13:00",
       "imo": "9331402",
       "navio": "TARUCA (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 13:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 06:00",
-      "imo": "9329966",
-      "navio": "NORMAND TURQUESA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
       "imo": "9605279",
       "navio": "MSC AMALFI",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9329966",
+      "navio": "NORMAND TURQUESA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
