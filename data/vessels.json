@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T16:48:17.927Z",
+  "updatedAt": "2026-10-21T16:49:16.955Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -262,10 +262,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 11:00",
-      "imo": "9706528",
-      "navio": "SKANDI BUZIOS",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
       "tipo": "MUDANÇA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
@@ -282,10 +282,10 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 11:00",
-      "imo": "9672636",
-      "navio": "HOS BRASS RING",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
       "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
@@ -401,6 +401,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 13:30",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 14:00",
       "imo": "9476886",
       "navio": "REEDBUCK (REB)",
@@ -418,16 +428,6 @@
       "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 14:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 18:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
