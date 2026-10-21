@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T07:00:29.137Z",
+  "updatedAt": "2026-10-21T07:01:16.382Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 06:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
