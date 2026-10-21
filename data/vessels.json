@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T12:00:29.838Z",
+  "updatedAt": "2026-10-21T12:01:17.358Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -232,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 09:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 09:00",
       "imo": "9628154",
       "navio": "VALOR",
       "tipo": "SAÍDA",
@@ -252,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 11:00",
+      "imo": "9785445",
+      "navio": "MSC CAROLE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 11:00",
       "imo": "1037701",
       "navio": "GOLDEN THETIS",
       "tipo": "ENTRADA",
@@ -267,16 +287,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 11:00",
-      "imo": "9785445",
-      "navio": "MSC CAROLE",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
