@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T18:39:14.449Z",
+  "updatedAt": "2026-10-21T18:40:21.405Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -242,16 +242,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 10:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 10:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "ENTRADA",
@@ -261,33 +251,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 11:00",
-      "imo": "9672636",
-      "navio": "HOS BRASS RING",
-      "tipo": "MUDANÇA",
-      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 11:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 11:00",
-      "imo": "9706528",
-      "navio": "SKANDI BUZIOS",
-      "tipo": "MUDANÇA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "21/10/2026 10:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -311,13 +281,43 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 12:00",
-      "imo": "9466099",
-      "navio": "PARCEL DO BADEJO (REB)",
+      "inicio": "21/10/2026 11:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 11:00",
+      "imo": "9672636",
+      "navio": "HOS BRASS RING",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 11:00",
+      "imo": "9706528",
+      "navio": "SKANDI BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 12:00",
+      "imo": "9706449",
+      "navio": "SKANDI AÇU",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,42 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 12:00",
-      "imo": "9706449",
-      "navio": "SKANDI AÇU",
+      "imo": "9466099",
+      "navio": "PARCEL DO BADEJO (REB)",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 13:00",
-      "imo": "9758090",
-      "navio": "BOW SUCCESS",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 13:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 13:00",
-      "imo": "9514092",
-      "navio": "BJ BLUE MARLIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9331402",
+      "navio": "TARUCA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,12 +362,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 13:00",
-      "imo": "9331402",
-      "navio": "TARUCA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "GAC DO BRASIL LTDA."
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 13:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 13:00",
+      "imo": "9758090",
+      "navio": "BOW SUCCESS",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,6 +452,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 16:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 16:00",
       "imo": "1040849",
       "navio": "PONT-ROUGE",
       "tipo": "SAÍDA",
@@ -461,13 +471,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 16:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "inicio": "21/10/2026 17:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +508,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 18:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -572,22 +592,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 06:00",
-      "imo": "9329966",
-      "navio": "NORMAND TURQUESA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
       "imo": "9605279",
       "navio": "MSC AMALFI",
       "tipo": "SAÍDA",
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9329966",
+      "navio": "NORMAND TURQUESA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
