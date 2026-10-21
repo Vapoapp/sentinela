@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T19:29:15.317Z",
+  "updatedAt": "2026-10-21T19:30:27.484Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 18:00",
+      "imo": "9453315",
+      "navio": "JOÃO CÂNDIDO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
