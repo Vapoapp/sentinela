@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T17:07:14.633Z",
+  "updatedAt": "2026-10-22T17:08:15.940Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 13:00",
-      "imo": "9416381",
-      "navio": "CLARITY",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 63 - 2F6A",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 13:00",
       "imo": "9630327",
       "navio": "POSIDONIA JAGUAR",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 13:00",
+      "imo": "9416381",
+      "navio": "CLARITY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 63 - 2F6A",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -498,6 +498,26 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 18:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 18:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
