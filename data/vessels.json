@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T00:45:24.368Z",
+  "updatedAt": "2026-10-22T00:46:17.760Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 86
+      "count": 87
     },
     "niteroi": {
       "ok": true,
@@ -748,6 +748,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 04:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
