@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T20:54:17.564Z",
+  "updatedAt": "2026-10-22T20:55:20.216Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 68
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 02:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
-      "tipo": "SAÍDA",
-      "de": "TPCM - Estaleiro Camorim",
-      "para": "-",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 02:00",
       "imo": "9424508",
       "navio": "SEA1 DORADO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 02:00",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 05:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "CAPITAL MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 05:00",
       "imo": "9945837",
       "navio": "COSCO SHIPPING BRAZIL",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 05:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 07:00",
-      "imo": "9497127",
-      "navio": "CAMPOS CONTENDER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 07:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
@@ -251,13 +241,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 07:30",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "22/10/2026 07:00",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -267,6 +257,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 07:30",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -322,21 +322,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 09:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 09:00",
       "imo": "9530010",
       "navio": "ROBERT ADAMS (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 09:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -348,36 +348,6 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 12:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 12:00",
-      "imo": "9440679",
-      "navio": "PETREL",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "WILSON SONS OFFSHORE S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 12:00",
-      "imo": "9642590",
-      "navio": "PINGUIM",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -401,6 +371,36 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 12:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 12:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 12:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 12:30",
       "imo": "9605279",
       "navio": "MSC AMALFI",
@@ -412,22 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 13:00",
-      "imo": "9416381",
-      "navio": "CLARITY",
+      "imo": "9630705",
+      "navio": "ATLAS Z",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 63 - 2F6A",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 13:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "LAGOA OFFSHORE LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,12 +432,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 13:00",
-      "imo": "9630705",
-      "navio": "ATLAS Z",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 13:00",
+      "imo": "9416381",
+      "navio": "CLARITY",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "LAGOA OFFSHORE LTDA"
+      "de": "Fundeio - WPT 63 - 2F6A",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,12 +472,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 16:00",
-      "imo": "9642588",
-      "navio": "LARUS",
+      "imo": "9530060",
+      "navio": "THOR SUPPLIER",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS OFFSHORE S.A."
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -492,12 +492,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 16:00",
-      "imo": "9530060",
-      "navio": "THOR SUPPLIER",
+      "imo": "9642588",
+      "navio": "LARUS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,12 +512,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 17:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 17:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 18:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 20:00",
-      "imo": "9649029",
-      "navio": "SEVEN WAVES",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 20:00",
       "imo": "9763760",
       "navio": "BRAM BUCK",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 20:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
