@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T13:09:16.017Z",
+  "updatedAt": "2026-10-22T13:10:24.297Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -351,6 +351,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 10:30",
+      "imo": "1037701",
+      "navio": "GOLDEN THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 11:00",
       "imo": "9407407",
       "navio": "HORIZON THEONI",
@@ -358,6 +368,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 12:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
