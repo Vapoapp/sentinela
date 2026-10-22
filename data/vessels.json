@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:21:15.090Z",
+  "updatedAt": "2026-10-22T11:22:16.513Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -192,16 +192,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 06:00",
-      "imo": "9861017",
-      "navio": "ULTRAMARINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
       "imo": "9788461",
       "navio": "PAULO CUNHA",
       "tipo": "ENTRADA",
@@ -212,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 06:00",
-      "imo": "9528354",
-      "navio": "SKANDI IGUAÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIM - MOCANGUE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIM - MOCANGUE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,16 +252,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 08:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CAPITAL MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 08:00",
       "imo": "1034735",
       "navio": "LARGO AURORA",
       "tipo": "ENTRADA",
@@ -288,6 +268,26 @@
       "de": "-",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 08:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 08:00",
+      "imo": "9861017",
+      "navio": "ULTRAMARINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
