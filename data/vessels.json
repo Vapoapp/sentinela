@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:04:16.885Z",
+  "updatedAt": "2026-10-22T11:05:22.554Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -212,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 06:00",
-      "imo": "9329966",
-      "navio": "NORMAND TURQUESA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
       "imo": "9528354",
       "navio": "SKANDI IGUAÇU",
       "tipo": "ENTRADA",
@@ -378,6 +368,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 09:00",
+      "imo": "3813890457",
+      "navio": "COSTA NOVA",
+      "tipo": "MUDANÇA",
+      "de": "ESCA - ESTALEIRO CASSINU",
+      "para": "2N06 - Armazém 7",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
