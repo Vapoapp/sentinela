@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T04:44:17.630Z",
+  "updatedAt": "2026-10-22T04:45:20.455Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
