@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T17:58:20.991Z",
+  "updatedAt": "2026-10-22T17:59:17.679Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -272,16 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 08:00",
-      "imo": "9861017",
-      "navio": "ULTRAMARINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 08:00",
       "imo": "9741279",
       "navio": "ACE DEFENDER (REB)",
       "tipo": "MUDANÇA",
@@ -292,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 08:00",
-      "imo": "9644122",
-      "navio": "TAGAZ",
+      "imo": "9861017",
+      "navio": "ULTRAMARINE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +298,16 @@
       "de": "-",
       "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 08:00",
+      "imo": "9644122",
+      "navio": "TAGAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,12 +432,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 13:00",
-      "imo": "9627629",
-      "navio": "CBO ARPOADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,12 +452,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 13:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -501,13 +501,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 18:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
+      "inicio": "22/10/2026 17:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
       "tipo": "SAÍDA",
-      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +518,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 18:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
