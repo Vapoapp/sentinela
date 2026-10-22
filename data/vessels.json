@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:25:19.206Z",
+  "updatedAt": "2026-10-22T14:27:17.335Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -718,6 +718,16 @@
       "de": "Fundeio - 5FB1 - Área de Fundeio B1",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "22/10/2026 17:30",
+      "imo": "9443619",
+      "navio": "GOLDEN ZHEJIANG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - F1 - FUNDEIO F1",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
