@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T01:32:15.712Z",
+  "updatedAt": "2026-10-22T01:33:16.763Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 90
+      "count": 92
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 15:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 15:00",
       "imo": "9641807",
       "navio": "EKATERINA",
       "tipo": "SAÍDA",
       "de": "2N08 - Pátio 9",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 15:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 18:00",
-      "imo": "9453315",
-      "navio": "JOÃO CÂNDIDO",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 18:00",
       "imo": "9360764",
       "navio": "MSC BASEL V",
       "tipo": "SAÍDA",
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 18:00",
+      "imo": "9453315",
+      "navio": "JOÃO CÂNDIDO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -662,22 +662,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/10/2026 22:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/10/2026 22:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
       "tipo": "SAÍDA",
       "de": "TPIM - MOCANGUE",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/10/2026 22:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -722,12 +722,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 01:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 01:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "WILSON SONS OFFSHORE S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 01:00",
+      "imo": "9642590",
+      "navio": "PINGUIM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
