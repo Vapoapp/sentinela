@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T12:32:18.082Z",
+  "updatedAt": "2026-10-22T12:33:15.882Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 02:00",
-      "imo": "9476915",
-      "navio": "BUSHBUCK (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 02:00",
       "imo": "9424508",
       "navio": "SEA1 DORADO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 02:00",
+      "imo": "9476915",
+      "navio": "BUSHBUCK (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 05:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 05:00",
       "imo": "9945837",
       "navio": "COSCO SHIPPING BRAZIL",
       "tipo": "SAÍDA",
@@ -181,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 05:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
+      "inicio": "22/10/2026 06:00",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "CAPITAL MARÍTIMA LTDA"
+      "para": "TPIM - MOCANGUE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,16 +218,6 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 06:00",
-      "imo": "9528354",
-      "navio": "SKANDI IGUAÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIM - MOCANGUE",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,26 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 08:00",
-      "imo": "9741279",
-      "navio": "ACE DEFENDER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CAPITAL MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 08:00",
-      "imo": "9861017",
-      "navio": "ULTRAMARINE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 08:00",
       "imo": "1034735",
       "navio": "LARGO AURORA",
       "tipo": "ENTRADA",
@@ -311,6 +291,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 08:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CAPITAL MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 08:00",
+      "imo": "9861017",
+      "navio": "ULTRAMARINE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/10/2026 08:30",
       "imo": "9252541",
       "navio": "MSC MAGNUM VII",
@@ -318,6 +318,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 09:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -331,13 +341,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "22/10/2026 09:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "22/10/2026 11:00",
+      "imo": "9407407",
+      "navio": "HORIZON THEONI",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -398,6 +408,16 @@
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 20:00",
+      "imo": "9649029",
+      "navio": "SEVEN WAVES",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
