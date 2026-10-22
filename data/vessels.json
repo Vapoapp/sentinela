@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-22T04:08:16.807Z",
+  "updatedAt": "2026-10-22T04:09:16.454Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -258,6 +258,16 @@
       "de": "TPIM - MOCANGUE",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/10/2026 12:00",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS OFFSHORE S.A."
     },
     {
       "porto": "Rio de Janeiro",
