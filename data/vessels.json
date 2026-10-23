@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:06:18.007Z",
+  "updatedAt": "2026-10-23T18:07:16.906Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -648,6 +648,16 @@
       "de": "-",
       "para": "ESWS - ESTALEIRO",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/10/2026 15:10",
+      "imo": "9292072",
+      "navio": "ILHA DO CABO FRIO",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
