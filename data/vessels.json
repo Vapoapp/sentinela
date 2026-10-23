@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T16:33:18.570Z",
+  "updatedAt": "2026-10-23T16:34:17.021Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 00:00",
+      "imo": "9788411",
+      "navio": "BRAM POWER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 05:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
@@ -617,16 +627,6 @@
       "tipo": "SAÍDA",
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "23/10/2026 16:00",
-      "imo": "9374832",
-      "navio": "BERGE BROAD PEAK",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - F2 - FUNDEIO F2",
-      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ISS MARINE SERVICES LTDA"
     },
     {
