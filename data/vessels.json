@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T01:18:17.985Z",
+  "updatedAt": "2026-10-23T01:19:15.616Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -788,6 +788,16 @@
       "de": "ESCA - ESTALEIRO CASSINU",
       "para": "2N06 - Armazém 7",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 10:30",
+      "imo": "1037701",
+      "navio": "GOLDEN THETIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
     },
     {
       "porto": "Rio de Janeiro",
