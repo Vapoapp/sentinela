@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T18:17:14.876Z",
+  "updatedAt": "2026-10-23T18:18:16.052Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 57
+      "count": 58
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 06:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 06:00",
       "imo": "9639452",
       "navio": "ZHI YUAN KOU",
       "tipo": "SAÍDA",
@@ -172,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 07:00",
-      "imo": "9425734",
-      "navio": "SKANDI LIFTER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 07:00",
       "imo": "9423229",
       "navio": "ELIZABETH C",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 07:00",
+      "imo": "9425734",
+      "navio": "SKANDI LIFTER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
