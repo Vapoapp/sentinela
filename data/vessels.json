@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T18:16:16.511Z",
+  "updatedAt": "2026-10-23T18:17:14.876Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 13
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -741,6 +741,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "24/10/2026 00:30",
+      "imo": "9730397",
+      "navio": "JOHANNA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - F1 - FUNDEIO F1",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "24/10/2026 03:30",
       "imo": "9726047",
       "navio": "UNITY DISCOVERY",
@@ -748,6 +758,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/10/2026 05:30",
+      "imo": "9730397",
+      "navio": "JOHANNA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - F1 - FUNDEIO F1",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
