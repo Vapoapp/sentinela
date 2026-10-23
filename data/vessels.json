@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T12:38:17.381Z",
+  "updatedAt": "2026-10-23T12:39:15.449Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 5
     },
     "angra": {
       "ok": true,
@@ -451,7 +451,7 @@
     },
     {
       "porto": "Niterói",
-      "inicio": "23/10/2026 07:00",
+      "inicio": "23/10/2026 10:00",
       "imo": "9424986",
       "navio": "SAVEIROS ATOBÁ",
       "tipo": "ENTRADA",
@@ -508,16 +508,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "23/10/2026 18:00",
-      "imo": "9446556",
-      "navio": "AZUL SINFONIA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FA1 - Área de Fundeio A1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     },
     {
       "porto": "Itaguaí",
