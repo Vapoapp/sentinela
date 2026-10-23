@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:03:15.898Z",
+  "updatedAt": "2026-10-23T08:04:15.783Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/10/2026 05:45",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
