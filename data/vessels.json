@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T11:59:17.408Z",
+  "updatedAt": "2026-10-23T12:00:31.038Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "2NTO - Terminal de Óleo",
       "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 11:00",
+      "imo": "9867619",
+      "navio": "AITOLOS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
