@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T08:56:22.315Z",
+  "updatedAt": "2026-10-23T08:57:16.496Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -337,6 +337,16 @@
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 09:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
