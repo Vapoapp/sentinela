@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T08:54:17.594Z",
+  "updatedAt": "2026-10-23T08:55:21.926Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 06:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "MUDANÇA",
-      "de": "TPBL - BRICLOG",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 06:00",
       "imo": "9639452",
       "navio": "ZHI YUAN KOU",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 06:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,6 +192,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 08:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 08:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "ENTRADA",
@@ -208,16 +218,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 08:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 10:30",
+      "imo": "9143556",
+      "navio": "DUSSELDORF EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
