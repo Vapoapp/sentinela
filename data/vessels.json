@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T18:36:20.300Z",
+  "updatedAt": "2026-10-23T18:37:17.662Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -422,6 +422,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 15:00",
+      "imo": "9468205",
+      "navio": "SEVEN OCEANIC",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 92 - AF Preferencial Gusa",
+      "para": "2N05 - Armazém 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 15:00",
+      "imo": "9476886",
+      "navio": "REEDBUCK (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 15:00",
       "imo": "9534470",
       "navio": "INDUSTRIAL MERCHANT",
       "tipo": "SAÍDA",
@@ -441,22 +461,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 15:00",
-      "imo": "9468205",
-      "navio": "SEVEN OCEANIC",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 92 - AF Preferencial Gusa",
-      "para": "2N05 - Armazém 6",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 15:00",
-      "imo": "9476886",
-      "navio": "REEDBUCK (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
+      "inicio": "23/10/2026 16:00",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
