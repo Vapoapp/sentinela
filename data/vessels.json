@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T08:04:15.783Z",
+  "updatedAt": "2026-10-23T08:05:20.553Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 08:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
