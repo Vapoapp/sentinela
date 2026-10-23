@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T04:05:17.998Z",
+  "updatedAt": "2026-10-23T04:06:16.606Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 07:00",
-      "imo": "9473418",
-      "navio": "CLEANTEC",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F03 - Feiticeira",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 07:00",
       "imo": "9425734",
       "navio": "SKANDI LIFTER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 07:00",
+      "imo": "9473418",
+      "navio": "CLEANTEC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +148,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "Fundeio - 2F09 - XAREU",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 08:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
