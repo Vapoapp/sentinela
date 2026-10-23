@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T17:52:17.500Z",
+  "updatedAt": "2026-10-23T17:53:17.292Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -454,6 +454,16 @@
       "inicio": "23/10/2026 16:00",
       "imo": "9429936",
       "navio": "SANCO SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 16:30",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
