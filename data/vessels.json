@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T14:55:20.916Z",
+  "updatedAt": "2026-10-23T14:56:17.249Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 08:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 08:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "ENTRADA",
@@ -228,16 +238,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 08:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 11:00",
+      "imo": "3813890457",
+      "navio": "COSTA NOVA",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "ESCA - ESTALEIRO CASSINU",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 11:00",
       "imo": "9867619",
       "navio": "AITOLOS",
       "tipo": "SAÍDA",
@@ -348,6 +358,16 @@
       "de": "2N07 - Pátio 8/9",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 13:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
