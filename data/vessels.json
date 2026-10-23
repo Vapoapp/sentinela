@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T13:45:25.180Z",
+  "updatedAt": "2026-10-23T13:46:19.402Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -318,6 +318,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 12:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
