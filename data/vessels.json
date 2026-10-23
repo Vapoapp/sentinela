@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T09:19:18.800Z",
+  "updatedAt": "2026-10-23T09:20:22.727Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 08:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 08:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "ENTRADA",
@@ -212,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 08:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
