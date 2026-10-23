@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-23T17:23:27.201Z",
+  "updatedAt": "2026-10-23T17:24:15.857Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 07:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 07:00",
+      "imo": "9473418",
+      "navio": "CLEANTEC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 07:00",
       "imo": "9423229",
       "navio": "ELIZABETH C",
       "tipo": "MUDANÇA",
@@ -168,26 +188,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 07:00",
-      "imo": "9473418",
-      "navio": "CLEANTEC",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F03 - Feiticeira",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 07:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 10:00",
-      "imo": "9429936",
-      "navio": "SANCO SPIRIT",
-      "tipo": "MUDANÇA",
-      "de": "2N06 - Armazém 7",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 10:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "SAÍDA",
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 10:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,8 +382,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/10/2026 14:00",
-      "imo": "9476886",
-      "navio": "REEDBUCK (REB)",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -391,12 +391,12 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "23/10/2026 14:00",
-      "imo": "9703631",
-      "navio": "BRAM TITAN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
+      "inicio": "23/10/2026 14:40",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -428,6 +428,16 @@
       "de": "Fundeio - WPT 92 - AF Preferencial Gusa",
       "para": "2N05 - Armazém 6",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/10/2026 16:00",
+      "imo": "9429936",
+      "navio": "SANCO SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
