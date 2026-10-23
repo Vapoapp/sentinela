@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T15:48:17.345Z",
+  "updatedAt": "2026-10-23T15:49:16.678Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -607,6 +607,16 @@
       "tipo": "SAÍDA",
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/10/2026 16:00",
+      "imo": "9374832",
+      "navio": "BERGE BROAD PEAK",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - F2 - FUNDEIO F2",
+      "para": "401 - CPBS - COMPANHIA PORTUARIA BAIA DE SEPETIBA",
       "agente": "ISS MARINE SERVICES LTDA"
     },
     {
