@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:48:17.620Z",
+  "updatedAt": "2026-10-24T23:49:16.296Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -701,16 +701,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "25/10/2026 06:30",
-      "imo": "9538749",
-      "navio": "CAPE ASTER",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "25/10/2026 08:30",
       "imo": "9590319",
       "navio": "METRO MOON",
@@ -738,6 +728,16 @@
       "de": "-",
       "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/10/2026 16:00",
+      "imo": "9538749",
+      "navio": "CAPE ASTER",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
