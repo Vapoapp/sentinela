@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T00:13:16.472Z",
+  "updatedAt": "2026-10-24T00:14:18.186Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -105,7 +105,7 @@
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "MUDANÇA",
-      "de": "TPBL - BRICLOG",
+      "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -115,7 +115,7 @@
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
+      "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -688,6 +688,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 11:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
