@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T02:29:16.533Z",
+  "updatedAt": "2026-10-24T02:31:07.378Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -681,6 +681,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 05:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 06:30",
       "imo": "9521021",
       "navio": "CBO WAVE (REB)",
@@ -712,22 +722,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 08:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 08:00",
       "imo": "9630705",
       "navio": "ATLAS Z",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "LAGOA OFFSHORE LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 08:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
