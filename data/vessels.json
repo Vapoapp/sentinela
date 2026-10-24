@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T00:15:20.228Z",
+  "updatedAt": "2026-10-24T00:16:16.470Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -115,7 +115,7 @@
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
+      "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -125,7 +125,7 @@
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "MUDANÇA",
-      "de": "TPBL - BRICLOG",
+      "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -728,6 +728,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 15:00",
+      "imo": "9255098",
+      "navio": "MARLIN YARE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
