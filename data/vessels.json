@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T17:24:18.804Z",
+  "updatedAt": "2026-10-24T17:25:20.180Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -92,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 05:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 05:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "ENTRADA",
@@ -118,6 +108,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 05:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,26 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 07:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 07:00",
-      "imo": "9636022",
-      "navio": "SABLE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 07:00",
       "imo": "9724336",
       "navio": "LEONTIOS H",
       "tipo": "ENTRADA",
@@ -231,6 +211,36 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 07:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 07:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 08:00",
+      "imo": "9630705",
+      "navio": "ATLAS Z",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "LAGOA OFFSHORE LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 08:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
@@ -248,16 +258,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 08:00",
-      "imo": "9630705",
-      "navio": "ATLAS Z",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LAGOA OFFSHORE LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -408,6 +408,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 15:00",
+      "imo": "9574169",
+      "navio": "ASALET",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
