@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T13:01:16.949Z",
+  "updatedAt": "2026-10-24T13:02:20.591Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 07:00",
-      "imo": "9293818",
-      "navio": "CONTI CONQUEST",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 07:00",
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 07:00",
+      "imo": "9293818",
+      "navio": "CONTI CONQUEST",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -311,6 +311,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 11:00",
+      "imo": "3813886310",
+      "navio": "C ANGRA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 12:00",
       "imo": "9861017",
       "navio": "ULTRAMARINE",
@@ -321,6 +331,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 13:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 14:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
@@ -328,6 +348,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 14:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
