@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T21:38:16.760Z",
+  "updatedAt": "2026-10-24T21:39:14.030Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -518,6 +518,26 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 07:00",
+      "imo": "1034735",
+      "navio": "LARGO AURORA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 07:00",
+      "imo": "9789726",
+      "navio": "MANTA BEYOGLU",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
