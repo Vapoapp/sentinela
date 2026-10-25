@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T20:20:06.221Z",
+  "updatedAt": "2026-10-25T20:24:15.273Z",
   "portos": {
     "rio": {
-      "ok": true,
-      "count": 0
+      "ok": false,
+      "error": "Timeout"
     },
     "niteroi": {
       "ok": false,
