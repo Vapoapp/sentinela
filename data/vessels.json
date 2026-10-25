@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T15:27:14.822Z",
+  "updatedAt": "2026-10-25T15:28:16.607Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -257,6 +257,16 @@
       "tipo": "SAÍDA",
       "de": "BOIA TSHP - Boia Tranship",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 16:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
