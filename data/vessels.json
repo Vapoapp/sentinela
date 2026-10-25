@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T01:27:15.562Z",
+  "updatedAt": "2026-10-25T01:28:15.806Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 05:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 05:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "MUDANÇA",
@@ -101,16 +111,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 05:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 05:30",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
@@ -132,12 +132,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 06:00",
-      "imo": "9274874",
-      "navio": "NORMAND TOPAZIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 06:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -168,16 +168,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 07:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 07:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 07:00",
       "imo": "9724336",
       "navio": "LEONTIOS H",
       "tipo": "ENTRADA",
@@ -222,12 +222,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 08:00",
-      "imo": "9329954",
-      "navio": "NORMAND TURMALINA",
-      "tipo": "MUDANÇA",
+      "imo": "9630705",
+      "navio": "ATLAS Z",
+      "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "-",
+      "agente": "LAGOA OFFSHORE LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 08:00",
-      "imo": "9630705",
-      "navio": "ATLAS Z",
-      "tipo": "SAÍDA",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "LAGOA OFFSHORE LTDA"
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,26 +282,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 11:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F09 - XAREU",
-      "para": "2N16 - Armazém 16",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 11:00",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 11:00",
       "imo": "2412230323",
       "navio": "SÃO LUIS",
       "tipo": "MUDANÇA",
@@ -318,6 +298,26 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 11:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 11:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,12 +372,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 14:00",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 14:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN"
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 17:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 17:00",
       "imo": "9329942",
       "navio": "MESTRE DOS MARES (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 17:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,20 +522,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 23:00",
-      "imo": "9644134",
-      "navio": "PRION",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 23:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "imo": "9644134",
+      "navio": "PRION",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
@@ -548,6 +548,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 23:30",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
