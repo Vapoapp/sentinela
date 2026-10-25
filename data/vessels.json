@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T18:23:16.163Z",
+  "updatedAt": "2026-10-25T18:24:16.385Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -281,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 14:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 15:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
@@ -292,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 16:00",
-      "imo": "9506394",
-      "navio": "LOG-IN DISCOVERY (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/10/2026 16:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 16:00",
+      "imo": "9506394",
+      "navio": "LOG-IN DISCOVERY (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
