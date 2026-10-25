@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25T20:15:01.200Z",
+  "updatedAt": "2026-10-25T20:20:06.221Z",
   "portos": {
     "rio": {
       "ok": true,
       "count": 0
     },
     "niteroi": {
-      "ok": true,
-      "count": 0
-    },
-    "itaguai": {
       "ok": false,
       "error": "Timeout"
+    },
+    "itaguai": {
+      "ok": true,
+      "count": 0
     },
     "angra": {
       "ok": true,
