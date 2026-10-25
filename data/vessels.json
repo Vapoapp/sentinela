@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T13:07:14.314Z",
+  "updatedAt": "2026-10-25T13:08:15.264Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 09:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 09:00",
       "imo": "9789726",
       "navio": "MANTA BEYOGLU",
       "tipo": "SAÍDA",
@@ -161,13 +171,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/10/2026 09:00",
-      "imo": "9364332",
-      "navio": "SAVEIROS FRAGATA",
+      "inicio": "25/10/2026 10:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,16 +222,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 13:00",
-      "imo": "9762003",
-      "navio": "C SEPETIBA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESCM - ESTALEIRO CAMORIM",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/10/2026 13:00",
       "imo": "1034735",
       "navio": "LARGO AURORA",
       "tipo": "SAÍDA",
@@ -248,6 +248,16 @@
       "de": "Fundeio - WPT 64 - 2F6A",
       "para": "TPPT - NEOLUBES",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 13:00",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +308,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 06:00",
+      "imo": "9337688",
+      "navio": "NYK DIANA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
