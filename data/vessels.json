@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T23:51:14.595Z",
+  "updatedAt": "2026-10-25T23:52:15.952Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -292,22 +292,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 14:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/10/2026 14:00",
       "imo": "9787429",
       "navio": "OSTREIRO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 14:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -416,6 +416,16 @@
       "navio": "BRAM BELEM",
       "tipo": "MUDANÇA",
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 00:00",
+      "imo": "9788459",
+      "navio": "MR ALDO",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
