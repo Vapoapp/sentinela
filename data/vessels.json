@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:18:15.241Z",
+  "updatedAt": "2026-10-25T14:19:14.434Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "25/10/2026 09:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Niterói",
       "inicio": "25/10/2026 10:00",
       "imo": "9644134",
       "navio": "PRION",
@@ -388,6 +398,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "26/10/2026 07:00",
+      "imo": "9575620",
+      "navio": "TANTALUS TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Itaguaí",
