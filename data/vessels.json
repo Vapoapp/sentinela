@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T21:31:13.920Z",
+  "updatedAt": "2026-10-25T21:32:17.062Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "2NTO - Terminal de Óleo",
       "para": "-",
       "agente": "TRANSATLANTICA AGENCIAMENTO DE SERVICOS MARITIMOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 12:00",
+      "imo": "9514092",
+      "navio": "BJ BLUE MARLIN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
