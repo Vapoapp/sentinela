@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T13:03:15.120Z",
+  "updatedAt": "2026-10-25T13:04:16.936Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/10/2026 01:00",
-      "imo": "9273349",
-      "navio": "MARLIN LEBLON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/10/2026 02:00",
