@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T06:41:15.514Z",
+  "updatedAt": "2026-10-25T06:42:16.230Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 02:00",
+      "imo": "9350020",
+      "navio": "APL NEW JERSEY",
+      "tipo": "MUDANÇA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
