@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-25T01:00:32.528Z",
+  "updatedAt": "2026-10-25T01:01:17.967Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 11:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 11:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "MUDANÇA",
@@ -292,11 +302,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 11:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F09 - XAREU",
-      "para": "2N16 - Armazém 16",
+      "para": "2N17 - Armazém 17",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
@@ -308,16 +318,6 @@
       "de": "TPCM - Estaleiro Camorim",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 11:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F09 - XAREU",
-      "para": "2N17 - Armazém 17",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +372,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 14:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/10/2026 14:00",
       "imo": "9659567",
       "navio": "BARU ÁTRIA",
       "tipo": "SAÍDA",
@@ -388,16 +398,6 @@
       "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/10/2026 14:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,20 +522,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 23:00",
-      "imo": "9642588",
-      "navio": "LARUS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "imo": "9644134",
+      "navio": "PRION",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/10/2026 23:00",
-      "imo": "9644134",
-      "navio": "PRION",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
@@ -588,6 +588,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/10/2026 11:00",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
