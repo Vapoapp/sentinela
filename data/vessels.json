@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T09:32:17.405Z",
+  "updatedAt": "2026-10-26T09:33:17.516Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -132,12 +132,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 06:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 06:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
       "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -241,6 +241,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 09:30",
+      "imo": "9763760",
+      "navio": "BRAM BUCK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 10:00",
       "imo": "9407392",
       "navio": "HORIZON THEANO",
@@ -298,6 +308,26 @@
       "de": "Fundeio - WPT 63 - 2F6A",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 17:30",
+      "imo": "9365582",
+      "navio": "SKANDI FLUMINENSE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 17:30",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
