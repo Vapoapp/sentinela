@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:16:16.272Z",
+  "updatedAt": "2026-10-26T08:17:14.682Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -358,6 +358,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/10/2026 19:00",
+      "imo": "9866627",
+      "navio": "RANGAKU",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
