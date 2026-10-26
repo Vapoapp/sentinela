@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:19:13.955Z",
+  "updatedAt": "2026-10-26T01:20:23.113Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,11 +7,11 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
-      "count": 13
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -681,6 +681,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "25/10/2026 13:00",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "ESWS - ESTALEIRO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
       "inicio": "26/10/2026 07:00",
       "imo": "9575620",
       "navio": "TANTALUS TIDE (REB)",
@@ -778,16 +788,6 @@
       "de": "-",
       "para": "Fundeio - 5FB5 - Área de Fundeio B5",
       "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "26/10/2026 12:00",
-      "imo": "1095002",
-      "navio": "GREEN TAICANG",
-      "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
