@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T16:51:15.359Z",
+  "updatedAt": "2026-10-26T16:52:16.748Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 06:00",
-      "imo": "9655494",
-      "navio": "ILHA DO MOSQUEIRO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/10/2026 06:00",
       "imo": "9442055",
       "navio": "TALHA-MAR",
       "tipo": "ENTRADA",
@@ -178,6 +168,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 06:00",
+      "imo": "9655494",
+      "navio": "ILHA DO MOSQUEIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -441,6 +441,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 16:30",
+      "imo": "9453860",
+      "navio": "JOSÉ DO PATROCÍNIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 64 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 17:00",
       "imo": "9715737",
       "navio": "STARNAV ANDROMEDA",
@@ -498,6 +508,16 @@
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 20:00",
+      "imo": "9468205",
+      "navio": "SEVEN OCEANIC",
+      "tipo": "SAÍDA",
+      "de": "2N05 - Armazém 6",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
