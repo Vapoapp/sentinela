@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T12:36:15.809Z",
+  "updatedAt": "2026-10-26T12:37:16.553Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -252,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 08:00",
-      "imo": "3813884350",
-      "navio": "C RIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPCM - Estaleiro Camorim",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/10/2026 08:00",
       "imo": "9273349",
       "navio": "MARLIN LEBLON",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 08:00",
+      "imo": "3813884350",
+      "navio": "C RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +338,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 13:30",
+      "imo": "9759264",
+      "navio": "BUENA CONFIANZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
