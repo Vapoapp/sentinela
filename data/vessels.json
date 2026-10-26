@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T17:50:27.097Z",
+  "updatedAt": "2026-10-26T17:51:18.125Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -432,16 +432,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 15:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/10/2026 15:00",
       "imo": "9996733",
       "navio": "CMA CGM KRYPTON",
       "tipo": "ENTRADA",
@@ -461,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 15:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 16:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
@@ -468,6 +468,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 16:00",
+      "imo": "9530199",
+      "navio": "SANTOS SERVICE",
+      "tipo": "SAÍDA",
+      "de": "TPBL - BRICLOG",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
