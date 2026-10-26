@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-26T16:32:19.058Z",
+  "updatedAt": "2026-10-26T16:33:16.165Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -281,6 +281,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 08:30",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "26/10/2026 09:30",
       "imo": "9659579",
       "navio": "BARU MUCURA",
@@ -378,6 +388,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 13:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
