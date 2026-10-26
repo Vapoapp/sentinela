@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:17:16.762Z",
+  "updatedAt": "2026-10-26T19:18:20.405Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -796,6 +796,16 @@
       "navio": "MILDRED",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/10/2026 20:30",
+      "imo": "9704087",
+      "navio": "CAPE EXCELSIOR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
