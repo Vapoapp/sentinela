@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:39:16.085Z",
+  "updatedAt": "2026-10-27T19:40:22.372Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -658,6 +658,26 @@
       "de": "-",
       "para": "Fundeio - 5FA2 - Área de Fundeio A2",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/10/2026 20:00",
+      "imo": "9902275",
+      "navio": "VITA UNITY",
+      "tipo": "MUDANÇA",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "Fundeio - 5FA1 - Área de Fundeio A1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/10/2026 21:30",
+      "imo": "9494187",
+      "navio": "ASL ERA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Itaguaí",
