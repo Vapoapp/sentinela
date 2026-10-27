@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T23:42:17.543Z",
+  "updatedAt": "2026-10-27T23:43:16.372Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -592,6 +592,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/10/2026 22:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 22:00",
       "imo": "1031185",
       "navio": "MSC STELLA M X",
       "tipo": "ENTRADA",
@@ -607,16 +617,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/10/2026 22:00",
-      "imo": "9364332",
-      "navio": "SAVEIROS FRAGATA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
@@ -658,6 +658,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 16:00",
+      "imo": "9492050",
+      "navio": "MADRE DE DEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
