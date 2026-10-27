@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T03:17:14.143Z",
+  "updatedAt": "2026-10-27T03:18:14.910Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -81,13 +81,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/10/2026 09:00",
-      "imo": "9706449",
-      "navio": "SKANDI AÇU",
-      "tipo": "SAÍDA",
-      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "27/10/2026 07:00",
+      "imo": "9827281",
+      "navio": "CBO TERRA BRASILIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -98,6 +98,16 @@
       "de": "-",
       "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 09:00",
+      "imo": "9706449",
+      "navio": "SKANDI AÇU",
+      "tipo": "SAÍDA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
