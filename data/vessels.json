@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T03:18:14.910Z",
+  "updatedAt": "2026-10-27T03:19:14.026Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 06:00",
+      "imo": "9270244",
+      "navio": "HAROLDO RAMOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Rio de Janeiro",
