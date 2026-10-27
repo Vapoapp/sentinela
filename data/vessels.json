@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T01:43:15.367Z",
+  "updatedAt": "2026-10-27T01:44:15.930Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 84
+      "count": 85
     },
     "niteroi": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/10/2026 17:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
