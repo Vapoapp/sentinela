@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T06:48:17.894Z",
+  "updatedAt": "2026-10-27T06:49:16.583Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -51,6 +51,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 04:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/10/2026 05:00",
       "imo": "9644160",
       "navio": "BRAM BELEM",
@@ -82,16 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/10/2026 07:00",
-      "imo": "9484845",
-      "navio": "STRIL EXPLORER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N11 - Armazém 13",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/10/2026 07:00",
       "imo": "9710880",
       "navio": "SEVEN CRUZEIRO",
       "tipo": "SAÍDA",
@@ -111,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/10/2026 09:00",
-      "imo": "9757711",
-      "navio": "TORDIS KNUTSEN",
+      "inicio": "27/10/2026 07:00",
+      "imo": "9484845",
+      "navio": "STRIL EXPLORER",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "2N11 - Armazém 13",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,6 +128,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 09:00",
+      "imo": "9757711",
+      "navio": "TORDIS KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
