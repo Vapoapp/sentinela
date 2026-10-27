@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:21:19.094Z",
+  "updatedAt": "2026-10-27T19:22:16.822Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -587,6 +587,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "28/10/2026 14:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "SAÍDA",
+      "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
