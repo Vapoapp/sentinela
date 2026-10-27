@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T23:30:27.988Z",
+  "updatedAt": "2026-10-27T23:31:20.248Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 21:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
