@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T23:54:16.481Z",
+  "updatedAt": "2026-10-28T23:55:19.125Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 17:00",
-      "imo": "9690432",
-      "navio": "BRAM BUCCANEER",
-      "tipo": "MUDANÇA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 17:00",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 17:00",
+      "imo": "9690432",
+      "navio": "BRAM BUCCANEER",
+      "tipo": "MUDANÇA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -636,6 +636,16 @@
       "navio": "SEABOURN VENTURE",
       "tipo": "SAÍDA",
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 20:00",
+      "imo": "9443669",
+      "navio": "HEEMSKERKGRACHT",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
