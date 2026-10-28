@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T20:16:18.845Z",
+  "updatedAt": "2026-10-28T20:17:16.675Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 18:30",
+      "imo": "9659543",
+      "navio": "BARU ANTARES",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
