@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T14:06:18.770Z",
+  "updatedAt": "2026-10-28T14:07:18.848Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -222,21 +222,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 07:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 07:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "MUDANÇA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 07:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
@@ -331,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 12:00",
-      "imo": "9292175",
-      "navio": "MSC SHANELLE V",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "inicio": "28/10/2026 11:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +348,26 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 12:00",
+      "imo": "9292175",
+      "navio": "MSC SHANELLE V",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 14:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
