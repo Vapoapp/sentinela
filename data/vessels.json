@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:23:16.958Z",
+  "updatedAt": "2026-10-28T18:24:18.504Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -471,6 +471,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 20:00",
+      "imo": "1031185",
+      "navio": "MSC STELLA M X",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 22:00",
       "imo": "9213959",
       "navio": "INDUSTRIAL CHARGER",
@@ -478,16 +488,6 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 23:00",
-      "imo": "1031185",
-      "navio": "MSC STELLA M X",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
