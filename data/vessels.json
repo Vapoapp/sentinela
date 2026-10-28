@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T12:25:19.959Z",
+  "updatedAt": "2026-10-28T12:26:18.605Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 09:30",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
