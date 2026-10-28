@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T23:51:16.926Z",
+  "updatedAt": "2026-10-28T23:52:17.539Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -658,6 +658,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "28/10/2026 21:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
