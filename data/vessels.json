@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T02:55:20.894Z",
+  "updatedAt": "2026-10-28T02:56:18.129Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 86
+      "count": 87
     },
     "niteroi": {
       "ok": true,
@@ -612,16 +612,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/10/2026 22:00",
-      "imo": "9364332",
-      "navio": "SAVEIROS FRAGATA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/10/2026 22:00",
       "imo": "1031185",
       "navio": "MSC STELLA M X",
       "tipo": "ENTRADA",
@@ -637,6 +627,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/10/2026 22:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
@@ -708,6 +708,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 05:00",
+      "imo": "9418030",
+      "navio": "SKANDI MERCURY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
