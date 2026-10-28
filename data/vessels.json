@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T09:04:17.020Z",
+  "updatedAt": "2026-10-28T09:05:19.239Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -182,6 +182,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 06:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N05 - Armazém 6",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 06:00",
       "imo": "9147306",
       "navio": "AQUARIUS BRASIL",
       "tipo": "ENTRADA",
@@ -242,6 +252,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 08:00",
+      "imo": "9690432",
+      "navio": "BRAM BUCCANEER",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 08:00",
       "imo": "9529891",
       "navio": "JOE GRIFFIN (REB)",
       "tipo": "ENTRADA",
@@ -272,8 +292,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 12:00",
-      "imo": "9292175",
-      "navio": "MSC SHANELLE V",
+      "imo": "1031185",
+      "navio": "MSC STELLA M X",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
@@ -282,8 +302,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 12:00",
-      "imo": "1031185",
-      "navio": "MSC STELLA M X",
+      "imo": "9292175",
+      "navio": "MSC SHANELLE V",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
