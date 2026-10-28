@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T18:24:18.504Z",
+  "updatedAt": "2026-10-28T18:25:22.674Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 02:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 02:00",
       "imo": "9292175",
       "navio": "MSC SHANELLE V",
       "tipo": "ENTRADA",
@@ -122,16 +132,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 05:00",
-      "imo": "9440681",
-      "navio": "SKUA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 05:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "ENTRADA",
@@ -148,6 +148,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 05:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,6 +232,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 07:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 07:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "ENTRADA",
@@ -241,16 +261,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 07:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 08:00",
       "imo": "9659567",
       "navio": "BARU ÁTRIA",
@@ -258,6 +268,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 08:00",
+      "imo": "9690432",
+      "navio": "BRAM BUCCANEER",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -277,16 +297,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 08:00",
-      "imo": "9690432",
-      "navio": "BRAM BUCCANEER",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -478,16 +488,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 22:00",
-      "imo": "9213959",
-      "navio": "INDUSTRIAL CHARGER",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
