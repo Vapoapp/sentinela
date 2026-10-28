@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T06:57:15.787Z",
+  "updatedAt": "2026-10-28T06:58:16.237Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -111,6 +111,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 04:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 05:00",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
@@ -172,21 +182,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 06:00",
-      "imo": "9147306",
-      "navio": "AQUARIUS BRASIL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 63 - 2F6A",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 06:00",
       "imo": "9181467",
       "navio": "ARTEMIS ANGLER",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 06:00",
+      "imo": "9147306",
+      "navio": "AQUARIUS BRASIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 63 - 2F6A",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
