@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T00:02:15.993Z",
+  "updatedAt": "2026-10-28T00:03:16.111Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 78
+      "count": 79
     },
     "niteroi": {
       "ok": true,
@@ -651,6 +651,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 01:30",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 03:00",
       "imo": "9787405",
       "navio": "PARDELA (REB)",
@@ -672,22 +682,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 06:00",
-      "imo": "9181467",
-      "navio": "ARTEMIS ANGLER",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 06:00",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 06:00",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
