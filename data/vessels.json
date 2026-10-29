@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T00:50:24.115Z",
+  "updatedAt": "2026-10-29T00:51:15.004Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -492,22 +492,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/10/2026 18:00",
-      "imo": "9426972",
-      "navio": "CBO BIANCA",
-      "tipo": "SAÍDA",
-      "de": "2N05 - Armazém 6",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/10/2026 18:00",
       "imo": "9715567",
       "navio": "CBO OCEANA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/10/2026 18:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "SAÍDA",
+      "de": "2N05 - Armazém 6",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -688,6 +688,16 @@
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 18:00",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
