@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T07:53:18.149Z",
+  "updatedAt": "2026-10-29T07:54:22.470Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -258,6 +258,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 13:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
