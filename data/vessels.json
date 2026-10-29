@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T05:35:21.551Z",
+  "updatedAt": "2026-10-29T05:36:16.256Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 12:00",
+      "imo": "9522893",
+      "navio": "LIBERTY BAY",
+      "tipo": "SAÍDA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
