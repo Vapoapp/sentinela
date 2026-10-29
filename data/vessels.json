@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T17:21:16.642Z",
+  "updatedAt": "2026-10-29T17:22:19.879Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 59
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 07:00",
-      "imo": "9443669",
-      "navio": "HEEMSKERKGRACHT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 07:00",
       "imo": "9388663",
       "navio": "MAERSK TRAVELLER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 07:00",
+      "imo": "9443669",
+      "navio": "HEEMSKERKGRACHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,12 +262,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 10:30",
-      "imo": "9659579",
-      "navio": "BARU MUCURA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 10:30",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 13:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,22 +352,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 13:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 13:00",
       "imo": "9681314",
       "navio": "KOTA SINGA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 13:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 13:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
