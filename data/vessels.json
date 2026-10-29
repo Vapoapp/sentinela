@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T03:36:18.375Z",
+  "updatedAt": "2026-10-29T03:37:21.871Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -144,6 +144,16 @@
       "inicio": "29/10/2026 11:00",
       "imo": "9600580",
       "navio": "SKANDI ANGRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 11:00",
+      "imo": "9604586",
+      "navio": "SKANDI PARATY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
