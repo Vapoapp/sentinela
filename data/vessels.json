@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T12:40:22.495Z",
+  "updatedAt": "2026-10-29T12:41:17.393Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -202,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 08:00",
-      "imo": "9357169",
-      "navio": "ASSO VENTISETTE",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 08:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
