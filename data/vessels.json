@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:25:20.197Z",
+  "updatedAt": "2026-10-29T03:26:16.585Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "29/10/2026 04:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMA - ESTALEIRO MAUÁ",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A."
     },
     {
       "porto": "Niterói",
