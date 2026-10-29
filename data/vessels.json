@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T17:25:19.562Z",
+  "updatedAt": "2026-10-29T17:26:18.526Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 16:00",
+      "imo": "9273349",
+      "navio": "MARLIN LEBLON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
