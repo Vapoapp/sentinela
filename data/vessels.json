@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-29T08:52:18.533Z",
+  "updatedAt": "2026-10-29T08:53:15.003Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 07:00",
-      "imo": "9443669",
-      "navio": "HEEMSKERKGRACHT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 07:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
       "tipo": "MUDANÇA",
@@ -178,6 +168,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 07:00",
+      "imo": "9443669",
+      "navio": "HEEMSKERKGRACHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 07:30",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
