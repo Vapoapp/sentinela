@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:59:15.531Z",
+  "updatedAt": "2026-10-29T12:00:31.946Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -51,16 +51,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 03:00",
-      "imo": "9213959",
-      "navio": "INDUSTRIAL CHARGER",
-      "tipo": "SAÍDA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 05:00",
       "imo": "9690432",
       "navio": "BRAM BUCCANEER",
@@ -82,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 06:00",
+      "imo": "9147306",
+      "navio": "AQUARIUS BRASIL",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 63 - 2F6A",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 06:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
@@ -91,13 +91,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 06:00",
-      "imo": "9147306",
-      "navio": "AQUARIUS BRASIL",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 63 - 2F6A",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "inicio": "29/10/2026 06:30",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -118,16 +118,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "29/10/2026 06:30",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +208,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 08:30",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "SAÍDA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
