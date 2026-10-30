@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T15:57:16.099Z",
+  "updatedAt": "2026-10-30T15:58:18.327Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "ESMA - ESTALEIRO MAUÁ",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "30/10/2026 18:00",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Niterói",
