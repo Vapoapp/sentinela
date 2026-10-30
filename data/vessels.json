@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T16:21:16.429Z",
+  "updatedAt": "2026-10-30T16:22:18.080Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 19:00",
+      "imo": "9328687",
+      "navio": "C OURO (EX-SUPERPESA XI)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
