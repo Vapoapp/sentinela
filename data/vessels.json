@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T01:52:17.630Z",
+  "updatedAt": "2026-10-30T01:53:16.404Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 76
     },
     "niteroi": {
       "ok": true,
@@ -634,6 +634,16 @@
       "inicio": "30/10/2026 02:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 03:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
