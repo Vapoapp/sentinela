@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T03:29:15.022Z",
+  "updatedAt": "2026-10-30T03:30:27.187Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 00:00",
+      "imo": "9715567",
+      "navio": "CBO OCEANA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 02:00",
