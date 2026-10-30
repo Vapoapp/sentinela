@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T12:00:32.194Z",
+  "updatedAt": "2026-10-30T12:01:22.528Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -278,6 +278,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 09:30",
+      "imo": "9631125",
+      "navio": "LORI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
