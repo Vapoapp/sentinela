@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T17:22:16.988Z",
+  "updatedAt": "2026-10-30T17:23:16.941Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 13:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
