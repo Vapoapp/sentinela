@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:16:16.570Z",
+  "updatedAt": "2026-10-30T12:17:15.243Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -191,16 +191,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 11:00",
-      "imo": "9339832",
-      "navio": "MICHIGAN HIGHWAY",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 12:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
@@ -247,6 +237,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 17:00",
+      "imo": "9339832",
+      "navio": "MICHIGAN HIGHWAY",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
