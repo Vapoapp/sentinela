@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:24:17.609Z",
+  "updatedAt": "2026-10-30T11:25:21.270Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -297,6 +297,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "ESCD - ESTALEIRO CODEPE",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/10/2026 18:00",
+      "imo": "3840167159",
+      "navio": "OCEAN ROUTE",
+      "tipo": "SAÍDA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
