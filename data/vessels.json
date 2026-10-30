@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T11:23:15.401Z",
+  "updatedAt": "2026-10-30T11:24:17.609Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "ESMA - ESTALEIRO MAUÁ",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/10/2026 06:00",
+      "imo": "3840167159",
+      "navio": "OCEAN ROUTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCD - ESTALEIRO CODEPE",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
