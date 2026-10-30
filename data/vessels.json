@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T01:38:20.076Z",
+  "updatedAt": "2026-10-30T01:39:17.508Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 13:00",
-      "imo": "9681314",
-      "navio": "KOTA SINGA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,12 +352,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "29/10/2026 13:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9681314",
+      "navio": "KOTA SINGA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -601,6 +601,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "29/10/2026 23:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 02:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
@@ -632,22 +642,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 06:00",
-      "imo": "9422330",
-      "navio": "NORMAND POSEIDON (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2NTO - Terminal de Óleo",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 06:00",
       "imo": "9996678",
       "navio": "CMA CGM IRON",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 06:00",
+      "imo": "9422330",
+      "navio": "NORMAND POSEIDON (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
