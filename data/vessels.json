@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T21:09:15.508Z",
+  "updatedAt": "2026-10-30T21:10:28.863Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -352,6 +352,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 17:00",
+      "imo": "9457713",
+      "navio": "PINE OLIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 17:00",
       "imo": "9497127",
       "navio": "CAMPOS CONTENDER",
       "tipo": "SAÍDA",
@@ -372,26 +382,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 19:00",
-      "imo": "9710880",
-      "navio": "SEVEN CRUZEIRO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 19:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "SAÍDA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 19:00",
       "imo": "9328687",
       "navio": "C OURO (EX-SUPERPESA XI)",
       "tipo": "ENTRADA",
@@ -408,6 +398,26 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 19:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "SAÍDA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 19:00",
+      "imo": "9710880",
+      "navio": "SEVEN CRUZEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
