@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T08:57:16.283Z",
+  "updatedAt": "2026-10-30T08:58:18.787Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -71,16 +71,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 03:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 05:00",
       "imo": "1031173",
       "navio": "MSC MARIA MARILYN X",
@@ -98,6 +88,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 05:30",
+      "imo": "9530187",
+      "navio": "SANTOS SCOUT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
