@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T09:45:22.279Z",
+  "updatedAt": "2026-10-31T09:47:16.409Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -387,6 +387,16 @@
       "tipo": "SAÍDA",
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "31/10/2026 14:30",
+      "imo": "9639517",
+      "navio": "BACON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
