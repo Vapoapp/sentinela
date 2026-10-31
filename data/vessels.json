@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T18:13:15.223Z",
+  "updatedAt": "2026-10-31T18:14:18.879Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -662,16 +662,6 @@
     {
       "porto": "Itaguaí",
       "inicio": "01/11/2026 13:30",
-      "imo": "9976501",
-      "navio": "GREEN SUAPE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "303 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "01/11/2026 15:30",
       "imo": "9682980",
       "navio": "ELISABETH MAERSK",
       "tipo": "ENTRADA",
@@ -681,7 +671,17 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/11/2026 17:00",
+      "inicio": "01/11/2026 14:30",
+      "imo": "9976501",
+      "navio": "GREEN SUAPE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/11/2026 16:30",
       "imo": "1021764",
       "navio": "Pyrros",
       "tipo": "SAÍDA",
