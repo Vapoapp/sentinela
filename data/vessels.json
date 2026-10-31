@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T11:25:17.891Z",
+  "updatedAt": "2026-10-31T11:26:16.945Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -161,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "31/10/2026 08:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
+      "inicio": "31/10/2026 07:30",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +178,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 08:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
