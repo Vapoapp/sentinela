@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T17:11:15.484Z",
+  "updatedAt": "2026-10-31T17:12:17.032Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -282,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 12:00",
-      "imo": "9701140",
-      "navio": "GOODWOOD",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/10/2026 12:00",
       "imo": "9596868",
       "navio": "GILBERTO FREYRE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 12:00",
+      "imo": "9701140",
+      "navio": "GOODWOOD",
+      "tipo": "SAÍDA",
+      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +318,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "Fundeio - WPT 62 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 15:00",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
