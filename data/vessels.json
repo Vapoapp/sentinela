@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T02:25:21.487Z",
+  "updatedAt": "2026-10-31T02:26:19.898Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -312,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 16:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 16:00",
       "imo": "9701140",
       "navio": "GOODWOOD",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 16:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +518,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 23:30",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
