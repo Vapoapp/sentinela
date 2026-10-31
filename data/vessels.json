@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T00:06:19.588Z",
+  "updatedAt": "2026-10-31T00:07:16.938Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 20:00",
-      "imo": "9756951",
-      "navio": "BS UBATUBA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 20:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "SAÍDA",
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 20:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 12:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
