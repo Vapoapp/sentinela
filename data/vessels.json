@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T08:32:20.633Z",
+  "updatedAt": "2026-10-31T08:33:14.574Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -102,12 +102,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 07:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
+      "imo": "9895252",
+      "navio": "SH VEGA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,12 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 07:00",
-      "imo": "9895252",
-      "navio": "SH VEGA",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 07:00",
+      "imo": "9050137",
+      "navio": "BUENAVISTA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 07:00",
-      "imo": "9050137",
-      "navio": "BUENAVISTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
+      "tipo": "MUDANÇA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
