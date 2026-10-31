@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T13:21:24.984Z",
+  "updatedAt": "2026-10-31T13:22:15.331Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/10/2026 10:30",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "MUDANÇA",
+      "de": "ESMA - ESTALEIRO MAUÁ",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Itaguaí",
