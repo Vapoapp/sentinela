@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T01:12:16.864Z",
+  "updatedAt": "2026-10-31T01:13:16.254Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -392,32 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 19:00",
-      "imo": "9328687",
-      "navio": "C OURO (EX-SUPERPESA XI)",
+      "imo": "9710880",
+      "navio": "SEVEN CRUZEIRO",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESCM - ESTALEIRO CAMORIM",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 19:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 19:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "SAÍDA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "para": "2N06 - Armazém 7",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,22 +412,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 19:00",
-      "imo": "9710880",
-      "navio": "SEVEN CRUZEIRO",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 20:00",
-      "imo": "9756951",
-      "navio": "BS UBATUBA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+      "inicio": "30/10/2026 19:00",
+      "imo": "9328687",
+      "navio": "C OURO (EX-SUPERPESA XI)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 19:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "SAÍDA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -471,6 +461,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 20:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "30/10/2026 21:00",
       "imo": "9725859",
       "navio": "BOCHEM WALVIS BAY",
@@ -478,6 +478,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "30/10/2026 22:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -491,13 +501,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "30/10/2026 22:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "inicio": "30/10/2026 23:00",
+      "imo": "9741279",
+      "navio": "ACE DEFENDER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "CAPITAL MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
