@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:51:14.962Z",
+  "updatedAt": "2026-10-31T11:52:15.672Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -441,6 +441,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "31/10/2026 17:00",
+      "imo": "9531844",
+      "navio": "SPRING VENTURE",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "31/10/2026 18:00",
       "imo": "9685396",
       "navio": "RAQUEL KNUTSEN",
@@ -448,16 +458,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "31/10/2026 19:00",
-      "imo": "9531844",
-      "navio": "SPRING VENTURE",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
