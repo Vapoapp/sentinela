@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-31T08:33:14.574Z",
+  "updatedAt": "2026-10-31T08:34:17.005Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -102,12 +102,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 07:00",
-      "imo": "9895252",
-      "navio": "SH VEGA",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
-      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 07:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
+      "imo": "9895252",
+      "navio": "SH VEGA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "agente": "SHIPLOG SERVIÇOS DE AGENCIAMENTO MARÍTIMO E LOGÍSTICA LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -161,6 +161,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 08:00",
+      "imo": "9715737",
+      "navio": "STARNAV ANDROMEDA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 09:30",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 09:30",
       "imo": "9631125",
       "navio": "LORI",
@@ -182,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "31/10/2026 12:00",
-      "imo": "9596868",
-      "navio": "GILBERTO FREYRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "31/10/2026 12:00",
       "imo": "9701140",
       "navio": "GOODWOOD",
       "tipo": "SAÍDA",
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "31/10/2026 12:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
