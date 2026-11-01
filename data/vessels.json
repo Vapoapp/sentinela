@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T03:04:15.102Z",
+  "updatedAt": "2026-11-01T03:05:20.317Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 6
+      "count": 8
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 15:30",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 16:00",
       "imo": "9302073",
       "navio": "ONE GEORGE WASHINGTON",
@@ -78,6 +88,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 16:00",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
