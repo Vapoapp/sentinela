@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T03:09:14.566Z",
+  "updatedAt": "2026-11-01T03:10:22.889Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "01/11/2026 07:00",
+      "imo": "3840167159",
+      "navio": "OCEAN ROUTE",
+      "tipo": "SAÍDA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
