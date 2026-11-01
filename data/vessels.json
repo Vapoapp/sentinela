@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T03:02:18.316Z",
+  "updatedAt": "2026-11-01T03:03:17.969Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 1
+      "count": 4
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,36 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 08:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 12:00",
+      "imo": "9596868",
+      "navio": "GILBERTO FREYRE",
+      "tipo": "SAÍDA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 16:00",
+      "imo": "9302073",
+      "navio": "ONE GEORGE WASHINGTON",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
