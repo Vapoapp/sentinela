@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:02:15.559Z",
+  "updatedAt": "2026-11-01T10:03:14.562Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -331,16 +331,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "01/11/2026 11:00",
-      "imo": "9494187",
-      "navio": "ASL ERA",
-      "tipo": "SAÍDA",
-      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "01/11/2026 12:30",
       "imo": "9939967",
       "navio": "MOUNT ITA",
@@ -382,12 +372,12 @@
     {
       "porto": "Itaguaí",
       "inicio": "01/11/2026 18:00",
-      "imo": "9639517",
-      "navio": "BACON",
+      "imo": "9494187",
+      "navio": "ASL ERA",
       "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     }
   ]
 }
