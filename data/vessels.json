@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T03:05:20.317Z",
+  "updatedAt": "2026-11-01T03:06:17.801Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 09:00",
+      "imo": "9699115",
+      "navio": "ZIM WILMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
