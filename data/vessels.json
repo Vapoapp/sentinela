@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T21:46:17.563Z",
+  "updatedAt": "2026-11-01T21:47:17.835Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 00:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
