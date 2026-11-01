@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T21:35:20.591Z",
+  "updatedAt": "2026-11-01T21:36:18.422Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -411,6 +411,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 18:30",
+      "imo": "9482378",
+      "navio": "CBO MANOELLA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 19:00",
       "imo": "9641261",
       "navio": "MAR LIMPO V",
@@ -438,6 +448,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 21:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 15:00",
-      "imo": "1057206",
-      "navio": "P. TOKYO",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 15:00",
       "imo": "9699115",
       "navio": "ZIM WILMINGTON",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 15:00",
+      "imo": "1057206",
+      "navio": "P. TOKYO",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
