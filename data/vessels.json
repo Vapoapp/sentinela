@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T21:26:18.560Z",
+  "updatedAt": "2026-11-01T21:27:18.166Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -381,16 +381,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 16:00",
-      "imo": "9641261",
-      "navio": "MAR LIMPO V",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 17:30",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
@@ -408,6 +398,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 19:00",
+      "imo": "9641261",
+      "navio": "MAR LIMPO V",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
