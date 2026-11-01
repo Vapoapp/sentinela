@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:00:28.424Z",
+  "updatedAt": "2026-11-01T10:01:14.777Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "01/11/2026 12:30",
+      "imo": "9939967",
+      "navio": "MOUNT ITA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
