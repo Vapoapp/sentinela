@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T20:57:16.506Z",
+  "updatedAt": "2026-11-01T20:58:16.845Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -498,6 +498,26 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 12:30",
+      "imo": "9649835",
+      "navio": "CMA CGM SANTOS (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 15:00",
+      "imo": "1057206",
+      "navio": "P. TOKYO",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
