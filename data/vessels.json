@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T20:56:17.251Z",
+  "updatedAt": "2026-11-01T20:57:16.506Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 49
     },
     "niteroi": {
       "ok": true,
@@ -132,22 +132,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 06:00",
-      "imo": "9364332",
-      "navio": "SAVEIROS FRAGATA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 06:00",
       "imo": "9567740",
       "navio": "TANCHOU ARROW",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 06:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,16 +232,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 09:00",
-      "imo": "9699115",
-      "navio": "ZIM WILMINGTON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 09:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
@@ -251,13 +241,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 10:00",
-      "imo": "3813884350",
-      "navio": "C RIO",
+      "inicio": "01/11/2026 09:00",
+      "imo": "9699115",
+      "navio": "ZIM WILMINGTON",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "ESCM - ESTALEIRO CAMORIM",
-      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -268,6 +258,16 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 10:00",
+      "imo": "3813884350",
+      "navio": "C RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 16:00",
-      "imo": "1016692",
-      "navio": "MSC ADELE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 16:00",
       "imo": "9641261",
       "navio": "MAR LIMPO V",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 16:00",
+      "imo": "1016692",
+      "navio": "MSC ADELE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -471,6 +471,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 11:00",
+      "imo": "9553141",
+      "navio": "APOGEE ENDEAVOUR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 11:30",
       "imo": "9302073",
       "navio": "ONE GEORGE WASHINGTON",
@@ -478,6 +488,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 12:00",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
