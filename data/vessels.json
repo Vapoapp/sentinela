@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T00:58:15.691Z",
+  "updatedAt": "2026-11-01T00:59:20.584Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -597,6 +597,16 @@
       "tipo": "MUDANÇA",
       "de": "ESMA - ESTALEIRO MAUÁ",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "31/10/2026 22:30",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
