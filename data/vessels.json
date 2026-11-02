@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T08:43:17.855Z",
+  "updatedAt": "2026-11-02T08:44:17.491Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -58,6 +58,16 @@
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 05:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
