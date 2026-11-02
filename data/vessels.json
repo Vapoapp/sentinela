@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T10:06:18.335Z",
+  "updatedAt": "2026-11-02T10:07:16.619Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "2N10 - Terminal de Trigo",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 11:30",
+      "imo": "1016692",
+      "navio": "MSC ADELE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
