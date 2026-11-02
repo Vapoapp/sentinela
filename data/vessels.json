@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T19:23:15.320Z",
+  "updatedAt": "2026-11-02T19:24:18.944Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -361,6 +361,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 17:00",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
+      "tipo": "MUDANÇA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 17:30",
+      "imo": "9720512",
+      "navio": "MSC MICHELA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 17:30",
       "imo": "9850800",
       "navio": "EVER FAME",
@@ -372,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 18:30",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 18:30",
       "imo": "9692636",
       "navio": "CBO ENERGY (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 18:30",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
