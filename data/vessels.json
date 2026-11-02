@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T09:29:16.819Z",
+  "updatedAt": "2026-11-02T09:30:37.137Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -137,6 +137,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 08:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
