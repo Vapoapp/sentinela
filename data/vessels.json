@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T08:30:25.771Z",
+  "updatedAt": "2026-11-02T08:31:16.322Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 17:30",
+      "imo": "9850800",
+      "navio": "EVER FAME",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Niterói",
