@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T20:40:24.567Z",
+  "updatedAt": "2026-11-02T20:41:15.595Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 11:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 11:30",
       "imo": "1016692",
       "navio": "MSC ADELE",
       "tipo": "SAÍDA",
@@ -218,16 +228,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 11:30",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,16 +282,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 14:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 14:00",
       "imo": "9364332",
       "navio": "SAVEIROS FRAGATA",
       "tipo": "ENTRADA",
@@ -301,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 15:00",
-      "imo": "1057206",
-      "navio": "P. TOKYO",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
+      "inicio": "02/11/2026 14:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -328,6 +318,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 15:00",
+      "imo": "1057206",
+      "navio": "P. TOKYO",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "ESCM - ESTALEIRO CAMORIM",
       "para": "2P14 - Terminal Petrobrás (Armazém 14)",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 17:30",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
