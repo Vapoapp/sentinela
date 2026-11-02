@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T13:03:27.409Z",
+  "updatedAt": "2026-11-02T13:04:19.123Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 8
     },
     "angra": {
       "ok": true,
@@ -388,16 +388,6 @@
       "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "02/11/2026 19:00",
-      "imo": "9939967",
-      "navio": "MOUNT ITA",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
