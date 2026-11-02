@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T12:35:23.793Z",
+  "updatedAt": "2026-11-02T12:36:16.532Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -248,6 +248,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 13:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
