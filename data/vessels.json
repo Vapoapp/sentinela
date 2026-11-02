@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T08:31:16.322Z",
+  "updatedAt": "2026-11-02T08:32:18.507Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 07:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
