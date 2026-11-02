@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T18:39:17.408Z",
+  "updatedAt": "2026-11-02T18:40:25.673Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -506,6 +506,16 @@
       "navio": "VEGA DREAM",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "03/11/2026 00:00",
+      "imo": "9639517",
+      "navio": "BACON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
