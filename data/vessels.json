@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T21:29:17.363Z",
+  "updatedAt": "2026-11-02T21:30:29.193Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 15:00",
+      "imo": "1057206",
+      "navio": "P. TOKYO",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 15:00",
       "imo": "9388663",
       "navio": "MAERSK TRAVELLER (REB)",
       "tipo": "ENTRADA",
@@ -318,16 +328,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 15:00",
-      "imo": "1057206",
-      "navio": "P. TOKYO",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -438,6 +438,16 @@
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 20:30",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
