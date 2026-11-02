@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T10:14:16.591Z",
+  "updatedAt": "2026-11-02T10:15:36.055Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 07:30",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 07:30",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 07:30",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,6 +188,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 11:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
