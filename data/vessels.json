@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T02:23:15.077Z",
+  "updatedAt": "2026-11-02T02:24:24.345Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "01/11/2026 14:30",
-      "imo": "9659567",
-      "navio": "BARU ÁTRIA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "01/11/2026 14:30",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "01/11/2026 14:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BARU OFSSHORE NAVEGAÇÃO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -492,6 +492,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 01:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 01:00",
       "imo": "9741279",
       "navio": "ACE DEFENDER (REB)",
       "tipo": "ENTRADA",
@@ -592,22 +602,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 15:00",
-      "imo": "9699115",
-      "navio": "ZIM WILMINGTON",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ZIM DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 15:00",
       "imo": "1057206",
       "navio": "P. TOKYO",
       "tipo": "MUDANÇA",
       "de": "TPP2 - PETROBRAS PP2",
       "para": "Fundeio - WPT 81 - 2F08",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 15:00",
+      "imo": "9699115",
+      "navio": "ZIM WILMINGTON",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ZIM DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
