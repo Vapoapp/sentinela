@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T19:55:33.020Z",
+  "updatedAt": "2026-11-03T19:56:39.738Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -172,6 +172,36 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
+      "imo": "9626443",
+      "navio": "BONGO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 08:00",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 08:00",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
+      "tipo": "MUDANÇA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 08:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "ENTRADA",
@@ -201,33 +231,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 08:00",
-      "imo": "9492000",
-      "navio": "ANGRA DOS REIS",
-      "tipo": "MUDANÇA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "Fundeio - WPT 62 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 08:00",
-      "imo": "9530175",
-      "navio": "SANTOS SUPPORTER",
+      "inicio": "03/11/2026 09:00",
+      "imo": "9050137",
+      "navio": "BUENAVISTA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 08:00",
-      "imo": "9626443",
-      "navio": "BONGO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,16 +248,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 09:00",
-      "imo": "9050137",
-      "navio": "BUENAVISTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N04 - Armazém 4 e 5",
-      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -332,21 +332,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 12:00",
-      "imo": "9626443",
-      "navio": "BONGO (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 12:00",
       "imo": "9476886",
       "navio": "REEDBUCK (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 12:00",
+      "imo": "9626443",
+      "navio": "BONGO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
@@ -402,6 +402,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 14:00",
+      "imo": "9215359",
+      "navio": "DEEP BLUE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 14:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
       "tipo": "MUDANÇA",
@@ -421,13 +431,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 14:00",
-      "imo": "9215359",
-      "navio": "DEEP BLUE",
+      "inicio": "03/11/2026 15:00",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 15:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -451,26 +471,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 15:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 15:00",
-      "imo": "9996680",
-      "navio": "CMA CGM COBALT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 15:30",
       "imo": "9598256",
       "navio": "EAGLE PARAIBA",
@@ -478,6 +478,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 16:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -491,13 +501,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 16:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "TIDEWATER DO BRASIL S.A."
+      "inicio": "03/11/2026 17:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,16 +528,6 @@
       "de": "-",
       "para": "Fundeio - WPT 92 - AF Preferencial Gusa",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 17:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,22 +632,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 12:00",
-      "imo": "9457737",
-      "navio": "YM MOBILITY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 12:00",
       "imo": "9377016",
       "navio": "REM SALTIRE",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 12:00",
+      "imo": "9457737",
+      "navio": "YM MOBILITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -658,6 +658,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 16:30",
+      "imo": "9850886",
+      "navio": "EVER FAIR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Niterói",
