@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T19:56:39.738Z",
+  "updatedAt": "2026-11-03T19:57:26.598Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -618,6 +618,16 @@
       "de": "2N17 - Armazém 17",
       "para": "2N08 - Pátio 9",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 08:00",
+      "imo": "9846495",
+      "navio": "ZHONG YUAN HAI YUN JIN QU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
