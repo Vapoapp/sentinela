@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T06:27:15.231Z",
+  "updatedAt": "2026-11-03T06:28:18.895Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,26 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 05:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 05:40",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
