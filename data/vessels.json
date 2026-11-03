@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T06:30:28.340Z",
+  "updatedAt": "2026-11-03T06:31:16.379Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 03:00",
+      "imo": "9519107",
+      "navio": "BOSPORUS HIGHWAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 03:00",
@@ -112,8 +122,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
-      "imo": "9530175",
-      "navio": "SANTOS SUPPORTER",
+      "imo": "9626443",
+      "navio": "BONGO (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -122,8 +132,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
-      "imo": "9626443",
-      "navio": "BONGO (REB)",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
