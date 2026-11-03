@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T12:56:18.121Z",
+  "updatedAt": "2026-11-03T12:57:17.074Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -251,6 +251,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 10:30",
+      "imo": "9188130",
+      "navio": "BRAM NATAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 11:00",
       "imo": "9702883",
       "navio": "CBO WISER (REB)",
@@ -302,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 13:00",
-      "imo": "9364332",
-      "navio": "SAVEIROS FRAGATA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 13:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 82 - 2F08",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 13:00",
+      "imo": "9364332",
+      "navio": "SAVEIROS FRAGATA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
