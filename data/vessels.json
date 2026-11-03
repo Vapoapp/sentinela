@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T00:47:14.551Z",
+  "updatedAt": "2026-11-03T00:48:29.536Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -202,16 +202,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 11:30",
-      "imo": "9752967",
-      "navio": "SEACOR DEMERARA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 11:30",
       "imo": "1016692",
       "navio": "MSC ADELE",
       "tipo": "SAÍDA",
@@ -228,6 +218,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 11:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,6 +472,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "02/11/2026 22:30",
+      "imo": "9274874",
+      "navio": "NORMAND TOPAZIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "02/11/2026 22:30",
       "imo": "9246592",
       "navio": "GRANDE FRANCIA",
       "tipo": "SAÍDA",
@@ -481,13 +491,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "02/11/2026 22:30",
-      "imo": "9274874",
-      "navio": "NORMAND TOPAZIO",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "inicio": "02/11/2026 23:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Niterói",
