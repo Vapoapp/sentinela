@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T06:31:16.379Z",
+  "updatedAt": "2026-11-03T06:32:18.193Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 00:30",
+      "imo": "9659062",
+      "navio": "NORMAND SIGMA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 03:00",
