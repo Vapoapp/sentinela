@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T18:48:19.165Z",
+  "updatedAt": "2026-11-03T18:49:29.703Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 15
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -768,16 +768,6 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "04/11/2026 19:00",
-      "imo": "9925746",
-      "navio": "Pregny",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     }
   ]
 }
