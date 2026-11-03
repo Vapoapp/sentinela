@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:05:29.902Z",
+  "updatedAt": "2026-11-03T12:06:16.227Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -92,22 +92,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 05:30",
-      "imo": "9379428",
-      "navio": "ASSO VENTINOVE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 05:30",
       "imo": "9426972",
       "navio": "CBO BIANCA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2N06 - Armazém 7",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 05:30",
+      "imo": "9379428",
+      "navio": "ASSO VENTINOVE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -138,16 +138,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 07:00",
-      "imo": "9050137",
-      "navio": "BUENAVISTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N04 - Armazém 4 e 5",
-      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 08:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "ENTRADA",
@@ -221,13 +221,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 08:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
+      "inicio": "03/11/2026 09:00",
+      "imo": "9050137",
+      "navio": "BUENAVISTA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -335,7 +335,7 @@
       "imo": "9050137",
       "navio": "BUENAVISTA",
       "tipo": "SAÍDA",
-      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "de": "2N04 - Armazém 4 e 5",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
     },
