@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T08:20:22.002Z",
+  "updatedAt": "2026-11-03T08:21:20.056Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 04:00",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -152,8 +162,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
-      "imo": "9530175",
-      "navio": "SANTOS SUPPORTER",
+      "imo": "1019905",
+      "navio": "BRAM RIO",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -162,8 +172,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 08:00",
-      "imo": "1019905",
-      "navio": "BRAM RIO",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
