@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T12:51:15.632Z",
+  "updatedAt": "2026-11-03T12:52:16.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -288,6 +288,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 12:30",
+      "imo": "4430483591",
+      "navio": "AMBIPAR PLACIDO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "F.N AGENCIAMENTOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
