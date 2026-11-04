@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:23:17.918Z",
+  "updatedAt": "2026-11-04T03:24:15.673Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -268,6 +268,16 @@
       "de": "Fundeio - TPKPS - KARPOWERSHIPPINHG",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "04/11/2026 08:00",
+      "imo": "9639517",
+      "navio": "BACON",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
       "porto": "Itaguaí",
