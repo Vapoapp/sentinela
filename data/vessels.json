@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T11:52:26.677Z",
+  "updatedAt": "2026-11-04T11:53:17.679Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 00:00",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
