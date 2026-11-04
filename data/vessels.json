@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T12:20:23.020Z",
+  "updatedAt": "2026-11-04T12:21:16.307Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 04:30",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 04:30",
       "imo": "9710880",
       "navio": "SEVEN CRUZEIRO",
       "tipo": "SAÍDA",
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 04:30",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,16 +202,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 07:30",
-      "imo": "9944417",
-      "navio": "BRAM SPIRIT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 07:30",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
       "tipo": "ENTRADA",
@@ -221,13 +211,23 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 07:30",
+      "imo": "9944417",
+      "navio": "BRAM SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 08:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N17 - Armazém 17",
-      "para": "2N08 - Pátio 9",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "imo": "9846495",
+      "navio": "ZHONG YUAN HAI YUN JIN QU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -242,12 +242,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 08:00",
-      "imo": "9846495",
-      "navio": "ZHONG YUAN HAI YUN JIN QU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N17 - Armazém 17",
+      "para": "2N08 - Pátio 9",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,16 +282,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 10:00",
-      "imo": "9731793",
-      "navio": "CHEM SCEPTRUM",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2NTO - Terminal de Óleo",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 10:00",
       "imo": "9283435",
       "navio": "MARLIN COPACABANA",
       "tipo": "SAÍDA",
@@ -301,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 12:00",
-      "imo": "9457737",
-      "navio": "YM MOBILITY",
+      "inicio": "04/11/2026 10:00",
+      "imo": "9731793",
+      "navio": "CHEM SCEPTRUM",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C22 - TECON 2 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "para": "2NTO - Terminal de Óleo",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +308,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 12:00",
+      "imo": "9457737",
+      "navio": "YM MOBILITY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -381,6 +381,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 17:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 19:00",
       "imo": "9710969",
       "navio": "SEVEN SUN",
@@ -391,6 +401,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 11:00",
+      "imo": "9731793",
+      "navio": "CHEM SCEPTRUM",
+      "tipo": "SAÍDA",
+      "de": "2NTO - Terminal de Óleo",
+      "para": "-",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
       "imo": "9457737",
       "navio": "YM MOBILITY",
@@ -398,6 +418,26 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 15:00",
+      "imo": "9850886",
+      "navio": "EVER FAIR",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 16:00",
+      "imo": "9292175",
+      "navio": "MSC SHANELLE V",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
