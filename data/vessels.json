@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T23:29:14.130Z",
+  "updatedAt": "2026-11-04T23:30:24.989Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -542,22 +542,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 20:00",
-      "imo": "9703667",
-      "navio": "BRAM HERO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 20:00",
       "imo": "9431290",
       "navio": "MAERSK KATARINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPP2 - PETROBRAS PP2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 20:00",
+      "imo": "9703667",
+      "navio": "BRAM HERO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -667,6 +667,16 @@
       "tipo": "SAÍDA",
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 09:30",
+      "imo": "9492127",
+      "navio": "SAO SEBASTIAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
