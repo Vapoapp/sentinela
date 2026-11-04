@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T19:41:15.966Z",
+  "updatedAt": "2026-11-04T19:42:16.256Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -422,16 +422,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 17:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 17:00",
       "imo": "9715725",
       "navio": "STARNAV TAURUS",
       "tipo": "ENTRADA",
@@ -442,12 +432,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 17:00",
-      "imo": "9435478",
-      "navio": "AKER WAYFARER (REB)",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
       "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -458,6 +448,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 17:00",
+      "imo": "9435478",
+      "navio": "AKER WAYFARER (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -488,6 +488,16 @@
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 18:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
