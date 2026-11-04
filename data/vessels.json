@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:29:18.736Z",
+  "updatedAt": "2026-11-04T12:30:26.680Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -341,6 +341,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 13:30",
+      "imo": "9996680",
+      "navio": "CMA CGM COBALT",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 14:00",
       "imo": "9668738",
       "navio": "STARNAV CENTAURUS",
@@ -348,16 +358,6 @@
       "de": "-",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 14:30",
-      "imo": "9996680",
-      "navio": "CMA CGM COBALT",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
