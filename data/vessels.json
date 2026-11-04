@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T18:39:14.672Z",
+  "updatedAt": "2026-11-04T18:40:22.376Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 17
+      "count": 18
     },
     "angra": {
       "ok": true,
@@ -718,6 +718,16 @@
       "de": "Fundeio - 5FA1 - Área de Fundeio A1",
       "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "05/11/2026 03:00",
+      "imo": "9476288",
+      "navio": "TASSOS N",
+      "tipo": "MUDANÇA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
