@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T06:21:15.049Z",
+  "updatedAt": "2026-11-04T06:22:15.746Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 21
+      "count": 22
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 05:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
