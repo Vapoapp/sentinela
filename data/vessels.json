@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T02:57:16.744Z",
+  "updatedAt": "2026-11-04T02:58:18.363Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 80
+      "count": 81
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "Fundeio - WPT 61 - 2F6A",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 00:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
