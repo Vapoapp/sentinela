@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T11:42:15.671Z",
+  "updatedAt": "2026-11-04T11:43:18.329Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -401,6 +401,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "04/11/2026 13:30",
+      "imo": "9470301",
+      "navio": "MV LOUISE",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "04/11/2026 14:30",
       "imo": "9723150",
       "navio": "FPMC B MAJESTY",
@@ -428,16 +438,6 @@
       "de": "-",
       "para": "Fundeio - 5FB1 - Área de Fundeio B1",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "04/11/2026 18:30",
-      "imo": "9470301",
-      "navio": "MV LOUISE",
-      "tipo": "SAÍDA",
-      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
