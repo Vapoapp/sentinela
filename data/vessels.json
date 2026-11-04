@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T09:30:28.525Z",
+  "updatedAt": "2026-11-04T09:31:18.452Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 06:00",
-      "imo": "9827281",
-      "navio": "CBO TERRA BRASILIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 06:00",
       "imo": "9292175",
       "navio": "MSC SHANELLE V",
       "tipo": "ENTRADA",
@@ -161,13 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 07:00",
-      "imo": "8637926",
-      "navio": "RIOPORT II",
-      "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
-      "para": "2N08 - Pátio 9",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "04/11/2026 06:00",
+      "imo": "9827281",
+      "navio": "CBO TERRA BRASILIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -178,6 +168,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 07:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N08 - Pátio 9",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -248,6 +248,16 @@
       "de": "Fundeio - WPT 82 - 2F08",
       "para": "TPS2 - PETROBRAS PS2",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 12:30",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
