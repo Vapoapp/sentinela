@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T02:41:18.777Z",
+  "updatedAt": "2026-11-04T02:42:18.928Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 79
+      "count": 80
     },
     "niteroi": {
       "ok": true,
@@ -19,6 +19,16 @@
     }
   },
   "vessels": [
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 00:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 00:30",
@@ -392,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "03/11/2026 14:00",
-      "imo": "9702883",
-      "navio": "CBO WISER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "03/11/2026 14:00",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "03/11/2026 14:00",
+      "imo": "9702883",
+      "navio": "CBO WISER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
