@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T11:16:18.543Z",
+  "updatedAt": "2026-11-04T11:20:25.881Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -221,6 +221,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 09:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 09:00",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 12:00",
       "imo": "9377016",
       "navio": "REM SALTIRE",
@@ -261,16 +281,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 14:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 14:30",
       "imo": "9996680",
       "navio": "CMA CGM COBALT",
@@ -288,6 +298,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 19:00",
+      "imo": "9710969",
+      "navio": "SEVEN SUN",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
