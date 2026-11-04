@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:25:20.040Z",
+  "updatedAt": "2026-11-04T12:26:18.652Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 12:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 12:00",
       "imo": "9377016",
       "navio": "REM SALTIRE",
       "tipo": "SAÍDA",
@@ -317,16 +327,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 12:30",
-      "imo": "9968449",
-      "navio": "ITHACA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
