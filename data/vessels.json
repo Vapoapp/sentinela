@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04T14:50:24.891Z",
+  "updatedAt": "2026-11-04T14:51:17.617Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 47
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 02:00",
+      "imo": "9574860",
+      "navio": "FINCH ARROW",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
