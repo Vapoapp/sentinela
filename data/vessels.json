@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:45:23.227Z",
+  "updatedAt": "2026-11-05T12:46:17.816Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 7
     },
     "angra": {
       "ok": true,
@@ -437,16 +437,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "05/11/2026 16:00",
-      "imo": "9532094",
-      "navio": "VEGA DREAM",
-      "tipo": "SAÍDA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
