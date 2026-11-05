@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T13:24:16.775Z",
+  "updatedAt": "2026-11-05T13:26:16.855Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -152,12 +152,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 07:00",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
       "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 07:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
       "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +368,16 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 16:00",
+      "imo": "9852133",
+      "navio": "WINNIPEG",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
