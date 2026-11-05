@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T11:38:17.156Z",
+  "updatedAt": "2026-11-05T11:39:16.678Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -172,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 07:00",
-      "imo": "9417828",
-      "navio": "NORMAND SAGARIS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 07:00",
       "imo": "9510307",
       "navio": "Siem Pilot",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 07:00",
+      "imo": "9417828",
+      "navio": "NORMAND SAGARIS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -221,6 +221,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 09:00",
+      "imo": "3813885305",
+      "navio": "C NITERÓI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 09:30",
       "imo": "9492127",
       "navio": "SAO SEBASTIAO",
@@ -242,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 12:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 12:00",
       "imo": "9806483",
       "navio": "STARNAV LIBRA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 12:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +318,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 16:00",
+      "imo": "9553141",
+      "navio": "APOGEE ENDEAVOUR",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
