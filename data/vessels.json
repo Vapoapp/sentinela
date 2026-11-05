@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T14:29:26.662Z",
+  "updatedAt": "2026-11-05T14:30:37.620Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -438,6 +438,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 06:00",
+      "imo": "9353204",
+      "navio": "SKANDI RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
