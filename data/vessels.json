@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T03:52:16.827Z",
+  "updatedAt": "2026-11-05T03:53:16.557Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -37,6 +37,26 @@
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 00:10",
+      "imo": "3813883612",
+      "navio": "C MACAÉ",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 01:00",
+      "imo": "9388663",
+      "navio": "MAERSK TRAVELLER (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -102,22 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 07:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N05 - Armazém 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 07:00",
       "imo": "9528354",
       "navio": "SKANDI IGUAÇU",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N09 - Armazém 10",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 07:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
