@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T01:17:19.750Z",
+  "updatedAt": "2026-11-05T01:18:17.327Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 85
+      "count": 86
     },
     "niteroi": {
       "ok": true,
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 17:00",
-      "imo": "9379428",
-      "navio": "ASSO VENTINOVE (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "04/11/2026 17:00",
       "imo": "9435478",
       "navio": "AKER WAYFARER (REB)",
       "tipo": "SAÍDA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 17:00",
+      "imo": "9379428",
+      "navio": "ASSO VENTINOVE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -652,6 +652,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "04/11/2026 23:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "04/11/2026 23:00",
       "imo": "9636022",
       "navio": "SABLE (REB)",
       "tipo": "ENTRADA",
@@ -722,16 +732,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 07:00",
-      "imo": "9510307",
-      "navio": "Siem Pilot",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N05 - Armazém 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 07:00",
       "imo": "9528354",
       "navio": "SKANDI IGUAÇU",
       "tipo": "ENTRADA",
@@ -748,6 +748,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 07:00",
+      "imo": "9510307",
+      "navio": "Siem Pilot",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
