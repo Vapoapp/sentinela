@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T16:52:16.878Z",
+  "updatedAt": "2026-11-05T16:53:18.502Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -362,6 +362,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
+      "imo": "9850886",
+      "navio": "EVER FAIR",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 13:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
@@ -438,16 +448,6 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 15:00",
-      "imo": "9850886",
-      "navio": "EVER FAIR",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "BERGESEN DO BRASIL PARTICIPAÇÕES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
