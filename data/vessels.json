@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:18:29.314Z",
+  "updatedAt": "2026-11-05T14:19:25.706Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "itaguai": {
       "ok": true,
@@ -428,6 +428,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "05/11/2026 23:30",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCS - CASTRO SILVA",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Niterói",
