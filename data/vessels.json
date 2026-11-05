@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:46:17.816Z",
+  "updatedAt": "2026-11-05T12:47:17.399Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 6
     },
     "angra": {
       "ok": true,
@@ -437,16 +437,6 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "05/11/2026 17:30",
-      "imo": "9959216",
-      "navio": "PROTEUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FE1 - Área de Fundeio E1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
