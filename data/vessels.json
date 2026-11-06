@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T18:08:18.139Z",
+  "updatedAt": "2026-11-06T18:09:17.143Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "2N05 - Armazém 6",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 22:00",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
