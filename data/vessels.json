@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T00:22:14.986Z",
+  "updatedAt": "2026-11-06T00:23:17.001Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -352,16 +352,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 13:00",
       "imo": "9476915",
       "navio": "BUSHBUCK (REB)",
       "tipo": "MUDANÇA",
@@ -372,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +378,16 @@
       "de": "-",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 13:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,22 +522,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 19:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 19:00",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 19:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -648,6 +648,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 04:30",
+      "imo": "9865740",
+      "navio": "TWEED",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
