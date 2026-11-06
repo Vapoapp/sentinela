@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T00:24:16.056Z",
+  "updatedAt": "2026-11-06T00:25:17.506Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -332,12 +332,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9664299",
-      "navio": "BRAM BRASILIA",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -362,12 +362,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 13:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "MUDANÇA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 13:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,6 +462,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 16:00",
+      "imo": "9553141",
+      "navio": "APOGEE ENDEAVOUR",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 16:00",
       "imo": "9305673",
       "navio": "HYUNDAI TOKYO",
       "tipo": "ENTRADA",
@@ -478,16 +488,6 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 16:00",
-      "imo": "9553141",
-      "navio": "APOGEE ENDEAVOUR",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,6 +522,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 19:00",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 61 - 2F6A",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 19:00",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "MUDANÇA",
@@ -538,16 +548,6 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 19:00",
-      "imo": "9309215",
-      "navio": "SAN ANDRES IV",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - WPT 61 - 2F6A",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -662,22 +662,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 06:00",
-      "imo": "9353204",
-      "navio": "SKANDI RIO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 06:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N05 - Armazém 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 06:00",
+      "imo": "9353204",
+      "navio": "SKANDI RIO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -721,6 +721,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 13:00",
+      "imo": "1031783",
+      "navio": "BURAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 14:00",
       "imo": "9305673",
       "navio": "HYUNDAI TOKYO",
@@ -728,6 +738,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 16:00",
+      "imo": "9723253",
+      "navio": "BREMERHAVEN EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
