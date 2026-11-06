@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T20:46:16.298Z",
+  "updatedAt": "2026-11-06T20:47:17.220Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 12:00",
-      "imo": "9846495",
-      "navio": "ZHONG YUAN HAI YUN JIN QU",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 12:00",
       "imo": "9382229",
       "navio": "NORTH OCEAN 102",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 12:00",
+      "imo": "9846495",
+      "navio": "ZHONG YUAN HAI YUN JIN QU",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,6 +462,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 18:00",
+      "imo": "9757711",
+      "navio": "TORDIS KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 18:00",
       "imo": "9443669",
       "navio": "HEEMSKERKGRACHT",
       "tipo": "ENTRADA",
@@ -501,6 +511,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 19:00",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 20:00",
       "imo": "9413810",
       "navio": "SKANDI ACHIEVER (REB)",
@@ -508,6 +528,16 @@
       "de": "2N05 - Armazém 6",
       "para": "-",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 21:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
