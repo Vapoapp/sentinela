@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T08:28:15.894Z",
+  "updatedAt": "2026-11-06T08:29:14.344Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 09:30",
+      "imo": "9687368",
+      "navio": "BRAM BOA VISTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
