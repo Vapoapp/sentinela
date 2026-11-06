@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T23:59:16.776Z",
+  "updatedAt": "2026-11-06T00:00:26.933Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 13:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 13:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "MUDANÇA",
       "de": "TPS2 - PETROBRAS PS2",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 13:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
     },
     {
       "porto": "Rio de Janeiro",
@@ -452,22 +452,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 16:00",
-      "imo": "9553141",
-      "navio": "APOGEE ENDEAVOUR",
-      "tipo": "SAÍDA",
-      "de": "2N10 - Terminal de Trigo",
-      "para": "-",
-      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 16:00",
       "imo": "9292175",
       "navio": "MSC SHANELLE V",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 16:00",
+      "imo": "9553141",
+      "navio": "APOGEE ENDEAVOUR",
+      "tipo": "SAÍDA",
+      "de": "2N10 - Terminal de Trigo",
+      "para": "-",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,6 +512,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "05/11/2026 19:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 19:00",
       "imo": "9309215",
       "navio": "SAN ANDRES IV",
       "tipo": "SAÍDA",
@@ -528,16 +538,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "05/11/2026 19:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -641,13 +641,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 19:00",
-      "imo": "1057189",
-      "navio": "OBI ISLAND",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N07 - Pátio 8/9",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "inicio": "06/11/2026 08:00",
+      "imo": "3813896200",
+      "navio": "TS 9",
+      "tipo": "MUDANÇA",
+      "de": "BOIA TSHP - Boia Tranship",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 08:00",
+      "imo": "9852133",
+      "navio": "WINNIPEG",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 62 - 2F6A",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -658,6 +668,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 19:00",
+      "imo": "1057189",
+      "navio": "OBI ISLAND",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
