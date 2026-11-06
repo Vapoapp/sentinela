@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T22:03:15.403Z",
+  "updatedAt": "2026-11-06T22:04:18.356Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -422,21 +422,21 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 16:00",
-      "imo": "9787405",
-      "navio": "PARDELA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 16:00",
       "imo": "9723253",
       "navio": "BREMERHAVEN EXPRESS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 16:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
@@ -492,6 +492,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 18:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 18:00",
       "imo": "9443669",
       "navio": "HEEMSKERKGRACHT",
       "tipo": "ENTRADA",
@@ -508,16 +518,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 18:00",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
@@ -591,6 +591,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 23:00",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 02:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
@@ -608,6 +618,16 @@
       "de": "-",
       "para": "TPIR - ILHA REDONDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 06:00",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N06 - Armazém 7",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
