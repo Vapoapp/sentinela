@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T23:37:14.188Z",
+  "updatedAt": "2026-11-06T23:38:14.965Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "2N16 - Armazém 16",
       "para": "2N06 - Armazém 7",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 06:00",
+      "imo": "9703162",
+      "navio": "ASGAARD SOPHIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Rio de Janeiro",
