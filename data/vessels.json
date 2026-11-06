@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:37:14.360Z",
+  "updatedAt": "2026-11-06T16:38:17.633Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 12:00",
+      "imo": "9305673",
+      "navio": "HYUNDAI TOKYO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 12:00",
       "imo": "9382229",
       "navio": "NORTH OCEAN 102",
       "tipo": "SAÍDA",
@@ -368,16 +378,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 14:00",
-      "imo": "9305673",
-      "navio": "HYUNDAI TOKYO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
