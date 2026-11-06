@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T04:00:24.810Z",
+  "updatedAt": "2026-11-06T04:01:15.475Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -62,12 +62,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 02:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 02:00",
       "imo": "9644160",
       "navio": "BRAM BELEM",
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 02:30",
+      "imo": "9806483",
+      "navio": "STARNAV LIBRA",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 08:00",
-      "imo": "9329942",
-      "navio": "MESTRE DOS MARES (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 08:00",
       "imo": "9852133",
       "navio": "WINNIPEG",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 08:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -232,22 +252,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 19:00",
-      "imo": "9574860",
-      "navio": "FINCH ARROW",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 19:00",
       "imo": "1057189",
       "navio": "OBI ISLAND",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 19:00",
+      "imo": "9574860",
+      "navio": "FINCH ARROW",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
