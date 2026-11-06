@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-06T00:21:16.333Z",
+  "updatedAt": "2026-11-06T00:22:14.986Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -611,6 +611,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "05/11/2026 22:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 00:00",
       "imo": "9407380",
       "navio": "HORIZON THETIS",
@@ -861,7 +871,7 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "06/11/2026 03:00",
+      "inicio": "06/11/2026 04:00",
       "imo": "9959216",
       "navio": "PROTEUS",
       "tipo": "MUDANÇA",
