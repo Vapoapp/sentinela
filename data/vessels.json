@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T00:15:21.500Z",
+  "updatedAt": "2026-11-07T00:16:14.863Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -612,6 +612,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 23:00",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 23:00",
       "imo": "9710878",
       "navio": "SEVEN RIO",
       "tipo": "SAÍDA",
@@ -652,16 +662,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 06:00",
-      "imo": "3810289680",
-      "navio": "BS-8",
-      "tipo": "MUDANÇA",
-      "de": "2N16 - Armazém 16",
-      "para": "2N06 - Armazém 7",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/11/2026 06:00",
       "imo": "9703162",
       "navio": "ASGAARD SOPHIA",
       "tipo": "ENTRADA",
@@ -678,6 +678,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 06:00",
+      "imo": "3810289680",
+      "navio": "BS-8",
+      "tipo": "MUDANÇA",
+      "de": "2N16 - Armazém 16",
+      "para": "2N06 - Armazém 7",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
