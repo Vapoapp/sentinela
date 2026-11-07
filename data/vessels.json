@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T12:38:16.456Z",
+  "updatedAt": "2026-11-07T12:39:13.953Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 04:30",
-      "imo": "9596870",
-      "navio": "JORGE AMADO",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIR - ILHA REDONDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/11/2026 04:30",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
       "para": "-",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 04:30",
+      "imo": "9596870",
+      "navio": "JORGE AMADO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 07:30",
-      "imo": "9668738",
-      "navio": "STARNAV CENTAURUS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/11/2026 07:30",
       "imo": "9720471",
       "navio": "MSC JEONGMIN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 07:30",
+      "imo": "9668738",
+      "navio": "STARNAV CENTAURUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,16 +312,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 10:00",
-      "imo": "9705005",
-      "navio": "MSC CATERINA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/11/2026 10:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "SAÍDA",
@@ -332,12 +322,42 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 10:00",
+      "imo": "8637926",
+      "navio": "RIOPORT II",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "2N16 - Armazém 16",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 10:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 10:00",
       "imo": "1057206",
       "navio": "P. TOKYO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - WPT 81 - 2F08",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 10:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N08 - Pátio 9",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
