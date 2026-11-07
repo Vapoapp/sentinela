@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T00:49:14.415Z",
+  "updatedAt": "2026-11-07T00:50:20.484Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 82
+      "count": 83
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -502,16 +502,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 18:00",
-      "imo": "9757711",
-      "navio": "TORDIS KNUTSEN",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 18:00",
       "imo": "9647540",
       "navio": "CORAL DO ATLANTICO (REB)",
       "tipo": "ENTRADA",
@@ -522,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 18:00",
-      "imo": "9443669",
-      "navio": "HEEMSKERKGRACHT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "OCEAN WORLD SHIPPING AG. MAR. E OP. PORTUÁRIA LTDA-EPP"
+      "imo": "9757711",
+      "navio": "TORDIS KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,6 +528,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 18:00",
+      "imo": "9443669",
+      "navio": "HEEMSKERKGRACHT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "OCEAN WORLD SHIPPING AG. MAR. E OP. PORTUÁRIA LTDA-EPP"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,6 +632,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "06/11/2026 23:00",
+      "imo": "9710878",
+      "navio": "SEVEN RIO",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "06/11/2026 23:00",
       "imo": "9574860",
       "navio": "FINCH ARROW",
       "tipo": "SAÍDA",
@@ -648,16 +658,6 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "06/11/2026 23:00",
-      "imo": "9710878",
-      "navio": "SEVEN RIO",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -801,6 +801,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 12:00",
+      "imo": "1111818",
+      "navio": "KEYAKI FORTUNE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 13:30",
       "imo": "9629469",
       "navio": "SWANSEA",
@@ -888,6 +898,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "07/11/2026 00:30",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Niterói",
