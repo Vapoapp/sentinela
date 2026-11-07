@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:59:14.302Z",
+  "updatedAt": "2026-11-07T06:00:31.081Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -191,6 +191,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 07:30",
+      "imo": "9720471",
+      "navio": "MSC JEONGMIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 08:00",
       "imo": "9492127",
       "navio": "SAO SEBASTIAO",
@@ -308,16 +318,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "07/11/2026 18:30",
-      "imo": "9720471",
-      "navio": "MSC JEONGMIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
