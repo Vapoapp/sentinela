@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-07T04:40:19.550Z",
+  "updatedAt": "2026-11-07T04:41:14.983Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 03:00",
+      "imo": "9476886",
+      "navio": "REEDBUCK (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "07/11/2026 04:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
@@ -98,6 +108,16 @@
       "de": "-",
       "para": "TPIR - ILHA REDONDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "07/11/2026 05:00",
+      "imo": "9476886",
+      "navio": "REEDBUCK (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
