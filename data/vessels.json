@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T09:17:24.354Z",
+  "updatedAt": "2026-11-08T09:19:21.738Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 07:30",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "MUDANÇA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
