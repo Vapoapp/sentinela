@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T08:35:17.805Z",
+  "updatedAt": "2026-11-08T08:36:16.435Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -52,6 +52,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 05:00",
+      "imo": "9418377",
+      "navio": "CMA CGM VERACRUZ (REB S/L)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 05:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "ENTRADA",
@@ -82,8 +92,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 09:00",
-      "imo": "3813887740",
-      "navio": "C VITÓRIA",
+      "imo": "9628659",
+      "navio": "C DIAMANTE",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
@@ -92,8 +102,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 09:00",
-      "imo": "9628659",
-      "navio": "C DIAMANTE",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPCM - Estaleiro Camorim",
