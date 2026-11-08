@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:27:14.008Z",
+  "updatedAt": "2026-11-08T17:28:14.961Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -391,16 +391,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "08/11/2026 13:30",
-      "imo": "9856488",
-      "navio": "MINERAL MOZAMBIQUE",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
-      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "08/11/2026 18:00",
       "imo": "9959216",
       "navio": "PROTEUS",
@@ -418,6 +408,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "08/11/2026 19:30",
+      "imo": "9856488",
+      "navio": "MINERAL MOZAMBIQUE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
