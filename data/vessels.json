@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T18:43:16.643Z",
+  "updatedAt": "2026-11-08T18:44:18.140Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -172,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 10:00",
-      "imo": "9762144",
-      "navio": "C SALVADOR",
+      "imo": "9720471",
+      "navio": "MSC JEONGMIN",
       "tipo": "SAÍDA",
-      "de": "2PAL - Terminal Petrobras AL",
+      "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,12 +192,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 10:00",
-      "imo": "9720471",
-      "navio": "MSC JEONGMIN",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "2PAL - Terminal Petrobras AL",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,22 +212,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 10:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/11/2026 10:00",
       "imo": "9379014",
       "navio": "A.H. GIORGIO P.",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 10:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,36 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 12:00",
-      "imo": "9636022",
-      "navio": "SABLE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/11/2026 12:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/11/2026 12:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBR - BRASCO",
-      "para": "-",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "08/11/2026 12:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
@@ -308,6 +278,36 @@
       "de": "Fundeio - WPT 62 - 2F6A",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 12:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 12:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 12:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBR - BRASCO",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -341,6 +341,26 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 15:30",
+      "imo": "9329966",
+      "navio": "NORMAND TURQUESA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 16:00",
+      "imo": "9664299",
+      "navio": "BRAM BRASILIA",
+      "tipo": "MUDANÇA",
+      "de": "NIT - ATRACADO NITERÓI",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 16:00",
       "imo": "9705005",
       "navio": "MSC CATERINA",
@@ -348,6 +368,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 17:00",
+      "imo": "9642588",
+      "navio": "LARUS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
