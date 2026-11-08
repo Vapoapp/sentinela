@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T08:30:22.199Z",
+  "updatedAt": "2026-11-08T08:31:15.239Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 7
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -81,6 +81,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 12:00",
+      "imo": "9636022",
+      "navio": "SABLE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "08/11/2026 13:30",
       "imo": "1031783",
       "navio": "BURAN",
@@ -88,6 +98,16 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 16:00",
+      "imo": "9705005",
+      "navio": "MSC CATERINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
