@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-08T08:31:15.239Z",
+  "updatedAt": "2026-11-08T08:32:15.561Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "08/11/2026 11:30",
+      "imo": "9262118",
+      "navio": "XIN CHONG QING",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
