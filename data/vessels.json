@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-09T20:59:15.188Z",
+  "updatedAt": "2026-11-09T21:00:29.595Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -478,6 +478,16 @@
       "de": "2N05 - Armazém 6",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/11/2026 21:30",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
