@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-09T08:01:30.201Z",
+  "updatedAt": "2026-11-09T08:03:18.933Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -74,6 +74,16 @@
       "inicio": "09/11/2026 05:00",
       "imo": "9763772",
       "navio": "STIM STAR BRASIL",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "09/11/2026 05:30",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
