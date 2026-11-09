@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T01:50:22.510Z",
+  "updatedAt": "2026-11-09T01:51:13.791Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -691,16 +691,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "09/11/2026 09:00",
-      "imo": "1060540",
-      "navio": "PERSEUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "09/11/2026 09:30",
       "imo": "9925746",
       "navio": "Pregny",
@@ -708,6 +698,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "09/11/2026 11:30",
+      "imo": "1060540",
+      "navio": "PERSEUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
