@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T11:46:15.615Z",
+  "updatedAt": "2026-11-09T11:47:14.560Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -151,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "09/11/2026 08:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "09/11/2026 08:30",
       "imo": "9573440",
       "navio": "NORMAND CARIOCA",
@@ -208,16 +218,6 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/11/2026 16:00",
-      "imo": "9289087",
-      "navio": "MSC BUSAN VIII",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
