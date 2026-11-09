@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-09T17:06:19.652Z",
+  "updatedAt": "2026-11-09T17:07:16.794Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 43
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -322,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "09/11/2026 14:00",
-      "imo": "3813896200",
-      "navio": "TS 9",
-      "tipo": "MUDANÇA",
-      "de": "BOIA TSHP - Boia Tranship",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/11/2026 14:00",
       "imo": "9788459",
       "navio": "MR ALDO",
       "tipo": "MUDANÇA",
@@ -388,16 +378,6 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "09/11/2026 19:00",
-      "imo": "3813896200",
-      "navio": "TS 9",
-      "tipo": "MUDANÇA",
-      "de": "NIT - ATRACADO NITERÓI",
-      "para": "BOIA TSHP - Boia Tranship",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
