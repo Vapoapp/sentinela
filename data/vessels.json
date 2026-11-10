@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T23:53:15.710Z",
+  "updatedAt": "2026-11-10T23:54:16.119Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -482,6 +482,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 21:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 21:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
@@ -522,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 00:00",
-      "imo": "9605267",
-      "navio": "MSC AJACCIO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 00:00",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 00:00",
+      "imo": "9605267",
+      "navio": "MSC AJACCIO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
