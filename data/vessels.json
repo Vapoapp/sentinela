@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T17:59:16.415Z",
+  "updatedAt": "2026-11-10T18:00:28.914Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 10:30",
-      "imo": "9988164",
-      "navio": "ATHENS 04",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 10:30",
       "imo": "9627631",
       "navio": "CBO IPANEMA",
       "tipo": "MUDANÇA",
@@ -208,6 +198,16 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 10:30",
+      "imo": "9988164",
+      "navio": "ATHENS 04",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -301,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 15:00",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 16:00",
       "imo": "9749350",
       "navio": "LINUS P",
@@ -308,6 +318,26 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 16:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 16:00",
+      "imo": "9482330",
+      "navio": "MULTIPLICITY (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,12 +352,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 16:00",
-      "imo": "9482330",
-      "navio": "MULTIPLICITY (REB)",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "3810520276",
+      "navio": "MULICEIRO X",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
