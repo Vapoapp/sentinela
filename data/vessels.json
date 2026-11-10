@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T18:33:14.904Z",
+  "updatedAt": "2026-11-10T18:34:16.305Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 7
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -528,6 +528,16 @@
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/11/2026 19:00",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "SAÍDA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Itaguaí",
