@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T11:45:25.167Z",
+  "updatedAt": "2026-11-10T11:46:18.260Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 08:00",
+      "imo": "9468580",
+      "navio": "NORMAND VALIANT (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 08:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
@@ -142,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 08:30",
-      "imo": "9605267",
-      "navio": "MSC AJACCIO",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 08:30",
       "imo": "9422330",
       "navio": "NORMAND POSEIDON (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLSTAD SHIPPING LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 08:30",
+      "imo": "9605267",
+      "navio": "MSC AJACCIO",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
