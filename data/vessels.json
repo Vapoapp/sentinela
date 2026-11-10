@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T23:16:16.478Z",
+  "updatedAt": "2026-11-10T23:17:15.316Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "itaguai": {
       "ok": true,
@@ -607,6 +607,16 @@
       "tipo": "MUDANÇA",
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "10/11/2026 18:30",
+      "imo": "9424508",
+      "navio": "SEA1 DORADO",
+      "tipo": "SAÍDA",
+      "de": "ESCS - CASTRO SILVA",
+      "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
