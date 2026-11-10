@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T14:13:16.883Z",
+  "updatedAt": "2026-11-10T14:14:16.752Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 09:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 09:00",
       "imo": "9788459",
       "navio": "MR ALDO",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 10:00",
-      "imo": "9575632",
-      "navio": "TITUS TIDE (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -191,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 10:30",
-      "imo": "9988164",
-      "navio": "ATHENS 04",
+      "inicio": "10/11/2026 10:00",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01S - Visita Sul",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -218,6 +218,16 @@
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 10:30",
+      "imo": "9988164",
+      "navio": "ATHENS 04",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
