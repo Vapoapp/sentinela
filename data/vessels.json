@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T23:30:26.474Z",
+  "updatedAt": "2026-11-10T23:31:15.607Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 51
+      "count": 52
     },
     "niteroi": {
       "ok": true,
@@ -448,6 +448,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "TPBR - BRASCO",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 20:00",
+      "imo": "9424730",
+      "navio": "SKANDI HERA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2N05 - Armazém 6",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
