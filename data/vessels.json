@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T19:18:17.783Z",
+  "updatedAt": "2026-11-10T19:19:14.147Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 46
     },
     "niteroi": {
       "ok": true,
@@ -377,6 +377,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 19:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "TPBR - BRASCO",
       "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
