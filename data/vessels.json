@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-10T23:28:17.358Z",
+  "updatedAt": "2026-11-10T23:29:18.470Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -301,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 14:30",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "MUDANÇA",
+      "de": "TPGE - WELLSTREAM BHGE BARDELA CAXIMBAU",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 15:00",
       "imo": "9289087",
       "navio": "MSC BUSAN VIII",
@@ -318,6 +328,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 16:00",
+      "imo": "9749350",
+      "navio": "LINUS P",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPEX - EXXON SOLUTEC",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,16 +378,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 16:00",
-      "imo": "9749350",
-      "navio": "LINUS P",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPEX - EXXON SOLUTEC",
-      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
