@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T13:45:21.283Z",
+  "updatedAt": "2026-11-11T13:46:17.489Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "angra": {
       "ok": true,
@@ -597,6 +597,16 @@
       "tipo": "SAÍDA",
       "de": "302 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "11/11/2026 18:30",
+      "imo": "1095014",
+      "navio": "GREEN GUANGZHOU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
     }
   ]
