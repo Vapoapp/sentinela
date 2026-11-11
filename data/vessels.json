@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T19:24:19.856Z",
+  "updatedAt": "2026-11-11T19:25:20.234Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -552,12 +552,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 17:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
-      "de": "TPBL - BRICLOG",
+      "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -578,6 +578,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 17:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "MUDANÇA",
+      "de": "TPBL - BRICLOG",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
