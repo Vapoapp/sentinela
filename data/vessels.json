@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T23:49:14.880Z",
+  "updatedAt": "2026-11-11T23:50:21.272Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 20:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
