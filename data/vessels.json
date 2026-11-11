@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T02:26:17.621Z",
+  "updatedAt": "2026-11-11T02:27:14.742Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 73
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -588,6 +588,16 @@
       "de": "-",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 01:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
