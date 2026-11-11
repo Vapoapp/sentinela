@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T01:41:28.488Z",
+  "updatedAt": "2026-11-11T01:42:19.573Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -362,16 +362,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 16:00",
-      "imo": "3810520276",
-      "navio": "MULICEIRO X",
-      "tipo": "MUDANÇA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "ESPR - MacLaren Ilha da Conceição",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 16:00",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
       "tipo": "MUDANÇA",
@@ -388,6 +378,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 16:00",
+      "imo": "3810520276",
+      "navio": "MULICEIRO X",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "ESPR - MacLaren Ilha da Conceição",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,6 +552,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 00:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 00:00",
       "imo": "9605267",
       "navio": "MSC AJACCIO",
       "tipo": "SAÍDA",
@@ -622,16 +632,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 06:00",
-      "imo": "9623635",
-      "navio": "CARMEN KNUTSEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F01S - Visita Sul",
-      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 06:00",
       "imo": "9982691",
       "navio": "SFL TIGRIS",
       "tipo": "MUDANÇA",
@@ -648,6 +648,16 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 06:00",
+      "imo": "9623635",
+      "navio": "CARMEN KNUTSEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F01S - Visita Sul",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
