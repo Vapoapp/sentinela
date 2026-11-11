@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T11:13:13.823Z",
+  "updatedAt": "2026-11-11T11:14:16.755Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 11:30",
+      "imo": "9644330",
+      "navio": "DEEP ORIENT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
