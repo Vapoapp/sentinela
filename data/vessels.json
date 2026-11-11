@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T05:18:14.773Z",
+  "updatedAt": "2026-11-11T05:19:13.846Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -238,6 +238,16 @@
       "de": "-",
       "para": "TPBL - BRICLOG",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 07:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N11 - Armazém 13",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
