@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T14:35:19.924Z",
+  "updatedAt": "2026-11-11T14:36:17.799Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 55
+      "count": 56
     },
     "niteroi": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 10:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
