@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T00:02:15.855Z",
+  "updatedAt": "2026-11-11T00:03:15.662Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 63
+      "count": 64
     },
     "niteroi": {
       "ok": true,
@@ -322,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 15:00",
-      "imo": "9289087",
-      "navio": "MSC BUSAN VIII",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 15:00",
       "imo": "9575632",
       "navio": "TITUS TIDE (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 15:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,22 +402,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 18:00",
-      "imo": "9283435",
-      "navio": "MARLIN COPACABANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 18:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
+      "imo": "9788409",
+      "navio": "BRAM FORCE",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,12 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 18:00",
-      "imo": "9788409",
-      "navio": "BRAM FORCE",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 18:00",
+      "imo": "9283435",
+      "navio": "MARLIN COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -482,20 +482,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 21:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 21:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
       "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 22:00",
+      "imo": "9690432",
+      "navio": "BRAM BUCCANEER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +542,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 00:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 00:00",
       "imo": "9605267",
       "navio": "MSC AJACCIO",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 00:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
