@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-11T02:27:14.742Z",
+  "updatedAt": "2026-11-11T02:28:18.050Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 74
+      "count": 75
     },
     "niteroi": {
       "ok": true,
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 16:00",
-      "imo": "9565651",
-      "navio": "CBO ALESSANDRA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 16:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 16:00",
+      "imo": "9565651",
+      "navio": "CBO ALESSANDRA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "10/11/2026 23:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "10/11/2026 23:00",
       "imo": "1053573",
       "navio": "PATMOS EXPRESS",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "10/11/2026 23:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -632,16 +632,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 06:00",
-      "imo": "9982691",
-      "navio": "SFL TIGRIS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 06:00",
       "imo": "9529891",
       "navio": "JOE GRIFFIN (REB)",
       "tipo": "ENTRADA",
@@ -658,6 +648,16 @@
       "de": "-",
       "para": "Fundeio - 2F01S - Visita Sul",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 06:00",
+      "imo": "9982691",
+      "navio": "SFL TIGRIS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -678,6 +678,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 07:00",
+      "imo": "9417830",
+      "navio": "CBO ENDEAVOUR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
