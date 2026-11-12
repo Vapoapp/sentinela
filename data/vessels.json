@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T09:32:16.601Z",
+  "updatedAt": "2026-11-12T09:33:23.992Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 29
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -142,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 07:00",
-      "imo": "9785471",
-      "navio": "MSC CASSANDRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 07:00",
       "imo": "9663776",
       "navio": "BABITONGA BAY",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F01N - Visita Norte",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 07:00",
+      "imo": "9785471",
+      "navio": "MSC CASSANDRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -288,6 +288,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 18:00",
+      "imo": "1053585",
+      "navio": "TINOS EXPRESS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
