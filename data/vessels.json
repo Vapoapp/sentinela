@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T18:56:17.655Z",
+  "updatedAt": "2026-11-12T18:57:15.420Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 53
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -262,12 +262,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 10:00",
-      "imo": "9785471",
-      "navio": "MSC CASSANDRE",
+      "imo": "9600580",
+      "navio": "SKANDI ANGRA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,12 +282,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 10:00",
-      "imo": "9600580",
-      "navio": "SKANDI ANGRA",
+      "imo": "9785471",
+      "navio": "MSC CASSANDRE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -432,6 +432,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 19:30",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "SAÍDA",
+      "de": "2N11 - Armazém 13",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 19:30",
       "imo": "9369734",
       "navio": "MSC BREMEN",
       "tipo": "ENTRADA",
@@ -458,6 +468,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 00:00",
+      "imo": "3813885372",
+      "navio": "C ARRAIAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
