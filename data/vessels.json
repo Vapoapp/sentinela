@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T03:20:20.368Z",
+  "updatedAt": "2026-11-12T03:21:17.006Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 08:00",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N11 - Armazém 13",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
