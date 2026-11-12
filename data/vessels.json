@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T23:50:23.151Z",
+  "updatedAt": "2026-11-12T23:51:13.843Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 65
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -332,22 +332,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 12:00",
-      "imo": "9759264",
-      "navio": "BUENA CONFIANZA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIC - ILHA COMPRIDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 12:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 12:00",
+      "imo": "9759264",
+      "navio": "BUENA CONFIANZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIC - ILHA COMPRIDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -482,6 +482,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 19:30",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "SAÍDA",
+      "de": "2N11 - Armazém 13",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 19:30",
       "imo": "9369734",
       "navio": "MSC BREMEN",
       "tipo": "ENTRADA",
@@ -501,16 +511,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 19:30",
-      "imo": "9330692",
-      "navio": "SKANDI CHIEFTAIN",
-      "tipo": "SAÍDA",
-      "de": "2N11 - Armazém 13",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 20:00",
       "imo": "9762003",
       "navio": "C SEPETIBA",
@@ -518,6 +518,26 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 21:00",
+      "imo": "9079212",
+      "navio": "INTEGRADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 21:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
