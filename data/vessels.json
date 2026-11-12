@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T11:41:15.452Z",
+  "updatedAt": "2026-11-12T11:42:18.523Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -202,6 +202,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 08:00",
+      "imo": "9521021",
+      "navio": "CBO WAVE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 08:00",
       "imo": "9426972",
       "navio": "CBO BIANCA",
       "tipo": "SAÍDA",
@@ -302,22 +312,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 14:00",
-      "imo": "9369734",
-      "navio": "MSC BREMEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 14:00",
       "imo": "8916229",
       "navio": "FRIO MARATHON",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 14:00",
+      "imo": "9369734",
+      "navio": "MSC BREMEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
