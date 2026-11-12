@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T11:38:15.724Z",
+  "updatedAt": "2026-11-12T11:39:15.313Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 36
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -162,6 +162,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 07:30",
+      "imo": "9490040",
+      "navio": "AIDASOL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 07:30",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
@@ -292,22 +302,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 14:00",
-      "imo": "8916229",
-      "navio": "FRIO MARATHON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 14:00",
       "imo": "9369734",
       "navio": "MSC BREMEN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 14:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -368,6 +378,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 18:30",
+      "imo": "9490040",
+      "navio": "AIDASOL",
+      "tipo": "SAÍDA",
+      "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
