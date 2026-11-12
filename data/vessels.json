@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T14:27:17.151Z",
+  "updatedAt": "2026-11-12T14:28:18.754Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 48
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -431,6 +431,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 03:00",
+      "imo": "3813885372",
+      "navio": "C ARRAIAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 07:30",
       "imo": "9785471",
       "navio": "MSC CASSANDRE",
@@ -448,6 +458,16 @@
       "de": "Fundeio - 2F12 - SUZANO",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 10:30",
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "MUDANÇA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
