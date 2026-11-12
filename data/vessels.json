@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T00:36:19.352Z",
+  "updatedAt": "2026-11-12T00:37:14.342Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 75
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -72,6 +72,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 02:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 02:00",
       "imo": "9799070",
       "navio": "STARNAV SCORPIUS",
       "tipo": "MUDANÇA",
@@ -91,13 +101,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 02:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
+      "inicio": "11/11/2026 03:00",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 03:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
       "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "TIDEWATER DO BRASIL S.A."
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -118,26 +138,6 @@
       "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 03:00",
-      "imo": "9710945",
-      "navio": "SEACOR NILE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 03:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,16 +182,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 06:00",
-      "imo": "9982691",
-      "navio": "SFL TIGRIS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - WPT 81 - 2F08",
-      "para": "TPP2 - PETROBRAS PP2",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 06:00",
       "imo": "1057189",
       "navio": "OBI ISLAND",
       "tipo": "SAÍDA",
@@ -211,6 +201,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 06:00",
+      "imo": "9982691",
+      "navio": "SFL TIGRIS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - WPT 81 - 2F08",
+      "para": "TPP2 - PETROBRAS PP2",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 06:30",
       "imo": "9188130",
       "navio": "BRAM NATAL (REB)",
@@ -222,41 +222,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 07:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 07:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
+      "imo": "9181467",
+      "navio": "ARTEMIS ANGLER",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 07:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2N11 - Armazém 13",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 07:00",
-      "imo": "9528249",
-      "navio": "SKANDI IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESPR - MacLaren Ilha da Conceição",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -272,11 +242,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 07:00",
-      "imo": "9181467",
-      "navio": "ARTEMIS ANGLER",
+      "imo": "9528249",
+      "navio": "SKANDI IPANEMA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "ESPR - MacLaren Ilha da Conceição",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
@@ -291,13 +261,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 08:00",
-      "imo": "3813896200",
-      "navio": "TS 9",
+      "inicio": "11/11/2026 07:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 07:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
       "tipo": "MUDANÇA",
-      "de": "BOIA TSHP - Boia Tranship",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 07:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2N11 - Armazém 13",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -318,6 +308,16 @@
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 08:00",
+      "imo": "3813896200",
+      "navio": "TS 9",
+      "tipo": "MUDANÇA",
+      "de": "BOIA TSHP - Boia Tranship",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 12:00",
-      "imo": "9440708",
-      "navio": "FULMAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 12:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 12:00",
+      "imo": "9440708",
+      "navio": "FULMAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 14:00",
-      "imo": "9492000",
-      "navio": "ANGRA DOS REIS",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "11/11/2026 14:00",
       "imo": "9698719",
       "navio": "BRAM BREEZE",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "11/11/2026 14:00",
+      "imo": "9492000",
+      "navio": "ANGRA DOS REIS",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -562,12 +562,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 17:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -582,12 +582,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "11/11/2026 17:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -712,12 +712,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 06:00",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPAM - ARSENAL DA MARINHA",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 06:00",
       "imo": "9521021",
       "navio": "CBO WAVE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 06:30",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
