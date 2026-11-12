@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T11:54:15.948Z",
+  "updatedAt": "2026-11-12T11:55:21.912Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -62,11 +62,11 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 06:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "-",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPAM - ARSENAL DA MARINHA",
       "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
@@ -82,6 +82,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 06:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 06:00",
       "imo": "9690432",
       "navio": "BRAM BUCCANEER",
       "tipo": "MUDANÇA",
@@ -91,23 +101,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 06:00",
-      "imo": "9424986",
-      "navio": "SAVEIROS ATOBÁ",
+      "inicio": "12/11/2026 06:30",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPAM - ARSENAL DA MARINHA",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 06:00",
-      "imo": "9289087",
-      "navio": "MSC BUSAN VIII",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -128,16 +128,6 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 06:30",
-      "imo": "9578672",
-      "navio": "SEA1 GIANT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,16 +212,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 08:00",
-      "imo": "9330692",
-      "navio": "SKANDI CHIEFTAIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N11 - Armazém 13",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 08:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
       "tipo": "ENTRADA",
@@ -242,12 +222,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 08:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 08:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 08:00",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N11 - Armazém 13",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
