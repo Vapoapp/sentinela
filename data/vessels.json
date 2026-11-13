@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T13:43:15.121Z",
+  "updatedAt": "2026-11-13T13:44:16.107Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 08:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 08:00",
       "imo": "9645542",
       "navio": "MANDRIÃO (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 08:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,6 +312,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 11:30",
+      "imo": "1015375",
+      "navio": "SINAR SUMATERA",
+      "tipo": "MUDANÇA",
+      "de": "2R12 - TECON 4 - MCAR",
+      "para": "Fundeio - 2F03 - Feiticeira",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 11:30",
       "imo": "9644160",
       "navio": "BRAM BELEM",
       "tipo": "SAÍDA",
@@ -321,13 +331,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 11:30",
-      "imo": "1015375",
-      "navio": "SINAR SUMATERA",
-      "tipo": "MUDANÇA",
-      "de": "2R12 - TECON 4 - MCAR",
-      "para": "Fundeio - 2F03 - Feiticeira",
-      "agente": "ISS MARINE SERVICES LTDA"
+      "inicio": "13/11/2026 12:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
