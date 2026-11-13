@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T19:39:16.200Z",
+  "updatedAt": "2026-11-13T19:40:20.810Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 64
+      "count": 65
     },
     "niteroi": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 22:30",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
