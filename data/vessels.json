@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T13:02:16.635Z",
+  "updatedAt": "2026-11-13T13:04:24.393Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 41
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -192,16 +192,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 08:00",
-      "imo": "9645542",
-      "navio": "MANDRIÃO (REB)",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 08:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "MUDANÇA",
@@ -212,12 +202,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 08:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F12 - SUZANO",
-      "para": "TPBK - BRASKEM",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,6 +218,16 @@
       "de": "-",
       "para": "TPEX - EXXON SOLUTEC",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 08:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F12 - SUZANO",
+      "para": "TPBK - BRASKEM",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,6 +291,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 10:30",
+      "imo": "9762144",
+      "navio": "C SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 11:00",
       "imo": "9271999",
       "navio": "MOYRA",
@@ -308,6 +318,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "Fundeio - 2F03 - Feiticeira",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 13:00",
+      "imo": "9623635",
+      "navio": "CARMEN KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "TRIAINA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
