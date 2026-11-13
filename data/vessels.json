@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T03:31:15.919Z",
+  "updatedAt": "2026-11-13T03:32:14.476Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -78,6 +78,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 04:00",
+      "imo": "9497127",
+      "navio": "CAMPOS CONTENDER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
