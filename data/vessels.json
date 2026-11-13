@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T14:39:14.925Z",
+  "updatedAt": "2026-11-13T14:40:21.723Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 50
+      "count": 51
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 04:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 04:00",
       "imo": "9975416",
       "navio": "FEDERAL MICHIGAN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N08 - Pátio 9",
       "agente": "WORLD SHIPPING AGENCIAMENTOS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 04:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -388,6 +388,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "TRIAINA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 14:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
     },
     {
       "porto": "Rio de Janeiro",
