@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T12:26:17.224Z",
+  "updatedAt": "2026-11-13T12:27:14.270Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 39
+      "count": 40
     },
     "niteroi": {
       "ok": true,
@@ -358,6 +358,16 @@
       "de": "2N02 - TERMINAL DE PASSAGEIROS 1",
       "para": "-",
       "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 22:00",
+      "imo": "9763045",
+      "navio": "MANTA ANADOLU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
