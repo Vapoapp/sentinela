@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T00:47:13.940Z",
+  "updatedAt": "2026-11-13T00:48:18.399Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 71
+      "count": 72
     },
     "niteroi": {
       "ok": true,
@@ -222,22 +222,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 08:00",
-      "imo": "9289087",
-      "navio": "MSC BUSAN VIII",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 08:00",
       "imo": "9329954",
       "navio": "NORMAND TURMALINA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 08:00",
+      "imo": "9289087",
+      "navio": "MSC BUSAN VIII",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 10:00",
+      "imo": "9785471",
+      "navio": "MSC CASSANDRE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 10:00",
       "imo": "1081831",
       "navio": "KOTA ELOK",
       "tipo": "SAÍDA",
@@ -298,16 +308,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 10:00",
-      "imo": "9785471",
-      "navio": "MSC CASSANDRE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,22 +372,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 14:00",
-      "imo": "8916229",
-      "navio": "FRIO MARATHON",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 14:00",
       "imo": "9749350",
       "navio": "LINUS P",
       "tipo": "MUDANÇA",
       "de": "TPEX - EXXON SOLUTEC",
       "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 14:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,12 +512,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 21:00",
-      "imo": "9489900",
-      "navio": "SERGIO BUARQUE DE HOLANDA",
+      "imo": "9079212",
+      "navio": "INTEGRADOR",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -532,12 +532,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 21:00",
-      "imo": "9079212",
-      "navio": "INTEGRADOR",
+      "imo": "9489900",
+      "navio": "SERGIO BUARQUE DE HOLANDA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -552,22 +552,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 23:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 23:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 23:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -612,6 +612,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 03:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N17 - Armazém 17",
+      "para": "Fundeio - 2F09 - XAREU",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 03:00",
       "imo": "9566588",
       "navio": "JIN XIANG",
       "tipo": "MUDANÇA",
@@ -621,13 +631,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 03:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "2N17 - Armazém 17",
-      "para": "Fundeio - 2F09 - XAREU",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "inicio": "13/11/2026 04:00",
+      "imo": "9975416",
+      "navio": "FEDERAL MICHIGAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N08 - Pátio 9",
+      "agente": "WORLD SHIPPING AGENCIAMENTOS"
     },
     {
       "porto": "Rio de Janeiro",
