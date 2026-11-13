@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T22:29:18.579Z",
+  "updatedAt": "2026-11-13T22:30:26.559Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 74
     },
     "niteroi": {
       "ok": true,
@@ -342,22 +342,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 12:00",
-      "imo": "9763045",
-      "navio": "MANTA ANADOLU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPIR - ILHA REDONDA",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 12:00",
       "imo": "9752967",
       "navio": "SEACOR DEMERARA (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 12:00",
+      "imo": "9763045",
+      "navio": "MANTA ANADOLU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPIR - ILHA REDONDA",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -442,22 +442,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 15:30",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 15:30",
       "imo": "9956903",
       "navio": "SPARROWHAWK",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F10 - PREFERENCIAL GNL",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 15:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -502,11 +502,31 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 18:00",
-      "imo": "9814973",
-      "navio": "SEALOADER 2",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
+      "imo": "9703162",
+      "navio": "ASGAARD SOPHIA",
+      "tipo": "MUDANÇA",
+      "de": "2N06 - Armazém 7",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ASGAARD NAVEGACAO S/A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 18:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F09 - XAREU",
+      "para": "2N17 - Armazém 17",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 18:00",
+      "imo": "9453884",
+      "navio": "MILTON SANTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 61 - 2F6A",
       "agente": "GAC DO BRASIL LTDA."
     },
     {
@@ -522,32 +542,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 18:00",
-      "imo": "9703162",
-      "navio": "ASGAARD SOPHIA",
-      "tipo": "MUDANÇA",
-      "de": "2N06 - Armazém 7",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ASGAARD NAVEGACAO S/A"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 18:00",
-      "imo": "9453884",
-      "navio": "MILTON SANTOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 61 - 2F6A",
+      "imo": "9814973",
+      "navio": "SEALOADER 2",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 18:00",
-      "imo": "2412230323",
-      "navio": "SÃO LUIS",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F09 - XAREU",
-      "para": "2N17 - Armazém 17",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,26 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 00:00",
+      "imo": "9382229",
+      "navio": "NORTH OCEAN 102",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 00:00",
+      "imo": "9598256",
+      "navio": "EAGLE PARAIBA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
