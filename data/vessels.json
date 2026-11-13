@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T00:10:21.031Z",
+  "updatedAt": "2026-11-13T00:11:14.249Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 66
     },
     "niteroi": {
       "ok": true,
@@ -342,16 +342,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 12:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 12:00",
       "imo": "9759264",
       "navio": "BUENA CONFIANZA",
       "tipo": "ENTRADA",
@@ -428,16 +418,6 @@
       "de": "TPS2 - PETROBRAS PS2",
       "para": "Fundeio - WPT 92 - AF Preferencial Gusa",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 16:40",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
