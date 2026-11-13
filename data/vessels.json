@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T18:09:18.728Z",
+  "updatedAt": "2026-11-13T18:10:23.522Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 58
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 15:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 15:30",
       "imo": "9956903",
       "navio": "SPARROWHAWK",
       "tipo": "SAÍDA",
@@ -451,13 +461,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 15:30",
-      "imo": "9442055",
-      "navio": "TALHA-MAR",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2P19 - Terminal Petrobrás SC",
-      "agente": "TIDEWATER DO BRASIL S.A."
+      "inicio": "13/11/2026 16:30",
+      "imo": "9785471",
+      "navio": "MSC CASSANDRE",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -481,13 +491,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 16:30",
-      "imo": "9785471",
-      "navio": "MSC CASSANDRE",
+      "inicio": "13/11/2026 17:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
       "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -518,6 +528,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 23:00",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
