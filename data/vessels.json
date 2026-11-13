@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:02:30.601Z",
+  "updatedAt": "2026-11-13T12:03:18.803Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "angra": {
       "ok": true,
@@ -447,6 +447,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "13/11/2026 14:00",
+      "imo": "9856270",
+      "navio": "UMA NAREE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
