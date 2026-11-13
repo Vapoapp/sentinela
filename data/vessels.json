@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T00:33:17.712Z",
+  "updatedAt": "2026-11-13T00:34:15.079Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -442,6 +442,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 18:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 18:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
@@ -458,16 +468,6 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 18:00",
-      "imo": "9644160",
-      "navio": "BRAM BELEM",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -512,22 +512,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "12/11/2026 21:00",
-      "imo": "9426972",
-      "navio": "CBO BIANCA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "12/11/2026 21:00",
       "imo": "9079212",
       "navio": "INTEGRADOR",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 21:00",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -587,6 +587,16 @@
       "tipo": "SAÍDA",
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 03:00",
+      "imo": "2412230323",
+      "navio": "SÃO LUIS",
+      "tipo": "MUDANÇA",
+      "de": "2N17 - Armazém 17",
+      "para": "Fundeio - 2F09 - XAREU",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
