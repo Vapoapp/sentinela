@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:18:16.540Z",
+  "updatedAt": "2026-11-13T12:19:15.173Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -301,16 +301,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 12:30",
-      "imo": "9288409",
-      "navio": "MSC YAMUNA VI",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 14:30",
       "imo": "9369734",
       "navio": "MSC BREMEN",
@@ -368,6 +358,16 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 23:30",
+      "imo": "9288409",
+      "navio": "MSC YAMUNA VI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
