@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T05:39:20.838Z",
+  "updatedAt": "2026-11-13T05:40:20.067Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 26
+      "count": 27
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 04:00",
+      "imo": "9644160",
+      "navio": "BRAM BELEM",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 04:00",
       "imo": "9975416",
       "navio": "FEDERAL MICHIGAN",
       "tipo": "ENTRADA",
@@ -142,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "13/11/2026 05:30",
-      "imo": "9659062",
-      "navio": "NORMAND SIGMA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "13/11/2026 05:30",
       "imo": "9530187",
       "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 05:30",
+      "imo": "9659062",
+      "navio": "NORMAND SIGMA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
