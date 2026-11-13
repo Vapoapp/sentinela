@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T05:24:15.460Z",
+  "updatedAt": "2026-11-13T05:25:21.504Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -88,6 +88,16 @@
       "de": "2N08 - Pátio 9",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "13/11/2026 03:30",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
