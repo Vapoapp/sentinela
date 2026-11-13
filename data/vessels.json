@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-13T01:31:16.298Z",
+  "updatedAt": "2026-11-13T01:32:18.640Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -578,6 +578,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "12/11/2026 23:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
