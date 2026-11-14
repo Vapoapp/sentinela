@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:57:16.952Z",
+  "updatedAt": "2026-11-14T02:58:16.324Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -871,16 +871,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/11/2026 18:30",
-      "imo": "9400069",
-      "navio": "CMA CGM XIAMEN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "14/11/2026 22:30",
       "imo": "9954151",
       "navio": "DANUBE",
@@ -888,6 +878,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 23:30",
+      "imo": "9400069",
+      "navio": "CMA CGM XIAMEN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
