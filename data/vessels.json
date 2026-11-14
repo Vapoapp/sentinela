@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T00:02:16.083Z",
+  "updatedAt": "2026-11-14T00:03:14.677Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 77
+      "count": 78
     },
     "niteroi": {
       "ok": true,
@@ -768,6 +768,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 17:00",
+      "imo": "9763045",
+      "navio": "MANTA ANADOLU",
+      "tipo": "SAÍDA",
+      "de": "TPIR - ILHA REDONDA",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
