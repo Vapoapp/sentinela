@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T20:24:16.624Z",
+  "updatedAt": "2026-11-14T20:25:17.201Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -122,12 +122,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/11/2026 05:00",
-      "imo": "9715725",
-      "navio": "STARNAV TAURUS",
+      "imo": "9345893",
+      "navio": "FLUMAR MACEIO (REB)",
       "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPS2 - PETROBRAS PS2",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,12 +142,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/11/2026 05:00",
-      "imo": "9345893",
-      "navio": "FLUMAR MACEIO (REB)",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPS2 - PETROBRAS PS2",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/11/2026 08:30",
+      "imo": "9396024",
+      "navio": "BOMAR OSPREY",
+      "tipo": "SAÍDA",
+      "de": "TPEX - EXXON SOLUTEC",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 08:30",
       "imo": "9492139",
       "navio": "SAO LUIZ",
       "tipo": "ENTRADA",
@@ -281,13 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "14/11/2026 08:30",
-      "imo": "9396024",
-      "navio": "BOMAR OSPREY",
-      "tipo": "SAÍDA",
-      "de": "TPEX - EXXON SOLUTEC",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "inicio": "14/11/2026 09:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,16 +318,6 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/11/2026 09:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -422,22 +422,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "14/11/2026 14:00",
-      "imo": "9335886",
-      "navio": "PORT ALBERNI",
-      "tipo": "SAÍDA",
-      "de": "2N09 - Armazém 10",
-      "para": "-",
-      "agente": "WORLD SHIPPING AGENCIAMENTOS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "14/11/2026 14:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
       "de": "2PAL - Terminal Petrobras AL",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 14:00",
+      "imo": "9335886",
+      "navio": "PORT ALBERNI",
+      "tipo": "SAÍDA",
+      "de": "2N09 - Armazém 10",
+      "para": "-",
+      "agente": "WORLD SHIPPING AGENCIAMENTOS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -508,6 +508,16 @@
       "de": "TPIR - ILHA REDONDA",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "14/11/2026 18:00",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
     },
     {
       "porto": "Rio de Janeiro",
