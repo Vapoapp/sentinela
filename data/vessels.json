@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:24:19.506Z",
+  "updatedAt": "2026-11-15T18:25:22.326Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 10
+      "count": 11
     },
     "angra": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "-",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "16/11/2026 10:30",
+      "imo": "1051927",
+      "navio": "CSPC TAURUS",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     },
     {
       "porto": "Itaguaí",
