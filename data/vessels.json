@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T22:52:17.381Z",
+  "updatedAt": "2026-11-15T22:53:16.240Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -122,22 +122,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 05:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 05:00",
       "imo": "9990820",
       "navio": "FEI YUN JIANG",
       "tipo": "MUDANÇA",
       "de": "2N07 - Pátio 8/9",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 05:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -272,22 +272,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 12:00",
-      "imo": "9578892",
-      "navio": "CBO COPACABANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 12:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 12:00",
+      "imo": "9578892",
+      "navio": "CBO COPACABANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -352,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 15:00",
-      "imo": "9756951",
-      "navio": "BS UBATUBA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 15:00",
       "imo": "9954151",
       "navio": "DANUBE",
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ZIM DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 15:00",
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -448,6 +448,26 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 21:00",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 21:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
