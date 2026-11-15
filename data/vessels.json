@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:54:17.355Z",
+  "updatedAt": "2026-11-15T22:55:19.945Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "itaguai": {
       "ok": true,
@@ -498,6 +498,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "15/11/2026 20:00",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "BRAM OFFSHORE"
     },
     {
       "porto": "Itaguaí",
