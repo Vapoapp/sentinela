@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T08:20:19.980Z",
+  "updatedAt": "2026-11-15T08:21:15.892Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 18
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 05:00",
+      "imo": "9990820",
+      "navio": "FEI YUN JIANG",
+      "tipo": "MUDANÇA",
+      "de": "2N07 - Pátio 8/9",
+      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 05:00",
       "imo": "9400069",
       "navio": "CMA CGM XIAMEN",
       "tipo": "SAÍDA",
@@ -122,12 +132,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 05:00",
-      "imo": "9990820",
-      "navio": "FEI YUN JIANG",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
       "tipo": "MUDANÇA",
-      "de": "2N07 - Pátio 8/9",
-      "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -148,6 +158,16 @@
       "de": "-",
       "para": "2N04 - Armazém 4 e 5",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 07:00",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
