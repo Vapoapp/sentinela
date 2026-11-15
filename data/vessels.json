@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T19:06:18.117Z",
+  "updatedAt": "2026-11-15T19:07:14.781Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 05:00",
+      "imo": "9573440",
+      "navio": "NORMAND CARIOCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 05:00",
       "imo": "9990820",
       "navio": "FEI YUN JIANG",
       "tipo": "MUDANÇA",
@@ -138,16 +148,6 @@
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 05:00",
-      "imo": "9573440",
-      "navio": "NORMAND CARIOCA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBR - BRASCO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,20 +212,20 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 11:00",
-      "imo": "9530175",
-      "navio": "SANTOS SUPPORTER",
+      "imo": "9529891",
+      "navio": "JOE GRIFFIN (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
+      "de": "TPBL - BRICLOG",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 11:00",
-      "imo": "9529891",
-      "navio": "JOE GRIFFIN (REB)",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
       "tipo": "SAÍDA",
-      "de": "TPBL - BRICLOG",
+      "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
@@ -252,6 +252,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "15/11/2026 12:00",
+      "imo": "9639440",
+      "navio": "C NEBLINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 12:00",
+      "imo": "9630327",
+      "navio": "POSIDONIA JAGUAR",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 12:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
@@ -271,23 +291,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 12:00",
-      "imo": "9630327",
-      "navio": "POSIDONIA JAGUAR",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "15/11/2026 12:00",
-      "imo": "9639440",
-      "navio": "C NEBLINA",
+      "inicio": "15/11/2026 12:35",
+      "imo": "3810263427",
+      "navio": "TMJ 2",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2N06 - Armazém 7",
-      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
