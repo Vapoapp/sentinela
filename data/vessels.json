@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T04:42:21.707Z",
+  "updatedAt": "2026-11-15T04:43:14.464Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 16
     },
     "niteroi": {
       "ok": true,
@@ -118,6 +118,16 @@
       "de": "2N07 - Pátio 8/9",
       "para": "Fundeio - WPT 91 - AF Preferencial Gusa",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "15/11/2026 05:30",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
