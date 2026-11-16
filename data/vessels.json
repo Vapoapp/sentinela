@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T22:27:24.814Z",
+  "updatedAt": "2026-11-16T22:28:18.862Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -392,22 +392,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 19:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBK - BRASKEM",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 19:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 19:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 19:00",
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBK - BRASKEM",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
