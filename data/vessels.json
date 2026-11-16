@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T13:24:47.650Z",
+  "updatedAt": "2026-11-16T13:25:26.526Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -182,6 +182,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 09:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 09:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -191,13 +201,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 09:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "16/11/2026 11:00",
+      "imo": "9539573",
+      "navio": "PACIFIC ZIRCON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 82 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
