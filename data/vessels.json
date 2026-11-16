@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T12:53:18.970Z",
+  "updatedAt": "2026-11-16T12:54:19.667Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -228,6 +228,16 @@
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "Fundeio - WPT 64 - 2F6A",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 15:00",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "MUDANÇA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
