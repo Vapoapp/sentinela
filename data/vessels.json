@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T05:56:16.611Z",
+  "updatedAt": "2026-11-16T05:57:13.809Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 3
+      "count": 2
     },
     "niteroi": {
       "ok": true,
@@ -19,16 +19,6 @@
     }
   },
   "vessels": [
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 00:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 21:00",
