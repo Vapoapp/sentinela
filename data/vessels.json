@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T23:18:17.788Z",
+  "updatedAt": "2026-11-16T23:19:16.477Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 07:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 07:00",
       "imo": "9312559",
       "navio": "XIN CHANG SHA",
       "tipo": "ENTRADA",
@@ -128,16 +138,6 @@
       "de": "TPP2 - PETROBRAS PP2",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 07:00",
-      "imo": "8916229",
-      "navio": "FRIO MARATHON",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 11:00",
-      "imo": "9703162",
-      "navio": "ASGAARD SOPHIA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ASGAARD NAVEGACAO S/A"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 11:00",
       "imo": "9539573",
       "navio": "PACIFIC ZIRCON",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 82 - 2F08",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 11:00",
+      "imo": "9703162",
+      "navio": "ASGAARD SOPHIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 15:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 15:00",
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "SAÍDA",
@@ -278,16 +288,6 @@
       "de": "TPIC - ILHA COMPRIDA",
       "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
       "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 15:00",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA (CADASTRO PROVISÓRIO - PSP)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,12 +392,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 19:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9403786",
+      "navio": "COSTA DO FUTURO (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBK - BRASKEM",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,12 +412,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 19:00",
-      "imo": "9403786",
-      "navio": "COSTA DO FUTURO (REB)",
-      "tipo": "SAÍDA",
-      "de": "TPBK - BRASKEM",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 22:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
