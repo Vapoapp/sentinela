@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T12:49:14.775Z",
+  "updatedAt": "2026-11-16T12:50:22.340Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 30
     },
     "niteroi": {
       "ok": true,
@@ -91,12 +91,42 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 05:00",
+      "imo": "9645542",
+      "navio": "MANDRIÃO (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 06:30",
       "imo": "9787405",
       "navio": "PARDELA (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "NIT - ATRACADO NITERÓI",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 07:00",
+      "imo": "1060540",
+      "navio": "PERSEUS",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01 - Visita",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 07:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
@@ -121,23 +151,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 07:00",
-      "imo": "1060540",
-      "navio": "PERSEUS",
+      "inicio": "16/11/2026 08:30",
+      "imo": "9784661",
+      "navio": "MERCOSUL FORTALEZA (CNC LION) (REB)",
       "tipo": "SAÍDA",
-      "de": "Fundeio - 2F01 - Visita",
+      "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 07:00",
-      "imo": "8916229",
-      "navio": "FRIO MARATHON",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -188,6 +208,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 13:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
