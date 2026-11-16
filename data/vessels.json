@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T19:39:16.208Z",
+  "updatedAt": "2026-11-16T19:41:14.553Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -388,6 +388,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 22:15",
+      "imo": "9806512",
+      "navio": "STARNAV DELPHINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
