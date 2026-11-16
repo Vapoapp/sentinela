@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T22:19:14.115Z",
+  "updatedAt": "2026-11-16T22:20:24.897Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -468,6 +468,26 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 11:00",
+      "imo": "9329954",
+      "navio": "NORMAND TURMALINA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 16:00",
+      "imo": "9945863",
+      "navio": "COSCO SHIPPING MEXICO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
