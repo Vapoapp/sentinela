@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:58:18.764Z",
+  "updatedAt": "2026-11-16T11:59:14.802Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -142,16 +142,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 09:00",
-      "imo": "1081831",
-      "navio": "KOTA ELOK",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 09:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -238,6 +228,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 18:30",
+      "imo": "1081831",
+      "navio": "KOTA ELOK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
