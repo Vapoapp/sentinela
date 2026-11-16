@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T19:17:14.463Z",
+  "updatedAt": "2026-11-16T19:18:15.339Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -322,16 +322,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 16:00",
-      "imo": "9968449",
-      "navio": "ITHACA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 16:00",
       "imo": "1081831",
       "navio": "KOTA ELOK",
       "tipo": "ENTRADA",
@@ -448,16 +438,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 16:00",
-      "imo": "9968449",
-      "navio": "ITHACA",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
