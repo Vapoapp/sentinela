@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:06:14.173Z",
+  "updatedAt": "2026-11-16T11:07:16.014Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 4
     },
     "angra": {
       "ok": true,
@@ -261,16 +261,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "16/11/2026 12:00",
-      "imo": "9539195",
-      "navio": "PAN DREAM",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "L.M.A. SHIPPING  CONSULTING"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "16/11/2026 14:30",
       "imo": "9504750",
       "navio": "BBC EMERALD",
@@ -281,13 +271,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "16/11/2026 15:30",
-      "imo": "9714240",
-      "navio": "GLOBAL BRIGHT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+      "inicio": "16/11/2026 16:30",
+      "imo": "9539195",
+      "navio": "PAN DREAM",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
     }
   ]
 }
