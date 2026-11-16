@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T08:44:16.060Z",
+  "updatedAt": "2026-11-16T08:45:19.208Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 14
+      "count": 15
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 19:00",
+      "imo": "9694531",
+      "navio": "STEPHANIE C",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
