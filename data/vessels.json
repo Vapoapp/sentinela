@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T18:46:21.899Z",
+  "updatedAt": "2026-11-16T18:47:16.072Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -152,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 09:00",
-      "imo": "9766621",
-      "navio": "CBO ALIANÇA",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 09:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "MUDANÇA",
@@ -181,6 +171,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 09:00",
+      "imo": "9766621",
+      "navio": "CBO ALIANÇA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 10:45",
       "imo": "9710945",
       "navio": "SEACOR NILE (REB)",
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 11:00",
-      "imo": "9703162",
-      "navio": "ASGAARD SOPHIA",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "ASGAARD NAVEGACAO S/A"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 11:00",
       "imo": "9539573",
       "navio": "PACIFIC ZIRCON",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - WPT 82 - 2F08",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 11:00",
+      "imo": "9703162",
+      "navio": "ASGAARD SOPHIA",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "ASGAARD NAVEGACAO S/A"
     },
     {
       "porto": "Rio de Janeiro",
@@ -291,13 +291,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 16:00",
-      "imo": "9968449",
-      "navio": "ITHACA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "inicio": "16/11/2026 15:30",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 15:40",
+      "imo": "9357169",
+      "navio": "ASSO VENTISETTE",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -308,6 +318,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 16:00",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
