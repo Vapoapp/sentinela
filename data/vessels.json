@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T08:46:15.949Z",
+  "updatedAt": "2026-11-16T08:48:16.008Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 16
+      "count": 19
     },
     "niteroi": {
       "ok": true,
@@ -71,6 +71,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 04:30",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 05:00",
       "imo": "9492139",
       "navio": "SAO LUIZ",
@@ -122,12 +132,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 07:00",
+      "imo": "9312559",
+      "navio": "XIN CHANG SHA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 07:00",
       "imo": "9982691",
       "navio": "SFL TIGRIS",
       "tipo": "MUDANÇA",
       "de": "TPP2 - PETROBRAS PP2",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 09:00",
+      "imo": "1081831",
+      "navio": "KOTA ELOK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "PACIFIC INTERNATIONAL LINES AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
