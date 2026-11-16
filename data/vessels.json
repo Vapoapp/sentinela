@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T22:24:20.285Z",
+  "updatedAt": "2026-11-16T22:25:25.172Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 54
     },
     "niteroi": {
       "ok": true,
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 15:00",
-      "imo": "9458157",
-      "navio": "GAZ SYNERGY",
-      "tipo": "MUDANÇA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 15:00",
       "imo": "9423190",
       "navio": "DEBORAH KAY",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 15:00",
+      "imo": "9458157",
+      "navio": "GAZ SYNERGY",
+      "tipo": "MUDANÇA",
+      "de": "TPIC - ILHA COMPRIDA",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -392,22 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 19:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 19:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "SAÍDA",
       "de": "TPBK - BRASKEM",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 19:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -428,6 +428,26 @@
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 22:30",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 04:30",
+      "imo": "9968449",
+      "navio": "ITHACA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
