@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T09:35:20.234Z",
+  "updatedAt": "2026-11-16T09:36:21.539Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 06:00",
+      "imo": "9423190",
+      "navio": "DEBORAH KAY",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 06:00",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
       "tipo": "SAÍDA",
@@ -101,13 +111,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 06:00",
-      "imo": "9423190",
-      "navio": "DEBORAH KAY",
-      "tipo": "SAÍDA",
+      "inicio": "16/11/2026 06:30",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
       "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
