@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T20:08:17.162Z",
+  "updatedAt": "2026-11-16T20:09:16.702Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 44
+      "count": 45
     },
     "niteroi": {
       "ok": true,
@@ -338,6 +338,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 16:30",
+      "imo": "9710945",
+      "navio": "SEACOR NILE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
