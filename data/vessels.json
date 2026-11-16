@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T11:29:19.880Z",
+  "updatedAt": "2026-11-16T11:30:29.980Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -62,16 +62,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 04:00",
-      "imo": "9457737",
-      "navio": "YM MOBILITY",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 04:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
@@ -112,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "16/11/2026 07:00",
-      "imo": "9982691",
-      "navio": "SFL TIGRIS",
-      "tipo": "MUDANÇA",
-      "de": "TPP2 - PETROBRAS PP2",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "16/11/2026 07:00",
       "imo": "9312559",
       "navio": "XIN CHANG SHA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 07:00",
+      "imo": "9982691",
+      "navio": "SFL TIGRIS",
+      "tipo": "MUDANÇA",
+      "de": "TPP2 - PETROBRAS PP2",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -208,6 +198,16 @@
       "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "para": "Fundeio - WPT 64 - 2F6A",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "16/11/2026 12:30",
+      "imo": "9457737",
+      "navio": "YM MOBILITY",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
