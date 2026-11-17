@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T10:48:18.355Z",
+  "updatedAt": "2026-11-17T10:49:14.298Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 07:00",
+      "imo": "8650033",
+      "navio": "C TUFÃO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
