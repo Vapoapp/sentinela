@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T07:51:15.427Z",
+  "updatedAt": "2026-11-17T07:52:17.413Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -178,6 +178,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 09:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE"
     },
     {
       "porto": "Rio de Janeiro",
