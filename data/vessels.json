@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T20:03:20.448Z",
+  "updatedAt": "2026-11-17T20:04:18.784Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 69
+      "count": 70
     },
     "niteroi": {
       "ok": true,
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 10:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 10:00",
       "imo": "9627629",
       "navio": "CBO ARPOADOR",
       "tipo": "MUDANÇA",
@@ -288,6 +278,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 10:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,16 +472,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 15:00",
-      "imo": "9575632",
-      "navio": "TITUS TIDE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 15:00",
       "imo": "9489900",
       "navio": "SERGIO BUARQUE DE HOLANDA",
       "tipo": "MUDANÇA",
@@ -492,12 +482,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 15:00",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 15:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 16:00",
+      "imo": "9530010",
+      "navio": "ROBERT ADAMS (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -522,12 +532,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 16:00",
-      "imo": "9530010",
-      "navio": "ROBERT ADAMS (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBR - BRASCO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -538,16 +548,6 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 17:00",
-      "imo": "9865752",
-      "navio": "MERSEY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 62 - 2F6A",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -568,6 +568,16 @@
       "de": "-",
       "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 17:00",
+      "imo": "9865752",
+      "navio": "MERSEY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - WPT 62 - 2F6A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
