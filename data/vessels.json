@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T12:04:16.162Z",
+  "updatedAt": "2026-11-17T12:05:20.406Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -321,7 +321,17 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 16:00",
+      "inicio": "17/11/2026 13:00",
+      "imo": "9686144",
+      "navio": "HOS REMINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 14:30",
       "imo": "9945863",
       "navio": "COSCO SHIPPING MEXICO",
       "tipo": "ENTRADA",
