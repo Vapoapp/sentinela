@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:33:16.328Z",
+  "updatedAt": "2026-11-17T23:34:23.807Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -797,6 +797,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "18/11/2026 04:00",
+      "imo": "9385257",
+      "navio": "HOS MAVERICK",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
