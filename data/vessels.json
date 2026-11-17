@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17T03:36:19.150Z",
+  "updatedAt": "2026-11-17T03:37:15.554Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 19
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 18:00",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Niterói",
