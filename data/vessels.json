@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:51:15.124Z",
+  "updatedAt": "2026-11-18T04:52:21.514Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -391,16 +391,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "18/11/2026 08:30",
-      "imo": "9976408",
-      "navio": "GREEN PORTOCEL",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "303 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "18/11/2026 10:00",
       "imo": "9888015",
       "navio": "HSL YOKOHAMA",
@@ -438,6 +428,16 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/11/2026 19:00",
+      "imo": "9976408",
+      "navio": "GREEN PORTOCEL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
