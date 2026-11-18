@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:52:15.958Z",
+  "updatedAt": "2026-11-18T18:53:19.897Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -761,6 +761,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "18/11/2026 22:00",
+      "imo": "9504750",
+      "navio": "BBC EMERALD",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "18/11/2026 23:00",
       "imo": "9668910",
       "navio": "COOPER ISLAND",
@@ -791,13 +801,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "19/11/2026 06:30",
-      "imo": "9504750",
-      "navio": "BBC EMERALD",
-      "tipo": "SAÍDA",
-      "de": "302 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "BRAZILIAN PORT AGENTS"
+      "inicio": "19/11/2026 05:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Itaguaí",
@@ -808,16 +818,6 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "19/11/2026 10:00",
-      "imo": "9213959",
-      "navio": "INDUSTRIAL CHARGER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "301 - TECON - SEPETIBA TECON S.A.",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Itaguaí",
