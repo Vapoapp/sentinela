@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T12:49:16.740Z",
+  "updatedAt": "2026-11-18T12:50:21.224Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -332,6 +332,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 13:00",
+      "imo": "9945863",
+      "navio": "COSCO SHIPPING MEXICO",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 13:00",
       "imo": "9597109",
       "navio": "ADELANTE",
       "tipo": "SAÍDA",
@@ -368,16 +378,6 @@
       "de": "2N07 - Pátio 8/9",
       "para": "2N07 - Pátio 8/9",
       "agente": "LOTUS AGENCIA MARITIMA E OPERADORA PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "18/11/2026 15:00",
-      "imo": "9945863",
-      "navio": "COSCO SHIPPING MEXICO",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
