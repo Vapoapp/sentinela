@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T08:51:22.990Z",
+  "updatedAt": "2026-11-18T08:52:18.970Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 33
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 07:00",
+      "imo": "9424986",
+      "navio": "SAVEIROS ATOBÁ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 07:00",
       "imo": "9578672",
       "navio": "SEA1 GIANT",
       "tipo": "SAÍDA",
@@ -162,12 +172,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 07:00",
-      "imo": "9424986",
-      "navio": "SAVEIROS ATOBÁ",
+      "imo": "9423229",
+      "navio": "ELIZABETH C",
       "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "TIDEWATER DO BRASIL S.A."
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
