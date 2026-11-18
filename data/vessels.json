@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T01:22:18.036Z",
+  "updatedAt": "2026-11-18T01:23:17.201Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 88
+      "count": 90
     },
     "niteroi": {
       "ok": true,
@@ -472,22 +472,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 15:00",
-      "imo": "9575632",
-      "navio": "TITUS TIDE (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 15:00",
       "imo": "9578892",
       "navio": "CBO COPACABANA",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 15:00",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Rio de Janeiro",
@@ -642,6 +642,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 20:00",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 20:00",
       "imo": "9759496",
       "navio": "STARNAV VOLANS",
       "tipo": "MUDANÇA",
@@ -718,6 +728,16 @@
       "de": "TPAM - ARSENAL DA MARINHA",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 00:00",
+      "imo": "9530010",
+      "navio": "ROBERT ADAMS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
