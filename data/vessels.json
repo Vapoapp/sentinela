@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T08:24:17.680Z",
+  "updatedAt": "2026-11-18T08:26:24.740Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "-",
       "para": "TPIC - ILHA COMPRIDA",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 07:00",
+      "imo": "9578672",
+      "navio": "SEA1 GIANT",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
