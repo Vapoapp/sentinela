@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T16:51:15.090Z",
+  "updatedAt": "2026-11-18T16:52:15.589Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 56
+      "count": 57
     },
     "niteroi": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 08:30",
+      "imo": "9393319",
+      "navio": "MSC RIKKU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
