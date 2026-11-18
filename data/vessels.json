@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T13:44:17.505Z",
+  "updatedAt": "2026-11-18T13:45:23.768Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 53
     },
     "niteroi": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 23:30",
+      "imo": "9542661",
+      "navio": "SHAKESPEARE BAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N10 - Terminal de Trigo",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
