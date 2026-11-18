@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:14:14.648Z",
+  "updatedAt": "2026-11-18T01:15:23.210Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 8
     },
     "itaguai": {
       "ok": true,
@@ -941,6 +941,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "18/11/2026 03:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "MUDANÇA",
+      "de": "ESMC - MacLaren Ponta da Areia",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
+    },
+    {
+      "porto": "Niterói",
       "inicio": "18/11/2026 04:00",
       "imo": "9385257",
       "navio": "HOS MAVERICK",
@@ -958,6 +968,16 @@
       "de": "-",
       "para": "ESCS - CASTRO SILVA",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "18/11/2026 14:00",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
+      "tipo": "MUDANÇA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE"
     },
     {
       "porto": "Itaguaí",
