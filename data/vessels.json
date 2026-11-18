@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T11:55:24.528Z",
+  "updatedAt": "2026-11-18T11:56:17.004Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 08:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
