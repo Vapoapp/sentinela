@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T18:16:16.533Z",
+  "updatedAt": "2026-11-18T18:17:14.766Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -452,6 +452,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 16:00",
+      "imo": "9651307",
+      "navio": "BETA JUNIZ (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 16:00",
       "imo": "9788459",
       "navio": "MR ALDO",
       "tipo": "MUDANÇA",
@@ -461,13 +471,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "18/11/2026 16:00",
-      "imo": "9651307",
-      "navio": "BETA JUNIZ (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "TRANSHIP TRANSPORTES MARÍTIMOS LTDA."
+      "inicio": "18/11/2026 16:30",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "SAÍDA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "-",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
