@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T15:29:14.460Z",
+  "updatedAt": "2026-11-18T15:30:31.884Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 6
+      "count": 7
     },
     "itaguai": {
       "ok": true,
@@ -598,6 +598,16 @@
       "de": "-",
       "para": "ESCS - CASTRO SILVA",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "18/11/2026 19:00",
+      "imo": "9763772",
+      "navio": "STIM STAR BRASIL",
+      "tipo": "SAÍDA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "BRAM OFFSHORE"
     },
     {
       "porto": "Itaguaí",
