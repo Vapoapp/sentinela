@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:31:17.310Z",
+  "updatedAt": "2026-11-18T18:32:19.823Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 17
     },
     "angra": {
       "ok": true,
@@ -758,6 +758,126 @@
       "de": "Fundeio - 5FB4 - Área de Fundeio B4",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "18/11/2026 23:00",
+      "imo": "9668910",
+      "navio": "COOPER ISLAND",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 01:00",
+      "imo": "9940083",
+      "navio": "CHINA VENTURE",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 04:00",
+      "imo": "1032335",
+      "navio": "MOUNT ASAHI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 06:30",
+      "imo": "9504750",
+      "navio": "BBC EMERALD",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 09:00",
+      "imo": "9486518",
+      "navio": "NEW VIGOROUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 10:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 10:00",
+      "imo": "9531868",
+      "navio": "CAPE MIDORI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB1 - Área de Fundeio B1",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 11:00",
+      "imo": "9844588",
+      "navio": "CL HUANGPU RIVER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - F2 - FUNDEIO F2",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 12:30",
+      "imo": "9976408",
+      "navio": "GREEN PORTOCEL",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 15:00",
+      "imo": "9637715",
+      "navio": "SERTANEJO SPIRIT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 16:00",
+      "imo": "9997921",
+      "navio": "GREEN QINGDAO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 18:30",
+      "imo": "9484223",
+      "navio": "BBC NAPLES",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "BRAZILIAN PORT AGENTS"
     }
   ]
 }
