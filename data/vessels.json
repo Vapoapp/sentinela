@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T11:46:24.073Z",
+  "updatedAt": "2026-11-18T11:47:21.384Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 43
     },
     "niteroi": {
       "ok": true,
@@ -437,6 +437,16 @@
       "tipo": "SAÍDA",
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 17:00",
+      "imo": "9306196",
+      "navio": "PALENA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
