@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T01:56:16.230Z",
+  "updatedAt": "2026-11-18T01:57:15.465Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 90
+      "count": 91
     },
     "niteroi": {
       "ok": true,
@@ -672,22 +672,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "17/11/2026 22:00",
-      "imo": "9627631",
-      "navio": "CBO IPANEMA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "17/11/2026 22:00",
       "imo": "9626443",
       "navio": "BONGO (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBL - BRICLOG",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "17/11/2026 22:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -738,6 +738,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 01:30",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
