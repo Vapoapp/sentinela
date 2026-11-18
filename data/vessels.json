@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T11:40:24.413Z",
+  "updatedAt": "2026-11-18T11:41:16.358Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 42
     },
     "niteroi": {
       "ok": true,
@@ -62,12 +62,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 00:30",
+      "imo": "9575632",
+      "navio": "TITUS TIDE (REB)",
+      "tipo": "SAÍDA",
+      "de": "TPBL - BRICLOG",
+      "para": "-",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 00:30",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
       "tipo": "SAÍDA",
       "de": "TPBL - BRICLOG",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 01:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -142,6 +162,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 07:00",
+      "imo": "9423229",
+      "navio": "ELIZABETH C",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 07:00",
       "imo": "9424986",
       "navio": "SAVEIROS ATOBÁ",
       "tipo": "MUDANÇA",
@@ -161,16 +191,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "18/11/2026 07:00",
-      "imo": "9423229",
-      "navio": "ELIZABETH C",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 07:30",
       "imo": "9944417",
       "navio": "BRAM SPIRIT",
@@ -182,12 +202,52 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 08:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 08:00",
+      "imo": "9659579",
+      "navio": "BARU MUCURA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 08:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 08:00",
       "imo": "9417359",
       "navio": "SKANDI OLYMPIA (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPIM - MOCANGUE",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 09:00",
+      "imo": "9423229",
+      "navio": "ELIZABETH C",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -241,6 +301,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 12:40",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "18/11/2026 13:00",
       "imo": "9597109",
       "navio": "ADELANTE",
@@ -258,6 +328,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 14:00",
+      "imo": "9787405",
+      "navio": "PARDELA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,6 +428,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 09:30",
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Niterói",
