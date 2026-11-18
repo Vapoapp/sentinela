@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T06:19:14.594Z",
+  "updatedAt": "2026-11-18T06:20:19.942Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 31
     },
     "niteroi": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "18/11/2026 05:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
