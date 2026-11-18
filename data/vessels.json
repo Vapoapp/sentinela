@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:16:17.552Z",
+  "updatedAt": "2026-11-18T01:17:15.369Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -918,6 +918,16 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "17/11/2026 12:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Niterói",
