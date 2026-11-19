@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-19T06:37:17.115Z",
+  "updatedAt": "2026-11-19T06:38:19.667Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -122,6 +122,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/11/2026 06:00",
+      "imo": "9690432",
+      "navio": "BRAM BUCCANEER",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 06:00",
       "imo": "9598268",
       "navio": "EAGLE PARANA",
       "tipo": "ENTRADA",
@@ -132,22 +142,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/11/2026 06:00",
-      "imo": "9528354",
-      "navio": "SKANDI IGUAÇU",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/11/2026 06:00",
       "imo": "9530187",
       "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPBR - BRASCO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 06:00",
+      "imo": "9528354",
+      "navio": "SKANDI IGUAÇU",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
