@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-19T07:55:19.216Z",
+  "updatedAt": "2026-11-19T07:56:16.063Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 24
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -92,6 +92,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/11/2026 05:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 05:00",
       "imo": "9766621",
       "navio": "CBO ALIANÇA",
       "tipo": "ENTRADA",
@@ -142,16 +152,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/11/2026 06:00",
-      "imo": "9598268",
-      "navio": "EAGLE PARANA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "19/11/2026 06:00",
       "imo": "9530187",
       "navio": "SANTOS SCOUT",
       "tipo": "ENTRADA",
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 06:00",
+      "imo": "9598268",
+      "navio": "EAGLE PARANA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
