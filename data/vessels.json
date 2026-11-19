@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T03:22:15.000Z",
+  "updatedAt": "2026-11-19T03:23:18.758Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 2
     },
     "itaguai": {
       "ok": true,
@@ -218,6 +218,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "19/11/2026 01:00",
+      "imo": "9379014",
+      "navio": "A.H. GIORGIO P.",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "FINARGE APOIO MARITIMO LTDA"
     },
     {
       "porto": "Niterói",
