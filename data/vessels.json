@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T10:57:16.517Z",
+  "updatedAt": "2026-11-19T10:58:22.141Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -391,16 +391,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "19/11/2026 11:00",
-      "imo": "9976408",
-      "navio": "GREEN PORTOCEL",
-      "tipo": "SAÍDA",
-      "de": "303 - TECON - SEPETIBA TECON S.A.",
-      "para": "-",
-      "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "19/11/2026 13:30",
       "imo": "1032335",
       "navio": "MOUNT ASAHI",
@@ -418,6 +408,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 17:30",
+      "imo": "9976408",
+      "navio": "GREEN PORTOCEL",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
