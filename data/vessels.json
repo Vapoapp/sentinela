@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:06:15.227Z",
+  "updatedAt": "2026-11-19T09:07:16.719Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "angra": {
       "ok": true,
@@ -378,6 +378,16 @@
       "de": "303 - TECON - SEPETIBA TECON S.A.",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "19/11/2026 13:30",
+      "imo": "1032335",
+      "navio": "MOUNT ASAHI",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
