@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-19T20:57:16.009Z",
+  "updatedAt": "2026-11-19T20:58:15.856Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 61
+      "count": 62
     },
     "niteroi": {
       "ok": true,
@@ -458,6 +458,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "TPBR - BRASCO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 17:00",
+      "imo": "9696802",
+      "navio": "STARNAV AQUARIUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
