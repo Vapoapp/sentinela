@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-19T15:28:21.039Z",
+  "updatedAt": "2026-11-19T15:29:16.352Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 45
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "19/11/2026 12:30",
+      "imo": "9318412",
+      "navio": "CBO GUANABARA",
+      "tipo": "SAÍDA",
+      "de": "ESPR - MacLaren Ilha da Conceição",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 12:30",
       "imo": "9545986",
       "navio": "BGP PROSPECTOR",
       "tipo": "ENTRADA",
@@ -328,6 +338,16 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "19/11/2026 13:00",
+      "imo": "9644122",
+      "navio": "TAGAZ",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
