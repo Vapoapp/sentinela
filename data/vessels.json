@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:54:15.501Z",
+  "updatedAt": "2026-11-20T22:55:22.762Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 4
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -708,6 +708,16 @@
       "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
       "para": "-",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "21/11/2026 00:00",
+      "imo": "9627631",
+      "navio": "CBO IPANEMA",
+      "tipo": "SAÍDA",
+      "de": "4103 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
