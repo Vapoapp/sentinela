@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T08:23:16.066Z",
+  "updatedAt": "2026-11-20T08:24:16.016Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 31
+      "count": 32
     },
     "niteroi": {
       "ok": true,
@@ -158,6 +158,16 @@
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 05:30",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "TIDEWATER NAVEGAÇÃO BRASILEIRA S.A"
     },
     {
       "porto": "Rio de Janeiro",
