@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T18:06:22.077Z",
+  "updatedAt": "2026-11-20T18:07:23.276Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 5
+      "count": 14
     },
     "angra": {
       "ok": true,
@@ -648,6 +648,96 @@
       "de": "-",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "20/11/2026 21:30",
+      "imo": "9603233",
+      "navio": "AMÉRICO VESPÚCIO",
+      "tipo": "SAÍDA",
+      "de": "302 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 04:00",
+      "imo": "9213959",
+      "navio": "INDUSTRIAL CHARGER",
+      "tipo": "SAÍDA",
+      "de": "301 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 07:00",
+      "imo": "9637715",
+      "navio": "SERTANEJO SPIRIT",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 08:30",
+      "imo": "9476288",
+      "navio": "TASSOS N",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "301 - TECON - SEPETIBA TECON S.A.",
+      "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 09:30",
+      "imo": "9577898",
+      "navio": "ADVENTURER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "302 - TECON - SEPETIBA TECON S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 12:30",
+      "imo": "9486518",
+      "navio": "NEW VIGOROUS",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 15:30",
+      "imo": "9456678",
+      "navio": "ASL OTSL 3",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 17:30",
+      "imo": "9806770",
+      "navio": "MEDI CABOTO",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "21/11/2026 19:00",
+      "imo": "1032335",
+      "navio": "MOUNT ASAHI",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
