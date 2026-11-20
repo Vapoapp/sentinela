@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T08:28:16.304Z",
+  "updatedAt": "2026-11-20T08:29:19.969Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 38
+      "count": 39
     },
     "niteroi": {
       "ok": true,
@@ -368,6 +368,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 11:00",
+      "imo": "9407158",
+      "navio": "SEASPAN EMISSARY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
