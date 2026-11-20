@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T21:15:24.929Z",
+  "updatedAt": "2026-11-20T21:16:17.316Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 59
+      "count": 60
     },
     "niteroi": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "-",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 18:30",
+      "imo": "9426972",
+      "navio": "CBO BIANCA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
