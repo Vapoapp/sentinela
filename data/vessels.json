@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T08:25:22.744Z",
+  "updatedAt": "2026-11-20T08:26:16.976Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 36
     },
     "niteroi": {
       "ok": true,
@@ -112,22 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 04:00",
-      "imo": "9612765",
-      "navio": "NC BREDA (REB S/L)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 04:00",
       "imo": "9620982",
       "navio": "CBO MISTRAL (REB)",
       "tipo": "MUDANÇA",
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 04:00",
+      "imo": "9612765",
+      "navio": "NC BREDA (REB S/L)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -202,22 +202,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 07:00",
-      "imo": "9349370",
-      "navio": "NORMAND COMMANDER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 07:00",
       "imo": "9456965",
       "navio": "MSC ODESSA V",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 07:00",
+      "imo": "9349370",
+      "navio": "NORMAND COMMANDER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,16 +262,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 12:00",
-      "imo": "9883493",
-      "navio": "SOUTHERN XANTIS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPS1 - PETROBRAS PS1",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 12:00",
       "imo": "9477402",
       "navio": "CBO ANITA",
       "tipo": "ENTRADA",
@@ -281,13 +271,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 13:00",
-      "imo": "9413810",
-      "navio": "SKANDI ACHIEVER (REB)",
-      "tipo": "SAÍDA",
-      "de": "2N05 - Armazém 6",
-      "para": "-",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+      "inicio": "20/11/2026 12:00",
+      "imo": "9883493",
+      "navio": "SOUTHERN XANTIS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPS1 - PETROBRAS PS1",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -298,6 +288,16 @@
       "de": "-",
       "para": "2C21 - TECON 3 - MRIO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 13:00",
+      "imo": "9413810",
+      "navio": "SKANDI ACHIEVER (REB)",
+      "tipo": "SAÍDA",
+      "de": "2N05 - Armazém 6",
+      "para": "-",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,6 +358,26 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 09:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 20:00",
+      "imo": "9456965",
+      "navio": "MSC ODESSA V",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
