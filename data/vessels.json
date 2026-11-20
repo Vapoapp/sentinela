@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T08:24:16.016Z",
+  "updatedAt": "2026-11-20T08:25:22.744Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 32
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -102,6 +102,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 04:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 04:00",
       "imo": "9612765",
       "navio": "NC BREDA (REB S/L)",
       "tipo": "SAÍDA",
@@ -118,16 +128,6 @@
       "de": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 04:00",
-      "imo": "9678147",
-      "navio": "BRAVANTE II",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,22 +172,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 06:00",
-      "imo": "9787429",
-      "navio": "OSTREIRO (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 06:00",
       "imo": "9668910",
       "navio": "COOPER ISLAND",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F03 - Feiticeira",
       "para": "-",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 06:00",
+      "imo": "9787429",
+      "navio": "OSTREIRO (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "20/11/2026 12:00",
-      "imo": "9477402",
-      "navio": "CBO ANITA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "20/11/2026 12:00",
       "imo": "9883493",
       "navio": "SOUTHERN XANTIS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "TPS1 - PETROBRAS PS1",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "20/11/2026 12:00",
+      "imo": "9477402",
+      "navio": "CBO ANITA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -336,6 +336,26 @@
       "navio": "PALENA",
       "tipo": "SAÍDA",
       "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 03:00",
+      "imo": "9598268",
+      "navio": "EAGLE PARANA",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 05:00",
+      "imo": "9723241",
+      "navio": "CZECH",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
