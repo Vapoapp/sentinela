@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T17:43:15.208Z",
+  "updatedAt": "2026-11-21T17:44:15.646Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -92,22 +92,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 05:00",
-      "imo": "9723241",
-      "navio": "CZECH",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 05:00",
       "imo": "9542661",
       "navio": "SHAKESPEARE BAY",
       "tipo": "SAÍDA",
       "de": "2N10 - Terminal de Trigo",
       "para": "-",
       "agente": "SEASHORE SOLUTIONS COMÉRCIO E SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 05:00",
+      "imo": "9723241",
+      "navio": "CZECH",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 09:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 09:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
@@ -226,16 +236,6 @@
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 09:00",
-      "imo": "9678147",
-      "navio": "BRAVANTE II",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 12:30",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 12:30",
       "imo": "9323510",
       "navio": "HMM BANGKOK",
       "tipo": "ENTRADA",
@@ -292,12 +302,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 12:30",
-      "imo": "1094979",
-      "navio": "STARNAV ELEKTRA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "imo": "9756951",
+      "navio": "BS UBATUBA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
