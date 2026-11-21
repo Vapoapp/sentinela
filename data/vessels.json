@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T08:22:15.302Z",
+  "updatedAt": "2026-11-21T08:23:15.426Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 9
+      "count": 10
     },
     "niteroi": {
       "ok": true,
@@ -68,6 +68,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 09:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
