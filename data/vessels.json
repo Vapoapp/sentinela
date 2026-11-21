@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T13:04:30.331Z",
+  "updatedAt": "2026-11-21T13:05:19.857Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -152,6 +152,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 09:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 09:00",
       "imo": "9351799",
       "navio": "LOG-IN PANTANAL (REB)",
       "tipo": "SAÍDA",
@@ -166,16 +176,6 @@
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "SAÍDA",
       "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 09:00",
-      "imo": "9678147",
-      "navio": "BRAVANTE II",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
@@ -198,6 +198,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 12:30",
+      "imo": "9323510",
+      "navio": "HMM BANGKOK",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C22 - TECON 2 - MRIO",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -252,22 +262,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 22:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 22:00",
       "imo": "9585285",
       "navio": "MSC DIVINA",
       "tipo": "SAÍDA",
       "de": "2N04 - Armazém 4 e 5",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 22:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
