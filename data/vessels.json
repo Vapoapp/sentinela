@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T17:42:20.614Z",
+  "updatedAt": "2026-11-21T17:43:15.208Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 35
+      "count": 37
     },
     "niteroi": {
       "ok": true,
@@ -318,6 +318,26 @@
       "de": "TPBR - BRASCO",
       "para": "-",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 14:00",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 14:40",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
