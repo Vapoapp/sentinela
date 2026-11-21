@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:01:16.303Z",
+  "updatedAt": "2026-11-21T23:02:14.801Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -468,6 +468,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "22/11/2026 02:00",
+      "imo": "4030219411",
+      "navio": "OCEAN DREAM",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCD - ESTALEIRO CODEPE",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
