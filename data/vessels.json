@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T15:45:20.228Z",
+  "updatedAt": "2026-11-21T15:46:15.740Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -291,6 +291,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 12:30",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 13:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
@@ -342,22 +352,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 22:00",
-      "imo": "9545857",
-      "navio": "COXON TIDE (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 22:00",
       "imo": "9585285",
       "navio": "MSC DIVINA",
       "tipo": "SAÍDA",
       "de": "2N04 - Armazém 4 e 5",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 22:00",
+      "imo": "9545857",
+      "navio": "COXON TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Niterói",
