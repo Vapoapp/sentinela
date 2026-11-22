@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T05:36:14.978Z",
+  "updatedAt": "2026-11-22T05:37:13.869Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "niteroi": {
       "ok": true,
@@ -98,6 +98,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 18:30",
+      "imo": "9478494",
+      "navio": "NAVIOS DOMINO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
