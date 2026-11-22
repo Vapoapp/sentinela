@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T13:06:15.784Z",
+  "updatedAt": "2026-11-22T13:07:18.422Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -168,6 +168,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 10:00",
+      "imo": "8650045",
+      "navio": "C VENTANIA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
