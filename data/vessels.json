@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T13:11:14.256Z",
+  "updatedAt": "2026-11-22T13:12:15.708Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -208,6 +208,16 @@
       "de": "-",
       "para": "2C22 - TECON 2 - MRIO",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 13:00",
+      "imo": "9440681",
+      "navio": "SKUA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2P14 - Terminal Petrobrás (Armazém 14)",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Rio de Janeiro",
