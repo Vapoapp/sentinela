@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T00:00:31.937Z",
+  "updatedAt": "2026-11-22T00:01:14.590Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 48
     },
     "niteroi": {
       "ok": true,
@@ -352,16 +352,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 15:00",
-      "imo": "9762003",
-      "navio": "C SEPETIBA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "ESCM - ESTALEIRO CAMORIM",
-      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 15:00",
       "imo": "9642588",
       "navio": "LARUS",
       "tipo": "MUDANÇA",
@@ -371,23 +361,23 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "21/11/2026 18:00",
-      "imo": "9659074",
-      "navio": "NORMAND SIRIUS (REB)",
+      "inicio": "21/11/2026 15:00",
+      "imo": "9762003",
+      "navio": "C SEPETIBA",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
+      "para": "ESCM - ESTALEIRO CAMORIM",
+      "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 18:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
+      "imo": "9814961",
+      "navio": "SEALOADER 1",
+      "tipo": "ENTRADA",
+      "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,12 +392,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "21/11/2026 18:00",
-      "imo": "9814961",
-      "navio": "SEALOADER 1",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "21/11/2026 18:00",
+      "imo": "9659074",
+      "navio": "NORMAND SIRIUS (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -451,6 +451,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 03:00",
+      "imo": "9407158",
+      "navio": "SEASPAN EMISSARY",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "22/11/2026 03:35",
       "imo": "9440708",
       "navio": "FULMAR",
@@ -468,6 +478,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 07:00",
+      "imo": "9618757",
+      "navio": "MAR LIMPO II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
