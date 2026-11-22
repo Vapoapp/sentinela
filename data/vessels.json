@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T05:58:14.293Z",
+  "updatedAt": "2026-11-22T05:59:15.545Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "niteroi": {
       "ok": true,
@@ -28,6 +28,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 01:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
