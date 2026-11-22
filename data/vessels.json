@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T17:39:16.368Z",
+  "updatedAt": "2026-11-22T17:40:27.601Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -102,22 +102,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/11/2026 05:00",
-      "imo": "9620982",
-      "navio": "CBO MISTRAL (REB)",
-      "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "-",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/11/2026 05:00",
       "imo": "9715751",
       "navio": "STARNAV PHOENIX",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 05:00",
+      "imo": "9620982",
+      "navio": "CBO MISTRAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -182,22 +182,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/11/2026 11:00",
-      "imo": "9530010",
-      "navio": "ROBERT ADAMS (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/11/2026 11:00",
       "imo": "9762742",
       "navio": "POSIDONIA LEOPARD (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2P19 - Terminal Petrobrás SC",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 11:00",
+      "imo": "9530010",
+      "navio": "ROBERT ADAMS (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -238,6 +238,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 14:15",
+      "imo": "9530060",
+      "navio": "THOR SUPPLIER",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
