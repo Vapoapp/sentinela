@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T14:50:25.620Z",
+  "updatedAt": "2026-11-22T14:51:16.737Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 25
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/11/2026 09:30",
-      "imo": "9323510",
-      "navio": "HMM BANGKOK",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "22/11/2026 09:30",
       "imo": "9418030",
       "navio": "SKANDI MERCURY",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "SOLANA AGENCIA MARITIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 09:30",
+      "imo": "9323510",
+      "navio": "HMM BANGKOK",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -212,6 +212,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "22/11/2026 13:00",
+      "imo": "9329942",
+      "navio": "MESTRE DOS MARES (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 13:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "ENTRADA",
@@ -238,6 +248,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "22/11/2026 15:30",
+      "imo": "3813887740",
+      "navio": "C VITÓRIA",
+      "tipo": "SAÍDA",
+      "de": "TPCM - Estaleiro Camorim",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
