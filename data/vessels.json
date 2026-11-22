@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T18:00:27.936Z",
+  "updatedAt": "2026-11-22T18:01:15.113Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 7
+      "count": 15
     },
     "angra": {
       "ok": true,
@@ -398,6 +398,86 @@
       "de": "-",
       "para": "Fundeio - 5FB1 - Área de Fundeio B1",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 06:00",
+      "imo": "9590826",
+      "navio": "CAPE XL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 5FB2 - Área de Fundeio B2",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 09:00",
+      "imo": "9346184",
+      "navio": "Pictor Marine",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 11:00",
+      "imo": "1051862",
+      "navio": "CSPC ARIES",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 13:30",
+      "imo": "9531868",
+      "navio": "CAPE MIDORI",
+      "tipo": "SAÍDA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 15:00",
+      "imo": "9844588",
+      "navio": "CL HUANGPU RIVER",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - F2 - FUNDEIO F2",
+      "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 16:00",
+      "imo": "9552410",
+      "navio": "CAPE AMANDA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 17:00",
+      "imo": "9976458",
+      "navio": "GREEN RIO DE JANEIRO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "303 - TECON - SEPETIBA TECON S.A.",
+      "agente": "GREAT OCEAN SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "23/11/2026 19:00",
+      "imo": "9456678",
+      "navio": "ASL OTSL 3",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
