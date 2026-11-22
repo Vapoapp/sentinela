@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T17:59:15.844Z",
+  "updatedAt": "2026-11-22T18:00:27.936Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 28
+      "count": 29
     },
     "niteroi": {
       "ok": true,
@@ -298,6 +298,16 @@
       "de": "-",
       "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 15:00",
+      "imo": "9651321",
+      "navio": "AEGIS (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "-",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Niterói",
