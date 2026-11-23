@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:36:20.107Z",
+  "updatedAt": "2026-11-23T07:37:15.593Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 1
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -131,6 +131,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "23/11/2026 05:30",
+      "imo": "9385271",
+      "navio": "HOS TAURUS (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "ESMC - MacLaren Ponta da Areia",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
       "inicio": "23/11/2026 06:00",
       "imo": "4030219411",
       "navio": "OCEAN DREAM",
@@ -138,6 +148,16 @@
       "de": "ESCD - ESTALEIRO CODEPE",
       "para": "-",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/11/2026 08:00",
+      "imo": "9575620",
+      "navio": "TANTALUS TIDE (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "HMS BRASIL AGENCIAMENTOS MARITIMOS LTDA ME"
     },
     {
       "porto": "Itaguaí",
