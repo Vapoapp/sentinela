@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T07:39:15.931Z",
+  "updatedAt": "2026-11-23T07:40:20.207Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 17
+      "count": 20
     },
     "niteroi": {
       "ok": true,
@@ -81,6 +81,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 04:00",
+      "imo": "9762742",
+      "navio": "POSIDONIA LEOPARD (REB)",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "23/11/2026 05:00",
       "imo": "9230830",
       "navio": "C-ATLAS (REB)",
@@ -108,6 +118,26 @@
       "de": "-",
       "para": "Fundeio - 2F01 - Visita",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 08:00",
+      "imo": "9482378",
+      "navio": "CBO MANOELLA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 08:30",
+      "imo": "9578880",
+      "navio": "CBO FLAMENGO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
