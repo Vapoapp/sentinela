@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T20:10:20.851Z",
+  "updatedAt": "2026-11-23T20:11:22.663Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -362,22 +362,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/11/2026 18:00",
-      "imo": "9530204",
-      "navio": "SANTOS SOLUTION",
-      "tipo": "SAÍDA",
-      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/11/2026 18:00",
       "imo": "9619438",
       "navio": "MSC ALBANY",
       "tipo": "SAÍDA",
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 18:00",
+      "imo": "9530204",
+      "navio": "SANTOS SOLUTION",
+      "tipo": "SAÍDA",
+      "de": "2P15 - Terminal Petrobrás (Armazém 15)",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -418,6 +418,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 01:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
