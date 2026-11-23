@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T19:34:26.216Z",
+  "updatedAt": "2026-11-23T19:35:19.405Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 40
+      "count": 41
     },
     "niteroi": {
       "ok": true,
@@ -328,6 +328,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "2PAL - Terminal Petrobras AL",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 17:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
