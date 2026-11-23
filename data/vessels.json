@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:35:20.946Z",
+  "updatedAt": "2026-11-23T07:36:20.107Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 0
+      "count": 1
     },
     "itaguai": {
       "ok": true,
@@ -128,6 +128,16 @@
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "23/11/2026 06:00",
+      "imo": "4030219411",
+      "navio": "OCEAN DREAM",
+      "tipo": "SAÍDA",
+      "de": "ESCD - ESTALEIRO CODEPE",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
