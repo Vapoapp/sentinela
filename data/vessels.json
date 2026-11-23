@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T18:21:16.625Z",
+  "updatedAt": "2026-11-23T18:22:16.396Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -558,6 +558,16 @@
       "de": "101 - TECAR - CSN MINERAÇÃO S.A.",
       "para": "Fundeio - 5FB5 - Área de Fundeio B5",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "24/11/2026 05:30",
+      "imo": "9675456",
+      "navio": "SASEBO ECO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
