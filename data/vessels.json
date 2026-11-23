@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T07:38:17.413Z",
+  "updatedAt": "2026-11-23T07:39:15.931Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 15
+      "count": 17
     },
     "niteroi": {
       "ok": true,
@@ -112,6 +112,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/11/2026 09:00",
+      "imo": "9539494",
+      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 09:00",
       "imo": "9565651",
       "navio": "CBO ALESSANDRA",
       "tipo": "SAÍDA",
@@ -158,6 +168,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "BRAZILIAN PORT AGENTS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 19:00",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBR - BRASCO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
