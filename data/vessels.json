@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:50:26.221Z",
+  "updatedAt": "2026-11-24T12:51:19.621Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -292,16 +292,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 12:00",
-      "imo": "9539494",
-      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
-      "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 12:00",
       "imo": "9715737",
       "navio": "STARNAV ANDROMEDA",
       "tipo": "SAÍDA",
@@ -368,6 +358,16 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 18:30",
+      "imo": "9539494",
+      "navio": "MERCOSUL GUARUJÁ (CMA CGM LOME) (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
