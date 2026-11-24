@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:11:17.077Z",
+  "updatedAt": "2026-11-24T18:12:19.674Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -678,6 +678,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "24/11/2026 15:30",
+      "imo": "9767819",
+      "navio": "CBO XAVANTES",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Niterói",
