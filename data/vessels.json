@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T16:32:21.365Z",
+  "updatedAt": "2026-11-24T16:33:16.692Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -162,22 +162,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 06:00",
-      "imo": "9551935",
-      "navio": "HAPPY DELTA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N06 - Armazém 7",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 06:00",
       "imo": "9401790",
       "navio": "PELICANA",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F01 - Visita",
       "para": "-",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 06:00",
+      "imo": "9551935",
+      "navio": "HAPPY DELTA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N06 - Armazém 7",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -262,6 +262,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 10:00",
+      "imo": "8650045",
+      "navio": "C VENTANIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 10:00",
       "imo": "9721982",
       "navio": "BBG MASTER",
       "tipo": "ENTRADA",
@@ -272,22 +282,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 10:30",
-      "imo": "9703382",
-      "navio": "OCEANIC",
-      "tipo": "SAÍDA",
-      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "para": "-",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 10:30",
       "imo": "9423229",
       "navio": "ELIZABETH C",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 10:30",
+      "imo": "9703382",
+      "navio": "OCEANIC",
+      "tipo": "SAÍDA",
+      "de": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -312,22 +322,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 11:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2N08 - Pátio 9",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 11:00",
       "imo": "9370070",
       "navio": "SIDDIS SAILOR (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 11:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2N08 - Pátio 9",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
     },
     {
       "porto": "Rio de Janeiro",
@@ -348,16 +358,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 12:00",
-      "imo": "9715737",
-      "navio": "STARNAV ANDROMEDA",
-      "tipo": "SAÍDA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -462,22 +462,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 15:00",
-      "imo": "9453884",
-      "navio": "MILTON SANTOS",
-      "tipo": "SAÍDA",
-      "de": "TPP1 - PETROBRAS PP1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 15:00",
       "imo": "9651321",
       "navio": "AEGIS (REB)",
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "-",
       "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 15:00",
+      "imo": "9453884",
+      "navio": "MILTON SANTOS",
+      "tipo": "SAÍDA",
+      "de": "TPP1 - PETROBRAS PP1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
