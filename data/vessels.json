@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:55:20.496Z",
+  "updatedAt": "2026-11-24T11:56:20.960Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 5
     },
     "itaguai": {
       "ok": true,
@@ -362,6 +362,16 @@
     {
       "porto": "Niterói",
       "inicio": "24/11/2026 08:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "24/11/2026 08:00",
       "imo": "9388962",
       "navio": "OCEANICASUB X (REB)",
       "tipo": "ENTRADA",
@@ -378,6 +388,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "ANDROS SHIPPING AGÊNCIA MARÍTIMA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "25/11/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
