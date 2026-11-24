@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T16:42:29.475Z",
+  "updatedAt": "2026-11-24T16:43:16.211Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 60
+      "count": 61
     },
     "niteroi": {
       "ok": true,
@@ -302,16 +302,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 11:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPAM - ARSENAL DA MARINHA",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 11:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
@@ -322,12 +312,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 11:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "TPAM - ARSENAL DA MARINHA",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -338,6 +328,16 @@
       "de": "ESLO - ESTALEIRO LOCAR",
       "para": "2N08 - Pátio 9",
       "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 11:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
     },
     {
       "porto": "Rio de Janeiro",
@@ -372,6 +372,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 12:30",
+      "imo": "1053585",
+      "navio": "TINOS EXPRESS",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 12:30",
       "imo": "9664299",
       "navio": "BRAM BRASILIA",
       "tipo": "MUDANÇA",
@@ -386,16 +396,6 @@
       "navio": "PARDELA (REB)",
       "tipo": "SAÍDA",
       "de": "2P15 - Terminal Petrobrás (Armazém 15)",
-      "para": "-",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 12:30",
-      "imo": "1053585",
-      "navio": "TINOS EXPRESS",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
@@ -478,6 +478,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 15:00",
+      "imo": "9283954",
+      "navio": "BBC WASHINGTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N09 - Armazém 10",
+      "agente": "BRAZILIAN PORT AGENTS"
     },
     {
       "porto": "Rio de Janeiro",
