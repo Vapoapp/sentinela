@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T01:36:20.012Z",
+  "updatedAt": "2026-11-24T01:37:14.974Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 62
+      "count": 63
     },
     "niteroi": {
       "ok": true,
@@ -638,6 +638,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 21:00",
+      "imo": "9519107",
+      "navio": "BOSPORUS HIGHWAY",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
