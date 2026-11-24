@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:50:21.471Z",
+  "updatedAt": "2026-11-24T01:51:15.021Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -272,26 +272,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "23/11/2026 14:00",
-      "imo": "9883493",
-      "navio": "SOUTHERN XANTIS",
-      "tipo": "SAÍDA",
-      "de": "TPS2 - PETROBRAS PS2",
-      "para": "-",
-      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/11/2026 14:00",
-      "imo": "9698719",
-      "navio": "BRAM BREEZE",
-      "tipo": "SAÍDA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "-",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "23/11/2026 14:00",
       "imo": "9098309",
       "navio": "LH COMANDANTE",
       "tipo": "ENTRADA",
@@ -318,6 +298,26 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 14:00",
+      "imo": "9698719",
+      "navio": "BRAM BREEZE",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "23/11/2026 14:00",
+      "imo": "9883493",
+      "navio": "SOUTHERN XANTIS",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
+      "para": "-",
+      "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
