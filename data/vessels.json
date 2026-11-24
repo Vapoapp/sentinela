@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T12:00:29.478Z",
+  "updatedAt": "2026-11-24T12:01:16.096Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -198,6 +198,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 09:00",
+      "imo": "9715725",
+      "navio": "STARNAV TAURUS",
+      "tipo": "SAÍDA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
