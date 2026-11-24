@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:35:19.156Z",
+  "updatedAt": "2026-11-24T11:36:17.420Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 2
+      "count": 3
     },
     "itaguai": {
       "ok": true,
@@ -304,6 +304,16 @@
       "inicio": "24/11/2026 06:00",
       "imo": "9409651",
       "navio": "OCEANICASUB XV (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "24/11/2026 08:00",
+      "imo": "9388962",
+      "navio": "OCEANICASUB X (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
