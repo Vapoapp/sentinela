@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:31:17.361Z",
+  "updatedAt": "2026-11-24T12:32:17.063Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -321,16 +321,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 13:30",
-      "imo": "9979278",
-      "navio": "MAERSK FORTALEZA",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 14:00",
       "imo": "9453884",
       "navio": "MILTON SANTOS",
@@ -338,6 +328,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 14:30",
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -415,7 +415,7 @@
       "imo": "9979278",
       "navio": "MAERSK FORTALEZA",
       "tipo": "SAÍDA",
-      "de": "2C11 - TECON - ICTSI 1",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
