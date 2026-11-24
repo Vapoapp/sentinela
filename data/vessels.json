@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T13:50:23.395Z",
+  "updatedAt": "2026-11-24T13:51:17.100Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 52
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -471,16 +471,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 21:00",
-      "imo": "9519107",
-      "navio": "BOSPORUS HIGHWAY",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 21:30",
       "imo": "9966817",
       "navio": "BRIGHTON",
@@ -528,16 +518,6 @@
       "de": "-",
       "para": "TPBK - BRASKEM",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 21:00",
-      "imo": "9519107",
-      "navio": "BOSPORUS HIGHWAY",
-      "tipo": "SAÍDA",
-      "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Niterói",
