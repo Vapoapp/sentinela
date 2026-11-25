@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T01:25:17.399Z",
+  "updatedAt": "2026-11-25T01:26:19.961Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 83
+      "count": 84
     },
     "niteroi": {
       "ok": true,
@@ -302,6 +302,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 11:00",
+      "imo": "9644146",
+      "navio": "ALCATRAZ",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPAM - ARSENAL DA MARINHA",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 11:00",
       "imo": "3810514888",
       "navio": "LOCAR III",
       "tipo": "MUDANÇA",
@@ -328,16 +338,6 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "TIDEWATER DO BRASIL S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 11:00",
-      "imo": "9644146",
-      "navio": "ALCATRAZ",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPAM - ARSENAL DA MARINHA",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -707,6 +707,16 @@
       "tipo": "SAÍDA",
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 00:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
