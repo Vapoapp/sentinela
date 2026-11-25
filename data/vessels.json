@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:52:28.169Z",
+  "updatedAt": "2026-11-25T13:53:19.328Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "angra": {
       "ok": true,
@@ -517,6 +517,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 5FB4 - Área de Fundeio B4",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/11/2026 14:00",
+      "imo": "9552410",
+      "navio": "CAPE AMANDA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
     },
     {
