@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:33:20.873Z",
+  "updatedAt": "2026-11-25T04:34:22.367Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -271,16 +271,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "25/11/2026 12:00",
-      "imo": "9844588",
-      "navio": "CL HUANGPU RIVER",
-      "tipo": "MUDANÇA",
-      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
-      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
-      "agente": "THP SHIPPING AND LOGISTICS LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "25/11/2026 13:30",
       "imo": "9590826",
       "navio": "CAPE XL",
@@ -288,6 +278,16 @@
       "de": "Fundeio - 5FB2 - Área de Fundeio B2",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "25/11/2026 14:00",
+      "imo": "9844588",
+      "navio": "CL HUANGPU RIVER",
+      "tipo": "MUDANÇA",
+      "de": "102 - TECAR - CSN MINERAÇÃO S.A.",
+      "para": "101 - TECAR - CSN MINERAÇÃO S.A.",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Itaguaí",
