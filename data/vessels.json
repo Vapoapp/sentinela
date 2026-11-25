@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T08:34:15.122Z",
+  "updatedAt": "2026-11-25T08:35:18.234Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -188,6 +188,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 10:00",
+      "imo": "3813885372",
+      "navio": "C ARRAIAL",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPCM - Estaleiro Camorim",
+      "agente": "CAMORIM SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
