@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T11:33:20.994Z",
+  "updatedAt": "2026-11-25T11:34:16.173Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -301,16 +301,6 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 05:00",
-      "imo": "9313931",
-      "navio": "MSC INIYA V",
-      "tipo": "SAÍDA",
-      "de": "2C21 - TECON 3 - MRIO",
-      "para": "-",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 06:00",
       "imo": "9551935",
       "navio": "HAPPY DELTA",
@@ -348,6 +338,16 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 17:00",
+      "imo": "9313931",
+      "navio": "MSC INIYA V",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Niterói",
