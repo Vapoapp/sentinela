@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T17:08:23.823Z",
+  "updatedAt": "2026-11-25T17:09:15.538Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 49
+      "count": 50
     },
     "niteroi": {
       "ok": true,
@@ -382,8 +382,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 14:00",
-      "imo": "9703629",
-      "navio": "BRAM ATLAS",
+      "imo": "9529994",
+      "navio": "ROGER WHITE (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -392,8 +392,8 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 14:00",
-      "imo": "9529994",
-      "navio": "ROGER WHITE (REB)",
+      "imo": "9703629",
+      "navio": "BRAM ATLAS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
@@ -478,6 +478,16 @@
       "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 09:00",
+      "imo": "1016692",
+      "navio": "MSC ADELE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
