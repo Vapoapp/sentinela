@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T21:13:16.223Z",
+  "updatedAt": "2026-11-25T21:14:18.070Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -82,12 +82,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 05:00",
-      "imo": "9703382",
-      "navio": "OCEANIC",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
-      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -102,12 +102,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 05:00",
-      "imo": "9979278",
-      "navio": "MAERSK FORTALEZA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+      "imo": "9703382",
+      "navio": "OCEANIC",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F10 - PREFERENCIAL GNL",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -132,6 +132,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 07:00",
+      "imo": "9829409",
+      "navio": "ARCTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 07:00",
+      "imo": "9448528",
+      "navio": "CBO SUPPORTER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "TPBR - BRASCO",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 07:00",
       "imo": "9403786",
       "navio": "COSTA DO FUTURO (REB)",
       "tipo": "ENTRADA",
@@ -148,26 +168,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 07:00",
-      "imo": "9448528",
-      "navio": "CBO SUPPORTER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "TPBR - BRASCO",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 07:00",
-      "imo": "9829409",
-      "navio": "ARCTOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -282,6 +282,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 12:00",
+      "imo": "9678147",
+      "navio": "BRAVANTE II",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 12:00",
       "imo": "9357169",
       "navio": "ASSO VENTISETTE",
       "tipo": "MUDANÇA",
@@ -298,16 +308,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 12:00",
-      "imo": "9678147",
-      "navio": "BRAVANTE II",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,6 +412,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 15:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 15:00",
       "imo": "1031783",
       "navio": "BURAN",
       "tipo": "ENTRADA",
@@ -421,13 +431,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 15:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
+      "inicio": "25/11/2026 15:50",
+      "imo": "9273258",
+      "navio": "AUSTRAL ABROLHOS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+      "agente": "SYNERGY OFFSHORE DO BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
