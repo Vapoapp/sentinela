@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:09:23.490Z",
+  "updatedAt": "2026-11-25T19:10:25.737Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 11
+      "count": 12
     },
     "angra": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
       "para": "-",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA."
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "26/11/2026 18:00",
+      "imo": "9848998",
+      "navio": "KIM OLDENDORFF",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 5FB5 - Área de Fundeio B5",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     }
   ]
 }
