@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T00:32:17.678Z",
+  "updatedAt": "2026-11-25T00:33:15.033Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 81
+      "count": 82
     },
     "niteroi": {
       "ok": true,
@@ -302,6 +302,26 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 11:00",
+      "imo": "3810514888",
+      "navio": "LOCAR III",
+      "tipo": "MUDANÇA",
+      "de": "ESLO - ESTALEIRO LOCAR",
+      "para": "2N08 - Pátio 9",
+      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 11:00",
+      "imo": "9370070",
+      "navio": "SIDDIS SAILOR (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 11:00",
       "imo": "9440708",
       "navio": "FULMAR",
       "tipo": "MUDANÇA",
@@ -321,23 +341,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 11:00",
-      "imo": "3810514888",
-      "navio": "LOCAR III",
-      "tipo": "MUDANÇA",
-      "de": "ESLO - ESTALEIRO LOCAR",
-      "para": "2N08 - Pátio 9",
-      "agente": "LOCAR GUINDASTES E TRANSP. INTERMODAIS"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 11:00",
-      "imo": "9370070",
-      "navio": "SIDDIS SAILOR (REB)",
+      "inicio": "24/11/2026 12:00",
+      "imo": "9865635",
+      "navio": "EAGLE PILAR",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+      "para": "Fundeio - WPT 81 - 2F08",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -358,16 +368,6 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 12:00",
-      "imo": "9865635",
-      "navio": "EAGLE PILAR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - WPT 81 - 2F08",
-      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -402,6 +402,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "24/11/2026 13:00",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "24/11/2026 13:00",
       "imo": "9530175",
       "navio": "SANTOS SUPPORTER",
       "tipo": "MUDANÇA",
@@ -418,16 +428,6 @@
       "de": "ESSM - SÃO MIGUEL",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "24/11/2026 13:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -712,16 +712,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 05:00",
-      "imo": "9979278",
-      "navio": "MAERSK FORTALEZA",
-      "tipo": "SAÍDA",
-      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "para": "-",
-      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 05:00",
       "imo": "9703382",
       "navio": "OCEANIC",
       "tipo": "ENTRADA",
@@ -732,12 +722,32 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 05:00",
+      "imo": "9979278",
+      "navio": "MAERSK FORTALEZA",
+      "tipo": "SAÍDA",
+      "de": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "para": "-",
+      "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 05:00",
       "imo": "9484845",
       "navio": "STRIL EXPLORER (REB)",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 05:00",
+      "imo": "9966817",
+      "navio": "BRIGHTON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N07 - Pátio 8/9",
+      "agente": "THP SHIPPING AND LOGISTICS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
