@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:19:14.697Z",
+  "updatedAt": "2026-11-25T02:20:23.160Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 10
     },
     "itaguai": {
       "ok": true,
@@ -901,6 +901,16 @@
     },
     {
       "porto": "Niterói",
+      "inicio": "24/11/2026 20:00",
+      "imo": "9371385",
+      "navio": "OCEANICASUB XVII (REB)",
+      "tipo": "SAÍDA",
+      "de": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "para": "-",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
+    },
+    {
+      "porto": "Niterói",
       "inicio": "25/11/2026 06:00",
       "imo": "4030219411",
       "navio": "OCEAN DREAM",
@@ -918,6 +928,16 @@
       "de": "-",
       "para": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
       "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "25/11/2026 08:00",
+      "imo": "9284324",
+      "navio": "OCEANICASUB XVIII",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Niterói",
