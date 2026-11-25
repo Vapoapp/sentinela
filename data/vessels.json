@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T11:34:16.173Z",
+  "updatedAt": "2026-11-25T11:35:19.892Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 33
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -152,22 +152,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 07:00",
-      "imo": "9829409",
-      "navio": "ARCTOS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "25/11/2026 07:00",
       "imo": "9448528",
       "navio": "CBO SUPPORTER (REB)",
       "tipo": "MUDANÇA",
       "de": "TPBR - BRASCO",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 07:00",
+      "imo": "9829409",
+      "navio": "ARCTOS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C12 - TECON PROLONG - ICTSI - ICTSI RIO BRASILTERMINAL 1 S.A",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -222,6 +222,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "25/11/2026 10:00",
+      "imo": "1094979",
+      "navio": "STARNAV ELEKTRA",
+      "tipo": "SAÍDA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 10:00",
       "imo": "3813885372",
       "navio": "C ARRAIAL",
       "tipo": "ENTRADA",
@@ -257,6 +267,16 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "25/11/2026 13:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
