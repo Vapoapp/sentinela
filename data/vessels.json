@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T04:33:19.954Z",
+  "updatedAt": "2026-11-26T04:34:19.481Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 20
+      "count": 21
     },
     "niteroi": {
       "ok": true,
@@ -48,6 +48,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 03:00",
+      "imo": "9752967",
+      "navio": "SEACOR DEMERARA (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA"
     },
     {
       "porto": "Rio de Janeiro",
