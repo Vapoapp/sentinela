@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:11:15.453Z",
+  "updatedAt": "2026-11-26T19:12:17.867Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 12
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "Fundeio - 5FB2 - Área de Fundeio B2",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/11/2026 07:30",
+      "imo": "9800623",
+      "navio": "GREAT INTELLIGENCE",
+      "tipo": "SAÍDA",
+      "de": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "para": "-",
+      "agente": "WILSON SONS SHIPPING SERVICES LTDA."
     },
     {
       "porto": "Itaguaí",
