@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:32:15.531Z",
+  "updatedAt": "2026-11-26T19:33:14.469Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -82,32 +82,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 06:00",
-      "imo": "9330692",
-      "navio": "SKANDI CHIEFTAIN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N05 - Armazém 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
-      "imo": "9389576",
-      "navio": "SKANDI SALVADOR",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
-      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
-      "imo": "9551935",
-      "navio": "HAPPY DELTA",
+      "imo": "9789726",
+      "navio": "MANTA BEYOGLU",
       "tipo": "SAÍDA",
-      "de": "2N06 - Armazém 7",
+      "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
-      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,22 +102,42 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 06:00",
-      "imo": "9789726",
-      "navio": "MANTA BEYOGLU",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9389576",
+      "navio": "SKANDI SALVADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2TS2 - Terminal Siderúrgico parte 2 a 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9330692",
+      "navio": "SKANDI CHIEFTAIN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N05 - Armazém 6",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9551935",
+      "navio": "HAPPY DELTA",
+      "tipo": "SAÍDA",
+      "de": "2N06 - Armazém 7",
+      "para": "-",
+      "agente": "ALL FLAGS AGENCIAMENTO LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -382,22 +382,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 16:00",
-      "imo": "9477397",
-      "navio": "CBO CAROLINA",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F6A - LARGO",
-      "para": "DOCKBRASIL - DOCKBRASIL",
-      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 16:00",
       "imo": "9437919",
       "navio": "GRANDE GUINEA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 16:00",
+      "imo": "9477397",
+      "navio": "CBO CAROLINA",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "DOCKBRASIL - DOCKBRASIL",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
