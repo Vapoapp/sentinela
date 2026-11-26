@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T19:36:16.782Z",
+  "updatedAt": "2026-11-26T19:37:15.206Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -192,16 +192,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 09:00",
-      "imo": "1016692",
-      "navio": "MSC ADELE",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 09:00",
       "imo": "9385398",
       "navio": "A.H. CAMOGLI (REB)",
       "tipo": "SAÍDA",
@@ -282,6 +272,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 14:00",
+      "imo": "9715751",
+      "navio": "STARNAV PHOENIX",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 14:00",
       "imo": "9440681",
       "navio": "SKUA",
       "tipo": "SAÍDA",
@@ -298,16 +298,6 @@
       "de": "2R11 - Terminal - MCAR - TECON 5 - MULTI-RIO OPERAÇÕES PORTUÁRIAS S.A.",
       "para": "-",
       "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 14:00",
-      "imo": "9715751",
-      "navio": "STARNAV PHOENIX",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -412,22 +402,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 16:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 16:00",
       "imo": "9437919",
       "navio": "GRANDE GUINEA",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2R12 - TECON 4 - MCAR",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 16:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -472,12 +462,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 17:00",
-      "imo": "9492062",
-      "navio": "RIO GRANDE",
+      "imo": "1016692",
+      "navio": "MSC ADELE",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "TPP1 - PETROBRAS PP1",
-      "agente": "GAC DO BRASIL LTDA."
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -488,6 +478,16 @@
       "de": "2C21 - TECON 3 - MRIO",
       "para": "-",
       "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 17:00",
+      "imo": "9492062",
+      "navio": "RIO GRANDE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPP1 - PETROBRAS PP1",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
