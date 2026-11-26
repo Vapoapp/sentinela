@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T07:42:16.668Z",
+  "updatedAt": "2026-11-26T07:43:15.185Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 23
+      "count": 24
     },
     "niteroi": {
       "ok": true,
@@ -92,36 +92,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "26/11/2026 06:00",
-      "imo": "9789726",
-      "navio": "MANTA BEYOGLU",
-      "tipo": "SAÍDA",
-      "de": "TPIC - ILHA COMPRIDA",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
-      "imo": "9703631",
-      "navio": "BRAM TITAN",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
-      "imo": "9806495",
-      "navio": "STARNAV CIRCINUS",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 06:00",
       "imo": "9330692",
       "navio": "SKANDI CHIEFTAIN",
       "tipo": "ENTRADA",
@@ -141,13 +111,33 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "26/11/2026 07:00",
-      "imo": "9664897",
-      "navio": "YM MODERATION",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9789726",
+      "navio": "MANTA BEYOGLU",
       "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
+      "de": "TPIC - ILHA COMPRIDA",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:00",
+      "imo": "9806495",
+      "navio": "STARNAV CIRCINUS",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -158,6 +148,16 @@
       "de": "-",
       "para": "2N07 - Pátio 8/9",
       "agente": "ORION RODOS MARITIMA E PORTUARIA LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 07:00",
+      "imo": "9664897",
+      "navio": "YM MODERATION",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -228,6 +228,16 @@
       "de": "TPP1 - PETROBRAS PP1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 16:00",
+      "imo": "9739446",
+      "navio": "BGP DRAGON",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Rio de Janeiro",
