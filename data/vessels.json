@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T09:02:16.968Z",
+  "updatedAt": "2026-11-26T09:03:19.258Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 25
+      "count": 26
     },
     "niteroi": {
       "ok": true,
@@ -138,6 +138,16 @@
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "26/11/2026 06:30",
+      "imo": "9364253",
+      "navio": "THESEUS Z (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "COASTAL OFFSHORE LTDA"
     },
     {
       "porto": "Rio de Janeiro",
