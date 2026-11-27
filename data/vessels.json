@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T17:45:21.493Z",
+  "updatedAt": "2026-11-27T17:46:16.727Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 54
+      "count": 55
     },
     "niteroi": {
       "ok": true,
@@ -428,6 +428,16 @@
       "de": "2C11 - TECON - ICTSI 1",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 16:30",
+      "imo": "9796262",
+      "navio": "VIKING JUPITER",
+      "tipo": "SAÍDA",
+      "de": "2N04 - Armazém 4 e 5",
+      "para": "-",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
