@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T13:07:18.062Z",
+  "updatedAt": "2026-11-27T13:08:18.255Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 37
+      "count": 38
     },
     "niteroi": {
       "ok": true,
@@ -308,6 +308,16 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "ISS MARINE SERVICES LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 14:00",
+      "imo": "9273064",
+      "navio": "HEATHER KNUTSEN",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F01S - Visita Sul",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
