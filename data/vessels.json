@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T13:47:15.059Z",
+  "updatedAt": "2026-11-27T13:48:17.302Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 42
+      "count": 44
     },
     "niteroi": {
       "ok": true,
@@ -82,26 +82,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 05:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "2P19 - Terminal Petrobrás SC",
-      "para": "Fundeio - 2F06 - LARGO OESTE",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 05:00",
-      "imo": "9573256",
-      "navio": "BATUÍRA",
-      "tipo": "MUDANÇA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
-      "para": "NIT - ATRACADO NITERÓI",
-      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 05:00",
       "imo": "9482330",
       "navio": "MULTIPLICITY (REB)",
       "tipo": "MUDANÇA",
@@ -118,6 +98,26 @@
       "de": "-",
       "para": "TPP1 - PETROBRAS PP1",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 05:00",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2P19 - Terminal Petrobrás SC",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 05:00",
+      "imo": "9573256",
+      "navio": "BATUÍRA",
+      "tipo": "MUDANÇA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "NIT - ATRACADO NITERÓI",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
@@ -192,22 +192,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 07:00",
-      "imo": "9659062",
-      "navio": "NORMAND SIGMA (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "Fundeio - 2F6A - LARGO",
-      "agente": "SOLANA AGENCIA MARITIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 07:00",
       "imo": "1019905",
       "navio": "BRAM RIO",
       "tipo": "MUDANÇA",
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "Fundeio - 2F6A - LARGO",
       "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 07:00",
+      "imo": "9659062",
+      "navio": "NORMAND SIGMA (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SOLANA AGENCIA MARITIMA LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -322,6 +322,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 12:00",
+      "imo": "",
+      "navio": "RS SANA",
+      "tipo": "SAÍDA",
+      "de": "ESCM - ESTALEIRO CAMORIM",
+      "para": "-",
+      "agente": "F.N AGENCIAMENTOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 12:00",
       "imo": "9342384",
       "navio": "ISABELLA KOSAN",
       "tipo": "MUDANÇA",
@@ -358,6 +368,16 @@
       "de": "TPS1 - PETROBRAS PS1",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 16:00",
+      "imo": "8916229",
+      "navio": "FRIO MARATHON",
+      "tipo": "SAÍDA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "-",
+      "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
     },
     {
       "porto": "Rio de Janeiro",
