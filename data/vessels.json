@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:39:14.544Z",
+  "updatedAt": "2026-11-27T23:40:28.251Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -688,6 +688,16 @@
       "de": "-",
       "para": "ESCD - ESTALEIRO CODEPE",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/11/2026 21:00",
+      "imo": "9239446",
+      "navio": "SKANDI CARLA",
+      "tipo": "MUDANÇA",
+      "de": "ESBA - ESTALEIRO BASE A. CASTRO E SILVA",
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "SMART OFFSHORE AGÊNCIA MARÍTIMA DO BRASIL LTDA"
     },
     {
       "porto": "Itaguaí",
