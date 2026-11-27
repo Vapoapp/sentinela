@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T00:51:14.584Z",
+  "updatedAt": "2026-11-27T00:52:18.758Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 66
+      "count": 67
     },
     "niteroi": {
       "ok": true,
@@ -666,6 +666,16 @@
       "navio": "MERSEY",
       "tipo": "SAÍDA",
       "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 17:00",
+      "imo": "1031783",
+      "navio": "BURAN",
+      "tipo": "SAÍDA",
+      "de": "TPS2 - PETROBRAS PS2",
       "para": "-",
       "agente": "GAC DO BRASIL LTDA."
     },
