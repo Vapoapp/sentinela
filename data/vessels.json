@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T15:06:16.268Z",
+  "updatedAt": "2026-11-27T15:07:15.787Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 46
+      "count": 47
     },
     "niteroi": {
       "ok": true,
@@ -408,6 +408,16 @@
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
       "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 20:30",
+      "imo": "9309215",
+      "navio": "SAN ANDRES IV",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - WPT 82 - 2F08",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
