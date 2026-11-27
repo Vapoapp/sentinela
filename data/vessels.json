@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T09:18:20.900Z",
+  "updatedAt": "2026-11-27T09:19:20.397Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 27
+      "count": 28
     },
     "niteroi": {
       "ok": true,
@@ -132,16 +132,6 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 06:00",
-      "imo": "9530187",
-      "navio": "SANTOS SCOUT",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPBL - BRICLOG",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 06:00",
       "imo": "1016692",
       "navio": "MSC ADELE",
       "tipo": "SAÍDA",
@@ -161,6 +151,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 06:00",
+      "imo": "9530187",
+      "navio": "SANTOS SCOUT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPBL - BRICLOG",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 06:30",
       "imo": "9796262",
       "navio": "VIKING JUPITER",
@@ -168,6 +168,16 @@
       "de": "-",
       "para": "2N04 - Armazém 4 e 5",
       "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 06:30",
+      "imo": "9659567",
+      "navio": "BARU ÁTRIA",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
