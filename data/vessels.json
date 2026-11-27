@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:20:23.971Z",
+  "updatedAt": "2026-11-27T12:21:17.630Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -321,6 +321,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 18:30",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 19:30",
       "imo": "9437919",
       "navio": "GRANDE GUINEA",
@@ -328,16 +338,6 @@
       "de": "2R12 - TECON 4 - MCAR",
       "para": "-",
       "agente": "LACHMANN AGÊNCIA MARÍTIMA LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 21:30",
-      "imo": "9351799",
-      "navio": "LOG-IN PANTANAL (REB)",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2C11 - TECON - ICTSI 1",
-      "agente": "MSC MEDITERRANEAN"
     },
     {
       "porto": "Rio de Janeiro",
