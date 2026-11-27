@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T11:16:15.648Z",
+  "updatedAt": "2026-11-27T11:17:15.696Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 30
+      "count": 34
     },
     "niteroi": {
       "ok": true,
@@ -162,6 +162,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 06:30",
+      "imo": "9796262",
+      "navio": "VIKING JUPITER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 06:30",
       "imo": "9806495",
       "navio": "STARNAV CIRCINUS",
       "tipo": "MUDANÇA",
@@ -178,16 +188,6 @@
       "de": "-",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 06:30",
-      "imo": "9796262",
-      "navio": "VIKING JUPITER",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "2N04 - Armazém 4 e 5",
-      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -248,6 +248,16 @@
       "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
       "agente": "COMPANHIA BRASILEIRA DE OFFSHORE - CBO"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 09:00",
+      "imo": "9799082",
+      "navio": "STARNAV HYDRA",
+      "tipo": "SAÍDA",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "para": "-",
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -317,6 +327,36 @@
       "tipo": "ENTRADA",
       "de": "-",
       "para": "2C11 - TECON - ICTSI 1",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 08:00",
+      "imo": "1031197",
+      "navio": "MSC LETICIA X",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 10:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "MUDANÇA",
+      "de": "2C11 - TECON - ICTSI 1",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 18:00",
+      "imo": "9351799",
+      "navio": "LOG-IN PANTANAL (REB)",
+      "tipo": "SAÍDA",
+      "de": "2C21 - TECON 3 - MRIO",
+      "para": "-",
       "agente": "MSC MEDITERRANEAN"
     },
     {
