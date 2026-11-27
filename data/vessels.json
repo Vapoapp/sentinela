@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:10:25.477Z",
+  "updatedAt": "2026-11-27T14:11:17.396Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 3
+      "count": 4
     },
     "itaguai": {
       "ok": true,
@@ -508,6 +508,16 @@
       "de": "Fundeio - 2F6A - LARGO",
       "para": "-",
       "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/11/2026 18:00",
+      "imo": "3840167159",
+      "navio": "OCEAN ROUTE",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESCD - ESTALEIRO CODEPE",
+      "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
     },
     {
       "porto": "Itaguaí",
