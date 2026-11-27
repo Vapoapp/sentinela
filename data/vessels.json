@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T07:29:17.122Z",
+  "updatedAt": "2026-11-27T07:30:25.384Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 22
+      "count": 23
     },
     "niteroi": {
       "ok": true,
@@ -142,6 +142,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 06:00",
+      "imo": "9530175",
+      "navio": "SANTOS SUPPORTER",
+      "tipo": "MUDANÇA",
+      "de": "2PAL - Terminal Petrobras AL",
+      "para": "2PAL - Terminal Petrobras AL",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 06:00",
       "imo": "1016692",
       "navio": "MSC ADELE",
       "tipo": "SAÍDA",
@@ -151,13 +161,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 06:00",
-      "imo": "9530175",
-      "navio": "SANTOS SUPPORTER",
-      "tipo": "MUDANÇA",
-      "de": "2PAL - Terminal Petrobras AL",
-      "para": "2PAL - Terminal Petrobras AL",
-      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
+      "inicio": "27/11/2026 06:30",
+      "imo": "9796262",
+      "navio": "VIKING JUPITER",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2N04 - Armazém 4 e 5",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
     },
     {
       "porto": "Rio de Janeiro",
