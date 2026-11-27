@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:42:18.168Z",
+  "updatedAt": "2026-11-27T23:43:18.015Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 5
+      "count": 6
     },
     "itaguai": {
       "ok": true,
@@ -698,6 +698,16 @@
       "de": "-",
       "para": "ESCD - ESTALEIRO CODEPE",
       "agente": "INTEREXPRESS SERVIÇOS ADUANEIRO EIRELI"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "27/11/2026 20:00",
+      "imo": "9442055",
+      "navio": "TALHA-MAR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "4102 - TERMINAL NITSHORE - NITSHORE ENGENHARIA E SERVIÇOS PORTUÁRIOS S.A.",
+      "agente": "TIDEWATER DO BRASIL S.A."
     },
     {
       "porto": "Niterói",
