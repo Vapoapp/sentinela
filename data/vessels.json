@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:33:15.122Z",
+  "updatedAt": "2026-11-27T11:34:20.311Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -441,16 +441,6 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "27/11/2026 16:00",
-      "imo": "9951965",
-      "navio": "BERGE HUALALAI",
-      "tipo": "SAÍDA",
-      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
-      "para": "-",
-      "agente": "GEM SHIPPING LTDA"
-    },
-    {
-      "porto": "Itaguaí",
       "inicio": "27/11/2026 19:00",
       "imo": "9699634",
       "navio": "LYDIA OLDENDORFF",
@@ -458,6 +448,16 @@
       "de": "-",
       "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
       "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "27/11/2026 19:00",
+      "imo": "9951965",
+      "navio": "BERGE HUALALAI",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "GEM SHIPPING LTDA"
     }
   ]
 }
