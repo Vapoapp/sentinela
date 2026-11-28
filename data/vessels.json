@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T00:12:14.688Z",
+  "updatedAt": "2026-11-28T00:13:15.257Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 72
+      "count": 73
     },
     "niteroi": {
       "ok": true,
@@ -532,22 +532,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "27/11/2026 18:30",
-      "imo": "9865752",
-      "navio": "MERSEY",
-      "tipo": "SAÍDA",
-      "de": "TPS1 - PETROBRAS PS1",
-      "para": "-",
-      "agente": "GAC DO BRASIL LTDA."
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "27/11/2026 18:30",
       "imo": "9573256",
       "navio": "BATUÍRA",
       "tipo": "SAÍDA",
       "de": "NIT - ATRACADO NITERÓI",
       "para": "-",
       "agente": "ROCHAMAR AGÊNCIA MARÍTIMA S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 18:30",
+      "imo": "9865752",
+      "navio": "MERSEY",
+      "tipo": "SAÍDA",
+      "de": "TPS1 - PETROBRAS PS1",
+      "para": "-",
+      "agente": "GAC DO BRASIL LTDA."
     },
     {
       "porto": "Rio de Janeiro",
@@ -628,6 +628,16 @@
       "de": "-",
       "para": "ESCM - ESTALEIRO CAMORIM",
       "agente": "SAM OFFSHORE ACU SERVIÇOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 03:00",
+      "imo": "9627629",
+      "navio": "CBO ARPOADOR",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "ESEN - ESTALEIRO ENAVE / RENAVE",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
