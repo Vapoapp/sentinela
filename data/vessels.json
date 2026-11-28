@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T18:04:15.786Z",
+  "updatedAt": "2026-11-28T18:05:21.522Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -11,7 +11,7 @@
     },
     "itaguai": {
       "ok": true,
-      "count": 8
+      "count": 13
     },
     "angra": {
       "ok": true,
@@ -608,6 +608,56 @@
       "de": "Fundeio - 5FA2 - Área de Fundeio A2",
       "para": "102 - TECAR - CSN MINERAÇÃO S.A.",
       "agente": "THP SHIPPING AND LOGISTICS LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "28/11/2026 20:00",
+      "imo": "9552410",
+      "navio": "CAPE AMANDA",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/11/2026 06:30",
+      "imo": "9717694",
+      "navio": "ARGONAUT",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "LBH BRASIL AGENCIAMENTO MARITIMO LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/11/2026 14:30",
+      "imo": "9699634",
+      "navio": "LYDIA OLDENDORFF",
+      "tipo": "SAÍDA",
+      "de": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "para": "-",
+      "agente": "L.M.A. SHIPPING  CONSULTING"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/11/2026 17:30",
+      "imo": "9508392",
+      "navio": "STAR DRAGON",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPPS - PORTO SUDESTE - PORTO SUDESTE DO BRASIL S.A.",
+      "agente": "WILHELMSEN PORT SERVICES BRASIL LTDA"
+    },
+    {
+      "porto": "Itaguaí",
+      "inicio": "29/11/2026 19:30",
+      "imo": "9976070",
+      "navio": "GREEN RAUMA",
+      "tipo": "SAÍDA",
+      "de": "303 - TECON - SEPETIBA TECON S.A.",
+      "para": "-",
+      "agente": "ISS MARINE SERVICES LTDA"
     }
   ]
 }
