@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T11:51:16.522Z",
+  "updatedAt": "2026-11-28T11:52:16.139Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 34
+      "count": 35
     },
     "niteroi": {
       "ok": true,
@@ -92,22 +92,12 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/11/2026 05:00",
-      "imo": "9323522",
-      "navio": "HMM JAKARTA",
+      "imo": "9759496",
+      "navio": "STARNAV VOLANS",
       "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
+      "de": "2TS1 - Terminal Siderúrgico parte 1",
       "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/11/2026 05:00",
-      "imo": "9529700",
-      "navio": "POSIDONIA TIGER (REB)",
-      "tipo": "MUDANÇA",
-      "de": "Fundeio - 2F06 - LARGO OESTE",
-      "para": "2TS1 - Terminal Siderúrgico parte 1",
-      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -122,12 +112,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/11/2026 05:00",
-      "imo": "9759496",
-      "navio": "STARNAV VOLANS",
+      "imo": "9529700",
+      "navio": "POSIDONIA TIGER (REB)",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2TS1 - Terminal Siderúrgico parte 1",
+      "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 05:00",
+      "imo": "9323522",
+      "navio": "HMM JAKARTA",
       "tipo": "SAÍDA",
-      "de": "2TS1 - Terminal Siderúrgico parte 1",
+      "de": "2C22 - TECON 2 - MRIO",
       "para": "-",
-      "agente": "STARNAV SERVIÇOS MARITIMOS LTDA"
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -172,6 +172,16 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/11/2026 08:00",
+      "imo": "1031197",
+      "navio": "MSC LETICIA X",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "2C21 - TECON 3 - MRIO",
+      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 08:00",
       "imo": "9659579",
       "navio": "BARU MUCURA",
       "tipo": "SAÍDA",
@@ -181,13 +191,13 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/11/2026 08:00",
-      "imo": "1031197",
-      "navio": "MSC LETICIA X",
+      "inicio": "28/11/2026 10:00",
+      "imo": "9644213",
+      "navio": "BRAM BUZIOS",
       "tipo": "ENTRADA",
       "de": "-",
-      "para": "2C21 - TECON 3 - MRIO",
-      "agente": "MSC MEDITERRANEAN SHIPPING BRASIL LTDA"
+      "para": "Fundeio - 2F6A - LARGO",
+      "agente": "BRAM OFFSHORE TRANSPORTES MARÍTIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
@@ -201,9 +211,9 @@
     },
     {
       "porto": "Rio de Janeiro",
-      "inicio": "28/11/2026 10:00",
-      "imo": "9644213",
-      "navio": "BRAM BUZIOS",
+      "inicio": "28/11/2026 11:00",
+      "imo": "9703631",
+      "navio": "BRAM TITAN",
       "tipo": "ENTRADA",
       "de": "-",
       "para": "Fundeio - 2F6A - LARGO",
