@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T01:07:21.435Z",
+  "updatedAt": "2026-11-28T01:08:17.093Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 76
+      "count": 77
     },
     "niteroi": {
       "ok": true,
@@ -621,6 +621,16 @@
     },
     {
       "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 23:30",
+      "imo": "9440679",
+      "navio": "PETREL",
+      "tipo": "MUDANÇA",
+      "de": "Fundeio - 2F06 - LARGO OESTE",
+      "para": "2P19 - Terminal Petrobrás SC",
+      "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
       "inicio": "28/11/2026 02:00",
       "imo": "9762144",
       "navio": "C SALVADOR",
@@ -672,22 +682,22 @@
     {
       "porto": "Rio de Janeiro",
       "inicio": "28/11/2026 05:00",
-      "imo": "9323522",
-      "navio": "HMM JAKARTA",
-      "tipo": "SAÍDA",
-      "de": "2C22 - TECON 2 - MRIO",
-      "para": "-",
-      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
-    },
-    {
-      "porto": "Rio de Janeiro",
-      "inicio": "28/11/2026 05:00",
       "imo": "9529700",
       "navio": "POSIDONIA TIGER (REB)",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 2F06 - LARGO OESTE",
       "para": "2TS1 - Terminal Siderúrgico parte 1",
       "agente": "HOSKEN SERVICOS MARITIMOS LTDA"
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "28/11/2026 05:00",
+      "imo": "9323522",
+      "navio": "HMM JAKARTA",
+      "tipo": "SAÍDA",
+      "de": "2C22 - TECON 2 - MRIO",
+      "para": "-",
+      "agente": "UNIMAR AGENCIAMENTOS MARITIMOS LTDA"
     },
     {
       "porto": "Rio de Janeiro",
