@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T01:31:16.052Z",
+  "updatedAt": "2026-11-28T01:32:17.175Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -7,7 +7,7 @@
     },
     "niteroi": {
       "ok": true,
-      "count": 8
+      "count": 9
     },
     "itaguai": {
       "ok": true,
@@ -868,6 +868,16 @@
       "de": "ESMC - MacLaren Ponta da Areia",
       "para": "Fundeio - 2F06 - LARGO OESTE",
       "agente": "WILSON SONS SHIPPING SERVICES LTDA"
+    },
+    {
+      "porto": "Niterói",
+      "inicio": "28/11/2026 09:00",
+      "imo": "9385398",
+      "navio": "A.H. CAMOGLI (REB)",
+      "tipo": "SAÍDA",
+      "de": "Fundeio - 2F6A - LARGO",
+      "para": "-",
+      "agente": "CBO SERVIÇOS MARÍTIMOS LTDA"
     },
     {
       "porto": "Itaguaí",
