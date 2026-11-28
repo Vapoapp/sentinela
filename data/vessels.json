@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T00:00:29.383Z",
+  "updatedAt": "2026-11-28T00:01:16.835Z",
   "portos": {
     "rio": {
       "ok": true,
-      "count": 68
+      "count": 69
     },
     "niteroi": {
       "ok": true,
@@ -548,6 +548,16 @@
       "de": "2P19 - Terminal Petrobrás SC",
       "para": "NIT - ATRACADO NITERÓI",
       "agente": "TIDEWATER DO BRASIL S.A."
+    },
+    {
+      "porto": "Rio de Janeiro",
+      "inicio": "27/11/2026 20:00",
+      "imo": "9659634",
+      "navio": "BARU TESORO",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "Fundeio - 2F06 - LARGO OESTE",
+      "agente": "SABAHMAR SERVIÇOS MARÍTIMOS LTDA - ME"
     },
     {
       "porto": "Rio de Janeiro",
