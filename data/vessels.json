@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:49:15.819Z",
+  "updatedAt": "2026-11-28T03:50:22.073Z",
   "portos": {
     "rio": {
       "ok": true,
@@ -241,6 +241,16 @@
     },
     {
       "porto": "Itaguaí",
+      "inicio": "28/11/2026 04:00",
+      "imo": "9911733",
+      "navio": "NEW WAVELET",
+      "tipo": "ENTRADA",
+      "de": "-",
+      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
+      "agente": "GEM SHIPPING LTDA"
+    },
+    {
+      "porto": "Itaguaí",
       "inicio": "28/11/2026 06:30",
       "imo": "9602875",
       "navio": "SEBASTIÃO CABOTO",
@@ -251,23 +261,13 @@
     },
     {
       "porto": "Itaguaí",
-      "inicio": "28/11/2026 07:30",
+      "inicio": "28/11/2026 08:00",
       "imo": "9976070",
       "navio": "GREEN RAUMA",
       "tipo": "MUDANÇA",
       "de": "Fundeio - 5FA1 - Área de Fundeio A1",
       "para": "303 - TECON - SEPETIBA TECON S.A.",
       "agente": "ISS MARINE SERVICES LTDA"
-    },
-    {
-      "porto": "Itaguaí",
-      "inicio": "28/11/2026 08:00",
-      "imo": "9911733",
-      "navio": "NEW WAVELET",
-      "tipo": "ENTRADA",
-      "de": "-",
-      "para": "TPTE - TERNIUM - THYSSENKRUPP CSA SIDERURGICA DO ATLANTICO",
-      "agente": "GEM SHIPPING LTDA"
     },
     {
       "porto": "Itaguaí",
